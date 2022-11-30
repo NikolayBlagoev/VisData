@@ -8,7 +8,7 @@ dt = []
 max = -1
 total_genres = dict()
 total_tags = dict()
-batch = 32
+batch = 5000
 # Take only games:
 for field in raw:
     entry = raw[field]
