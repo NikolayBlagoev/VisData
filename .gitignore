@@ -106,3 +106,10 @@ dist
 # output folder
 build/
 datasets/steam_games.json
+
+# IDE/text editor files
+/.vscode
+
+# Python files (cache, venv, etc)
+/__pycache__
+/venv
