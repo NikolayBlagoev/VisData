@@ -1,9 +1,10 @@
 import json
+import time
 import requests
 from tqdm import trange
 
 BATCHES = 2 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
-COLD_START = 2000 # First index to start requests from
+COLD_START = 20000 # First index to start requests from
 PROCESS_COUNT = 1000 # How many games to make requests for per batch
 
 if __name__ == "__main__":
@@ -33,4 +34,5 @@ if __name__ == "__main__":
             data.append(entry)
 
         with open(f"tmp_{start}-{start + (PROCESS_COUNT - 1)}.json", "w") as output_file:
-            json.dump(data, output_file, indent=2)       
+            json.dump(data, output_file, indent=2)  
+            time.sleep(600)     
