@@ -69,7 +69,7 @@ export class BarComponent implements OnInit {
     // Draw the X-axis on the DOM
     this.svg.append("g")
     .attr("transform", "translate(0," + this.height + ")")
-    .call(d3.axisBottom(x))
+    .call(d3.axisBottom(x).ticks(10))
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
     .style("text-anchor", "end").attr("font-weight", d =>{
@@ -131,7 +131,7 @@ export class BarComponent implements OnInit {
       if(genres.includes(d.Genre)){
         d3.select(e.target).attr("fill", "#001f80");
       }else{
-      d3.select(e.target).attr("fill", "#859ec7");
+        d3.select(e.target).attr("fill", "#859ec7");
           
       }
       
