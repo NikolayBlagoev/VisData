@@ -7,6 +7,7 @@ import { BarComponent } from './bar/bar.component';
 import { RadarComponent } from './radar/radar.component';
 import { PieComponent } from './pie/pie.component';
 import {ReactiveFormsModule} from "@angular/forms";
+import { TooltipComponent } from './tooltip/tooltip.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import {ReactiveFormsModule} from "@angular/forms";
     AppComponent,
     BarComponent,
     RadarComponent,
-    PieComponent
+    PieComponent,
+    TooltipComponent
   ],
   imports: [
     BrowserModule,

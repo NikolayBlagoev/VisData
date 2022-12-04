@@ -7,7 +7,7 @@ import * as d3 from 'd3';
   styleUrls: ['./bar.component.sass']
 })
 export class BarComponent implements OnInit {
-  
+
   private data = [
    {"Genre" :  "Action" , "Count" : 23759},
    {"Genre" : "Adventure", "Count" : 21431},
@@ -43,7 +43,7 @@ export class BarComponent implements OnInit {
   private margin = 80;
   private width = 1200 - (this.margin * 2);
   private height = 600 - (this.margin * 4);
-  
+
   ngOnInit(): void {
     this.createSvg();
     this.drawBars(this.data, ["Indie", "Strategy"]);
@@ -73,7 +73,7 @@ export class BarComponent implements OnInit {
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
     .style("text-anchor", "end").attr("font-weight", d =>{
-     
+
       if(genres.includes(d)){
         return "bold";
       }else{
@@ -81,7 +81,7 @@ export class BarComponent implements OnInit {
       }
     });
 
-    
+
     // Create the Y-axis band scale
     const y = d3.scaleLinear()
     .domain([0, max_el])
@@ -132,10 +132,10 @@ export class BarComponent implements OnInit {
         d3.select(e.target).attr("fill", "#001f80");
       }else{
         d3.select(e.target).attr("fill", "#859ec7");
-          
+
       }
-      
+
     });
-    
+
   }
 }

@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
 import { PieArcDatum } from 'd3';
 import { PieData } from './pieData';
+import { TooltipComponent } from "../tooltip/tooltip.component";
+import {getTooltip} from "../tooltip/tooltipUtil";
 
 @Component({
   selector: 'app-pie',
@@ -78,17 +80,21 @@ export class PieComponent implements OnInit {
         return `translate(${translation})`;
       });
 
-    arcs.append("title")
-      .text((d) => d.data.name);
+    const tooltip = new TooltipComponent();
 
     arcs
       .on("mouseenter", function (event, d) {
+        tooltip.setVisible();
+        tooltip.setText(d.data.name);
+
         d3.select(this)
           .transition()
           .duration(150)
           .attr("transform", `translate(${path.centroid(d).map(x => x / 4)})`);
       })
       .on("mouseleave", function () {
+        tooltip.setInvisible();
+
         d3.select(this)
           .transition()
           .duration(100)
