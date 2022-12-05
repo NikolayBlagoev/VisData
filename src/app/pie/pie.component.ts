@@ -3,7 +3,6 @@ import * as d3 from 'd3';
 import { PieArcDatum } from 'd3';
 import { PieData } from './pieData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
-import {getTooltip} from "../tooltip/tooltipUtil";
 
 @Component({
   selector: 'app-pie',
