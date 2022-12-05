@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
 import {BoxData, ExampleData, ExampleLabels} from './boxData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
-import { lab, text } from 'd3';
 
 @Component({
     selector: 'app-box',
@@ -35,6 +34,7 @@ export class BoxComponent implements OnInit {
         // TODO: Remove hardcoded values
         this.drawBoxes(ExampleData);
         this.drawPoint('ur', 278);
+        this.drawPoint('my', 395);
     }
 
     private createSvg(): void {
@@ -52,14 +52,14 @@ export class BoxComponent implements OnInit {
         .range(this.x_scale_range);
         this.y_scale = d3.scaleBand()
         .domain(ExampleLabels)
-        .range([0, this.width])
-        .paddingOuter(.5);
+        .range([0, this.height])
+        .paddingOuter(0.5);
     }
 
     private drawBoxes(data: Array<BoxData>): void {
         // Show the main horizontal line
         this.svg
-        .selectAll("horizonatalLines")
+        .selectAll("horizontalLines")
         .data(data)
         .enter()
         .append("line")
