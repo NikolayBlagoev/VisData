@@ -27,7 +27,7 @@ export class LineComponent implements OnInit {
     .attr("height", this.h + (this.margin * 2) )
     .append("g")
     .style("user-select","none").attr("transform",
-    "translate(" + this.margin + "," + this.margin + ")");;
+    "translate(" + this.margin + "," + this.margin + ")");
   }
 
   private drawLine(data: any[], likes: number): void {
@@ -36,7 +36,7 @@ export class LineComponent implements OnInit {
     data = data.map((el)=>{ likes = likes + el.recommendations_up - el.recommendations_down; return {
       "date": new Date(el.date*1000),
       "likes": likes
-    } });
+    }; });
     // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
@@ -64,22 +64,22 @@ export class LineComponent implements OnInit {
       .attr("stroke", "steelblue")
       .attr("stroke-width", 1.5)
       .attr("d", d3.line<any>()
-      .x(function(d) { return x(d.date) })
-      .y(function(d) { return y(d.likes) })
-      )
-    var focus = this.svg
+      .x(function(d) { return x(d.date); })
+      .y(function(d) { return y(d.likes); })
+      );
+    const focus = this.svg
       .append('g')
       .append('circle')
         .style("fill", "none")
         .attr("stroke", "black")
         .attr('r', 8.5)
-        .style("opacity", 0)
-    var focusText = this.svg
+        .style("opacity", 0);
+    const focusText = this.svg
       .append('g')
       .append('text')
         .style("opacity", 0)
         .attr("text-anchor", "left")
-        .attr("alignment-baseline", "middle")
+        .attr("alignment-baseline", "middle");
     
     
     this.svg
@@ -91,12 +91,12 @@ export class LineComponent implements OnInit {
       // .on('mouseover', () => return)
       .on('mousemove', (e) => {
         // recover coordinate we need
-        var x0 = x.invert(e.layerX-1.5*this.margin);
+        const x0 = x.invert(e.layerX-1.5*this.margin);
         
-        var bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0} return d.date}).left;
-        var i =  bisect(data, x0);
+        const bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0;} return d.date;}).left;
+        const i =  bisect(data, x0);
        
-        var selectedData = data[i];
+        const selectedData = data[i];
         focus.style("opacity", 1);
         focusText.style("opacity", 1);
         focus.attr("cx", x(selectedData.date))
@@ -107,7 +107,7 @@ export class LineComponent implements OnInit {
       })
       .on('mouseout', () =>{
         focusText.style("opacity", 0);
-        focus.style("opacity", 0)
+        focus.style("opacity", 0);
       });
   }
   private dset = [
@@ -261,5 +261,5 @@ export class LineComponent implements OnInit {
       "recommendations_up": 22,
       "recommendations_down": 1
     }
-  ]
+  ];
 }
