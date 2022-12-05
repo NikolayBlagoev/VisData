@@ -23,7 +23,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 
 BATCHES = 2 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
-COLD_START = 0 # First index to start requests from
+COLD_START = 1000 # First index to start requests from
 PROCESS_COUNT = 1000 # How many games to make requests for per batch
 
 if __name__ == "__main__":
