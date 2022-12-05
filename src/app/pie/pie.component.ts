@@ -93,7 +93,7 @@ export class PieComponent implements OnInit {
           .attr("transform", `translate(${path.centroid(d).map(x => x / 4)})`);
       })
       .on("mouseleave", function () {
-        tooltip.setInvisible();
+        tooltip.setHidden();
 
         d3.select(this)
           .transition()

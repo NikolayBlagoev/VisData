@@ -15,21 +15,24 @@ export class TooltipComponent implements OnInit {
   ngOnInit(): void {
     document.onmousemove = (event) => {
       getTooltip()
-        .style("top", (event.clientY-10)+"px")
-        .style("left",(event.clientX+10)+"px");
+        .style("top", (event.clientY - 10) + "px")
+        .style("left",(event.clientX + 15) + "px");
     };
   }
 
   setVisible() {
     this.tooltip.style("visibility", "visible");
+    return this;
   }
 
-  setInvisible() {
+  setHidden() {
     this.tooltip.style("visibility", "hidden");
+    return this;
   }
 
   setText(text: string) {
     this.tooltip.text(text);
+    return this;
   }
 
 }

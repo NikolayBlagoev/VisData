@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
+import {TooltipComponent} from "../tooltip/tooltip.component";
 
 @Component({
   selector: 'app-bar',
@@ -90,17 +91,9 @@ export class BarComponent implements OnInit {
     // Draw the Y-axis on the DOM
     this.svg.append("g")
     .call(d3.axisLeft(y));
-    const tooltip = d3.select("body")
-        .append("div")
-        .attr("class","d3-tooltip")
-        .style("position", "absolute")
-        .style("z-index", "10")
-        .style("visibility", "hidden")
-        .style("padding", "15px")
-        .style("background", "rgba(0,0,0,0.6)")
-        .style("border-radius", "5px")
-        .style("color", "#fff")
-        .text("PLACEHOLDER");
+
+    const tooltip = new TooltipComponent();
+
     // Create and fill the bars
     this.svg.selectAll("bars")
     .data(data)
@@ -117,17 +110,16 @@ export class BarComponent implements OnInit {
         return "#859ec7";
       }
     }).on("mouseover", (e,d) =>{
-        tooltip.html(`Count: ${d.Count}`).style("visibility", "visible");
-        console.log(d);
+        tooltip
+          .setText(`Count: ${d.Count}`)
+          .setVisible();
+
+        // console.log(d);
         d3.select(e.target).attr("fill", "red");
       })
-    .on("mousemove", function(e){
-      tooltip
-            .style("top", (e.clientY-10)+"px")
-            .style("left",(e.clientX+10)+"px");
-    })
     .on("mouseout",  (e,d) =>{
-      tooltip.style("visibility", "hidden");
+      tooltip.setHidden();
+
       if(genres.includes(d.Genre)){
         d3.select(e.target).attr("fill", "#001f80");
       }else{
