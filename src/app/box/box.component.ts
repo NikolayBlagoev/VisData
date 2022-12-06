@@ -63,7 +63,7 @@ export class BoxComponent implements OnInit {
         .data(data)
         .enter()
         .append("line")
-            .attr("x1", (d) => {return this.x_scale(d.min)})
+            .attr("x1", (d) => {return this.x_scale(d.min);})
             .attr("x2", (d) => {return this.x_scale(d.max);})
             .attr("y1", (d) => {return this.y_scale(d.label);})
             .attr("y2", (d) => {return this.y_scale(d.label);})
@@ -106,7 +106,7 @@ export class BoxComponent implements OnInit {
         const selection = this.svg
         .selectAll("borderVisuals")
         .data(data)
-        .enter()
+        .enter();
         selection.append("rect") // Left border
             .attr("x", this.x_scale_range[0] + borderWidth)
             .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
@@ -138,7 +138,7 @@ export class BoxComponent implements OnInit {
         .append("text")
             .text((d) => {return d.label;})
             .attr("x", this.x_scale_range[0] - this.text_margin.left)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset})
+            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
     }
 
     private drawPoint(label: string, value: number): void {
