@@ -1,30 +1,24 @@
-import urllib.request
 from bs4 import BeautifulSoup
+from tqdm import trange
+import urllib.request
 import json
-
 import time
 import re  
 import json
 import time
-from tqdm import trange
+
+BASE_URL = "http://www.metacritic.com/game/pc/"
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
+BATCHES = 2 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
+COLD_START = 1000 # First index to start requests from
+PROCESS_COUNT = 1000 # How many games to make requests for per batch
+
 def create_url(inp: str) -> str :
     inp = inp.strip()
     inp = re.sub(" ","-",inp)
     inp = inp.lower()
     inp = re.sub("/[^a-z\d\?!\-]/","",inp)
     return inp
-
-base_url = "http://www.metacritic.com/game/pc/"
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-
-    
-
-
-
-
-BATCHES = 2 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
-COLD_START = 1000 # First index to start requests from
-PROCESS_COUNT = 1000 # How many games to make requests for per batch
 
 if __name__ == "__main__":
     with open("data_set.json") as fl:
@@ -38,11 +32,10 @@ if __name__ == "__main__":
                                desc=f"Fetching data for range [{start}-{start + (PROCESS_COUNT - 1)}]"):
             game = processed_data[game_idx]
             name = game["name"]
-
-            
-            metacritic = base_url+create_url(name)
+    
+            metacritic = BASE_URL + create_url(name)
             try:
-                page = urllib.request.Request(metacritic, headers=headers)
+                page = urllib.request.Request(metacritic, headers=HEADERS)
                 content = urllib.request.urlopen(page).read()
                 soup = BeautifulSoup(content, 'html.parser')
 
@@ -60,7 +53,7 @@ if __name__ == "__main__":
                 data_list.append(entry)
             except BaseException as e:
                 print()
-                print(f'ERROR {base_url+create_url(name)}')
+                print(f'ERROR {BASE_URL+create_url(name)}')
                 print(e)
                 entry = {
                     'Name' : name,
@@ -69,8 +62,6 @@ if __name__ == "__main__":
                 }
                 data_list.append(entry)
                 time.sleep(2)
-
-            
 
         with open(f"metareviews/tmp_{start}-{start + (PROCESS_COUNT - 1)}.json", "w") as output_file:
             json.dump(data_list, output_file, indent=2)  
