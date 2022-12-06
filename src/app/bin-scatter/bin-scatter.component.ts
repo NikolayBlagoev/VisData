@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
 import * as d3HexBin from 'd3-hexbin';
+import { TooltipComponent } from '../tooltip/tooltip.component';
 import { Point } from './binScatterData';
 import exampleData from "./example-data.json";
 
@@ -61,7 +62,7 @@ export class BinScatterComponent implements OnInit {
             .domain([0, d3.max(points, (d) => d.y) as number])
             .range([this.height, 0]);
 
-        // Create visual scales
+        // Draw axes
         this.svg
         .append("g")
             .attr("transform", `translate(${this.margin.left}, ${this.margin.top + this.height})`)
@@ -84,6 +85,8 @@ export class BinScatterComponent implements OnInit {
         .domain([0, d3.max(bins, d => d.length) as number])
         .interpolator(this.colourPalette);
 
+        const tooltip = new TooltipComponent();
+
         this.svg
         .selectAll("hexagons")
         .data(bins)
@@ -91,7 +94,18 @@ export class BinScatterComponent implements OnInit {
         .append("path")
             .attr("d", (d) => `M${d.x},${d.y}${this.hexBin.hexagon()}`)
             .attr("transform", `translate(${this.margin.left + this.hexBin.radius()}, ${this.margin.top - this.hexBin.radius()})`) // God in heaven, please forgive me
-            .attr("fill", (d) => this.densityScale(d.length));
+            .attr("fill", (d) => this.densityScale(d.length))
+            .on("mouseover", (event, d) => {
+                d3.select(event.target).attr("fill", "#22bb33");
+
+                tooltip.setText(d.length);
+                tooltip.setVisible();
+            })
+            .on("mouseout", (event, d) => {
+                d3.select(event.target).attr("fill", this.densityScale(d.length));
+
+                tooltip.setHidden();
+            });
     }
 
     private drawColourScale(): void {
