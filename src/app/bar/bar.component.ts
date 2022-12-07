@@ -57,10 +57,12 @@ export class BarComponent implements OnInit {
     .attr("height", this.height + (this.margin * 4))
     .append("g")
     .attr("transform", "translate(" + this.margin + "," + this.margin + ")").style("user-select","none");
-}
+  }
+
   private drawBars(data: any[], genres: any[]): void {
     data.sort((e1, e2) => e2.Count - e1.Count);
     const max_el = data.reduce((acc, e1) => acc = acc > e1.Count ? acc : e1.Count, -1000);
+
     // Create the X-axis band scale
     const x = d3.scaleBand()
     .range([0, this.width])
@@ -74,7 +76,6 @@ export class BarComponent implements OnInit {
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
     .style("text-anchor", "end").attr("font-weight", d =>{
-
       if(genres.includes(d)){
         return "bold";
       }else{

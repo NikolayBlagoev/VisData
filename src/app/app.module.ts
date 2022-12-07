@@ -9,16 +9,19 @@ import { PieComponent } from './pie/pie.component';
 import {ReactiveFormsModule} from "@angular/forms";
 import { TooltipComponent } from './tooltip/tooltip.component';
 import { ScrollListComponent } from './scroll-list/scroll-list.component';
-
+import { LineComponent } from './line/line.component';
+import { BoxComponent } from './box/box.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BarComponent,
+    BoxComponent,
     RadarComponent,
     PieComponent,
     TooltipComponent,
-    ScrollListComponent
+    ScrollListComponent,
+    LineComponent
   ],
   imports: [
     BrowserModule,
