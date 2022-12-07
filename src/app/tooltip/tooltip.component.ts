@@ -15,8 +15,8 @@ export class TooltipComponent implements OnInit {
     document.onmousemove = (event) => {
 
       getTooltip()
-        .style("top", (event.clientY - 10) + "px")
-        .style("left",(event.clientX + 15) + "px");
+        .style("top", (event.pageY- 10) + "px")
+        .style("left",(event.pageX + 15) + "px");
     };
 
   }
