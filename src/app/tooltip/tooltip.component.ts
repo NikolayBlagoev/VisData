@@ -14,7 +14,7 @@ export class TooltipComponent implements OnInit {
   ngOnInit(): void {
     document.onmousemove = (event) => {
       getTooltip()
-        .style("top", (event.clientY + 25) + "px")
+        .style("top", (event.clientY - 10) + "px")
         .style("left",(event.clientX + 15) + "px");
     };
   }

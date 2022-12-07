@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import {AfterViewInit, Component, Input, OnInit} from '@angular/core';
 import * as d3 from 'd3';
-import { PieArcDatum } from 'd3';
+import {PieArcDatum, select} from 'd3';
 import { PieData } from './pieData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
+import {IdService} from "../id.service";
 
 @Component({
   selector: 'app-pie',
@@ -10,28 +11,39 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
   styleUrls: ['./pie.component.sass']
 })
 
-export class PieComponent implements OnInit {
+export class PieComponent implements AfterViewInit {
 
-  ngOnInit(): void {
+  @Input() data: PieData[] | undefined;
+
+  public id: string;
+
+  constructor(private idService: IdService) {
+    this.id = idService.generateId();
+  }
+
+  ngAfterViewInit(): void {
+
     // const data: PieData[] = [
     //   {name: "Positive", ratio: 0.76},
     //   {name: "Negative", ratio: 0.24}
     // ];
 
-    const data: PieData[] = [
-      {name: "Alex", ratio: 4534},
-      {name: "Shelly", ratio: 7985},
-      {name: "Clark", ratio: 500},
-      {name: "Matt", ratio: 4321},
-      {name: "Jolene", ratio: 500}
-    ];
+    if (this.data == undefined) {
+      this.data = [
+        {name: "Alex", ratio: 4534},
+        {name: "Shelly", ratio: 7985},
+        {name: "Clark", ratio: 500},
+        {name: "Matt", ratio: 4321},
+        {name: "Jolene", ratio: 500}
+      ];
+    }
 
     let sum = 0;
-    for (const datum of data) {
+    for (const datum of this.data) {
       sum += datum.ratio;
     }
 
-    data.map((x) => {
+    this.data.map((x) => {
       let newRatio = x.ratio / sum;
       newRatio = parseFloat((newRatio * 100).toFixed(1));
       x.ratio = newRatio;
@@ -39,10 +51,10 @@ export class PieComponent implements OnInit {
     });
 
     const color = d3.scaleOrdinal()
-      .domain((d3.extent(data, (d) => d.name) as unknown) as string)
+      .domain((d3.extent(this.data, (d) => d.name) as unknown) as string)
       .range(d3.schemeCategory10);
 
-    const svg = d3.select("svg#pie");
+    const svg = d3.select("svg." + this.id);
 
     const arcGroup = svg.append("g")
       .attr("transform", "translate(150,200)");
@@ -56,7 +68,7 @@ export class PieComponent implements OnInit {
       .outerRadius(85);
 
     const arcs = arcGroup.selectAll("arc")
-      .data(pie(data))
+      .data(pie(this.data))
       .enter()
 
       .append("g")
@@ -104,7 +116,7 @@ export class PieComponent implements OnInit {
       .attr("transform", "translate(200,20)");
 
     legendGroup.selectAll("labelSquare")
-      .data(data)
+      .data(this.data)
       .enter()
 
       .append("rect")
@@ -114,7 +126,7 @@ export class PieComponent implements OnInit {
       .attr("fill", (d) => color(d.name) as string);
 
     legendGroup.selectAll("labelName")
-      .data(data)
+      .data(this.data)
       .enter()
 
       .append("text")
