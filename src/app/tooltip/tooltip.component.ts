@@ -10,15 +10,15 @@ import {getTooltip} from "./tooltipUtil";
 export class TooltipComponent implements OnInit {
 
   public tooltip = getTooltip();
- 
+
   ngOnInit(): void {
     document.onmousemove = (event) => {
-      
+
       getTooltip()
-        .style("top", (event.pageY + 25) + "px")
-        .style("left",(event.pageX + 15) + "px");
+        .style("top", (event.clientY - 10) + "px")
+        .style("left",(event.clientX + 15) + "px");
     };
-   
+
   }
 
   setVisible() {

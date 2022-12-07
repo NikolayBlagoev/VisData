@@ -31,7 +31,8 @@
             "style": "kebab-case"
           }
         ],
-        "semi": "warn"
+        "semi": "warn",
+        "@typescript-eslint/no-non-null-assertion": "off"
       }
     },
     {

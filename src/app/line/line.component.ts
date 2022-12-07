@@ -27,7 +27,7 @@ export class LineComponent implements OnInit {
     .attr("height", this.h + (this.margin * 2) )
     .append("g")
     .style("user-select","none").attr("transform",
-    "translate(" + this.margin + "," + this.margin + ")");;
+    "translate(" + this.margin + "," + this.margin + ")");
   }
 
   private drawLine(data: any[], likes: number): void {
@@ -36,7 +36,7 @@ export class LineComponent implements OnInit {
     data = data.map((el)=>{ likes = likes + el.recommendations_up - el.recommendations_down; return {
       "date": new Date(el.date*1000),
       "likes": likes
-    } });
+    }; });
     // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
@@ -270,5 +270,5 @@ export class LineComponent implements OnInit {
       "recommendations_up": 22,
       "recommendations_down": 1
     }
-  ]
+  ];
 }
