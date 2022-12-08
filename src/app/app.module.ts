@@ -12,6 +12,7 @@ import { TooltipComponent } from './tooltip/tooltip.component';
 import { ScrollListComponent } from './scroll-list/scroll-list.component';
 import { LineComponent } from './line/line.component';
 import { BoxComponent } from './box/box.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { BoxComponent } from './box/box.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
