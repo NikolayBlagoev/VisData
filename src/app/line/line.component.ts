@@ -64,23 +64,31 @@ export class LineComponent implements OnInit {
       .attr("stroke", "steelblue")
       .attr("stroke-width", 1.5)
       .attr("d", d3.line<any>()
-      .x(function(d) { return x(d.date); })
-      .y(function(d) { return y(d.likes); })
-      );
+      .x(function(d) { return x(d.date) })
+      .y(function(d) { return y(d.likes) })
+      )
     const focus = this.svg
       .append('g')
       .append('circle')
         .style("fill", "none")
         .attr("stroke", "black")
         .attr('r', 8.5)
-        .style("opacity", 0);
-    const focusText = this.svg
-      .append('g')
-      .append('text')
         .style("opacity", 0)
-        .attr("text-anchor", "left")
-        .attr("alignment-baseline", "middle");
     
+    const focusText = this.svg
+      .append('g').style("position", "absolute")
+      .style("z-index", "10")
+      .style("padding", "15px")
+      .style("background", "rgba(0,0,0,0.6)")
+      .style("border-radius", "5px")
+      .style("color", "#fff")
+      .append('text')
+      .style("opacity", 0)
+      .attr("text-anchor", "left")
+      .attr("alignment-baseline", "middle")
+    
+    
+    const tooltip = d3.select("#tooltip2");
     
     this.svg
       .append('rect')
@@ -91,21 +99,22 @@ export class LineComponent implements OnInit {
       // .on('mouseover', () => return)
       .on('mousemove', (e) => {
         // recover coordinate we need
-        const x0 = x.invert(e.layerX-1.5*this.margin);
+        let x0 = x.invert(e.layerX-1.5*this.margin);
         
-        const bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0;} return d.date;}).left;
-        const i =  bisect(data, x0);
+        let bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0} return d.date}).left;
+        let i =  bisect(data, x0);
        
-        const selectedData = data[i];
+        let selectedData = data[i];
         focus.style("opacity", 1);
         focusText.style("opacity", 1);
         focus.attr("cx", x(selectedData.date))
           .attr("cy", y(selectedData.likes));
         focusText.html("Likes: "+selectedData.likes).attr("x", x(selectedData.date)+15)
         .attr("y", y(selectedData.likes)-30);
-      
+       
       })
       .on('mouseout', () =>{
+        tooltip.style("visibility", "hidden");
         focusText.style("opacity", 0);
         focus.style("opacity", 0);
       });
