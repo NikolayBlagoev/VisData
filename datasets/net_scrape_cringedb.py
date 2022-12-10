@@ -73,6 +73,6 @@ if __name__ == "__main__":
             
             
 
-        with open(f"steamcharts/tmp_{start}-{start + (PROCESS_COUNT - 1)}.json", "w") as output_file:
+        with open(f"cringedb/tmp_{start}-{start + (PROCESS_COUNT - 1)}.json", "w") as output_file:
             json.dump(data_list, output_file, indent=2)  
             time.sleep(600)     
