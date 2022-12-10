@@ -9,9 +9,9 @@ import time
 
 BASE_URL = "http://www.metacritic.com/game/pc/"
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-BATCHES = 57 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
-COLD_START = 0 # First index to start requests from
-PROCESS_COUNT = 1000 # How many games to make requests for per batch
+BATCHES = 1 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
+COLD_START = 55000 # First index to start requests from
+PROCESS_COUNT = 690 # How many games to make requests for per batch
 
 def create_url(inp: str) -> str :
     inp = inp.strip()
