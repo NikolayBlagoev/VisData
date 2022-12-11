@@ -1,9 +1,15 @@
-<mat-toolbar color="primary" style="position: fixed; top: 0">
-  <span>Steam Monkey</span>
+<mat-toolbar color="primary" style="position: fixed; top: 0; height: 80px">
+  <span><h2>Steam Monkey</h2></span>
   <span class="spacer" style="flex: 1 1 auto"></span>
-  <img src="assets/icon.png" alt="Steam icon" style="height: 30px; width: 30px">
+  <form style="margin-top: 20px">
+    <mat-form-field>
+      <mat-label>Game name</mat-label>
+      <input matInput type="search">
+    </mat-form-field>
+  </form>
+  <img src="assets/icon.png" alt="Steam icon" style="height: 30px; width: 30px; margin-left: 30px;">
 </mat-toolbar>
-<div style="height: 64px"></div>
+<div style="height: 80px"></div>
 <div style="height: 2000px; width: 1000px; margin-top: 100px; margin-left: auto; margin-right: auto">
   <h3>Hello world!</h3>
   <button mat-raised-button color="accent" (click)="showPie()">Show pie</button>
