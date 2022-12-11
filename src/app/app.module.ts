@@ -13,6 +13,8 @@ import { ScrollListComponent } from './scroll-list/scroll-list.component';
 import { LineComponent } from './line/line.component';
 import { BoxComponent } from './box/box.component';
 
+import { DonutComponent } from './donut/donut.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,7 +25,8 @@ import { BoxComponent } from './box/box.component';
     PieComponent,
     TooltipComponent,
     ScrollListComponent,
-    LineComponent
+    LineComponent,
+    DonutComponent
   ],
   imports: [
     BrowserModule,
