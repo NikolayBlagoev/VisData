@@ -8,26 +8,8 @@ import re
 import json
 import time
 import random 
-from fp.fp import FreeProxy
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
-prox = FreeProxy(https=True).get()
-prox = "24"
-print(prox[:1])
-exit()
-fp=Options()
-fp.set_preference('network.proxy.type', 1)
-fp.set_preference('network.proxy.ssl',"154.85.55.174" )
-fp.set_preference('network.proxy.ssl_port', 3128)
 
-driver = webdriver.Firefox(options=fp)
-driver.set_page_load_timeout(10)
-driver.get("https://whatismyipaddress.com/")
 
-print(driver.page_source)
-exit()
 class PROXY():
     def __init__(self, ip, cookie) -> None:
         self.ip = ip
@@ -36,12 +18,12 @@ class PROXY():
 BASE_URL = "http://steamdb.info/app/"
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0',
 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-'Cookie': 'cf_clearance=WvRndt7ArTUyJguFR_ayykvGFEayOM2Fepyyxe6jxyQ-1670715909-0-250; cf_chl_2=cd20d71b0446097; __cf_bm=aZu9tJhE42Zh_uMPkvUpDaXVOP3HPfzW7fxRIDUt6oI-1670716691-0-Afzi5cm0hAZLn/YaNW9Eg8MDAMgfj4daY6OLvq8wBT0RF2n2R8crc08WfiQjyZMNYkDKP9Vj7I86QW0dBJxldAQ=',
+'Cookie': 'cf_clearance=CBigcXlTNQrQnX23_bTxmpg5cntaPjLluwDl4cMoZ.o-1670716698-0-160; cf_chl_2=1ad36c7eed82855',
 'Upgrade-Insecure-Requests': '1',
 'Connection':'keep-alive'}
 BATCHES = 28 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
 COLD_START = 0 # First index to start requests from
-PROCESS_COUNT = 1000 # How many games to make requests for per batch
+PROCESS_COUNT = 400 # How many games to make requests for per batch
 PROXIES = None
 def create_url(inp: str) -> str :
     inp = inp.strip()
@@ -90,9 +72,9 @@ def make_attempt(appid,data_list):
         print()
         print(f'ERROR {BASE_URL+str(appid)}')
         print(e)
-        # time.sleep(10)
-        PROXIES = FreeProxy(https=True).get()
-        print(PROXIES)
+        time.sleep(600)
+        # PROXIES = FreeProxy(https=True).get()
+        # print(PROXIES)
         return make_attempt(appid,data_list)
     
 if __name__ == "__main__":
