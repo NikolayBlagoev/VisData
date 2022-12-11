@@ -52,11 +52,11 @@ export class DonutComponent implements OnInit {
             .attr("stroke", "black")
             .style("stroke-width", "0px")
             .style("opacity", 0.7)
-    this.svg.attr("text-align", "right").append("text")
+    this.svg.append("text")
             .attr("x", this.w/2)
             .attr("y", this.h/2)
-            .attr("dy", "50px")
-            .attr("dx", "-140px")
+            .attr("text-anchor", "middle")
+            .attr("dominant-baseline", "central") 
             .attr("font-size", "130px")
             .text(data[0].data.val+"%");
            

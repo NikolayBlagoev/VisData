@@ -68,20 +68,20 @@ export class LineComponent implements OnInit {
       .y(function(d) { return y(d.likes) })
       )
     this.svg.selectAll("dot")
-      .data(data).enter()
-      .append("circle")
-      .attr("cx", function (d) { return x(d.date) } )
-      .attr("cy", function (d) { return y(d.likes) } )
-      .attr("r", 3)
-      .style("fill", "green")
+        .data(data).enter()
+        .append("circle")
+        .attr("cx", function (d) { return x(d.date) } )
+        .attr("cy", function (d) { return y(d.likes) } )
+        .attr("r", 3)
+        .style("fill", "green");
       
     const focus = this.svg
-      .append('g')
-      .append('circle')
+        .append('g')
+        .append('circle')
         .style("fill", "none")
         .attr("stroke", "black")
         .attr('r', 8.5)
-        .style("opacity", 0)
+        .style("opacity", 0);
     
     const focusText = this.svg
       .append('g').style("position", "absolute")
