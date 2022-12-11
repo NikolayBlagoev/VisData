@@ -1,18 +1,21 @@
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
+import {NgModule} from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
 
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
-import { BarComponent } from './bar/bar.component';
-import { BinScatterComponent } from './bin-scatter/bin-scatter.component';
-import { RadarComponent } from './radar/radar.component';
-import { PieComponent } from './pie/pie.component';
+import {AppRoutingModule} from './app-routing.module';
+import {AppComponent} from './app.component';
+import {BarComponent} from './bar/bar.component';
+import {BinScatterComponent} from './bin-scatter/bin-scatter.component';
+import {RadarComponent} from './radar/radar.component';
+import {PieComponent} from './pie/pie.component';
 import {ReactiveFormsModule} from "@angular/forms";
-import { TooltipComponent } from './tooltip/tooltip.component';
-import { ScrollListComponent } from './scroll-list/scroll-list.component';
-import { LineComponent } from './line/line.component';
-import { BoxComponent } from './box/box.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {TooltipComponent} from './tooltip/tooltip.component';
+import {ScrollListComponent} from './scroll-list/scroll-list.component';
+import {LineComponent} from './line/line.component';
+import {BoxComponent} from './box/box.component';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {MatButtonModule} from "@angular/material/button";
+import {MatToolbarModule} from "@angular/material/toolbar";
+import {MatIconModule} from "@angular/material/icon";
 
 @NgModule({
   declarations: [
@@ -30,9 +33,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatButtonModule,
+    MatToolbarModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+}

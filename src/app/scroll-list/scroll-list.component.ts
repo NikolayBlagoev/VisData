@@ -1,8 +1,7 @@
-import {Component, ComponentFactoryResolver, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 
 import {PieComponent} from "../pie/pie.component";
 import InfiniteScroll from "infinite-scroll";
-import {IdService} from "../id.service";
 
 @Component({
   selector: 'app-scroll-list',

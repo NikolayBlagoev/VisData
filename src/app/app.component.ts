@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import {Component, ViewChild, ViewContainerRef} from '@angular/core';
+import {PieComponent} from "./pie/pie.component";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'VisData';
+
+  @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
+
+  showPie() {
+    this.containerRef.createComponent(PieComponent);
+  }
 }
