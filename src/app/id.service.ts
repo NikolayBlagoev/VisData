@@ -5,24 +5,15 @@ import { Injectable } from '@angular/core';
 })
 export class IdService {
 
-  private ids: string[];
-  private letters = "abcdefghijklmnopqrstuvwxyz".split("");
+  private readonly idLength = 12;
 
-  constructor() {
-    this.ids = [];
-  }
+  private letters = "abcdefghijklmnopqrstuvwxyz".split("");
 
   generateId(): string {
     let id = "";
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < this.idLength; i++) {
       id += this.letters[Math.round(Math.random() * 10)];
     }
-
-    if (this.ids.includes(id)) {
-      return this.generateId();
-    } else {
-      this.ids.push(id);
-      return id;
-    }
+    return id;
   }
 }

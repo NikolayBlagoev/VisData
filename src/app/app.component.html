@@ -4,7 +4,12 @@
   <form style="margin-top: 20px">
     <mat-form-field>
       <mat-label>Game name</mat-label>
-      <input matInput type="search">
+      <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
+      <mat-autocomplete #auto="matAutocomplete">
+        <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+          {{option}}
+        </mat-option>
+      </mat-autocomplete>
     </mat-form-field>
   </form>
   <img src="assets/icon.png" alt="Steam icon" style="height: 30px; width: 30px; margin-left: 30px;">
