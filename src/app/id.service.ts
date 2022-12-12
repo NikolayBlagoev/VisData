@@ -12,7 +12,7 @@ export class IdService {
   generateId(): string {
     let id = "";
     for (let i = 0; i < this.idLength; i++) {
-      id += this.letters[Math.round(Math.random() * 10)];
+      id += this.letters[Math.round(Math.random() * 100) % 26];
     }
     return id;
   }
