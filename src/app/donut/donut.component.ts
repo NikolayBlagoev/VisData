@@ -29,9 +29,10 @@ export class DonutComponent implements OnInit {
   }
 
   private drawDonut(data: any[], radius: number): void {
+    // CAN BE USED TO MAKE THE COLOURS DIFFERENT!!
     const color = d3.scaleOrdinal()
                   .domain(data)
-                  .range(["green","red"])
+                  .range(["green","red"]);
     const pie = d3.pie()
       .value((d:any) => d.val);
     data = pie(data);
@@ -51,7 +52,7 @@ export class DonutComponent implements OnInit {
             .attr('fill', (d) => d.data.name == "not"? "red":"green" )
             .attr("stroke", "black")
             .style("stroke-width", "0px")
-            .style("opacity", 0.7)
+            .style("opacity", 0.7);
     this.svg.append("text")
             .attr("x", this.w/2)
             .attr("y", this.h/2)

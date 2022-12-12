@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
+import { TooltipComponent } from '../tooltip/tooltip.component';
 
 
 @Component({
@@ -37,26 +38,55 @@ export class RadarComponent implements OnInit {
                   .domain([0,10])
                   .range([0,200]);
 
-    [1,2.5, 5, 7.5, 10].forEach(t => this.svg.append("circle")
-                                  .attr("cx", 300)
-                                  .attr("cy", 300)
-                                  .attr("fill", "none")
-                                  .attr("stroke", "gray")
-                                  .attr("r", rscale(t))
-                                  .attr("stroke", "black")
-                                  .style("stroke-width", t%5==0? "3px":"1px"))
+    const angler = (angle, value, name, attr_value) =>{
+                    const x = Math.cos(angle) * rscale(value);
+                    const y = Math.sin(angle) * rscale(value);
+                    return {"x": 300 + x, "y": 300 - y, "name": name, "val": attr_value};
+    };
+    const shape_maker = (d) => {
+      const coordinates: any = [];
+      for(let i = 0; i < features.length; i++){
+        const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
+        coordinates.push(angler(angle,d[features[i]], features[i], d[features[i]]));
+      }
+      return coordinates;
+    };
+    const line = d3.line<any>()
+                   .x(d => d.x)
+                   .y(d => d.y);
+    [1,2.5, 5, 7.5, 10].forEach(t =>{ 
+                                  const coordinates: any = [];
+                                  for(let i = 0; i < features.length; i++){
+                                    const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
+                                    coordinates.push(angler(angle,t, features[i],0));
+                                  }
+                                  coordinates.push(coordinates[0]);
+                                    this.svg.append("path")
+                                    .datum(coordinates)
+                                    .attr("d",line)
+                                    .attr("stroke-width",  t%5==0? "3px":"1px")
+                                    .attr("stroke", "black")
+                                    .attr("fill", "none")
+                                    .attr("stroke-opacity", 1);
+
+                                    // this.svg.append("circle")
+                                    // .attr("cx", 300)
+                                    // .attr("cy", 300)
+                                    // .attr("fill", "none")
+                                    // .attr("stroke", "gray")
+                                    // .attr("r", rscale(t))
+                                    // .attr("stroke", "black")
+                                    // .style("stroke-width", t%5==0? "3px":"1px");
+                                  
+                                  });
     
-     const angler = (angle, value) =>{
-                        let x = Math.cos(angle) * rscale(value);
-                        let y = Math.sin(angle) * rscale(value);
-                        return {"x": 300 + x, "y": 300 - y};
-                      }
+     
       
-      for (var i = 0; i < features.length; i++) {
-        let ft_name = features[i];
-        let angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-        let line_coordinate = angler(angle, 10);
-        let label_coordinate = angler(angle, 10.5);
+      for (let i = 0; i < features.length; i++) {
+        const ft_name = features[i];
+        const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
+        const line_coordinate = angler(angle, 10, features[i],0);
+        const label_coordinate = angler(angle, 10.5, features[i],0);
     
         
         this.svg.append("line")
@@ -72,24 +102,15 @@ export class RadarComponent implements OnInit {
         .attr("text-anchor", i > (features.length/2)? "left" : "end")
         .text(ft_name);
     }
-    const line = d3.line<any>()
-                   .x(d => d.x)
-                   .y(d => d.y);
+    
     // a]
 
-    const shape_maker = (d) => {
-      const coordinates: any = [];
-      for(var i = 0; i < features.length; i++){
-        let angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-        coordinates.push(angler(angle,d[features[i]]));
-      }
-      return coordinates;
-    }
+    const tooltip = new TooltipComponent();
 
     data.forEach(d=>{
       
-      let color = "green";
-      let coordinates = shape_maker(d);
+      const color = "green";
+      const coordinates = shape_maker(d);
   
       this.svg.append("path")
         .datum(coordinates)
@@ -103,10 +124,18 @@ export class RadarComponent implements OnInit {
       this.svg.selectAll("dot")
         .data(coordinates).enter()
         .append("circle")
-        .attr("cx", function (d) { return d.x } )
-        .attr("cy", function (d) { return d.y } )
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y)
         .attr("r", 3)
-        .style("fill", "green");
+        .style("fill", "green")
+        .on("mouseover", (_,d) => {
+          
+          tooltip.setText(`${d.name}: ${d.val}`).setVisible();
+        })
+        .on("mouseout",  (_) =>{
+          tooltip.setHidden();
+          
+        });
     });
   
 

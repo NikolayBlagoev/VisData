@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
-import { TooltipComponent } from '../tooltip/tooltip.component';
-import { getTooltip } from '../tooltip/tooltipUtil';
+
 
 @Component({
   selector: 'app-line',
@@ -64,14 +63,14 @@ export class LineComponent implements OnInit {
       .attr("stroke", "green")
       .attr("stroke-width", 1.5)
       .attr("d", d3.line<any>()
-      .x(function(d) { return x(d.date) })
-      .y(function(d) { return y(d.likes) })
-      )
+      .x(function(d) { return x(d.date); })
+      .y(function(d) { return y(d.likes); })
+      );
     this.svg.selectAll("dot")
         .data(data).enter()
         .append("circle")
-        .attr("cx", function (d) { return x(d.date) } )
-        .attr("cy", function (d) { return y(d.likes) } )
+        .attr("cx", function (d) { return x(d.date); } )
+        .attr("cy", function (d) { return y(d.likes); } )
         .attr("r", 3)
         .style("fill", "green");
       
@@ -93,7 +92,7 @@ export class LineComponent implements OnInit {
       .append('text')
       .style("opacity", 0)
       .attr("text-anchor", "left")
-      .attr("alignment-baseline", "middle")
+      .attr("alignment-baseline", "middle");
     
     
     const tooltip = d3.select("#tooltip2");
@@ -107,12 +106,12 @@ export class LineComponent implements OnInit {
       // .on('mouseover', () => return)
       .on('mousemove', (e) => {
         // recover coordinate we need
-        let x0 = x.invert(e.layerX-1.5*this.margin);
+        const x0 = x.invert(e.layerX-1.5*this.margin);
         
-        let bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0} return d.date}).left;
-        let i =  bisect(data, x0);
+        const bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0;} return d.date;}).left;
+        const i =  bisect(data, x0);
        
-        let selectedData = data[i];
+        const selectedData = data[i];
         focus.style("opacity", 1);
         focusText.style("opacity", 1);
         focus.attr("cx", x(selectedData.date))
