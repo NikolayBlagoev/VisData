@@ -20,6 +20,8 @@ import {ReactiveFormsModule} from "@angular/forms";
 import {MatFormFieldModule} from "@angular/material/form-field";
 import {MatAutocompleteModule} from "@angular/material/autocomplete";
 
+import { DonutComponent } from './donut/donut.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +32,8 @@ import {MatAutocompleteModule} from "@angular/material/autocomplete";
     PieComponent,
     TooltipComponent,
     ScrollListComponent,
-    LineComponent
+    LineComponent,
+    DonutComponent
   ],
   imports: [
     BrowserModule,

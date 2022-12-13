@@ -40,6 +40,7 @@ export class BarComponent implements OnInit {
    {"Genre" : "Sexual Content", "Count" : 54},
    {"Genre" : "Movie", "Count" : 1}
   ];
+  
   private svg;
   private margin = 80;
   private width = 1200 - (this.margin * 2);
