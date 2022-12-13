@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 import {TooltipComponent} from "../tooltip/tooltip.component";
 
@@ -7,7 +7,7 @@ import {TooltipComponent} from "../tooltip/tooltip.component";
   templateUrl: './bar.component.html',
   styleUrls: ['./bar.component.sass']
 })
-export class BarComponent implements OnInit {
+export class BarComponent implements AfterViewInit {
 
   private data = [
    {"Genre" :  "Action" , "Count" : 23759},
@@ -41,18 +41,19 @@ export class BarComponent implements OnInit {
    {"Genre" : "Movie", "Count" : 1}
   ];
   
+  @Input() instanceId!: string;
   private svg;
   private margin = 80;
   private width = 1200 - (this.margin * 2);
   private height = 600 - (this.margin * 4);
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
     this.createSvg();
     this.drawBars(this.data, ["Indie", "Strategy"]);
   }
 
   private createSvg(): void {
-    this.svg = d3.select("figure#bar")
+    this.svg = d3.select("figure#" + this.instanceId)
     .append("svg")
     .attr("width", this.width + (this.margin * 2))
     .attr("height", this.height + (this.margin * 4))

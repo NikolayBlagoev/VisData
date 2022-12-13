@@ -1,9 +1,8 @@
-import {AfterViewInit, Component, Input, OnInit} from '@angular/core';
+import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
-import {PieArcDatum, select} from 'd3';
+import {PieArcDatum} from 'd3';
 import { PieData } from './pieData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
-import {IdService} from "../id.service";
 
 @Component({
   selector: 'app-pie',
@@ -14,20 +13,10 @@ import {IdService} from "../id.service";
 export class PieComponent implements AfterViewInit {
 
   @Input() data: PieData[] | undefined;
+  @Input() instanceId!: string;
 
-  public id: string;
-
-  constructor(private idService: IdService) {
-    this.id = idService.generateId();
-  }
 
   ngAfterViewInit(): void {
-
-    // const data: PieData[] = [
-    //   {name: "Positive", ratio: 0.76},
-    //   {name: "Negative", ratio: 0.24}
-    // ];
-
     if (this.data == undefined) {
       this.data = [
         {name: "Alex", ratio: 4534},
@@ -54,7 +43,7 @@ export class PieComponent implements AfterViewInit {
       .domain((d3.extent(this.data, (d) => d.name) as unknown) as string)
       .range(d3.schemeCategory10);
 
-    const svg = d3.select("svg." + this.id);
+    const svg = d3.select("svg." + this.instanceId);
 
     const arcGroup = svg.append("g")
       .attr("transform", "translate(150,200)");

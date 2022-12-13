@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 import { TooltipComponent } from '../tooltip/tooltip.component';
 
@@ -8,23 +8,25 @@ import { TooltipComponent } from '../tooltip/tooltip.component';
   templateUrl: './radar.component.html',
   styleUrls: ['./radar.component.sass']
 })
-export class RadarComponent implements OnInit {
+export class RadarComponent implements AfterViewInit {
   private data = [{"Likes": 3, "Likes_recent": 3,"Playtime": 2, "AVGPlaytime": 10, "Owners": 2},
   {"Likes": 7, "Likes_recent": 7, "Playtime": 8, "AVGPlaytime": 6, "Owners": 10}];
   private features = ["Likes", "Likes_recent","Playtime", "AVGPlaytime", "Owners"];
+
+  @Input() instanceId!: string;
   private svg;
   private margin = 80;
   private w = 1200 - (this.margin * 2);
   private h = 600 - (this.margin * 2);
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
     this.createSvg();
     this.drawRadar(this.data, this.features);
   }
 
   private createSvg(): void {
     
-    this.svg = d3.select("figure#radar")
+    this.svg = d3.select("figure#" + this.instanceId)
     .append("svg")
     .attr("width", this.w + (this.margin * 2))
     .attr("height", this.h + (this.margin * 2) )

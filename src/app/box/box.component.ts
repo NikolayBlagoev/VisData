@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, AfterViewInit } from '@angular/core';
 import * as d3 from 'd3';
 import {BoxData, ExampleData, ExampleLabels} from './boxData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
@@ -9,8 +9,9 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
     styleUrls: ['./box.component.sass']
   })
 
-export class BoxComponent implements OnInit {
+export class BoxComponent implements AfterViewInit {
 
+    @Input() instanceId!: string;
     private svg;
 
     // Set the dimensions and margins of the graph
@@ -27,7 +28,7 @@ export class BoxComponent implements OnInit {
         this.width - this.text_margin.left - this.text_margin.right];
     private y_scale;
 
-    ngOnInit(): void {
+    ngAfterViewInit(): void {
         this.createSvg();
         this.initScales();
 
@@ -38,12 +39,12 @@ export class BoxComponent implements OnInit {
     }
 
     private createSvg(): void {
-        this.svg = d3.select("figure#box")
+        this.svg = d3.select("figure#" + this.instanceId)
         .append("svg")
         .attr("width", this.width)
         .attr("height", this.height)
         .append("g")
-        .attr("transform", "translate(" + this.margin + "," + this.margin + ")").style("user-select","none");
+        .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")").style("user-select","none");
     }
 
     private initScales(): void {

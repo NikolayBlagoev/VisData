@@ -1,4 +1,4 @@
-import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, AfterViewInit, Input, ViewChild, ViewContainerRef} from '@angular/core';
 
 import {PieComponent} from "../pie/pie.component";
 import InfiniteScroll from "infinite-scroll";
@@ -9,13 +9,14 @@ import InfiniteScroll from "infinite-scroll";
   styleUrls: ['./scroll-list.component.sass']
 })
 
-export class ScrollListComponent implements OnInit {
+export class ScrollListComponent implements AfterViewInit {
 
+  @Input() instanceId!: string;
   @ViewChild("scrollContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
 
-    const list = document.querySelector("#scroll-list")!;
+    const list = document.querySelector("#" + this.instanceId + "ScrollList")!;
 
     const infScroll = new InfiniteScroll(list, {
       path: "api/v1/list?page={{#}}&sort=CCU"
@@ -38,7 +39,7 @@ export class ScrollListComponent implements OnInit {
   addItems() {
     const {clientHeight, scrollHeight, scrollTop}
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      = document.querySelector("#scroll-list")!;
+      = document.querySelector("#" + this.instanceId + "ScrollContainer")!;
 
     const distToBottom = scrollHeight - scrollTop - clientHeight;
     if (distToBottom < 400) {

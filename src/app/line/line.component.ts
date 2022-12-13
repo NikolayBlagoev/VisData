@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, AfterViewInit, Input} from '@angular/core';
 import * as d3 from 'd3';
 
 @Component({
@@ -6,21 +6,22 @@ import * as d3 from 'd3';
   templateUrl: './line.component.html',
   styleUrls: ['./line.component.sass']
 })
-export class LineComponent implements OnInit {
+export class LineComponent implements AfterViewInit {
 
+  @Input() instanceId!: string;
   private svg;
   private margin = 120;
   private h = 500;
   private w = 900;
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
     this.createSvg();
     this.drawLine(this.dset, 1500);
 
   }
 
   private createSvg(): void {
-    this.svg = d3.select("figure#line")
+    this.svg = d3.select("figure#" + this.instanceId + "Line")
       .append("svg")
       .attr("width", this.w + (this.margin * 2))
       .attr("height", this.h + (this.margin * 2))
@@ -30,8 +31,6 @@ export class LineComponent implements OnInit {
   }
 
   private drawLine(data: any[], likes: number): void {
-    console.log(data[0]);
-    console.log(Date.now());
     data = data.map((el) => {
       likes = likes + el.recommendations_up - el.recommendations_down;
       return {
@@ -43,9 +42,6 @@ export class LineComponent implements OnInit {
     const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
 
-    console.log(data[0]);
-    console.log(max_el);
-    console.log(min_el);
     const x = d3.scaleTime()
       .range([0, this.w])
       .domain([min_el, max_el]);
@@ -97,7 +93,7 @@ export class LineComponent implements OnInit {
       .attr("text-anchor", "left")
       .attr("alignment-baseline", "middle");
 
-    const tooltip = d3.select("#tooltip2");
+    const tooltip = d3.select("#" + this.instanceId + "Tooltip2");
 
     this.svg
       .append('rect')

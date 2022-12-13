@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 import * as d3HexBin from 'd3-hexbin';
 import { TooltipComponent } from '../tooltip/tooltip.component';
@@ -11,8 +11,9 @@ import exampleData from "./example-data.json";
     styleUrls: ['./bin-scatter.component.sass']
   })
 
-export class BinScatterComponent implements OnInit {
+export class BinScatterComponent implements AfterViewInit {
 
+    @Input() instanceId!: string;
     private hexBin;
     private svg;
 
@@ -37,7 +38,7 @@ export class BinScatterComponent implements OnInit {
     // Parameter(s) for hexagon bin drawing
     private radius = 15; // TODO: Add interactivity to change this
 
-    ngOnInit(): void {
+    ngAfterViewInit(): void {
         this.createSvg();
         this.initScales(exampleData);
         this.drawBins(exampleData);
@@ -45,7 +46,7 @@ export class BinScatterComponent implements OnInit {
     }
 
     private createSvg(): void {
-        this.svg = d3.select("figure#bin-scatter")
+        this.svg = d3.select("figure#" + this.instanceId)
         .append("svg")
         .attr("width", this.width + this.margin.left + this.margin.right)
         .attr("height", this.height + this.margin.top + this.margin.bottom)

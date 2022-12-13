@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 
 @Component({
@@ -6,20 +6,22 @@ import * as d3 from 'd3';
   templateUrl: './donut.component.html',
   styleUrls: ['./donut.component.sass']
 })
-export class DonutComponent implements OnInit {
+export class DonutComponent implements AfterViewInit {
   private data = [{"val": 80, "name": "completed"}, {"val": 20, "name": "not"}];
+
+  @Input() instanceId!: string;
   private svg;
   private margin = 80;
   private w = 1200 - (this.margin * 2);
   private h = 600 - (this.margin * 2);
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
     this.createSvg();
     this.drawDonut(this.data, 200);
   }
 
   private createSvg(): void {
-    this.svg = d3.select("figure#donut")
+    this.svg = d3.select("figure#" + this.instanceId)
     .append("svg")
     .attr("width", this.w + (this.margin * 2))
     .attr("height", this.h + (this.margin * 2) )
@@ -36,8 +38,6 @@ export class DonutComponent implements OnInit {
     const pie = d3.pie()
       .value((d:any) => d.val);
     data = pie(data);
-    console.log("YEE");
-    console.log(data);
 
     this.svg.append("g")
             .attr("transform", "translate(" + this.w / 2 + "," + this.h / 2 + ")")
