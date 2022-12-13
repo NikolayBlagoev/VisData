@@ -1,5 +1,6 @@
 import {Component, AfterViewInit, Input} from '@angular/core';
 import * as d3 from 'd3';
+import { TooltipComponent } from '../tooltip/tooltip.component';
 
 @Component({
   selector: 'app-line',
@@ -93,7 +94,7 @@ export class LineComponent implements AfterViewInit {
       .attr("text-anchor", "left")
       .attr("alignment-baseline", "middle");
 
-    const tooltip = d3.select("#" + this.instanceId + "Tooltip2");
+    const tooltip = new TooltipComponent();
 
     this.svg
       .append('rect')
@@ -101,10 +102,8 @@ export class LineComponent implements AfterViewInit {
       .style("pointer-events", "all")
       .attr('width', this.w)
       .attr('height', this.h)
-      // .on('mouseover', () => return)
       .on('mousemove', (e) => {
         // recover coordinate we need
-
         const x0 = x.invert(e.layerX - 1.5 * this.margin);
 
         const bisect = d3.bisector((d: any) => {
@@ -125,7 +124,7 @@ export class LineComponent implements AfterViewInit {
 
       })
       .on('mouseout', () => {
-        tooltip.style("visibility", "hidden");
+        tooltip.setHidden()
         focusText.style("opacity", 0);
         focus.style("opacity", 0);
       });

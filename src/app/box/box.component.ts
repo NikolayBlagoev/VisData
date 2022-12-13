@@ -11,7 +11,9 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
 
 export class BoxComponent implements AfterViewInit {
 
+    @Input() inputData: Array<BoxData> = ExampleData;
     @Input() instanceId!: string;
+
     private svg;
 
     // Set the dimensions and margins of the graph
@@ -21,8 +23,8 @@ export class BoxComponent implements AfterViewInit {
     private height = 768 - this.margin.top - this.margin.bottom;
 
     // X and Y scales
-    private x_scale;
-    private x_scale_domain = [20, 580]; // TODO: Not this because it's sample data; this is garbage
+    private x_scales;
+    private x_scale_domains = d3.map(this.inputData, datum => [datum.min, datum.max]);
     private x_scale_range = [
         0 + this.text_margin.left + this.text_margin.right,
         this.width - this.text_margin.left - this.text_margin.right];
@@ -33,7 +35,7 @@ export class BoxComponent implements AfterViewInit {
         this.initScales();
 
         // TODO: Remove hardcoded values
-        this.drawBoxes(ExampleData);
+        this.drawBoxes();
         this.drawPoint('ur', 278);
         this.drawPoint('my', 395);
     }
@@ -48,24 +50,25 @@ export class BoxComponent implements AfterViewInit {
     }
 
     private initScales(): void {
-        this.x_scale = d3.scaleLinear()
-        .domain(this.x_scale_domain)
-        .range(this.x_scale_range);
+        this.x_scales = d3.map(this.x_scale_domains, domain => {
+            return d3.scaleLinear()
+                     .domain(domain)
+                     .range(this.x_scale_range);})
         this.y_scale = d3.scaleBand()
         .domain(ExampleLabels)
         .range([0, this.height])
         .paddingOuter(0.5);
     }
 
-    private drawBoxes(data: Array<BoxData>): void {
+    private drawBoxes(): void {
         // Show the main horizontal line
         this.svg
         .selectAll("horizontalLines")
-        .data(data)
+        .data(this.inputData)
         .enter()
         .append("line")
-            .attr("x1", (d) => {return this.x_scale(d.min);})
-            .attr("x2", (d) => {return this.x_scale(d.max);})
+            .attr("x1", (d, idx) => {return this.x_scales[idx](d.min);})
+            .attr("x2", (d, idx) => {return this.x_scales[idx](d.max);})
             .attr("y1", (d) => {return this.y_scale(d.label);})
             .attr("y2", (d) => {return this.y_scale(d.label);})
             .attr("stroke", "black")
@@ -75,24 +78,24 @@ export class BoxComponent implements AfterViewInit {
         const boxHeight = 50;
         this.svg
         .selectAll("boxes")
-        .data(data)
+        .data(this.inputData)
         .enter()
         .append("rect")
-            .attr("x", (d) => {return this.x_scale(d.lower_quartile);})
+            .attr("x", (d, idx) => {return this.x_scales[idx](d.lower_quartile);})
             .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
             .attr("height", boxHeight)
-            .attr("width", (d) => {return this.x_scale(d.upper_quartile) - this.x_scale(d.lower_quartile);})
+            .attr("width", (d, idx) => {return this.x_scales[idx](d.upper_quartile) - this.x_scales[idx](d.lower_quartile);})
             .attr("stroke", "black")
             .style("fill", "#69b3a2");
 
         // Show the median
         this.svg
         .selectAll("medianLines")
-        .data(data)
+        .data(this.inputData)
         .enter()
         .append("line")
-            .attr("x1", (d) => {return this.x_scale(d.median);})
-            .attr("x2", (d) => {return this.x_scale(d.median);})
+            .attr("x1", (d, idx) => {return this.x_scales[idx](d.median);})
+            .attr("x2", (d, idx) => {return this.x_scales[idx](d.median);})
             .attr("y1", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
             .attr("y2", (d) => {return this.y_scale(d.label)! + (boxHeight / 2);})
             .attr("stroke", "black")
@@ -106,7 +109,7 @@ export class BoxComponent implements AfterViewInit {
         const borderWidth = 1;
         const selection = this.svg
         .selectAll("borderVisuals")
-        .data(data)
+        .data(this.inputData)
         .enter();
         selection.append("rect") // Left border
             .attr("x", this.x_scale_range[0] + borderWidth)
@@ -134,7 +137,7 @@ export class BoxComponent implements AfterViewInit {
         // Category labels
         this.svg
         .selectAll("categoryLabels")
-        .data(data)
+        .data(this.inputData)
         .enter()
         .append("text")
             .text((d) => {return d.label;})
@@ -143,11 +146,12 @@ export class BoxComponent implements AfterViewInit {
     }
 
     private drawPoint(label: string, value: number): void {
+        const scaleIdx = this.inputData.findIndex(element => element.label == label);
         const tooltip = new TooltipComponent();
 
         this.svg
         .append("circle")
-            .attr("cx", this.x_scale(value))
+            .attr("cx", this.x_scales[scaleIdx](value))
             .attr("cy", this.y_scale(label))
             .attr("r", 10)
             .attr("fill", "#f568fcc8")

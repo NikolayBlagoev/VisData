@@ -13,7 +13,9 @@ import exampleData from "./example-data.json";
 
 export class BinScatterComponent implements AfterViewInit {
 
+    @Input() inputData: Array<Point> = exampleData;
     @Input() instanceId!: string;
+    
     private hexBin;
     private svg;
 
@@ -40,8 +42,8 @@ export class BinScatterComponent implements AfterViewInit {
 
     ngAfterViewInit(): void {
         this.createSvg();
-        this.initScales(exampleData);
-        this.drawBins(exampleData);
+        this.initScales();
+        this.drawBins();
         this.drawColourScale();
     }
 
@@ -54,13 +56,13 @@ export class BinScatterComponent implements AfterViewInit {
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")").style("user-select","none");
     }
 
-    private initScales(points: Array<Point>): void {
+    private initScales(): void {
         // Define ranges
         this.xScale = d3.scaleLinear()
-            .domain([0, d3.max(points, (d) => d.x) as number])
+            .domain([0, d3.max(this.inputData, (d) => d.x) as number])
             .range([0, this.width]);
         this.yScale = d3.scaleLinear()
-            .domain([0, d3.max(points, (d) => d.y) as number])
+            .domain([0, d3.max(this.inputData, (d) => d.y) as number])
             .range([this.height, 0]);
 
         // Draw axes
@@ -74,14 +76,14 @@ export class BinScatterComponent implements AfterViewInit {
             .call(d3.axisLeft(this.yScale));
     }
 
-    private drawBins(points: Array<Point>): void {
+    private drawBins(): void {
         this.hexBin = d3HexBin.hexbin()
             .x((d) => this.xScale(d.x))
             .y((d) => this.yScale(d.y))
             .radius(this.radius * (this.width / this.height));
 
         // Literal vomit
-        const bins = this.hexBin(points) as Array<Array<any>>;
+        const bins = this.hexBin(this.inputData) as Array<Array<any>>;
         this.densityScale = d3.scaleSequential()
         .domain([0, d3.max(bins, d => d.length) as number])
         .interpolator(this.colourPalette);

@@ -1,4 +1,4 @@
-import {Component, ElementRef, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, ElementRef, EventEmitter, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {MatOption} from '@angular/material/core';
 import {MatList} from '@angular/material/list';
@@ -6,6 +6,7 @@ import {map, Observable, startWith} from "rxjs";
 import {KaggleGame} from "./data-types";
 import {PieComponent} from "./pie/pie.component";
 import initialGame from "../assets/initial_game.json";
+import { MatSelectChange } from '@angular/material/select';
 
 @Component({
   selector: 'app-root',
@@ -20,14 +21,11 @@ export class AppComponent implements OnInit {
 
   data: KaggleGame[] = [];
   currentGame: KaggleGame = initialGame;
+  currentGenre: string = initialGame.genre[0];
   hasMetaDummy: boolean = true; // TODO: This is only for testing; Replace when collected data processing is finalised
 
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
-
-  // Header elements
-  @ViewChild("genreList", {read: ElementRef}) genreListRef!: ElementRef<MatList>;
-  @ViewChild("languageList", {read: ElementRef}) languageListRef!: ElementRef<MatList>;
 
   @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
 
@@ -35,7 +33,12 @@ export class AppComponent implements OnInit {
 
   onGameSelection(option: MatOption<KaggleGame>) {
     this.currentGame = option.value;
+    this.currentGenre = this.currentGame.genre[0];
   }
+
+  onGenreSelection(newGenreSelection: string) { 
+    console.log(newGenreSelection);
+    this.currentGenre = newGenreSelection; }
 
   supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
 
@@ -51,7 +54,6 @@ export class AppComponent implements OnInit {
     this.data = this.data.sort((a, b) => {
       return -(a.positive - b.positive);
     });
-    console.log(this.data[0]);
 
     console.log(`Parsing took: ${Date.now() - start}ms`);
 

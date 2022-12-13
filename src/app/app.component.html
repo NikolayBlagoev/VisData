@@ -1,5 +1,8 @@
-<!-- Navigation bar -->
-<mat-toolbar color="primary" style="position: fixed; top: 0; height: 80px">
+<!-- ========== THE EPONYMOUS GLOBAL TOOLTIP ========== -->
+<app-tooltip></app-tooltip>
+
+<!-- ========== NAVIGATION BAR ========== -->
+<mat-toolbar color="primary" style="position: fixed; top: 0; height: 80px; z-index: 100;">
   <span><h2>Steam Monkey</h2></span>
   <span class="spacer"></span>
   <form (submit)="$event.preventDefault()" style="margin-top: 20px">
@@ -21,6 +24,7 @@
 
 <!-- Clearance below nav bar -->
 <div style="height: 90px"></div>
+
 
 <!-- ========== SINGLE GAME INFO ========== -->
 <!-- Header -->
@@ -94,9 +98,56 @@
 </div>
 
 
-<!-- PLACEHOLDER; TODO: Remove -->
-<div style="height: 2000px; width: 1000px; margin-top: 100px; margin-left: auto; margin-right: auto; z-index: -1;">
-  <h3>Hello world!</h3>
-  <button mat-raised-button color="accent" (click)="showPie()">Show pie</button>
-  <div #pieContainer></div>
+<!-- ========== MULTIPLE GAME INFO ========== -->
+<mat-divider></mat-divider>
+
+<!-- Numeric data correlation -->
+<div>
+  <app-bin-scatter instanceId="numericDataBinScatter"></app-bin-scatter>
+</div>
+
+<!-- Genre count bar chart -->
+<div>
+  <app-bar instanceId="genreCountBar"></app-bar>
+</div>
+
+<!-- Price brackets pie chart and placeholder -->
+<!-- TODO: Figure out something to put instead of the placeholder -->
+<div class="two-col-container">
+  <app-pie instanceId="priceBracketsPie" class="first-col"></app-pie>
+
+  <h3 class="second-col">PLACEHOLDER</h3>
+</div>
+
+
+<!-- ========== GENRE INFO ========== -->
+<mat-divider></mat-divider>
+
+<!-- Genre selector -->
+<div style="height: 20px"></div>
+<div style="margin: auto; width: 50%; text-align: center;">
+  <mat-form-field appearance="fill" color="primary">
+    <mat-label>{{currentGenre}}</mat-label>
+    <mat-select (selectionChange)="onGenreSelection($event.value)">
+      <mat-option *ngFor="let genre of currentGame.genre" [value]="genre">{{genre}}</mat-option>
+    </mat-select>
+    <mat-hint align="start">Select a genre</mat-hint>
+  </mat-form-field>
+</div>
+
+<!-- Game release date timeline -->
+<div>
+  <app-line instanceId="gameReleaseLine"></app-line>
+</div>
+
+<div class="three-col-container">
+  <app-radar instanceId="genreCategoricalDataRadar" class="first-col"></app-radar>
+
+  <app-box instanceId="genreCategoricalDataBox" class="second-col"></app-box>
+
+  <app-pie instanceId="genreCompletionPie" class="third-col"></app-pie>
+</div>
+
+<div>
+  <app-line instanceId="genreCcuLine"></app-line>
 </div>
