@@ -1,5 +1,6 @@
 import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
+import { DonutData } from './donutData';
 
 @Component({
   selector: 'app-donut',
@@ -15,9 +16,16 @@ export class DonutComponent implements AfterViewInit {
   private w = 1200 - (this.margin * 2);
   private h = 600 - (this.margin * 2);
 
+  // Control width, height, margin
+  public setValues(width, height, margin): void {
+    this.margin = margin;
+    this.w = width - (this.margin * 2);
+    this.h = height - (this.margin * 2);
+  }
+
   ngAfterViewInit(): void {
     this.createSvg();
-    this.drawDonut(this.data, 200);
+    this.drawDonut(this.data, 200, this.data[0].val+"%", 130, "not");
   }
 
   private createSvg(): void {
@@ -30,13 +38,17 @@ export class DonutComponent implements AfterViewInit {
     "translate(" + this.margin + "," + this.margin + ")");
   }
 
-  private drawDonut(data: any[], radius: number): void {
+  
+  private drawDonut(data: any[], radius: number, displayText: string, font_size: number, name_of_red: string): void {
+    
     // CAN BE USED TO MAKE THE COLOURS DIFFERENT!!
     const color = d3.scaleOrdinal()
                   .domain(data)
                   .range(["green","red"]);
+    
     const pie = d3.pie()
-      .value((d:any) => d.val);
+      .value((d:any) => d.value);
+
     data = pie(data);
 
     this.svg.append("g")
@@ -49,17 +61,18 @@ export class DonutComponent implements AfterViewInit {
               .innerRadius(radius-10)         // This is the size of the donut hole
               .outerRadius(radius)
             )
-            .attr('fill', (d) => d.data.name == "not"? "red":"green" )
+            .attr('fill', (d) => d.data.name == name_of_red? "red":"green" )
             .attr("stroke", "black")
             .style("stroke-width", "0px")
             .style("opacity", 0.7);
+    
     this.svg.append("text")
             .attr("x", this.w/2)
             .attr("y", this.h/2)
             .attr("text-anchor", "middle")
             .attr("dominant-baseline", "central") 
-            .attr("font-size", "130px")
-            .text(data[0].data.val+"%");
+            .attr("font-size", font_size + "px")
+            .text(displayText);
            
   }
 }

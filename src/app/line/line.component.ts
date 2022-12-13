@@ -1,5 +1,6 @@
 import {Component, AfterViewInit, Input} from '@angular/core';
 import * as d3 from 'd3';
+import { LineData, LineDataIn } from './lineData';
 
 @Component({
   selector: 'app-line',
@@ -14,6 +15,13 @@ export class LineComponent implements AfterViewInit {
   private h = 500;
   private w = 900;
 
+    // Control width, height, margin
+  public setValues(width, height, margin): void {
+    this.margin = margin;
+    this.w = width - (this.margin * 2);
+    this.h = height - (this.margin * 2);
+  }
+  
   ngAfterViewInit(): void {
     this.createSvg();
     this.drawLine(this.dset, 1500);
@@ -30,12 +38,12 @@ export class LineComponent implements AfterViewInit {
         "translate(" + this.margin + "," + this.margin + ")");
   }
 
-  private drawLine(data: any[], likes: number): void {
-    data = data.map((el) => {
-      likes = likes + el.recommendations_up - el.recommendations_down;
+  private drawLine(data_in: LineDataIn[], initial_likes: number): void {
+    const data: LineData[] = data_in.map((el) => {
+      initial_likes = initial_likes + el.recommendations_up - el.recommendations_down;
       return {
         "date": new Date(el.date * 1000),
-        "likes": likes
+        "value": initial_likes
       };
     });
     // data = data.map(d => d.date.toString());
@@ -51,7 +59,7 @@ export class LineComponent implements AfterViewInit {
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
-      .domain([0, data.reduce((acc, e1) => acc = acc > e1.likes ? acc : e1.likes, 0)])
+      .domain([0, data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
       .range([this.h, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));
@@ -63,13 +71,13 @@ export class LineComponent implements AfterViewInit {
       .attr("stroke-width", 1.5)
       .attr("d", d3.line<any>()
       .x(function(d) { return x(d.date); })
-      .y(function(d) { return y(d.likes); })
+      .y(function(d) { return y(d.value); })
       );
     this.svg.selectAll("dot")
         .data(data).enter()
         .append("circle")
         .attr("cx", function (d) { return x(d.date); } )
-        .attr("cy", function (d) { return y(d.likes); } )
+        .attr("cy", function (d) { return y(d.value); } )
         .attr("r", 3)
         .style("fill", "green");
 
@@ -119,9 +127,9 @@ export class LineComponent implements AfterViewInit {
         focus.style("opacity", 1);
         focusText.style("opacity", 1);
         focus.attr("cx", x(selectedData.date))
-          .attr("cy", y(selectedData.likes));
-        focusText.html("Likes: " + selectedData.likes).attr("x", x(selectedData.date) + 15)
-          .attr("y", y(selectedData.likes) - 30);
+          .attr("cy", y(selectedData.value));
+        focusText.html("Likes: " + selectedData.value).attr("x", x(selectedData.date) + 15)
+          .attr("y", y(selectedData.value) - 30);
 
       })
       .on('mouseout', () => {
@@ -129,6 +137,7 @@ export class LineComponent implements AfterViewInit {
         focusText.style("opacity", 0);
         focus.style("opacity", 0);
       });
+      console.log("DONE");
   }
 
   private dset = [
