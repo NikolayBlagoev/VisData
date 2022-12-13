@@ -1,6 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import * as d3 from 'd3';
-
 
 @Component({
   selector: 'app-line',
@@ -8,52 +7,56 @@ import * as d3 from 'd3';
   styleUrls: ['./line.component.sass']
 })
 export class LineComponent implements OnInit {
-  
+
   private svg;
   private margin = 120;
   private h = 500;
   private w = 900;
+
   ngOnInit(): void {
     this.createSvg();
     this.drawLine(this.dset, 1500);
-    
+
   }
 
   private createSvg(): void {
     this.svg = d3.select("figure#line")
-    .append("svg")
-    .attr("width", this.w + (this.margin * 2))
-    .attr("height", this.h + (this.margin * 2) )
-    .append("g")
-    .style("user-select","none").attr("transform",
-    "translate(" + this.margin + "," + this.margin + ")");
+      .append("svg")
+      .attr("width", this.w + (this.margin * 2))
+      .attr("height", this.h + (this.margin * 2))
+      .append("g")
+      .style("user-select", "none").attr("transform",
+        "translate(" + this.margin + "," + this.margin + ")");
   }
 
   private drawLine(data: any[], likes: number): void {
     console.log(data[0]);
     console.log(Date.now());
-    data = data.map((el)=>{ likes = likes + el.recommendations_up - el.recommendations_down; return {
-      "date": new Date(el.date*1000),
-      "likes": likes
-    }; });
+    data = data.map((el) => {
+      likes = likes + el.recommendations_up - el.recommendations_down;
+      return {
+        "date": new Date(el.date * 1000),
+        "likes": likes
+      };
+    });
     // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
-    
+
     console.log(data[0]);
     console.log(max_el);
     console.log(min_el);
     const x = d3.scaleTime()
       .range([0, this.w])
-      .domain([min_el,max_el]);
+      .domain([min_el, max_el]);
     this.svg.append("g")
-      .attr("transform", "translate(0," + (this.h-10) + ")")
-      .call(d3.axisBottom(x).ticks(15,"%d/%m/%Y %H:%M")).selectAll("text")
+      .attr("transform", "translate(0," + (this.h - 10) + ")")
+      .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y %H:%M")).selectAll("text")
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
       .domain([0, data.reduce((acc, e1) => acc = acc > e1.likes ? acc : e1.likes, 0)])
-      .range([ this.h, 0 ]);
+      .range([this.h, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));
 
@@ -73,7 +76,7 @@ export class LineComponent implements OnInit {
         .attr("cy", function (d) { return y(d.likes); } )
         .attr("r", 3)
         .style("fill", "green");
-      
+
     const focus = this.svg
         .append('g')
         .append('circle')
@@ -81,7 +84,7 @@ export class LineComponent implements OnInit {
         .attr("stroke", "black")
         .attr('r', 8.5)
         .style("opacity", 0);
-    
+
     const focusText = this.svg
       .append('g').style("position", "absolute")
       .style("z-index", "10")
@@ -93,10 +96,9 @@ export class LineComponent implements OnInit {
       .style("opacity", 0)
       .attr("text-anchor", "left")
       .attr("alignment-baseline", "middle");
-    
-    
+
     const tooltip = d3.select("#tooltip2");
-    
+
     this.svg
       .append('rect')
       .style("fill", "none")
@@ -106,26 +108,33 @@ export class LineComponent implements OnInit {
       // .on('mouseover', () => return)
       .on('mousemove', (e) => {
         // recover coordinate we need
-        const x0 = x.invert(e.layerX-1.5*this.margin);
-        
-        const bisect = d3.bisector((d: any) =>  {if(d == undefined){ return 0;} return d.date;}).left;
-        const i =  bisect(data, x0);
-       
+
+        const x0 = x.invert(e.layerX - 1.5 * this.margin);
+
+        const bisect = d3.bisector((d: any) => {
+          if (d == undefined) {
+            return 0;
+          }
+          return d.date;
+        }).left;
+
+        const i = bisect(data, x0);
         const selectedData = data[i];
         focus.style("opacity", 1);
         focusText.style("opacity", 1);
         focus.attr("cx", x(selectedData.date))
           .attr("cy", y(selectedData.likes));
-        focusText.html("Likes: "+selectedData.likes).attr("x", x(selectedData.date)+15)
-        .attr("y", y(selectedData.likes)-30);
-       
+        focusText.html("Likes: " + selectedData.likes).attr("x", x(selectedData.date) + 15)
+          .attr("y", y(selectedData.likes) - 30);
+
       })
-      .on('mouseout', () =>{
+      .on('mouseout', () => {
         tooltip.style("visibility", "hidden");
         focusText.style("opacity", 0);
         focus.style("opacity", 0);
       });
   }
+
   private dset = [
     {
       "date": 1667260800,
@@ -278,4 +287,5 @@ export class LineComponent implements OnInit {
       "recommendations_down": 1
     }
   ];
+
 }

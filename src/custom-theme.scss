@@ -1,0 +1,73 @@
+//https://m2.material.io/resources/color/#!/?view.left=0&view.right=0&secondary.color=29B6F6&secondary.text.color=000000&primary.color=424242
+
+// Custom Theming for Angular Material
+// For more information: https://material.angular.io/guide/theming
+@use '@angular/material' as mat;
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat.core();
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://material.io/design/color/
+/* For use in src/lib/core/theming/_palette.scss */
+/* For use in src/lib/core/theming/_palette.scss */
+$primary-palette: (
+  50 : #e0e0e2,
+  100 : #b3b3b6,
+  200 : #808085,
+  300 : #4d4d54,
+  400 : #262630,
+  500 : #00000b,
+  600 : #00000a,
+  700 : #000008,
+  800 : #000006,
+  900 : #000003,
+  A100 : #a6a6a6,
+  A200 : #8c8c8c,
+  A400 : #737373,
+  A700 : #666666,
+  contrast: (
+    50 : #000000,
+    100 : #000000,
+    200 : #000000,
+    300 : #ffffff,
+    400 : #ffffff,
+    500 : #ffffff,
+    600 : #ffffff,
+    700 : #ffffff,
+    800 : #ffffff,
+    900 : #ffffff,
+    A100 : #000000,
+    A200 : #000000,
+    A400 : #ffffff,
+    A700 : #ffffff,
+  )
+);
+
+$VisData-primary: mat.define-palette($primary-palette);
+$VisData-accent: mat.define-palette(mat.$blue-palette);
+
+// The warn palette is optional (defaults to red).
+$VisData-warn: mat.define-palette(mat.$red-palette);
+
+// Create the theme object. A theme consists of configurations for individual
+// theming systems such as "color" or "typography".
+$VisData-theme: mat.define-dark-theme((
+  color: (
+    primary: $VisData-primary,
+    accent: $VisData-accent,
+    warn: $VisData-warn,
+  )
+));
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include mat.all-component-themes($VisData-theme);
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
