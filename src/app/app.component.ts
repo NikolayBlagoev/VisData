@@ -34,13 +34,7 @@ export class AppComponent implements OnInit {
 
     this.data = JSON.parse(value);
     this.data = this.data.sort((a, b) => {
-      if (a.positive > b.positive) {
-        return -1;
-      } else if (a.positive < b.positive) {
-        return 1;
-      } else {
-        return 0;
-      }
+      return -(a.positive - b.positive);
     });
     console.log(this.data[0]);
 
