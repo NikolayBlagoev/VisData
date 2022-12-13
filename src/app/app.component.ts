@@ -1,9 +1,8 @@
-import {AfterViewInit, Component, NgZone, OnInit, QueryList, ViewChild, ViewContainerRef} from '@angular/core';
-import {PieComponent} from "./pie/pie.component";
+import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
-import {IdService} from "./id.service";
 import {map, Observable, startWith} from "rxjs";
-import {CdkScrollable, ScrollDispatcher} from "@angular/cdk/overlay";
+import {KaggleGame} from "./data-types";
+import {PieComponent} from "./pie/pie.component";
 
 @Component({
   selector: 'app-root',
@@ -11,59 +10,60 @@ import {CdkScrollable, ScrollDispatcher} from "@angular/cdk/overlay";
   styleUrls: ['./app.component.sass']
 })
 
-export class AppComponent implements OnInit { //, AfterViewInit {
+export class AppComponent implements OnInit {
   title = 'VisData';
 
+  readonly optionsLength = 50;
+
+  data: KaggleGame[] = [];
+
   searchControl = new FormControl();
-  options: string[] = [];
-  filteredOptions= new Observable<string[]>();
+  filteredData = new Observable<KaggleGame[]>();
 
   @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
-
-  constructor(private idService: IdService) {
-              // private scrollDispatcher: ScrollDispatcher,
-              // private ngZone: NgZone) {
-    const start = Date.now();
-    for (let i = 0; i < 56000; i++) {
-      this.options.push(idService.generateId());
-    }
-    this.options.sort();
-    console.log(`Generation took: ${Date.now() - start}ms`);
-  }
 
   showPie() {
     this.containerRef.createComponent(PieComponent);
   }
 
-  ngOnInit() {
-    this.filteredOptions = this.searchControl.valueChanges.pipe(
+  async ngOnInit() {
+    const start = Date.now();
+
+    const res = await fetch("assets/kaggle_data.json");
+    const value = await res.text();
+
+    this.data = JSON.parse(value);
+    this.data = this.data.sort((a, b) => {
+      if (a.positive > b.positive) {
+        return -1;
+      } else if (a.positive < b.positive) {
+        return 1;
+      } else {
+        return 0;
+      }
+    });
+    console.log(this.data[0]);
+
+    console.log(`Parsing took: ${Date.now() - start}ms`);
+
+    this.filteredData = this.searchControl.valueChanges.pipe(
       startWith(""),
       map(value => this._filter(value))
     );
   }
 
-  // ngAfterViewInit() {
-  //   this.scrollDispatcher.scrolled().pipe(
-  //
-  //   ).subscribe((value: CdkScrollable | void) => {
-  //     console.log(value);
-  //   });
-  //
-  //   this.ngZone.run(() => console.log("test"));
-  // }
-
-  private _filter(value: string): string[] {
-    let result: string[];
+  private _filter(value: string): KaggleGame[] {
+    let result: KaggleGame[];
 
     if (value === "") {
-      result = this.options.slice(0, 50);
+      result = this.data.slice(0, this.optionsLength);
     }
     else {
       const filterValue = value.toLowerCase();
 
-      result = this.options
-        .filter(option => option.toLowerCase().includes(filterValue))
-        .slice(0, 50);
+      result = this.data
+        .filter(game => game.name.toLowerCase().includes(filterValue))
+        .slice(0, this.optionsLength);
     }
 
     return result;

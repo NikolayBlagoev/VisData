@@ -6,11 +6,11 @@
       <mat-label>Game name</mat-label>
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
       <mat-autocomplete #auto="matAutocomplete" panelWidth="400px">
-        <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
-          <span>{{option}}</span>
+        <mat-option *ngFor="let game of filteredData | async" [value]="game">
+          <span>{{game.name}}</span>
           <span class="spacer"></span>
-          <img src="https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg?t=1666823513"
-            alt="Game image" style="height: 30px">
+          <img src="{{game.header_image}}"
+            alt="Game image" style="height: 40px">
         </mat-option>
       </mat-autocomplete>
     </mat-form-field>
