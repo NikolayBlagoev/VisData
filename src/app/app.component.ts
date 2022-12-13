@@ -1,8 +1,11 @@
-import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
+import {MatOption} from '@angular/material/core';
+import {MatList} from '@angular/material/list';
 import {map, Observable, startWith} from "rxjs";
 import {KaggleGame} from "./data-types";
 import {PieComponent} from "./pie/pie.component";
+import initialGame from "../assets/initial_game.json";
 
 @Component({
   selector: 'app-root',
@@ -16,15 +19,27 @@ export class AppComponent implements OnInit {
   readonly optionsLength = 50;
 
   data: KaggleGame[] = [];
+  currentGame: KaggleGame = initialGame;
+  hasMetaDummy: boolean = true; // TODO: This is only for testing; Replace when collected data processing is finalised
 
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
+  // Header elements
+  @ViewChild("genreList", {read: ElementRef}) genreListRef!: ElementRef<MatList>;
+  @ViewChild("languageList", {read: ElementRef}) languageListRef!: ElementRef<MatList>;
+
   @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
 
-  showPie() {
-    this.containerRef.createComponent(PieComponent);
+  showPie() { this.containerRef.createComponent(PieComponent); }
+
+  onGameSelection(option: MatOption<KaggleGame>) {
+    this.currentGame = option.value;
   }
+
+  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
+
+  extractGameName(game: KaggleGame) { return game.name; }
 
   async ngOnInit() {
     const start = Date.now();
