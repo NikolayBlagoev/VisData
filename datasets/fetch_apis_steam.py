@@ -3,8 +3,8 @@ import time
 import requests
 from tqdm import trange
 
-BATCHES = 2 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
-COLD_START = 20000 # First index to start requests from
+BATCHES = 1 # Number of batches to process; Final number of requests is (BATCHES * PROCESS_COUNT); Each batch results in one JSON file
+COLD_START = 6000 # First index to start requests from
 PROCESS_COUNT = 1000 # How many games to make requests for per batch
 
 if __name__ == "__main__":
