@@ -41,6 +41,10 @@ export class AppComponent implements OnInit {
     );
   }
 
+  onSteamClick(){
+    console.log("YOU ARE STINKY STINKY ");
+    window.open(`https://store.steampowered.com/app/${this.currentGame.appid}`, "_blank");
+  }
   onGenreSelection(newGenreSelection: string) { 
     console.log(newGenreSelection);
     this.currentGenre = newGenreSelection; 
