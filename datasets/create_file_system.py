@@ -43,6 +43,23 @@ def make_dirs(f: Fold, prefix: str):
             with open(fldr_nm+"/"+str(it["appid"])+".json","w") as f:
                 json.dump(it,f, indent=2)
 
+def make_dirs(f: Fold, prefix: str):
+    if len(f.children) != 0:
+        for child in f.children:
+            make_dirs(child, prefix+f"{int(f.smallest)}-{int(f.largest)}/")
+    else:
+        
+        fldr_nm = prefix+f"{int(f.smallest)}-{int(f.largest)}"
+        Path(fldr_nm).mkdir(parents=True, exist_ok=True)
+        for it in f.items:
+            with open(fldr_nm+"/"+str(it["appid"])+".json","w") as f:
+                json.dump(it,f, indent=2)
+
+def make_json(f: Fold):
+    if len(f.children) != 0:
+        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": [make_json(ch) for ch in f.children ] }
+    else:
+        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": [] }
 
 parent = Fold(0,2500000)
 a1 = Fold(0,500000, parent)
@@ -89,6 +106,7 @@ for d in processed_data:
     j += 1
     # if d["appid"] < minim:
     #     minim = d["appid"]
+
 # print(minim)
 # exit()
 make_dirs(parent,"entries/")
