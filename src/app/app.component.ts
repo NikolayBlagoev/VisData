@@ -2,6 +2,7 @@ import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {map, Observable, startWith} from "rxjs";
 import {KaggleGame} from "./data-types";
+import {EntryTreeService} from "./entry-tree.service";
 import {PieComponent} from "./pie/pie.component";
 
 @Component({
@@ -22,11 +23,15 @@ export class AppComponent implements OnInit {
 
   @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
 
+  constructor(private entryTree: EntryTreeService) {}
+
   showPie() {
     this.containerRef.createComponent(PieComponent);
   }
 
   async ngOnInit() {
+    this.entryTree.getEntryPath(1223210).then(res => console.log(res));
+
     const start = Date.now();
 
     const res = await fetch("assets/kaggle_data.json");
