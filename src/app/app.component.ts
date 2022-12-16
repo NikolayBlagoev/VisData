@@ -33,12 +33,18 @@ export class AppComponent implements OnInit {
 
   onGameSelection(option: MatOption<KaggleGame>) {
     this.currentGame = option.value;
+    console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
+    this.filteredData = this.searchControl.valueChanges.pipe(
+      startWith(option.value.name),
+      map(value => this._filter(value))
+    );
   }
 
   onGenreSelection(newGenreSelection: string) { 
     console.log(newGenreSelection);
-    this.currentGenre = newGenreSelection; }
+    this.currentGenre = newGenreSelection; 
+  }
 
   supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
 
