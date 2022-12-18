@@ -15,7 +15,8 @@ export class BinScatterComponent implements AfterViewInit {
 
     @Input() inputData: Array<Point> = exampleData;
     @Input() instanceId!: string;
-    
+    @Input() binRadius: number = 15; // Controls radius of each hexagon, i.e. bin granularity
+
     private hexBin;
     private svg;
 
@@ -36,9 +37,7 @@ export class BinScatterComponent implements AfterViewInit {
     private colourScaleHorizontalOffset = 150;
     private colourScaleVerticalOffset = 50;
     private colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
-    
-    // Parameter(s) for hexagon bin drawing
-    private radius = 15; // TODO: Add interactivity to change this
+        
 
     ngAfterViewInit(): void {
         this.createSvg();
@@ -80,7 +79,7 @@ export class BinScatterComponent implements AfterViewInit {
         this.hexBin = d3HexBin.hexbin()
             .x((d) => this.xScale(d.x))
             .y((d) => this.yScale(d.y))
-            .radius(this.radius * (this.width / this.height));
+            .radius(this.binRadius * (this.width / this.height));
 
         // Literal vomit
         const bins = this.hexBin(this.inputData) as Array<Array<any>>;
