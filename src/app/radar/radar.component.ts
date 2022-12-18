@@ -35,6 +35,11 @@ export class RadarComponent implements AfterViewInit {
     "translate(" + this.margin + "," + this.margin + ")");
   }
 
+
+  // features contains an array of the name of the features
+  // data is n array of elements, with each element having a field for each feature, each having a value between 0 and 10
+  // e.g. features = ["likes", "dislikes"]
+  // data = [{"likes": 4, "dislikes": 2}, {"likes": 5, "dislikes": 6}]
   private drawRadar(data: any[], features: any[]): void{
     const rscale = d3.scaleLinear()
                   .domain([0,10])

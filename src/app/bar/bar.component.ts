@@ -1,6 +1,7 @@
 import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 import {TooltipComponent} from "../tooltip/tooltip.component";
+import { BarData } from './barData';
 
 @Component({
   selector: 'app-bar',
@@ -10,35 +11,35 @@ import {TooltipComponent} from "../tooltip/tooltip.component";
 export class BarComponent implements AfterViewInit {
 
   private data = [
-   {"Genre" :  "Action" , "Count" : 23759},
-   {"Genre" : "Adventure", "Count" : 21431},
-   {"Genre" : "Indie", "Count" : 39681},
-   {"Genre" : "RPG", "Count" : 9534},
-   {"Genre" : "Strategy", "Count" : 10895},
-   {"Genre" : "Simulation", "Count" : 10836},
-   {"Genre" : "Casual", "Count" : 22086},
-   {"Genre" : "Free to Play", "Count" : 3393},
-   {"Genre" : "Massively Multiplayer", "Count" : 1460},
-   {"Genre" : "Early Access", "Count" : 6145},
-   {"Genre" : "Education", "Count" : 317},
-   {"Genre" : "Racing", "Count" : 2155},
-   {"Genre" : "Sports", "Count" : 2666},
-   {"Genre" : "Animation & Modeling", "Count" : 322},
-   {"Genre" : "Utilities", "Count" : 682},
-   {"Genre" : "Audio Production", "Count" : 195},
-   {"Genre" : "Video Production", "Count" : 247},
-   {"Genre" : "Game Development", "Count" : 159},
-   {"Genre" : "Design & Illustration", "Count" : 406},
-   {"Genre" : "Software Training", "Count" : 164},
-   {"Genre" : "Web Publishing", "Count" : 89},
-   {"Genre" : "Photo Editing", "Count" : 105},
-   {"Genre" : "", "Count" : 160},
-   {"Genre" : "Accounting", "Count" : 16},
-   {"Genre" : "Violent", "Count" : 168},
-   {"Genre" : "Gore", "Count" : 99},
-   {"Genre" : "Nudity", "Count" : 45},
-   {"Genre" : "Sexual Content", "Count" : 54},
-   {"Genre" : "Movie", "Count" : 1}
+   {"Name" :  "Action" , "Value" : 23759},
+   {"Name" : "Adventure", "Value" : 21431},
+   {"Name" : "Indie", "Value" : 39681},
+   {"Name" : "RPG", "Value" : 9534},
+   {"Name" : "Strategy", "Value" : 10895},
+   {"Name" : "Simulation", "Value" : 10836},
+   {"Name" : "Casual", "Value" : 22086},
+   {"Name" : "Free to Play", "Value" : 3393},
+   {"Name" : "Massively Multiplayer", "Value" : 1460},
+   {"Name" : "Early Access", "Value" : 6145},
+   {"Name" : "Education", "Value" : 317},
+   {"Name" : "Racing", "Value" : 2155},
+   {"Name" : "Sports", "Value" : 2666},
+   {"Name" : "Animation & Modeling", "Value" : 322},
+   {"Name" : "Utilities", "Value" : 682},
+   {"Name" : "Audio Production", "Value" : 195},
+   {"Name" : "Video Production", "Value" : 247},
+   {"Name" : "Game Development", "Value" : 159},
+   {"Name" : "Design & Illustration", "Value" : 406},
+   {"Name" : "Software Training", "Value" : 164},
+   {"Name" : "Web Publishing", "Value" : 89},
+   {"Name" : "Photo Editing", "Value" : 105},
+   {"Name" : "", "Value" : 160},
+   {"Name" : "AcValueing", "Value" : 16},
+   {"Name" : "Violent", "Value" : 168},
+   {"Name" : "Gore", "Value" : 99},
+   {"Name" : "Nudity", "Value" : 45},
+   {"Name" : "Sexual Content", "Value" : 54},
+   {"Name" : "Movie", "Value" : 1}
   ];
   
   @Input() instanceId!: string;
@@ -46,7 +47,19 @@ export class BarComponent implements AfterViewInit {
   private margin = 80;
   private width = 1200 - (this.margin * 2);
   private height = 600 - (this.margin * 4);
+  
+  // Control width, height, margin
+  public setValues(width, height, margin): void {
+    this.margin = margin;
+    this.width = width - (this.margin * 2);
+    this.height = height - (this.margin * 4);
+  }
 
+  public make_with_data(data: BarData[], highlighted: string[]){
+    this.createSvg();
+    this.drawBars(data, highlighted);
+  }
+  
   ngAfterViewInit(): void {
     this.createSvg();
     this.drawBars(this.data, ["Indie", "Strategy"]);
@@ -61,14 +74,14 @@ export class BarComponent implements AfterViewInit {
     .attr("transform", "translate(" + this.margin + "," + this.margin + ")").style("user-select","none");
   }
 
-  private drawBars(data: any[], genres: any[]): void {
-    data.sort((e1, e2) => e2.Count - e1.Count);
-    const max_el = data.reduce((acc, e1) => acc = acc > e1.Count ? acc : e1.Count, -1000);
+  private drawBars(data: BarData[], highlighted: string[]): void {
+    data.sort((e1, e2) => e2.Value - e1.Value);
+    const max_el = data.reduce((acc, e1) => acc = acc > e1.Value ? acc : e1.Value, -1000);
 
     // Create the X-axis band scale
     const x = d3.scaleBand()
     .range([0, this.width])
-    .domain(data.map(d => d.Genre))
+    .domain(data.map(d => d.Name))
     .padding(0.1);
 
     // Draw the X-axis on the DOM
@@ -78,7 +91,7 @@ export class BarComponent implements AfterViewInit {
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
     .style("text-anchor", "end").attr("font-weight", d =>{
-      if(genres.includes(d)){
+      if(highlighted.includes(d)){
         return "bold";
       }else{
         return "normal";
@@ -102,19 +115,19 @@ export class BarComponent implements AfterViewInit {
     .data(data)
     .enter()
     .append("rect")
-    .attr("x", d => x(d.Genre))
-    .attr("y", d => y(d.Count))
+    .attr("x", d => x(d.Name))
+    .attr("y", d => y(d.Value))
     .attr("width", x.bandwidth())
-    .attr("height", d => this.height - y(d.Count))
+    .attr("height", d => this.height - y(d.Value))
     .attr("fill", function (d){
-      if(genres.includes(d.Genre)){
+      if(highlighted.includes(d.Name)){
         return "#001f80";
       }else{
         return "#859ec7";
       }
     }).on("mouseover", (e,d) =>{
         tooltip
-          .setText(`Count: ${d.Count}`)
+          .setText(`Value: ${d.Value}`)
           .setVisible();
 
         // console.log(d);
@@ -123,7 +136,7 @@ export class BarComponent implements AfterViewInit {
     .on("mouseout",  (e,d) =>{
       tooltip.setHidden();
 
-      if(genres.includes(d.Genre)){
+      if(highlighted.includes(d.Name)){
         d3.select(e.target).attr("fill", "#001f80");
       }else{
         d3.select(e.target).attr("fill", "#859ec7");

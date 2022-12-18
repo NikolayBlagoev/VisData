@@ -4,6 +4,7 @@ import {MatOption} from '@angular/material/core';
 import {MatList} from '@angular/material/list';
 import {map, Observable, startWith} from "rxjs";
 import {KaggleGame} from "./data-types";
+import {EntryTreeService} from "./entry-tree.service";
 import {PieComponent} from "./pie/pie.component";
 import initialGame from "../assets/initial_game.json";
 import { MatSelectChange } from '@angular/material/select';
@@ -39,7 +40,7 @@ export class AppComponent implements OnInit {
       startWith(option.value.name),
       map(value => this._filter(value))
     );
-  }
+  constructor(private entryTree: EntryTreeService) {}
 
   onSteamClick(){
     console.log("YOU ARE STINKY STINKY ");
@@ -55,6 +56,8 @@ export class AppComponent implements OnInit {
   extractGameName(game: KaggleGame) { return game.name; }
 
   async ngOnInit() {
+    this.entryTree.getEntryPath(1223210).then(res => console.log(res));
+
     const start = Date.now();
 
     const res = await fetch("assets/kaggle_data.json");
