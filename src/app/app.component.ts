@@ -40,6 +40,7 @@ export class AppComponent implements OnInit {
       startWith(option.value.name),
       map(value => this._filter(value))
     );
+  }
   constructor(private entryTree: EntryTreeService) {}
 
   onSteamClick(){

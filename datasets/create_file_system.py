@@ -77,6 +77,8 @@ with open("data_set.json") as fl:
 i = 0
 j = 0
 count = 0
+total_like_change = []
+
 with open("normalised_likes/tmp_0-999.json") as fl:
     norm = json.load(fl)
 with open("metareviews/tmp_0-999.json") as fl:
@@ -94,6 +96,15 @@ for d in processed_data:
     
     d["Meta Score"] = meta[j]["Meta Score"]
     d["Like Histogram"] = norm[i]["fixed_date"]
+    acc_up = 0
+    acc_down = 0
+    for entr in norm[i]["fixed_date"]:
+        acc_up += entr["recommendations_up"]
+        acc_down += entr["recommendations_down"]
+    d["Up 30 Days"] = acc_up
+    d["Down 30 Days"] = acc_down
+    total_like_change.append({"appid": d["appid"], "acc_up": acc_up, "acc_down": acc_down, "genre": d["genre"]})
+    
     d["Completion"] = norm[i]["completion"]
     try:
         d["Rating"] = meta[j]["Rating"]
@@ -110,3 +121,7 @@ for d in processed_data:
 # print(minim)
 # exit()
 make_dirs(parent,"entries/")
+print("Made system")
+
+with open("like_intermediate.json","w") as f:
+    json.dump(total_like_change,f, indent=2)
