@@ -18,7 +18,7 @@ export type KaggleGame = {
   publisher: string;
   release_date: string;
   required_age: number;
-  tags: []                  // Expand this
+  tags: Record<string, number>;
   type: string;
 }
 
