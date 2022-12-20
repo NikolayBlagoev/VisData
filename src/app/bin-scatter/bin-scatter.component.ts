@@ -15,7 +15,7 @@ export class BinScatterComponent implements AfterViewInit {
 
     @Input() inputData: Array<Point> = exampleData;
     @Input() instanceId!: string;
-    @Input() binRadius: number = 15; // Controls radius of each hexagon, i.e. bin granularity
+    @Input() binRadius = 15; // Controls radius of each hexagon, i.e. bin granularity
 
     private hexBin;
     private svg;

@@ -1,13 +1,10 @@
-import {Component, ElementRef, EventEmitter, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {MatOption} from '@angular/material/core';
-import {MatList} from '@angular/material/list';
 import {map, Observable, startWith} from "rxjs";
+import initialGame from "../assets/initial_game.json";
 import {KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
-import {PieComponent} from "./pie/pie.component";
-import initialGame from "../assets/initial_game.json";
-import { MatSelectChange } from '@angular/material/select';
 
 @Component({
   selector: 'app-root',
@@ -21,44 +18,18 @@ export class AppComponent implements OnInit {
   readonly optionsLength = 50;
 
   data: KaggleGame[] = [];
+
   currentGame: KaggleGame = initialGame;
   currentGenre: string = initialGame.genre[0];
-  hasMetaDummy: boolean = true; // TODO: This is only for testing; Replace when collected data processing is finalised
+
+  hasMetaDummy = true; // TODO: This is only for testing; Replace when collected data processing is finalised
 
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
-  @ViewChild("pieContainer", {read: ViewContainerRef}) containerRef!: ViewContainerRef;
-
-  showPie() { this.containerRef.createComponent(PieComponent); }
-
-  onGameSelection(option: MatOption<KaggleGame>) {
-    this.currentGame = option.value;
-    console.log(option.value.name);
-    this.currentGenre = this.currentGame.genre[0];
-    this.filteredData = this.searchControl.valueChanges.pipe(
-      startWith(option.value.name),
-      map(value => this._filter(value))
-    );
-  }
   constructor(private entryTree: EntryTreeService) {}
 
-  onSteamClick(){
-    console.log("YOU ARE STINKY STINKY ");
-    window.open(`https://store.steampowered.com/app/${this.currentGame.appid}`, "_blank");
-  }
-  onGenreSelection(newGenreSelection: string) { 
-    console.log(newGenreSelection);
-    this.currentGenre = newGenreSelection; 
-  }
-
-  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
-
-  extractGameName(game: KaggleGame) { return game.name; }
-
   async ngOnInit() {
-    this.entryTree.getEntryPath(1223210).then(res => console.log(res));
-
     const start = Date.now();
 
     const res = await fetch("assets/kaggle_data.json");
@@ -77,7 +48,36 @@ export class AppComponent implements OnInit {
     );
   }
 
+  onGenreSelection(newGenreSelection: string) {
+    console.log(newGenreSelection);
+    this.currentGenre = newGenreSelection;
+  }
+
+  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
+
+  test() {console.log("test");}
+
+  extractGameName(game: KaggleGame) {
+    return game?.name;
+  }
+
+  onGameSelection(option: MatOption<KaggleGame>) {
+    this.currentGame = option.value;
+    // console.log(option.value.name);
+    this.currentGenre = this.currentGame.genre[0];
+    this.filteredData = this.searchControl.valueChanges.pipe(
+      startWith(option.value.name),
+      map(value => this._filter(value))
+    );
+  }
+
   private _filter(value: string): KaggleGame[] {
+    // noinspection SuspiciousTypeOfGuard
+    if (typeof value !== "string") {
+      console.log("TODO: fix this issue");
+      return [];
+    }
+
     let result: KaggleGame[];
 
     if (value === "") {

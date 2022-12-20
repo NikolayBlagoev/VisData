@@ -53,7 +53,7 @@ export class BoxComponent implements AfterViewInit {
         this.x_scales = d3.map(this.x_scale_domains, domain => {
             return d3.scaleLinear()
                      .domain(domain)
-                     .range(this.x_scale_range);})
+                     .range(this.x_scale_range);});
         this.y_scale = d3.scaleBand()
         .domain(ExampleLabels)
         .range([0, this.height])

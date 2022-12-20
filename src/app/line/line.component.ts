@@ -1,7 +1,7 @@
-import {Component, AfterViewInit, Input} from '@angular/core';
+import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
-import { TooltipComponent } from '../tooltip/tooltip.component';
-import { LineData, LineDataIn } from './lineData';
+import {TooltipComponent} from '../tooltip/tooltip.component';
+import {LineData, LineDataIn} from './lineData';
 
 @Component({
   selector: 'app-line',
@@ -22,7 +22,7 @@ export class LineComponent implements AfterViewInit {
     this.w = width - (this.margin * 2);
     this.h = height - (this.margin * 2);
   }
-  
+
   ngAfterViewInit(): void {
     this.createSvg();
     this.drawLine(this.dset, 1500);
@@ -132,11 +132,10 @@ export class LineComponent implements AfterViewInit {
 
       })
       .on('mouseout', () => {
-        tooltip.setHidden()
+        tooltip.setHidden();
         focusText.style("opacity", 0);
         focus.style("opacity", 0);
       });
-      console.log("DONE");
   }
 
   private dset = [

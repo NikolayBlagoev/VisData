@@ -9,17 +9,20 @@
     <mat-form-field>
       <mat-label>Game name</mat-label>
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
-      <mat-autocomplete #auto="matAutocomplete" panelWidth="500px" [displayWith]="extractGameName" (optionSelected)="onGameSelection($event.option)">
+      <mat-autocomplete #auto="matAutocomplete" panelWidth="500px"
+                        [displayWith]="extractGameName"
+                        (optionSelected)="onGameSelection($event.option)">
         <mat-option *ngFor="let game of filteredData | async" [value]="game">
           <span>{{game.name}}</span>
           <span class="spacer"></span>
-          <img src="{{game.header_image}}"
-            alt="Game image" style="height: 40px">
+          <img src="{{game.header_image}}" alt="Game image" style="height: 40px">
         </mat-option>
       </mat-autocomplete>
     </mat-form-field>
   </form>
-  <img src="assets/icon.png" alt="Steam icon" style="height: 30px; width: 30px; margin-left: 30px; margin-right: 5%;" (click)="onSteamClick()" clickable>
+  <a href="https://store.steampowered.com/app/{{currentGame.appid}}" target="_blank">
+    <img src="assets/icon.png" alt="Steam icon"  style="height: 30px; width: 30px; margin-left: 30px; ">
+  </a>
 </mat-toolbar>
 
 <!-- CONTAINER FOR ENTIRE PAGE WITHOUT NAV BAR -->
@@ -32,8 +35,8 @@
   <!-- Header -->
   <mat-card class="game-card">
     <mat-card-header>
-      <!-- WHY IS THIS IN REVERSE?!?!?!??!? IT REFUSES TO DISPLAY THEM IN THE RIGHT ORDER? -->      
-      <img mat-card-xl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" /> 
+      <!-- WHY IS THIS IN REVERSE?!?!?!??!? IT REFUSES TO DISPLAY THEM IN THE RIGHT ORDER? -->
+      <img mat-card-xl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
 
       <mat-card-title #gameName><h2>{{currentGame.name}}</h2></mat-card-title>
     </mat-card-header>
@@ -83,7 +86,7 @@
   <!-- Second row -->
   <div class="two-col-container">
     <!-- TODO: Replace testing dummy with check of existence of Metacritic data once processing is complete -->
-    <app-bar instanceId="scoresBar" class="first-col" *ngIf="hasMetaDummy; else steamReviewsPie"></app-bar> 
+    <app-bar instanceId="scoresBar" class="first-col" *ngIf="hasMetaDummy; else steamReviewsPie"></app-bar>
     <ng-template #steamReviewsPie>
       <app-pie instanceId="steamReviewsPie" class="first-col"></app-pie>
     </ng-template>
