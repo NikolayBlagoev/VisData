@@ -26,7 +26,7 @@
 </mat-toolbar>
 
 <!-- CONTAINER FOR ENTIRE PAGE WITHOUT NAV BAR -->
-<div style="width: 90%; margin-left: 5%; margin-right: 5%;">
+<div class="container-whole">
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
 
@@ -36,43 +36,62 @@
   <mat-card class="game-card">
     <mat-card-header>
       <!-- WHY IS THIS IN REVERSE?!?!?!??!? IT REFUSES TO DISPLAY THEM IN THE RIGHT ORDER? -->
-      <img mat-card-xl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
+      
 
-      <mat-card-title #gameName><h2>{{currentGame.name}}</h2></mat-card-title>
+      <img mat-card-xxl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
+      <div style="display: flex; width: 100%;">
+        <div class="header-card">
+          <h1>{{currentGame.name}}</h1>
+          <b>Genres:</b>
+          <div class="round-bordered">
+            <ul  class = "general-list" #genreList>
+              <li class = "general-item" *ngFor="let genre of currentGame.genre">{{genre}}</li>
+            </ul>
+          </div>
+        </div>
+        <div class="right-header-card">
+          <h1>Platforms</h1>
+          <div class="round-bordered">
+            <mat-list>
+              <mat-list-item>
+                <b>Windows: </b>
+                <mat-icon #winSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+              <mat-list-item>
+                <b>Linux: </b>
+                <mat-icon #linuxSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+              <mat-list-item>
+                <b>Mac: </b>
+                <mat-icon #macSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+            </mat-list>
+          </div>  
+        </div>
+      </div>
     </mat-card-header>
 
     <mat-card-content>
-      <b>Genres</b>
-      <mat-list #genreList>
-        <mat-list-item *ngFor="let genre of currentGame.genre">{{genre}}</mat-list-item>
-      </mat-list>
-      <b>Categories</b>
-      <mat-list #categoryList>
-        <mat-list-item *ngFor="let category of currentGame.categories">{{category}}</mat-list-item>
-      </mat-list>
-      <b>Tags</b>
-      <mat-list #tagList>
-        <mat-list-item *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}: {{tag.value}}</mat-list-item>
-      </mat-list>
-      <b>Languages</b>
-      <mat-list #languageList>
-        <mat-list-item *ngFor="let language of currentGame.languages.split(', ')">{{language}}</mat-list-item>
-      </mat-list>
-      <b>Platforms</b>
-      <mat-list>
-        <mat-list-item>
-          <b>Windows: </b>
-          <mat-icon #winSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-        <mat-list-item>
-          <b>Linux: </b>
-          <mat-icon #linuxSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-        <mat-list-item>
-          <b>Mac: </b>
-          <mat-icon #macSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-      </mat-list>
+      
+      <h2>Categories:</h2>
+      <div class="round-bordered">
+        <ul class = "general-list" #categoryList>
+          <li class = "general-item" *ngFor="let category of currentGame.categories">{{category}}</li>
+        </ul>
+      </div>
+      <h2>Tags:</h2>
+      <div class="round-bordered">
+        <ul  class = "general-list"  #tagList>
+          <li class = "general-item" *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}</li>
+        </ul >
+      </div>
+      <h2>Languages:</h2>
+      <div class="round-bordered">
+        <ul class = "general-list"  #languageList>
+          <li class = "general-item" *ngFor="let language of currentGame.languages.split(', ')">{{language}}</li>
+        </ul>
+      </div>
+      
     </mat-card-content>
   </mat-card>
 
