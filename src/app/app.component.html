@@ -7,7 +7,7 @@
   <span class="spacer"></span>
   <form (submit)="$event.preventDefault()" style="margin-top: 20px">
     <mat-form-field>
-      <mat-label>Game name</mat-label>
+      <mat-label style="user-select: none;">Game name</mat-label>
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
       <mat-autocomplete #auto="matAutocomplete" panelWidth="500px"
                         [displayWith]="extractGameName"
@@ -95,12 +95,20 @@
     </mat-card-content>
   </mat-card>
 
+  <span style="margin-block-end: 5%;"></span>
   <!-- First row -->
-  <div class="two-col-container">
-    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>
-
-    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>
-  </div>
+  <mat-card class="game-card">
+    <div class="two-col-container vis-parent">
+      <div class="first-col">
+        
+        <h2 style="margin-inline-start: 10%;">GAME RATINGS:</h2>
+        <app-radar instanceId="categoricalDataRadar" class="vis-component"></app-radar>
+      </div>
+      <div class="second-col">
+        <app-box instanceId="categoricalDataBox" class="vis-component"></app-box>
+      </div>
+    </div>
+  </mat-card>
 
   <!-- Second row -->
   <div class="two-col-container">
@@ -110,7 +118,7 @@
       <app-pie instanceId="steamReviewsPie" class="first-col"></app-pie>
     </ng-template>
 
-    <app-pie instanceId="gameCompletionPie" class="second-col"></app-pie>
+    <app-donut instanceId="gameCompletionPie" class="second-col"></app-donut>
   </div>
 
   <!-- Third row -->

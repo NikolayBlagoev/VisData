@@ -47,13 +47,13 @@ export class DonutComponent implements AfterViewInit {
                   .range(["green","red"]);
     
     const pie = d3.pie()
-      .value((d:any) => d.value);
+      .value((d:any) => d.val);
 
     data = pie(data);
 
     this.svg.append("g")
             .attr("transform", "translate(" + this.w / 2 + "," + this.h / 2 + ")")
-            .selectAll('pies')
+            .selectAll('pieses')
             .data(data)
             .enter()
             .append('path')
@@ -62,7 +62,6 @@ export class DonutComponent implements AfterViewInit {
               .outerRadius(radius)
             )
             .attr('fill', (d) => d.data.name == name_of_red? "red":"green" )
-            .attr("stroke", "black")
             .style("stroke-width", "0px")
             .style("opacity", 0.7);
     
