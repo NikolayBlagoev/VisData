@@ -89,7 +89,7 @@
     },
     {
       "date": 1667872800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "date": 1668045600,
-      "recommendations_up": 0,
+      "recommendations_up": 2,
       "recommendations_down": 0
     },
     {
@@ -120,7 +120,7 @@
     {
       "date": 1668391200,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668477600,
@@ -154,7 +154,7 @@
     },
     {
       "date": 1668996000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "date": 1669428000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -200,32 +200,11 @@
     {
       "date": 1669773600,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 0,
+  "Up 30 Days": 5,
   "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "ACH_turn_on_lights",
-      "percent": 23.799999237060547
-    },
-    {
-      "name": "ACH_no_lights_run",
-      "percent": 1.600000023841858
-    },
-    {
-      "name": "ACH_no_flashlight_run",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "ACH_finish_coop",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "ACH_finish_solo",
-      "percent": 0.800000011920929
-    }
-  ],
+  "Completion": -1,
   "Rating": "?"
 }

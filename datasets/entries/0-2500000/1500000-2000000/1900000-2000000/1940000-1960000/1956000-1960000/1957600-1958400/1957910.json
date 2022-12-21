@@ -55,8 +55,8 @@
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
+      "recommendations_up": 0,
+      "recommendations_down": 0
     },
     {
       "date": 1667354400,
@@ -71,32 +71,32 @@
     {
       "date": 1667527200,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667613600,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1667786400,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1667872800,
-      "recommendations_up": 2,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1667959200,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1668045600,
@@ -116,21 +116,21 @@
     {
       "date": 1668304800,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1668391200,
       "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_up": 1,
+      "recommendations_down": 1
     },
     {
       "date": 1668564000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -145,13 +145,13 @@
     },
     {
       "date": 1668823200,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1668909600,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1668996000,
@@ -160,153 +160,52 @@
     },
     {
       "date": 1669082400,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1669168800,
-      "recommendations_up": 0,
+      "recommendations_up": 2,
       "recommendations_down": 0
     },
     {
       "date": 1669255200,
-      "recommendations_up": 2,
+      "recommendations_up": 5,
       "recommendations_down": 0
     },
     {
       "date": 1669341600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 1
     },
     {
       "date": 1669428000,
-      "recommendations_up": 1,
+      "recommendations_up": 3,
       "recommendations_down": 0
     },
     {
       "date": 1669514400,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1669600800,
-      "recommendations_up": 2,
+      "recommendations_up": 4,
       "recommendations_down": 0
     },
     {
       "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
+      "recommendations_up": 0,
+      "recommendations_down": 0
     },
     {
       "date": 1669773600,
-      "recommendations_up": 1,
+      "recommendations_up": 2,
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 19,
-  "Down 30 Days": 8,
-  "Completion": [
-    {
-      "name": "wardrobe-makeover",
-      "percent": 82.30000305175781
-    },
-    {
-      "name": "first-day",
-      "percent": 61.29999923706055
-    },
-    {
-      "name": "freefall",
-      "percent": 55.599998474121094
-    },
-    {
-      "name": "vacation-time",
-      "percent": 36.29999923706055
-    },
-    {
-      "name": "novice-driver",
-      "percent": 25.799999237060547
-    },
-    {
-      "name": "tornad-oh",
-      "percent": 25
-    },
-    {
-      "name": "its-for-science",
-      "percent": 24.5
-    },
-    {
-      "name": "a-new-car",
-      "percent": 22.299999237060547
-    },
-    {
-      "name": "keister",
-      "percent": 20.100000381469727
-    },
-    {
-      "name": "another-new-car",
-      "percent": 15.600000381469727
-    },
-    {
-      "name": "tinybuild",
-      "percent": 9.100000381469727
-    },
-    {
-      "name": "yet-another-new-car",
-      "percent": 8.100000381469727
-    },
-    {
-      "name": "its-a-flying-car",
-      "percent": 7.5
-    },
-    {
-      "name": "crop-duster",
-      "percent": 2.5999999046325684
-    },
-    {
-      "name": "expert-driver",
-      "percent": 2.5999999046325684
-    },
-    {
-      "name": "this-is-getting-dangerous",
-      "percent": 2.0999999046325684
-    },
-    {
-      "name": "sat-o-lite",
-      "percent": 1
-    },
-    {
-      "name": "welcome-home",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "monkey-motel",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "macho-libre",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "go-sports",
-      "percent": 0.800000011920929
-    },
-    {
-      "name": "conch-climber",
-      "percent": 0.800000011920929
-    },
-    {
-      "name": "pirates-booty",
-      "percent": 0.800000011920929
-    },
-    {
-      "name": "veteran-driver",
-      "percent": 0.800000011920929
-    },
-    {
-      "name": "big-bear",
-      "percent": 0.699999988079071
-    }
-  ],
+  "Up 30 Days": 20,
+  "Down 30 Days": 3,
+  "Completion": 82.4000015258789,
   "Rating": "?"
 }

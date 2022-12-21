@@ -48,7 +48,7 @@
     {
       "date": 1667268000,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667354400,
@@ -58,7 +58,7 @@
     {
       "date": 1667440800,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1667527200,
@@ -68,7 +68,7 @@
     {
       "date": 1667613600,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667700000,
@@ -192,89 +192,12 @@
     },
     {
       "date": 1669773600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": [
-    {
-      "name": "ACH_BEGINNING",
-      "percent": 94.4000015258789
-    },
-    {
-      "name": "ACH_DEATH_MINUTE_3",
-      "percent": 47
-    },
-    {
-      "name": "ACH_DEFEAR_XINGTIAN",
-      "percent": 43.099998474121094
-    },
-    {
-      "name": "ACH_DEFEAT_LEIYUAN",
-      "percent": 31.799999237060547
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_ONCE",
-      "percent": 27.100000381469727
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_YZY",
-      "percent": 17.5
-    },
-    {
-      "name": "ACH_COLLECT_ITEM_30",
-      "percent": 15.899999618530273
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_HSY",
-      "percent": 13.699999809265137
-    },
-    {
-      "name": "ACH_COLLECT_EVENT_ITEM_HSY",
-      "percent": 11.600000381469727
-    },
-    {
-      "name": "ACH_COLLECT_EVENT_ITEM_YZY",
-      "percent": 11.199999809265137
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_LMY",
-      "percent": 8.800000190734863
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_HRL",
-      "percent": 6.199999809265137
-    },
-    {
-      "name": "ACH_COLLECT_EVENT_ITEM_LMY",
-      "percent": 6.099999904632568
-    },
-    {
-      "name": "ACH_LEVEL_UPTO_20",
-      "percent": 6
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_MRYQ",
-      "percent": 5.599999904632568
-    },
-    {
-      "name": "ACH_COLLECT_EVENT_ITEM_HRL",
-      "percent": 5.400000095367432
-    },
-    {
-      "name": "ACH_COLLECT_EVENT_ITEM_MRYQ",
-      "percent": 5.099999904632568
-    },
-    {
-      "name": "ACH_CRAZY_DEATH",
-      "percent": 3.799999952316284
-    },
-    {
-      "name": "ACH_COMPLETE_GAME_ALL",
-      "percent": 3
-    }
-  ],
+  "Up 30 Days": 1,
+  "Down 30 Days": 1,
+  "Completion": -1,
   "Rating": "?"
 }

@@ -60,13 +60,13 @@
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_up": 1,
+      "recommendations_down": 0
     },
     {
       "date": 1667700000,
@@ -75,12 +75,12 @@
     },
     {
       "date": 1667786400,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1667872800,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
@@ -95,17 +95,17 @@
     },
     {
       "date": 1668132000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668218400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668304800,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
@@ -115,12 +115,12 @@
     },
     {
       "date": 1668477600,
-      "recommendations_up": 0,
+      "recommendations_up": 2,
       "recommendations_down": 0
     },
     {
       "date": 1668564000,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 1
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "date": 1668736800,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "date": 1668909600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -175,17 +175,17 @@
     },
     {
       "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
       "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
-      "date": 1669687200,
+      "date": 1669600800,
       "recommendations_up": 0,
+      "recommendations_down": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -194,317 +194,8 @@
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 7,
-  "Down 30 Days": 2,
-  "Completion": [
-    {
-      "name": "Invasion_Mission_01",
-      "percent": 78.5999984741211
-    },
-    {
-      "name": "Upgrade_AnyUnit",
-      "percent": 76.30000305175781
-    },
-    {
-      "name": "LevelUp_AnyUnit",
-      "percent": 75.19999694824219
-    },
-    {
-      "name": "Spend_First_SkillPoint",
-      "percent": 71.30000305175781
-    },
-    {
-      "name": "Reveal_HiddenAmbusher_Without_Ambushed",
-      "percent": 66.9000015258789
-    },
-    {
-      "name": "Attack_Magic_AgainstRouted",
-      "percent": 53.20000076293945
-    },
-    {
-      "name": "Loot_Artefact_From_Enemy",
-      "percent": 50
-    },
-    {
-      "name": "Invasion_Unlock_BearMount",
-      "percent": 49.400001525878906
-    },
-    {
-      "name": "KillUnit_WhileDefending",
-      "percent": 46.70000076293945
-    },
-    {
-      "name": "Hire_First_Mercenary",
-      "percent": 42.29999923706055
-    },
-    {
-      "name": "Invasion_Mission_06",
-      "percent": 41.70000076293945
-    },
-    {
-      "name": "Attack_Siege_AgainstFortified",
-      "percent": 40.29999923706055
-    },
-    {
-      "name": "Unit_Killed_20Enemies",
-      "percent": 40
-    },
-    {
-      "name": "Survive_1HP",
-      "percent": 38.20000076293945
-    },
-    {
-      "name": "KillUnit_Ambush",
-      "percent": 38.099998474121094
-    },
-    {
-      "name": "Invasion_Mission_09",
-      "percent": 36.900001525878906
-    },
-    {
-      "name": "EnemyUnit_Surrender",
-      "percent": 36.79999923706055
-    },
-    {
-      "name": "EnemyHero_Flees",
-      "percent": 30.100000381469727
-    },
-    {
-      "name": "Release_CharmedUnit",
-      "percent": 29.5
-    },
-    {
-      "name": "Invasion_Mission_16",
-      "percent": 27.700000762939453
-    },
-    {
-      "name": "Kill_Each_Other",
-      "percent": 22.299999237060547
-    },
-    {
-      "name": "Invasion_Mission_25",
-      "percent": 17.200000762939453
-    },
-    {
-      "name": "Upgrade_Werebears",
-      "percent": 17
-    },
-    {
-      "name": "Rename_Unit",
-      "percent": 16.5
-    },
-    {
-      "name": "LevelUp_Hero_Max",
-      "percent": 15.5
-    },
-    {
-      "name": "Invasion_Unlock_DragonMount",
-      "percent": 15.199999809265137
-    },
-    {
-      "name": "LevelUp_Normal_Max",
-      "percent": 14.399999618530273
-    },
-    {
-      "name": "Invasion_Easy",
-      "percent": 11.800000190734863
-    },
-    {
-      "name": "TrainedSameUnit",
-      "percent": 11.399999618530273
-    },
-    {
-      "name": "Invasion_Medium",
-      "percent": 9.300000190734863
-    },
-    {
-      "name": "Invasion_Mission_18",
-      "percent": 8.199999809265137
-    },
-    {
-      "name": "DLC1_Choice",
-      "percent": 5.699999809265137
-    },
-    {
-      "name": "Five_Second_Rule",
-      "percent": 3.4000000953674316
-    },
-    {
-      "name": "DLC1_Easy",
-      "percent": 2.5999999046325684
-    },
-    {
-      "name": "Invasion_Challenging",
-      "percent": 2.5999999046325684
-    },
-    {
-      "name": "EVO_Devourer",
-      "percent": 2.5
-    },
-    {
-      "name": "EVO_Shprd",
-      "percent": 2.5
-    },
-    {
-      "name": "DLC1_LightPath",
-      "percent": 2.5
-    },
-    {
-      "name": "DLC1_Medium",
-      "percent": 2
-    },
-    {
-      "name": "EVO_Yig",
-      "percent": 1.7000000476837158
-    },
-    {
-      "name": "Onslaught1_Easy",
-      "percent": 1.7000000476837158
-    },
-    {
-      "name": "EVO_Easy",
-      "percent": 1.600000023841858
-    },
-    {
-      "name": "Onslaught1_Empire",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "Onslaught1_Normal",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "Invasion_Keep_Ulnar_Until_End",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "EVO_Medium",
-      "percent": 1.2000000476837158
-    },
-    {
-      "name": "Onslaught1_ScarletMountains",
-      "percent": 1.2000000476837158
-    },
-    {
-      "name": "Onslaught_Ailsa",
-      "percent": 1.2000000476837158
-    },
-    {
-      "name": "EVO_Wavan",
-      "percent": 1.100000023841858
-    },
-    {
-      "name": "Onslaught_Filos",
-      "percent": 1
-    },
-    {
-      "name": "Onslaught1_SunkenLands",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "Onslaught1_Challenging",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "Invasion_Hard",
-      "percent": 0.8999999761581421
-    },
-    {
-      "name": "DLC1_Challenging",
-      "percent": 0.800000011920929
-    },
-    {
-      "name": "EVO_TsuNa",
-      "percent": 0.699999988079071
-    },
-    {
-      "name": "Onslaught_Moira",
-      "percent": 0.6000000238418579
-    },
-    {
-      "name": "Onslaught_Falirson",
-      "percent": 0.6000000238418579
-    },
-    {
-      "name": "DLC1_DarkPath",
-      "percent": 0.5
-    },
-    {
-      "name": "Onslaught_Marcra",
-      "percent": 0.5
-    },
-    {
-      "name": "Free_Challenging",
-      "percent": 0.5
-    },
-    {
-      "name": "Onslaught1_Barren",
-      "percent": 0.5
-    },
-    {
-      "name": "Onslaught_Relkar",
-      "percent": 0.5
-    },
-    {
-      "name": "Invasion_VeryHard",
-      "percent": 0.5
-    },
-    {
-      "name": "Onslaught1_Hard",
-      "percent": 0.4000000059604645
-    },
-    {
-      "name": "Invasion_IronMaiden",
-      "percent": 0.4000000059604645
-    },
-    {
-      "name": "Onslaught_Hunter",
-      "percent": 0.30000001192092896
-    },
-    {
-      "name": "EVO_Challenging",
-      "percent": 0.30000001192092896
-    },
-    {
-      "name": "DLC1_Hard",
-      "percent": 0.30000001192092896
-    },
-    {
-      "name": "Free_Legend",
-      "percent": 0.30000001192092896
-    },
-    {
-      "name": "Onslaught1_VeryHard",
-      "percent": 0.30000001192092896
-    },
-    {
-      "name": "Onslaught_Szzlag",
-      "percent": 0.20000000298023224
-    },
-    {
-      "name": "EVO_Hard",
-      "percent": 0.20000000298023224
-    },
-    {
-      "name": "DLC1_IronMaiden",
-      "percent": 0.20000000298023224
-    },
-    {
-      "name": "DLC1_VeryHard",
-      "percent": 0.20000000298023224
-    },
-    {
-      "name": "EVO_Newt",
-      "percent": 0.10000000149011612
-    },
-    {
-      "name": "EVO_IronMaiden",
-      "percent": 0.10000000149011612
-    },
-    {
-      "name": "EVO_VeryHard",
-      "percent": 0.10000000149011612
-    }
-  ],
+  "Up 30 Days": 10,
+  "Down 30 Days": 1,
+  "Completion": 42.75,
   "Rating": "?"
 }

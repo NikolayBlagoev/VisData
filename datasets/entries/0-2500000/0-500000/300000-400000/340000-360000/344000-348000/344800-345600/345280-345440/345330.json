@@ -136,7 +136,7 @@
     {
       "date": 1668477600,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668564000,
@@ -151,7 +151,7 @@
     {
       "date": 1668736800,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668823200,
@@ -165,7 +165,7 @@
     },
     {
       "date": 1668996000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "date": 1669514400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -214,49 +214,8 @@
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": [
-    {
-      "name": "CFWD1",
-      "percent": 80.80000305175781
-    },
-    {
-      "name": "CFWD2",
-      "percent": 72.30000305175781
-    },
-    {
-      "name": "CFWD3",
-      "percent": 61.70000076293945
-    },
-    {
-      "name": "CFWD5",
-      "percent": 29.700000762939453
-    },
-    {
-      "name": "CFWD9",
-      "percent": 23.399999618530273
-    },
-    {
-      "name": "CFWD10",
-      "percent": 21.200000762939453
-    },
-    {
-      "name": "CFWD7",
-      "percent": 21.200000762939453
-    },
-    {
-      "name": "CFWD4",
-      "percent": 19.100000381469727
-    },
-    {
-      "name": "CFWD8",
-      "percent": 17
-    },
-    {
-      "name": "CFWD6",
-      "percent": 14.800000190734863
-    }
-  ],
+  "Up 30 Days": 3,
+  "Down 30 Days": 2,
+  "Completion": 28.299999237060547,
   "Rating": "?"
 }

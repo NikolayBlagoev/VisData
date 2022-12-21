@@ -80,7 +80,7 @@
     {
       "date": 1667527200,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1667613600,
@@ -99,7 +99,7 @@
     },
     {
       "date": 1667872800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -189,17 +189,17 @@
     },
     {
       "date": 1669428000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1669514400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1669600800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -213,41 +213,8 @@
       "recommendations_down": 1
     }
   ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN",
-      "percent": 80.80000305175781
-    },
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN10",
-      "percent": 42.099998474121094
-    },
-    {
-      "name": "ACHIEVEMENT_API_CONSOLE_USED",
-      "percent": 20.700000762939453
-    },
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN20",
-      "percent": 13.899999618530273
-    },
-    {
-      "name": "ACHIEVEMENT_API_GPUTEMP_90",
-      "percent": 9.5
-    },
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN30",
-      "percent": 6.400000095367432
-    },
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN40",
-      "percent": 4.099999904632568
-    },
-    {
-      "name": "ACHIEVEMENT_API_MEMORY_CLEAN50",
-      "percent": 2.9000000953674316
-    }
-  ],
+  "Up 30 Days": 4,
+  "Down 30 Days": 2,
+  "Completion": 20.600000381469727,
   "Rating": "?"
 }
