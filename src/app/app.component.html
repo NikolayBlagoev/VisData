@@ -111,25 +111,52 @@
   </mat-card>
 
   <!-- Second row -->
-  <div class="two-col-container">
+  <div class="two-col-container game-card">
     <!-- TODO: Replace testing dummy with check of existence of Metacritic data once processing is complete -->
-    <app-bar instanceId="scoresBar" class="first-col" *ngIf="hasMetaDummy; else steamReviewsPie"></app-bar>
-    <ng-template #steamReviewsPie>
-      <app-pie instanceId="steamReviewsPie" class="first-col"></app-pie>
-    </ng-template>
-
-    <app-donut instanceId="gameCompletionPie" class="second-col"></app-donut>
+    <mat-card class="first-col">
+      <h2 style="margin-inline-start: 10%;">Game Reviews:</h2>
+      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie" [margin] = 80 [width]=600 [height]=300></app-bar>
+    
+      <ng-template #steamReviewsPie>
+        <app-pie instanceId="steamReviewsPie"></app-pie>
+      </ng-template>
+    </mat-card>
+    <mat-card class="second-col">
+      <h2 style="margin-inline-start: 10%;">Game Completion:</h2>
+      <app-donut instanceId="gameCompletionPie" [margin] = 80 [w]=300 [h]=300></app-donut>
+    </mat-card>
   </div>
 
   <!-- Third row -->
-  <div>
-    <app-line instanceId="likesOverTimeLine"></app-line>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <app-line instanceId="likesOverTimeLine" [width] = 1400></app-line>
+      </div>  
+    </mat-card>
   </div>
 
   <!-- Fourth row -->
-  <div>
-    <app-line instanceId="ccuOverTimeLine"></app-line>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <app-line instanceId="ccuOverTimeLine" [width] = 1400></app-line>
+      </div>  
+    </mat-card>
   </div>
+
 
 
   <!-- ========== MULTIPLE GAME INFO ========== -->

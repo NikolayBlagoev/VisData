@@ -12,6 +12,8 @@ export class LineComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
   private svg;
+  @Input() height: number  = 500;
+  @Input() width: number = 900;
   private margin = 120;
   private h = 500;
   private w = 900;
@@ -24,6 +26,8 @@ export class LineComponent implements AfterViewInit {
   }
 
   ngAfterViewInit(): void {
+    this.w = this.width - (this.margin * 2);
+    this.h = this.height - (this.margin * 2);
     this.createSvg();
     this.drawLine(this.dset, 1500);
 
@@ -36,7 +40,7 @@ export class LineComponent implements AfterViewInit {
       .attr("height", this.h + (this.margin * 2))
       .append("g")
       .style("user-select", "none").attr("transform",
-        "translate(" + this.margin + "," + this.margin + ")");
+        "translate(" + this.margin + ",60)");
   }
 
   private drawLine(data_in: LineDataIn[], initial_likes: number): void {

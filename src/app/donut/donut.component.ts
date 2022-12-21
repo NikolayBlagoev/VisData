@@ -12,9 +12,9 @@ export class DonutComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
   private svg;
-  private margin = 80;
-  private w = 1200 - (this.margin * 2);
-  private h = 600 - (this.margin * 2);
+  @Input() margin!: number;
+  @Input() w !: number;
+  @Input() h!: number;
 
   // Control width, height, margin
   public setValues(width, height, margin): void {
@@ -24,8 +24,10 @@ export class DonutComponent implements AfterViewInit {
   }
 
   ngAfterViewInit(): void {
+    this.w = this.w - (this.margin * 2);
+    this.h = this.h - (this.margin * 2);
     this.createSvg();
-    this.drawDonut(this.data, 200, this.data[0].val+"%", 130, "not");
+    this.drawDonut(this.data, 150, this.data[0].val+"%", 100, "not");
   }
 
   private createSvg(): void {
