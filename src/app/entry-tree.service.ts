@@ -17,7 +17,7 @@ export class EntryTreeService {
     const value = await  res.text();
     let tree: TreeEntry = JSON.parse(value);
 
-    const path = ["asserts", "entries"];
+    const path = ["assets", "entries"];
 
     // eslint-disable-next-line no-constant-condition
     while (true) {
@@ -37,6 +37,6 @@ export class EntryTreeService {
 
     path.push(id + ".json");
 
-    return path.join("/");
+    return "http://localhost:6900/" + path.join("/");
   }
 }

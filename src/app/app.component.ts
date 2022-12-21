@@ -1,10 +1,11 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {MatOption} from '@angular/material/core';
 import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
-import {KaggleGame} from "./data-types";
+import {GameEntry, KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
+import {LineComponent} from "./line/line.component";
 
 @Component({
   selector: 'app-root',
@@ -27,6 +28,8 @@ export class AppComponent implements OnInit {
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
+  @ViewChild("test") lineContainer!: ViewContainerRef;
+
   constructor(private entryTree: EntryTreeService) {}
 
   async ngOnInit() {
@@ -46,6 +49,13 @@ export class AppComponent implements OnInit {
       startWith(""),
       map(value => this._filter(value))
     );
+
+    const path = await this.entryTree.getEntryPath(10);
+
+    const resp = await fetch(path);
+    const entry: GameEntry = JSON.parse(await resp.text());
+    console.log("test");
+    console.log(entry["Like Histogram"]);
   }
 
   onGenreSelection(newGenreSelection: string) {
@@ -61,7 +71,7 @@ export class AppComponent implements OnInit {
     return game?.name;
   }
 
-  onGameSelection(option: MatOption<KaggleGame>) {
+  async onGameSelection(option: MatOption<KaggleGame>) {
     this.currentGame = option.value;
     // console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
@@ -69,6 +79,10 @@ export class AppComponent implements OnInit {
       startWith(option.value.name),
       map(value => this._filter(value))
     );
+
+    await this.entryTree.getEntryPath(this.currentGame.appid);
+
+    this.lineContainer.createComponent(LineComponent);
   }
 
   private _filter(value: string): KaggleGame[] {

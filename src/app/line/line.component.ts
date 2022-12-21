@@ -1,7 +1,8 @@
 import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
+import {HistogramData} from "../data-types";
 import {TooltipComponent} from '../tooltip/tooltip.component';
-import {LineData, LineDataIn} from './lineData';
+import {LineData} from './lineData';
 
 @Component({
   selector: 'app-line',
@@ -11,6 +12,8 @@ import {LineData, LineDataIn} from './lineData';
 export class LineComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
+  @Input() data!: HistogramData[];
+
   private svg;
   private margin = 120;
   private h = 500;
@@ -25,8 +28,7 @@ export class LineComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this.createSvg();
-    this.drawLine(this.dset, 1500);
-
+    this.drawLine(this.data, 1500);
   }
 
   private createSvg(): void {
@@ -39,14 +41,17 @@ export class LineComponent implements AfterViewInit {
         "translate(" + this.margin + "," + this.margin + ")");
   }
 
-  private drawLine(data_in: LineDataIn[], initial_likes: number): void {
-    const data: LineData[] = data_in.map((el) => {
-      initial_likes = initial_likes + el.recommendations_up - el.recommendations_down;
+  private drawLine(histogramData: HistogramData[], initial_likes: number) {
+    // Map histogram to proper data
+    const data: LineData[] = histogramData.map((el) => {
+      const likes = initial_likes + el.recommendations_up - el.recommendations_down;
+
       return {
         "date": new Date(el.date * 1000),
-        "value": initial_likes
+        "value": likes
       };
     });
+
     // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
