@@ -6,6 +6,7 @@ import initialGame from "../assets/initial_game.json";
 import {GameEntry, KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
 import {LineComponent} from "./line/line.component";
+import {PieComponent} from "./pie/pie.component";
 
 @Component({
   selector: 'app-root',
@@ -28,7 +29,12 @@ export class AppComponent implements OnInit {
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
-  @ViewChild("test") lineContainer!: ViewContainerRef;
+  @ViewChild("test", {read: ViewContainerRef}) lineContainer!: ViewContainerRef;
+
+  bla() {
+    this.lineContainer.clear();
+    this.lineContainer.createComponent(PieComponent);
+  }
 
   constructor(private entryTree: EntryTreeService) {}
 
@@ -49,13 +55,6 @@ export class AppComponent implements OnInit {
       startWith(""),
       map(value => this._filter(value))
     );
-
-    const path = await this.entryTree.getEntryPath(10);
-
-    const resp = await fetch(path);
-    const entry: GameEntry = JSON.parse(await resp.text());
-    console.log("test");
-    console.log(entry["Like Histogram"]);
   }
 
   onGenreSelection(newGenreSelection: string) {
@@ -80,9 +79,13 @@ export class AppComponent implements OnInit {
       map(value => this._filter(value))
     );
 
-    await this.entryTree.getEntryPath(this.currentGame.appid);
+    const path = await this.entryTree.getEntryPath(this.currentGame.appid);
 
-    this.lineContainer.createComponent(LineComponent);
+    const resp = await fetch(path);
+    const entry: GameEntry = JSON.parse(await resp.text());
+
+    const lineComponent = this.lineContainer.createComponent(LineComponent);
+    lineComponent.instance.data = entry["Like Histogram"];
   }
 
   private _filter(value: string): KaggleGame[] {

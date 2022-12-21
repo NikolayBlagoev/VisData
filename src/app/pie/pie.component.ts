@@ -1,8 +1,9 @@
 import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
-import { PieData } from './pieData';
-import { TooltipComponent } from "../tooltip/tooltip.component";
+import {IdService} from "../id.service";
+import {TooltipComponent} from "../tooltip/tooltip.component";
+import {PieData} from './pieData';
 
 @Component({
   selector: 'app-pie',
@@ -13,17 +14,20 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
 export class PieComponent implements AfterViewInit {
 
   @Input() data: PieData[] | undefined;
-  @Input() instanceId!: string;
+  instanceId: string;
 
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
 
   ngAfterViewInit(): void {
     if (this.data == undefined) {
       this.data = [
-        {name: "Alex", ratio: 4534},
-        {name: "Shelly", ratio: 7985},
-        {name: "Clark", ratio: 500},
-        {name: "Matt", ratio: 4321},
-        {name: "Jolene", ratio: 500}
+        {name: "Alex", ratio: Math.random()},
+        {name: "Shelly", ratio: Math.random()},
+        {name: "Clark", ratio: Math.random()},
+        {name: "Matt", ratio: Math.random()},
+        {name: "Jolene", ratio: Math.random()}
       ];
     }
 
