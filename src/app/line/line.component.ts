@@ -59,12 +59,12 @@ export class LineComponent implements AfterViewInit {
       .range([0, this.w])
       .domain([min_el, max_el]);
     this.svg.append("g")
-      .attr("transform", "translate(0," + (this.h - 10) + ")")
+      .attr("transform", "translate(0," + (this.h ) + ")")
       .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y %H:%M")).selectAll("text")
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
-      .domain([0, data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
+      .domain([data.reduce((acc, e1) => acc = acc < e1.value ? acc : e1.value - 500, 0), data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
       .range([this.h, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));

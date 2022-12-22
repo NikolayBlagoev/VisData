@@ -55,7 +55,7 @@ export class AppComponent implements OnInit {
     this.currentGenre = newGenreSelection;
   }
 
-  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
+  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "close"; }
 
   test() {console.log("test");}
 
