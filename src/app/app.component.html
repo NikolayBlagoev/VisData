@@ -11,7 +11,7 @@
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
       <mat-autocomplete #auto="matAutocomplete" panelWidth="500px"
                         [displayWith]="extractGameName"
-                        (optionSelected)="onGameSelection($event.option)">
+                        (optionSelected)="onGameSelection($event.option.value)">
         <mat-option *ngFor="let game of filteredData | async" [value]="game">
           <span>{{game.name}}</span>
           <span class="spacer"></span>
@@ -29,12 +29,6 @@
 <div style="width: 90%; margin-left: 5%; margin-right: 5%;">
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
-
-
-  <div>
-    <div #lineContainer></div>
-  </div>
-
 
   <!-- ========== SINGLE GAME INFO ========== -->
   <!-- Header -->
@@ -101,12 +95,12 @@
 
   <!-- Third row -->
   <div>
-<!--    <app-line instanceId="likesOverTimeLine"></app-line>-->
+    <div #likesOverTimeLine></div>
   </div>
 
   <!-- Fourth row -->
   <div>
-<!--    <app-line instanceId="ccuOverTimeLine"></app-line>-->
+    <div #ccuOverTimeLine></div>
   </div>
 
 

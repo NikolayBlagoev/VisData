@@ -1,6 +1,5 @@
 import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
-import {MatOption} from '@angular/material/core';
 import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
 import {GameEntry, KaggleGame} from "./data-types";
@@ -28,7 +27,8 @@ export class AppComponent implements OnInit {
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
-  @ViewChild("lineContainer", {read: ViewContainerRef}) lineContainer!: ViewContainerRef;
+  @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLine!: ViewContainerRef;
+  @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLine!: ViewContainerRef;
 
   constructor(private entryTree: EntryTreeService) {}
 
@@ -64,12 +64,12 @@ export class AppComponent implements OnInit {
     return game?.name;
   }
 
-  async onGameSelection(option: MatOption<KaggleGame>) {
-    this.currentGame = option.value;
+  async onGameSelection(game: KaggleGame) {
+    this.currentGame = game;
     // console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
     this.filteredData = this.searchControl.valueChanges.pipe(
-      startWith(option.value.name),
+      startWith(game.name),
       map(value => this._filter(value))
     );
 
@@ -78,9 +78,11 @@ export class AppComponent implements OnInit {
     const resp = await fetch(path);
     const entry: GameEntry = JSON.parse(await resp.text());
 
-    this.lineContainer.clear();
-    const lineComponent = this.lineContainer.createComponent(LineComponent);
-    lineComponent.instance.data = entry["Like Histogram"];
+    const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"])
+
+    this.likesOverTimeLine.clear();
+    const lineComponent = this.likesOverTimeLine.createComponent(LineComponent);
+    lineComponent.instance.data = [entry["Like Histogram"], startingLikes];
   }
 
   private _filter(value: string): KaggleGame[] {

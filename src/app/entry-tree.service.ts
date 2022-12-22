@@ -27,7 +27,7 @@ export class EntryTreeService {
         break;
 
       for (const child of tree.children) {
-        if (child.smallest <= id && child.largest >= id) {
+        if (child.smallest <= id && child.largest > id) {
 
           tree = child;
           break;

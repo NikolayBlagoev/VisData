@@ -13,7 +13,7 @@ import {LineData} from './lineData';
 export class LineComponent implements AfterViewInit {
 
   instanceId!: string;
-  @Input() data!: HistogramData[];
+  @Input() data!: [HistogramData[], number];
 
   private svg;
   private margin = 120;
@@ -33,7 +33,7 @@ export class LineComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this.createSvg();
-    this.drawLine(this.data, 1500);
+    this.drawLine(this.data[0], this.data[1]);
   }
 
   private createSvg(): void {
@@ -47,21 +47,34 @@ export class LineComponent implements AfterViewInit {
   }
 
   private drawLine(histogramData: HistogramData[], initialLikes: number) {
-    let currentLikes = initialLikes;
+    if (histogramData[0].recommendations_up + histogramData[0].recommendations_down == 0) {
+      histogramData = histogramData.slice(1);
+    }
+
+    // let currentValue = initialLikes;
 
     // Map histogram to proper data
     const data: LineData[] = histogramData.map((el) => {
-      currentLikes = currentLikes + el.recommendations_up - el.recommendations_down;
+      // currentValue = currentValue + el.recommendations_up - el.recommendations_down;
+      const up = el.recommendations_up;
+      const down = el.recommendations_down;
+      const total = Math.max(1, up + down);
+      const currentValue = (up / total) * 100;
 
       return {
         "date": new Date(el.date * 1000),
-        "value": currentLikes
+        "value": currentValue
       };
     });
 
+    // const yRange = [data.reduce((acc, e1) => acc < e1.value ? acc: e1.value, Number.MAX_SAFE_INTEGER),
+    //   data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
+
+    const yRange = [0, 100];
+
     // data = data.map(d => d.date.toString());
-    const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
-    const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
+    const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
+    const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
 
     const x = d3.scaleTime()
       .range([0, this.w])
@@ -72,7 +85,7 @@ export class LineComponent implements AfterViewInit {
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
-      .domain([0, data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
+      .domain(yRange)
       .range([this.h, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));
