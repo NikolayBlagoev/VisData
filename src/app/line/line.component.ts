@@ -1,6 +1,7 @@
 import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
 import {HistogramData} from "../data-types";
+import {IdService} from "../id.service";
 import {TooltipComponent} from '../tooltip/tooltip.component';
 import {LineData} from './lineData';
 
@@ -11,13 +12,17 @@ import {LineData} from './lineData';
 })
 export class LineComponent implements AfterViewInit {
 
-  @Input() instanceId!: string;
+  instanceId!: string;
   @Input() data!: HistogramData[];
 
   private svg;
   private margin = 120;
   private h = 500;
   private w = 900;
+
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
 
     // Control width, height, margin
   public setValues(width, height, margin): void {
@@ -41,14 +46,16 @@ export class LineComponent implements AfterViewInit {
         "translate(" + this.margin + "," + this.margin + ")");
   }
 
-  private drawLine(histogramData: HistogramData[], initial_likes: number) {
+  private drawLine(histogramData: HistogramData[], initialLikes: number) {
+    let currentLikes = initialLikes;
+
     // Map histogram to proper data
     const data: LineData[] = histogramData.map((el) => {
-      const likes = initial_likes + el.recommendations_up - el.recommendations_down;
+      currentLikes = currentLikes + el.recommendations_up - el.recommendations_down;
 
       return {
         "date": new Date(el.date * 1000),
-        "value": likes
+        "value": currentLikes
       };
     });
 

@@ -6,7 +6,6 @@ import initialGame from "../assets/initial_game.json";
 import {GameEntry, KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
 import {LineComponent} from "./line/line.component";
-import {PieComponent} from "./pie/pie.component";
 
 @Component({
   selector: 'app-root',
@@ -29,12 +28,7 @@ export class AppComponent implements OnInit {
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
-  @ViewChild("test", {read: ViewContainerRef}) lineContainer!: ViewContainerRef;
-
-  bla() {
-    this.lineContainer.clear();
-    this.lineContainer.createComponent(PieComponent);
-  }
+  @ViewChild("lineContainer", {read: ViewContainerRef}) lineContainer!: ViewContainerRef;
 
   constructor(private entryTree: EntryTreeService) {}
 
@@ -84,6 +78,7 @@ export class AppComponent implements OnInit {
     const resp = await fetch(path);
     const entry: GameEntry = JSON.parse(await resp.text());
 
+    this.lineContainer.clear();
     const lineComponent = this.lineContainer.createComponent(LineComponent);
     lineComponent.instance.data = entry["Like Histogram"];
   }
