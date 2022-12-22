@@ -1,71 +1,109 @@
 {
-  "appid": 1678590,
-  "name": "Missing Love",
-  "developer": "Game last studio",
-  "publisher": "Game last studio",
-  "tags": {
-    "Early Access": 273,
-    "Story Rich": 248,
-    "Choices Matter": 241,
-    "Multiple Endings": 238,
-    "Nonlinear": 235,
-    "Puzzle": 233,
-    "Exploration": 227,
-    "Choose Your Own Adventure": 224,
-    "Dark": 223,
-    "Drama": 220,
-    "Action": 214,
-    "Investigation": 205,
-    "Detective": 203,
-    "Dark Comedy": 196,
-    "2D": 195,
-    "Dark Humor": 192,
-    "Hidden Object": 186,
-    "Top-Down": 169,
-    "Narration": 159,
-    "RPGMaker": 149
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1678590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1678590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 69.4000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1678590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1678590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1678590,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Thai",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678590/header.jpg?t=1661675807",
+  "consensus_genre": "Early Access",
+  "developer": "Game last studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 69.4000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678590/header.jpg?t=1661675807",
+  "initialprice": "599",
+  "languages": "English, Thai",
+  "name": "Missing Love",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Game last studio",
+  "release_date": "2022/03/17",
+  "required_age": 0,
+  "tags": {
+    "2D": 195,
+    "Action": 214,
+    "Choices Matter": 241,
+    "Choose Your Own Adventure": 224,
+    "Dark": 223,
+    "Dark Comedy": 196,
+    "Dark Humor": 192,
+    "Detective": 203,
+    "Drama": 220,
+    "Early Access": 273,
+    "Exploration": 227,
+    "Hidden Object": 186,
+    "Investigation": 205,
+    "Multiple Endings": 238,
+    "Narration": 159,
+    "Nonlinear": 235,
+    "Puzzle": 233,
+    "RPGMaker": 149,
+    "Story Rich": 248,
+    "Top-Down": 169
+  },
+  "type": "game"
 }

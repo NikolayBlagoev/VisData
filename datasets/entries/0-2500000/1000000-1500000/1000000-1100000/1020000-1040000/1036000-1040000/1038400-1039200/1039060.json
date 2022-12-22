@@ -1,52 +1,90 @@
 {
-  "appid": 1039060,
-  "name": "pepeizq's Cities",
-  "developer": "pepeizq",
-  "publisher": "pepeizq",
-  "tags": {
-    "Strategy": 32,
-    "Indie": 31,
-    "Early Access": 11,
-    "Management": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1039060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1039060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 30.399999618530273,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1039060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1039060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1039060,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/06/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1039060/header.jpg?t=1591865700",
+  "consensus_genre": "Strategy",
+  "developer": "pepeizq",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 30.399999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1039060/header.jpg?t=1591865700",
+  "initialprice": "599",
+  "languages": "English, Spanish - Spain",
+  "name": "pepeizq's Cities",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "599",
+  "publisher": "pepeizq",
+  "release_date": "2020/06/2",
+  "required_age": 0,
+  "tags": {
+    "Early Access": 11,
+    "Indie": 31,
+    "Management": 11,
+    "Strategy": 32
+  },
+  "type": "game"
 }

@@ -1,79 +1,117 @@
 {
-  "appid": 1819770,
-  "name": "Shooter's Island",
-  "developer": "Seminaut Game Studios",
-  "publisher": "Seminaut Game Studios",
-  "tags": {
-    "Action": 196,
-    "Shooter": 170,
-    "Exploration": 166,
-    "FPS": 162,
-    "Colorful": 155,
-    "First-Person": 145,
-    "VR": 139,
-    "Atmospheric": 130,
-    "Family Friendly": 122,
-    "Nature": 113,
-    "Relaxing": 102,
-    "Sniper": 100,
-    "Tactical": 87,
-    "Asymmetric VR": 72,
-    "Combat": 58,
-    "PvE": 42,
-    "Tutorial": 27,
-    "Singleplayer": 25,
-    "Early Access": 21,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1819770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1819770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1819770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1819770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1819770,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1819770/header.jpg?t=1643496172",
+  "consensus_genre": "Action",
+  "developer": "Seminaut Game Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1819770/header.jpg?t=1643496172",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Shooter's Island",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Seminaut Game Studios",
+  "release_date": "2022/01/29",
+  "required_age": 0,
+  "tags": {
+    "Action": 196,
+    "Asymmetric VR": 72,
+    "Atmospheric": 130,
+    "Colorful": 155,
+    "Combat": 58,
+    "Early Access": 21,
+    "Exploration": 166,
+    "FPS": 162,
+    "Family Friendly": 122,
+    "First-Person": 145,
+    "Indie": 21,
+    "Nature": 113,
+    "PvE": 42,
+    "Relaxing": 102,
+    "Shooter": 170,
+    "Singleplayer": 25,
+    "Sniper": 100,
+    "Tactical": 87,
+    "Tutorial": 27,
+    "VR": 139
+  },
+  "type": "game"
 }

@@ -1,213 +1,251 @@
 {
-  "appid": 1215000,
-  "name": "STRAYLIGHT",
-  "developer": "Dr BLoC",
-  "publisher": "Dr BLoC",
-  "tags": {
-    "Early Access": 221,
-    "Precision Platformer": 200,
-    "3D Platformer": 194,
-    "Parkour": 191,
-    "Difficult": 187,
-    "Platformer": 182,
-    "Dark Humor": 175,
-    "Experimental": 173,
-    "VR": 169,
-    "Cyberpunk": 167,
-    "First-Person": 165,
-    "Narration": 162,
-    "Action": 160,
-    "Minimalist": 157,
-    "Retro": 150,
-    "Abstract": 141,
-    "Family Friendly": 136,
-    "Sci-fi": 131,
-    "Space": 126,
-    "6DOF": 113,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1215000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1215000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1215000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1215000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1215000,
   "categories": [
     "Single-player",
     "Steam Leaderboards"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 13,
-  "negative": 1,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/02/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1215000/header.jpg?t=1660831023",
+  "consensus_genre": "Early Access",
+  "developer": "Dr BLoC",
+  "discount": "0",
   "genre": [
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1215000/header.jpg?t=1660831023",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "STRAYLIGHT",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 13,
+  "price": "1999",
+  "publisher": "Dr BLoC",
+  "release_date": "2020/02/3",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 194,
+    "6DOF": 113,
+    "Abstract": 141,
+    "Action": 160,
+    "Cyberpunk": 167,
+    "Dark Humor": 175,
+    "Difficult": 187,
+    "Early Access": 221,
+    "Experimental": 173,
+    "Family Friendly": 136,
+    "First-Person": 165,
+    "Minimalist": 157,
+    "Narration": 162,
+    "Parkour": 191,
+    "Platformer": 182,
+    "Precision Platformer": 200,
+    "Retro": 150,
+    "Sci-fi": 131,
+    "Space": 126,
+    "VR": 169,
+    "VR Only": 1
+  },
+  "type": "game"
 }

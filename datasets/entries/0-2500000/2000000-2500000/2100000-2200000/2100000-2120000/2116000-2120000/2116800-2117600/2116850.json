@@ -1,214 +1,252 @@
 {
-  "appid": 2116850,
-  "name": "Another Farm Roguelike",
-  "developer": "Zabbo Games",
-  "publisher": "Zabbo Games",
-  "tags": {
-    "Early Access": 146,
-    "Farming Sim": 132,
-    "Rogue-like": 129,
-    "Procedural Generation": 121,
-    "Simulation": 116,
-    "Traditional Roguelike": 111,
-    "Crafting": 107,
-    "Building": 100,
-    "Immersive Sim": 100,
-    "Pixel Graphics": 99,
-    "Top-Down": 96,
-    "Resource Management": 93,
-    "Automation": 90,
-    "Colorful": 88,
-    "Inventory Management": 83,
-    "Cute": 81,
-    "Management": 75,
-    "Casual": 74,
-    "Economy": 72,
-    "Cooking": 61
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2116850,
+    "average_2weeks": 0,
+    "average_forever": 200,
+    "median_2weeks": 0,
+    "median_forever": 200
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2116850,
+    "average_2weeks": 0,
+    "average_forever": 200,
+    "median_2weeks": 0,
+    "median_forever": 200
+  },
+  "CCU Histogram": {
+    "2022-12-08": 31,
+    "2022-12-09": 31,
+    "2022-12-10": 31,
+    "2022-12-13": 28,
+    "2022-12-15": 34,
+    "2022-12-18": 34,
+    "2022-12-21": 20,
+    "2022-12-22": 44
+  },
+  "Completion": 44.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2116850,
+    "average_2weeks": 0,
+    "average_forever": 200,
+    "median_2weeks": 0,
+    "median_forever": 200
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2116850,
+    "average_2weeks": 0,
+    "average_forever": 200,
+    "median_2weeks": 0,
+    "median_forever": 200
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 2116850,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 89,
-  "negative": 12,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 10,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2116850/header.jpg?t=1662972921",
+  "consensus_genre": "Early Access",
+  "developer": "Zabbo Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 1,
-  "Completion": 44.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2116850/header.jpg?t=1662972921",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Another Farm Roguelike",
+  "negative": 12,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 89,
+  "price": "299",
+  "publisher": "Zabbo Games",
+  "release_date": "2022/09/1",
+  "required_age": 0,
+  "tags": {
+    "Automation": 90,
+    "Building": 100,
+    "Casual": 74,
+    "Colorful": 88,
+    "Cooking": 61,
+    "Crafting": 107,
+    "Cute": 81,
+    "Early Access": 146,
+    "Economy": 72,
+    "Farming Sim": 132,
+    "Immersive Sim": 100,
+    "Inventory Management": 83,
+    "Management": 75,
+    "Pixel Graphics": 99,
+    "Procedural Generation": 121,
+    "Resource Management": 93,
+    "Rogue-like": 129,
+    "Simulation": 116,
+    "Top-Down": 96,
+    "Traditional Roguelike": 111
+  },
+  "type": "game"
 }

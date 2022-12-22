@@ -1,31 +1,201 @@
 {
-  "appid": 646910,
-  "name": "The Crew 2",
-  "developer": "Ivory Tower",
-  "publisher": "Ubisoft",
-  "tags": {
-    "Racing": 786,
-    "Open World": 594,
-    "Automobile Sim": 585,
-    "Multiplayer": 462,
-    "Driving": 461,
-    "Massively Multiplayer": 276,
-    "Action": 259,
-    "Flight": 227,
-    "Co-op": 197,
-    "Singleplayer": 167,
-    "Arcade": 159,
-    "First-Person": 146,
-    "Online Co-Op": 142,
-    "Third Person": 142,
-    "Simulation": 137,
-    "America": 127,
-    "Sports": 112,
-    "Atmospheric": 95,
-    "Adventure": 93,
-    "Sandbox": 93
+  "Average Playtime - 2 Weeks": {
+    "app_id": 646910,
+    "average_2weeks": 257,
+    "average_forever": 2950,
+    "median_2weeks": 304,
+    "median_forever": 902
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 646910,
+    "average_2weeks": 257,
+    "average_forever": 2950,
+    "median_2weeks": 304,
+    "median_forever": 902
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1278,
+    "2022-12-09": 1188,
+    "2022-12-10": 1171,
+    "2022-12-13": 939,
+    "2022-12-15": 1158,
+    "2022-12-18": 932,
+    "2022-12-21": 939,
+    "2022-12-22": 1232
+  },
+  "Completion": 28.699999809265137,
+  "Down 30 Days": 77,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 4,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 8,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 646910,
+    "average_2weeks": 257,
+    "average_forever": 2950,
+    "median_2weeks": 304,
+    "median_forever": 902
+  },
+  "Median Playtime - Forever": {
+    "app_id": 646910,
+    "average_2weeks": 257,
+    "average_forever": 2950,
+    "median_2weeks": 304,
+    "median_forever": 902
+  },
+  "Meta Score": "66",
+  "Rating": "ESRB T",
+  "Up 30 Days": 523,
+  "User Score": -1,
+  "appid": 646910,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,184 +209,52 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 50384,
-  "negative": 12013,
-  "price": "4999",
-  "initialprice": "4999",
-  "discount": "0",
   "ccu": 780,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/06/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/646910/header.jpg?t=1667236358",
+  "consensus_genre": "Racing",
+  "developer": "Ivory Tower",
+  "discount": "0",
   "genre": [
     "Action",
     "Massively Multiplayer",
     "Racing"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "66",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 5,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 28,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 55,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 45,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 41,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 42,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 43,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 26,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 523,
-  "Down 30 Days": 77,
-  "Completion": 28.699999809265137,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/646910/header.jpg?t=1667236358",
+  "initialprice": "4999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "The Crew 2",
+  "negative": 12013,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 50384,
+  "price": "4999",
+  "publisher": "Ubisoft",
+  "release_date": "2018/06/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 259,
+    "Adventure": 93,
+    "America": 127,
+    "Arcade": 159,
+    "Atmospheric": 95,
+    "Automobile Sim": 585,
+    "Co-op": 197,
+    "Driving": 461,
+    "First-Person": 146,
+    "Flight": 227,
+    "Massively Multiplayer": 276,
+    "Multiplayer": 462,
+    "Online Co-Op": 142,
+    "Open World": 594,
+    "Racing": 786,
+    "Sandbox": 93,
+    "Simulation": 137,
+    "Singleplayer": 167,
+    "Sports": 112,
+    "Third Person": 142
+  },
+  "type": "game"
 }

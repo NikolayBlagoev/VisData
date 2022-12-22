@@ -1,31 +1,201 @@
 {
-  "appid": 221100,
-  "name": "DayZ",
-  "developer": "Bohemia Interactive",
-  "publisher": "Bohemia Interactive",
-  "tags": {
-    "Survival": 14724,
-    "Zombies": 9726,
-    "Multiplayer": 9702,
-    "Open World": 9034,
-    "Action": 6307,
-    "PvP": 4974,
-    "Shooter": 4819,
-    "Massively Multiplayer": 4663,
-    "Horror": 3372,
-    "Post-apocalyptic": 3239,
-    "Simulation": 3168,
-    "FPS": 3063,
-    "Early Access": 3029,
-    "First-Person": 2518,
-    "Survival Horror": 2462,
-    "Sandbox": 2239,
-    "Adventure": 2145,
-    "Co-op": 2028,
-    "Atmospheric": 1755,
-    "Indie": 1718
+  "Average Playtime - 2 Weeks": {
+    "app_id": 221100,
+    "average_2weeks": 1332,
+    "average_forever": 12450,
+    "median_2weeks": 759,
+    "median_forever": 2604
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 221100,
+    "average_2weeks": 1332,
+    "average_forever": 12450,
+    "median_2weeks": 759,
+    "median_forever": 2604
+  },
+  "CCU Histogram": {
+    "2022-12-08": 38627,
+    "2022-12-09": 38871,
+    "2022-12-10": 38029,
+    "2022-12-13": 45410,
+    "2022-12-15": 36749,
+    "2022-12-18": 37036,
+    "2022-12-21": 37823,
+    "2022-12-22": 37566
+  },
+  "Completion": 7.800000190734863,
+  "Down 30 Days": 388,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 18,
+      "recommendations_up": 95
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 16,
+      "recommendations_up": 132
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 16,
+      "recommendations_up": 100
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 20,
+      "recommendations_up": 87
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 26,
+      "recommendations_up": 96
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 11,
+      "recommendations_up": 83
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 6,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 6,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 13,
+      "recommendations_up": 74
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 11,
+      "recommendations_up": 71
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 16,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 12,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 16,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 9,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 5,
+      "recommendations_up": 74
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 6,
+      "recommendations_up": 74
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 11,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 16,
+      "recommendations_up": 81
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 7,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 9,
+      "recommendations_up": 253
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 6,
+      "recommendations_up": 562
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 17,
+      "recommendations_up": 325
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 18,
+      "recommendations_up": 277
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 16,
+      "recommendations_up": 304
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 18,
+      "recommendations_up": 295
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 24,
+      "recommendations_up": 230
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 15,
+      "recommendations_up": 185
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 21,
+      "recommendations_up": 120
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 221100,
+    "average_2weeks": 1332,
+    "average_forever": 12450,
+    "median_2weeks": 759,
+    "median_forever": 2604
+  },
+  "Median Playtime - Forever": {
+    "app_id": 221100,
+    "average_2weeks": 1332,
+    "average_forever": 12450,
+    "median_2weeks": 759,
+    "median_forever": 2604
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4128,
+  "User Score": -1,
+  "appid": 221100,
   "categories": [
     "Multi-player",
     "Valve Anti-Cheat enabled",
@@ -38,184 +208,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 231166,
-  "negative": 90310,
-  "price": "4499",
-  "initialprice": "4499",
-  "discount": "0",
   "ccu": 53885,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Russian, Simplified Chinese, Traditional Chinese, Japanese, Polish, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/12/13",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/header.jpg?t=1667310902",
+  "consensus_genre": "Action",
+  "developer": "Bohemia Interactive",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 95,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 132,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 100,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 87,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 96,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 83,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 76,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 56,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 74,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 71,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 77,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 68,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 56,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 84,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 61,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 74,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 74,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 70,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 81,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 62,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 253,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 562,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 325,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 277,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 304,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 295,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 230,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 185,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 120,
-      "recommendations_down": 21
-    }
-  ],
-  "Up 30 Days": 4128,
-  "Down 30 Days": 388,
-  "Completion": 7.800000190734863,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/header.jpg?t=1667310902",
+  "initialprice": "4499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Russian, Simplified Chinese, Traditional Chinese, Japanese, Polish, Portuguese - Brazil",
+  "name": "DayZ",
+  "negative": 90310,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 231166,
+  "price": "4499",
+  "publisher": "Bohemia Interactive",
+  "release_date": "2018/12/13",
+  "required_age": "15",
+  "tags": {
+    "Action": 6307,
+    "Adventure": 2145,
+    "Atmospheric": 1755,
+    "Co-op": 2028,
+    "Early Access": 3029,
+    "FPS": 3063,
+    "First-Person": 2518,
+    "Horror": 3372,
+    "Indie": 1718,
+    "Massively Multiplayer": 4663,
+    "Multiplayer": 9702,
+    "Open World": 9034,
+    "Post-apocalyptic": 3239,
+    "PvP": 4974,
+    "Sandbox": 2239,
+    "Shooter": 4819,
+    "Simulation": 3168,
+    "Survival": 14724,
+    "Survival Horror": 2462,
+    "Zombies": 9726
+  },
+  "type": "game"
 }

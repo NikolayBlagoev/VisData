@@ -1,31 +1,201 @@
 {
-  "appid": 1245620,
-  "name": "ELDEN RING",
-  "developer": "FromSoftware Inc.",
-  "publisher": "FromSoftware Inc., Bandai Namco Entertainment",
-  "tags": {
-    "Souls-like": 4911,
-    "Dark Fantasy": 3651,
-    "RPG": 3342,
-    "Difficult": 3171,
-    "Open World": 3118,
-    "Action RPG": 2669,
-    "Third Person": 2588,
-    "Fantasy": 2426,
-    "Multiplayer": 2337,
-    "Online Co-Op": 2277,
-    "Singleplayer": 2277,
-    "Action": 2199,
-    "PvP": 1919,
-    "Co-op": 1914,
-    "Violent": 1785,
-    "Atmospheric": 1719,
-    "Great Soundtrack": 1676,
-    "3D": 1628,
-    "Character Customization": 474,
-    "Family Friendly": 421
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1245620,
+    "average_2weeks": 408,
+    "average_forever": 5855,
+    "median_2weeks": 153,
+    "median_forever": 4824
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1245620,
+    "average_2weeks": 408,
+    "average_forever": 5855,
+    "median_2weeks": 153,
+    "median_forever": 4824
+  },
+  "CCU Histogram": {
+    "2022-12-08": 31813,
+    "2022-12-09": 33134,
+    "2022-12-10": 36186,
+    "2022-12-13": 36312,
+    "2022-12-15": 35840,
+    "2022-12-18": 36602,
+    "2022-12-21": 37212,
+    "2022-12-22": 35558
+  },
+  "Completion": 60.79999923706055,
+  "Down 30 Days": 578,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 11,
+      "recommendations_up": 156
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 9,
+      "recommendations_up": 142
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 11,
+      "recommendations_up": 135
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 11,
+      "recommendations_up": 148
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 15,
+      "recommendations_up": 168
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 14,
+      "recommendations_up": 174
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 15,
+      "recommendations_up": 146
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 14,
+      "recommendations_up": 121
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 10,
+      "recommendations_up": 149
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 14,
+      "recommendations_up": 152
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 16,
+      "recommendations_up": 173
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 16,
+      "recommendations_up": 199
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 17,
+      "recommendations_up": 190
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 14,
+      "recommendations_up": 156
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 15,
+      "recommendations_up": 175
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 15,
+      "recommendations_up": 204
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 5,
+      "recommendations_up": 210
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 16,
+      "recommendations_up": 206
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 10,
+      "recommendations_up": 216
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 18,
+      "recommendations_up": 225
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 15,
+      "recommendations_up": 176
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 25,
+      "recommendations_up": 3458
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 68,
+      "recommendations_up": 8396
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 45,
+      "recommendations_up": 4425
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 28,
+      "recommendations_up": 3092
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 33,
+      "recommendations_up": 2685
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 39,
+      "recommendations_up": 2218
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 23,
+      "recommendations_up": 1856
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 22,
+      "recommendations_up": 1392
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 14,
+      "recommendations_up": 126
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1245620,
+    "average_2weeks": 408,
+    "average_forever": 5855,
+    "median_2weeks": 153,
+    "median_forever": 4824
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1245620,
+    "average_2weeks": 408,
+    "average_forever": 5855,
+    "median_2weeks": 153,
+    "median_forever": 4824
+  },
+  "Meta Score": "94",
+  "Rating": "ESRB M",
+  "Up 30 Days": 31269,
+  "User Score": -1,
+  "appid": 1245620,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,183 +208,51 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 490203,
-  "negative": 52068,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 23687,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg?t=1668042166",
+  "consensus_genre": "RPG",
+  "developer": "FromSoftware Inc.",
+  "discount": "0",
   "genre": [
     "Action",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "94",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 156,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 142,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 135,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 148,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 168,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 174,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 146,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 121,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 149,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 152,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 173,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 199,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 190,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 156,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 175,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 204,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 210,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 206,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 216,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 225,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 176,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3458,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 8396,
-      "recommendations_down": 68
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4425,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3092,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2685,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2218,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1856,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1392,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 126,
-      "recommendations_down": 14
-    }
-  ],
-  "Up 30 Days": 31269,
-  "Down 30 Days": 578,
-  "Completion": 60.79999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg?t=1668042166",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese",
+  "name": "ELDEN RING",
+  "negative": 52068,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 490203,
+  "price": "5999",
+  "publisher": "FromSoftware Inc., Bandai Namco Entertainment",
+  "release_date": "2022/02/24",
+  "required_age": 0,
+  "tags": {
+    "3D": 1628,
+    "Action": 2199,
+    "Action RPG": 2669,
+    "Atmospheric": 1719,
+    "Character Customization": 474,
+    "Co-op": 1914,
+    "Dark Fantasy": 3651,
+    "Difficult": 3171,
+    "Family Friendly": 421,
+    "Fantasy": 2426,
+    "Great Soundtrack": 1676,
+    "Multiplayer": 2337,
+    "Online Co-Op": 2277,
+    "Open World": 3118,
+    "PvP": 1919,
+    "RPG": 3342,
+    "Singleplayer": 2277,
+    "Souls-like": 4911,
+    "Third Person": 2588,
+    "Violent": 1785
+  },
+  "type": "game"
 }

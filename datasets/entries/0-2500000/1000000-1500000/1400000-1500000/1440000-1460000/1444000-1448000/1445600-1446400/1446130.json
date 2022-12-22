@@ -1,27 +1,86 @@
 {
-  "appid": 1446130,
-  "name": "The Trap: Remastered",
-  "developer": "BUL GAMES",
-  "publisher": "BUL GAMES",
-  "tags": {
-    "Action": 84,
-    "Adventure": 78,
-    "Indie": 74,
-    "Violent": 70,
-    "Action-Adventure": 67,
-    "Horror": 59,
-    "Survival Horror": 56,
-    "Historical": 52,
-    "Zombies": 47,
-    "Female Protagonist": 43,
-    "3D": 39,
-    "Perma Death": 37,
-    "Singleplayer": 34,
-    "Early Access": 30,
-    "Third Person": 28,
-    "Survival": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1446130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1446130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 61.849998474121094,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1446130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1446130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1446130,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -32,69 +91,48 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1446130/header.jpg?t=1666985945",
+  "consensus_genre": "Action",
+  "developer": "BUL GAMES",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 61.849998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1446130/header.jpg?t=1666985945",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "The Trap: Remastered",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "2499",
+  "publisher": "BUL GAMES",
+  "release_date": "2020/11/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 39,
+    "Action": 84,
+    "Action-Adventure": 67,
+    "Adventure": 78,
+    "Early Access": 30,
+    "Female Protagonist": 43,
+    "Historical": 52,
+    "Horror": 59,
+    "Indie": 74,
+    "Perma Death": 37,
+    "Singleplayer": 34,
+    "Survival": 26,
+    "Survival Horror": 56,
+    "Third Person": 28,
+    "Violent": 70,
+    "Zombies": 47
+  },
+  "type": "game"
 }

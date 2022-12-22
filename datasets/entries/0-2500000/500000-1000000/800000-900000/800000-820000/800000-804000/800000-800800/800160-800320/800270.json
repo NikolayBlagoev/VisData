@@ -1,31 +1,201 @@
 {
-  "appid": 800270,
-  "name": "Terraforming Mars",
-  "developer": "Twin Sails Interactive",
-  "publisher": "Twin Sails Interactive",
-  "tags": {
-    "Strategy": 146,
-    "Board Game": 138,
-    "Space": 128,
-    "Tabletop": 128,
-    "Turn-Based": 123,
-    "Mars": 119,
-    "Multiplayer": 110,
-    "Sci-fi": 107,
-    "Singleplayer": 99,
-    "Management": 97,
-    "Turn-Based Strategy": 96,
-    "Hex Grid": 87,
-    "Base-Building": 86,
-    "PvP": 80,
-    "Difficult": 79,
-    "Local Multiplayer": 76,
-    "Mature": 64,
-    "Grand Strategy": 59,
-    "2.5D": 54,
-    "Beautiful": 53
+  "Average Playtime - 2 Weeks": {
+    "app_id": 800270,
+    "average_2weeks": 276,
+    "average_forever": 2192,
+    "median_2weeks": 276,
+    "median_forever": 908
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 800270,
+    "average_2weeks": 276,
+    "average_forever": 2192,
+    "median_2weeks": 276,
+    "median_forever": 908
+  },
+  "CCU Histogram": {
+    "2022-12-08": 618,
+    "2022-12-09": 674,
+    "2022-12-10": 644,
+    "2022-12-13": 734,
+    "2022-12-15": 545,
+    "2022-12-18": 645,
+    "2022-12-21": 616,
+    "2022-12-22": 543
+  },
+  "Completion": 48.099998474121094,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 800270,
+    "average_2weeks": 276,
+    "average_forever": 2192,
+    "median_2weeks": 276,
+    "median_forever": 908
+  },
+  "Median Playtime - Forever": {
+    "app_id": 800270,
+    "average_2weeks": 276,
+    "average_forever": 2192,
+    "median_2weeks": 276,
+    "median_forever": 908
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 26,
+  "User Score": -1,
+  "appid": 800270,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,182 +206,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3540,
-  "negative": 1233,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 508,
-  "languages": "English, French, Italian, German, Spanish - Spain, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2018/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/800270/header.jpg?t=1660753864",
+  "consensus_genre": "Strategy",
+  "developer": "Twin Sails Interactive",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 26,
-  "Down 30 Days": 13,
-  "Completion": 48.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/800270/header.jpg?t=1660753864",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Swedish",
+  "name": "Terraforming Mars",
+  "negative": 1233,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3540,
+  "price": "1999",
+  "publisher": "Twin Sails Interactive",
+  "release_date": "2018/10/17",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 54,
+    "Base-Building": 86,
+    "Beautiful": 53,
+    "Board Game": 138,
+    "Difficult": 79,
+    "Grand Strategy": 59,
+    "Hex Grid": 87,
+    "Local Multiplayer": 76,
+    "Management": 97,
+    "Mars": 119,
+    "Mature": 64,
+    "Multiplayer": 110,
+    "PvP": 80,
+    "Sci-fi": 107,
+    "Singleplayer": 99,
+    "Space": 128,
+    "Strategy": 146,
+    "Tabletop": 128,
+    "Turn-Based": 123,
+    "Turn-Based Strategy": 96
+  },
+  "type": "game"
 }

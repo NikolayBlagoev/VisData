@@ -1,65 +1,103 @@
 {
-  "appid": 1895270,
-  "name": "TRICK SHOT",
-  "developer": "PLEXUS GAME",
-  "publisher": "PLEXUS GAME",
-  "tags": {
-    "Casual": 196,
-    "Shooter": 170,
-    "Arena Shooter": 166,
-    "FPS": 161,
-    "3D": 155,
-    "First-Person": 145,
-    "Sports": 142,
-    "Minimalist": 138,
-    "Relaxing": 130,
-    "Physics": 113,
-    "Linear": 102,
-    "Singleplayer": 100,
-    "Fast-Paced": 87,
-    "Quick-Time Events": 73,
-    "Simulation": 62,
-    "Cute": 58,
-    "Arcade": 27,
-    "Logic": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1895270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1895270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1895270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1895270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1895270,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1895270/header.jpg?t=1648060790",
+  "consensus_genre": "Casual",
+  "developer": "PLEXUS GAME",
+  "discount": "0",
   "genre": [
     "Casual",
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1895270/header.jpg?t=1648060790",
+  "initialprice": "399",
+  "languages": "English, Turkish",
+  "name": "TRICK SHOT",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "PLEXUS GAME",
+  "release_date": "2022/03/23",
+  "required_age": 0,
+  "tags": {
+    "3D": 155,
+    "Arcade": 27,
+    "Arena Shooter": 166,
+    "Casual": 196,
+    "Cute": 58,
+    "FPS": 161,
+    "Fast-Paced": 87,
+    "First-Person": 145,
+    "Linear": 102,
+    "Logic": 25,
+    "Minimalist": 138,
+    "Physics": 113,
+    "Quick-Time Events": 73,
+    "Relaxing": 130,
+    "Shooter": 170,
+    "Simulation": 62,
+    "Singleplayer": 100,
+    "Sports": 142
+  },
+  "type": "game"
 }

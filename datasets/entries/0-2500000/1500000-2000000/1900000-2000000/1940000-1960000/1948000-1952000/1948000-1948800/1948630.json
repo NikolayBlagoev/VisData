@@ -1,68 +1,106 @@
 {
-  "appid": 1948630,
-  "name": "VEDETTE",
-  "developer": "Saevus Studios LLC",
-  "publisher": "Saevus Studios LLC",
-  "tags": {
-    "Casual": 196,
-    "Simulation": 190,
-    "Interactive Fiction": 166,
-    "Point & Click": 160,
-    "Puzzle": 155,
-    "Political Sim": 145,
-    "2D": 138,
-    "Minimalist": 130,
-    "Realistic": 122,
-    "Alternate History": 113,
-    "Crime": 102,
-    "Dystopian ": 100,
-    "Futuristic": 87,
-    "Investigation": 73,
-    "Political": 58,
-    "Choices Matter": 42,
-    "Multiple Endings": 27,
-    "Singleplayer": 25,
-    "Indie": 21,
-    "Strategy": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1948630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1948630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1948630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1948630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1948630,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/06/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1948630/header.jpg?t=1656361599",
+  "consensus_genre": "Casual",
+  "developer": "Saevus Studios LLC",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1948630/header.jpg?t=1656361599",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "VEDETTE",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Saevus Studios LLC",
+  "release_date": "2022/06/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 138,
+    "Alternate History": 113,
+    "Casual": 196,
+    "Choices Matter": 42,
+    "Crime": 102,
+    "Dystopian ": 100,
+    "Futuristic": 87,
+    "Indie": 21,
+    "Interactive Fiction": 166,
+    "Investigation": 73,
+    "Minimalist": 130,
+    "Multiple Endings": 27,
+    "Point & Click": 160,
+    "Political": 58,
+    "Political Sim": 145,
+    "Puzzle": 155,
+    "Realistic": 122,
+    "Simulation": 190,
+    "Singleplayer": 25,
+    "Strategy": 21
+  },
+  "type": "game"
 }

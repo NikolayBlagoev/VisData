@@ -1,206 +1,244 @@
 {
-  "appid": 1893620,
-  "name": "Circadian Dice",
-  "developer": "Shuffle Up Games",
-  "publisher": "Shuffle Up Games",
-  "tags": {
-    "Roguelike Deckbuilder": 82,
-    "Deckbuilding": 74,
-    "Turn-Based Tactics": 70,
-    "Singleplayer": 67,
-    "Strategy": 64,
-    "Card Game": 40,
-    "Card Battler": 37,
-    "Turn-Based Strategy": 34,
-    "Turn-Based Combat": 33,
-    "Board Game": 32,
-    "Rogue-lite": 30,
-    "Rogue-like": 29,
-    "Fantasy": 25,
-    "Tactical": 24,
-    "2D": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1893620,
+    "average_2weeks": 0,
+    "average_forever": 221,
+    "median_2weeks": 0,
+    "median_forever": 330
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1893620,
+    "average_2weeks": 0,
+    "average_forever": 221,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "CCU Histogram": {
+    "2022-12-08": 25,
+    "2022-12-09": 11,
+    "2022-12-10": 22,
+    "2022-12-13": 24,
+    "2022-12-15": 27,
+    "2022-12-18": 19,
+    "2022-12-21": 20,
+    "2022-12-22": 14
+  },
+  "Completion": -1,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1893620,
+    "average_2weeks": 0,
+    "average_forever": 221,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1893620,
+    "average_2weeks": 0,
+    "average_forever": 221,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 26,
+  "User Score": -1,
+  "appid": 1893620,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 367,
-  "negative": 15,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 12,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1893620/header.jpg?t=1657533249",
+  "consensus_genre": "Strategy",
+  "developer": "Shuffle Up Games",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 26,
-  "Down 30 Days": 5,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1893620/header.jpg?t=1657533249",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Circadian Dice",
+  "negative": 15,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 367,
+  "price": "599",
+  "publisher": "Shuffle Up Games",
+  "release_date": "2022/07/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 21,
+    "Board Game": 32,
+    "Card Battler": 37,
+    "Card Game": 40,
+    "Deckbuilding": 74,
+    "Fantasy": 25,
+    "Rogue-like": 29,
+    "Rogue-lite": 30,
+    "Roguelike Deckbuilder": 82,
+    "Singleplayer": 67,
+    "Strategy": 64,
+    "Tactical": 24,
+    "Turn-Based Combat": 33,
+    "Turn-Based Strategy": 34,
+    "Turn-Based Tactics": 70
+  },
+  "type": "game"
 }

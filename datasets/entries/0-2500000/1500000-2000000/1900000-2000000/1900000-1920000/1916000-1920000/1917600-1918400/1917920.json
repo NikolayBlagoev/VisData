@@ -1,213 +1,251 @@
 {
-  "appid": 1917920,
-  "name": "Polda 7",
-  "developer": "Zima software",
-  "publisher": "Zima software",
-  "tags": {
-    "Adventure": 369,
-    "Point & Click": 346,
-    "Clicker": 337,
-    "Choose Your Own Adventure": 334,
-    "2D": 326,
-    "Comic Book": 315,
-    "Cartoon": 309,
-    "Hand-drawn": 300,
-    "Stylized": 291,
-    "Cartoony": 282,
-    "Atmospheric": 269,
-    "Detective": 260,
-    "Drama": 245,
-    "Comedy": 233,
-    "Hacking": 217,
-    "Aliens": 215,
-    "Politics": 197,
-    "Satire": 181,
-    "Sci-fi": 160,
-    "Old School": 146
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1917920,
+    "average_2weeks": 0,
+    "average_forever": 1259,
+    "median_2weeks": 0,
+    "median_forever": 1259
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1917920,
+    "average_2weeks": 0,
+    "average_forever": 1259,
+    "median_2weeks": 0,
+    "median_forever": 1259
+  },
+  "CCU Histogram": {
+    "2022-12-08": 31,
+    "2022-12-09": 23,
+    "2022-12-10": 25,
+    "2022-12-13": 25,
+    "2022-12-15": 21,
+    "2022-12-18": 31,
+    "2022-12-21": 10,
+    "2022-12-22": 18
+  },
+  "Completion": 37.25,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1917920,
+    "average_2weeks": 0,
+    "average_forever": 1259,
+    "median_2weeks": 0,
+    "median_forever": 1259
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1917920,
+    "average_2weeks": 0,
+    "average_forever": 1259,
+    "median_2weeks": 0,
+    "median_forever": 1259
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 53,
+  "User Score": -1,
+  "appid": 1917920,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 404,
-  "negative": 24,
-  "price": "1799",
-  "initialprice": "1799",
-  "discount": "0",
   "ccu": 18,
-  "languages": "Czech",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/04/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917920/header.jpg?t=1667829917",
+  "consensus_genre": "Adventure",
+  "developer": "Zima software",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 53,
-  "Down 30 Days": 1,
-  "Completion": 37.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917920/header.jpg?t=1667829917",
+  "initialprice": "1799",
+  "languages": "Czech",
+  "name": "Polda 7",
+  "negative": 24,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 404,
+  "price": "1799",
+  "publisher": "Zima software",
+  "release_date": "2022/04/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 326,
+    "Adventure": 369,
+    "Aliens": 215,
+    "Atmospheric": 269,
+    "Cartoon": 309,
+    "Cartoony": 282,
+    "Choose Your Own Adventure": 334,
+    "Clicker": 337,
+    "Comedy": 233,
+    "Comic Book": 315,
+    "Detective": 260,
+    "Drama": 245,
+    "Hacking": 217,
+    "Hand-drawn": 300,
+    "Old School": 146,
+    "Point & Click": 346,
+    "Politics": 197,
+    "Satire": 181,
+    "Sci-fi": 160,
+    "Stylized": 291
+  },
+  "type": "game"
 }

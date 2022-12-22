@@ -1,213 +1,251 @@
 {
-  "appid": 22120,
-  "name": "Penumbra: Black Plague Gold Edition",
-  "developer": "Frictional Games",
-  "publisher": "Frictional Games",
-  "tags": {
-    "Horror": 243,
-    "Adventure": 165,
-    "First-Person": 153,
-    "Psychological Horror": 144,
-    "Stealth": 122,
-    "Story Rich": 112,
-    "Atmospheric": 111,
-    "Indie": 98,
-    "Singleplayer": 97,
-    "Survival Horror": 84,
-    "Puzzle": 77,
-    "Lovecraftian": 75,
-    "Action": 69,
-    "Dark": 68,
-    "Survival": 61,
-    "Great Soundtrack": 37,
-    "Classic": 28,
-    "Nudity": 24,
-    "Multiplayer": 11,
-    "Gore": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 22120,
+    "average_2weeks": 0,
+    "average_forever": 128,
+    "median_2weeks": 0,
+    "median_forever": 128
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 22120,
+    "average_2weeks": 0,
+    "average_forever": 128,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 10,
+    "2022-12-10": 9,
+    "2022-12-13": 9,
+    "2022-12-15": 7,
+    "2022-12-18": 12,
+    "2022-12-21": 11,
+    "2022-12-22": 8
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 22120,
+    "average_2weeks": 0,
+    "average_forever": 128,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "Median Playtime - Forever": {
+    "app_id": 22120,
+    "average_2weeks": 0,
+    "average_forever": 128,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 27,
+  "User Score": -1,
+  "appid": 22120,
   "categories": [
     "Single-player",
     "Captions available"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2108,
-  "negative": 134,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 9,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2009/01/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/22120/header.jpg?t=1667218963",
+  "consensus_genre": "Adventure",
+  "developer": "Frictional Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 27,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/22120/header.jpg?t=1667218963",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Penumbra: Black Plague Gold Edition",
+  "negative": 134,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2108,
+  "price": "999",
+  "publisher": "Frictional Games",
+  "release_date": "2009/01/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 69,
+    "Adventure": 165,
+    "Atmospheric": 111,
+    "Classic": 28,
+    "Dark": 68,
+    "First-Person": 153,
+    "Gore": 9,
+    "Great Soundtrack": 37,
+    "Horror": 243,
+    "Indie": 98,
+    "Lovecraftian": 75,
+    "Multiplayer": 11,
+    "Nudity": 24,
+    "Psychological Horror": 144,
+    "Puzzle": 77,
+    "Singleplayer": 97,
+    "Stealth": 122,
+    "Story Rich": 112,
+    "Survival": 61,
+    "Survival Horror": 84
+  },
+  "type": "game"
 }

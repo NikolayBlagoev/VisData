@@ -1,79 +1,117 @@
 {
-  "appid": 1850610,
-  "name": "Winter and People",
-  "developer": "Mercimek Games",
-  "publisher": "Mercimek Games",
-  "tags": {
-    "Tower Defense": 159,
-    "City Builder": 152,
-    "Isometric": 149,
-    "Strategy": 146,
-    "Survival": 141,
-    "Pixel Graphics": 134,
-    "Point & Click": 126,
-    "Singleplayer": 121,
-    "Casual": 119,
-    "Rogue-lite": 118,
-    "Dystopian ": 115,
-    "2.5D": 112,
-    "2D": 109,
-    "Military": 106,
-    "Minimalist": 103,
-    "Rogue-like": 96,
-    "Stylized": 89,
-    "Top-Down": 75,
-    "Real Time Tactics": 65,
-    "Building": 64
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1850610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1850610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 7.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1850610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1850610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1850610,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1850610/header.jpg?t=1660579924",
+  "consensus_genre": "Strategy",
+  "developer": "Mercimek Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 7.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1850610/header.jpg?t=1660579924",
+  "initialprice": "199",
+  "languages": "English, Turkish",
+  "name": "Winter and People",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "199",
+  "publisher": "Mercimek Games",
+  "release_date": "2022/04/11",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 112,
+    "2D": 109,
+    "Building": 64,
+    "Casual": 119,
+    "City Builder": 152,
+    "Dystopian ": 115,
+    "Isometric": 149,
+    "Military": 106,
+    "Minimalist": 103,
+    "Pixel Graphics": 134,
+    "Point & Click": 126,
+    "Real Time Tactics": 65,
+    "Rogue-like": 96,
+    "Rogue-lite": 118,
+    "Singleplayer": 121,
+    "Strategy": 146,
+    "Stylized": 89,
+    "Survival": 141,
+    "Top-Down": 75,
+    "Tower Defense": 159
+  },
+  "type": "game"
 }

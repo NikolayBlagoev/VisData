@@ -1,31 +1,201 @@
 {
-  "appid": 979690,
-  "name": "The Ascent",
-  "developer": "Neon Giant",
-  "publisher": "Curve Games",
-  "tags": {
-    "Top-Down Shooter": 265,
-    "Cyberpunk": 261,
-    "Action": 252,
-    "RPG": 250,
-    "Shooter": 237,
-    "Open World": 223,
-    "Co-op": 207,
-    "Indie": 191,
-    "Adventure": 185,
-    "Isometric": 156,
-    "Action RPG": 146,
-    "Violent": 140,
-    "Twin Stick Shooter": 137,
-    "Dystopian ": 136,
-    "Gore": 135,
-    "Futuristic": 120,
-    "Character Customization": 98,
-    "Split Screen": 83,
-    "PvE": 73,
-    "Local Co-Op": 66
+  "Average Playtime - 2 Weeks": {
+    "app_id": 979690,
+    "average_2weeks": 1,
+    "average_forever": 365,
+    "median_2weeks": 1,
+    "median_forever": 206
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 979690,
+    "average_2weeks": 1,
+    "average_forever": 365,
+    "median_2weeks": 1,
+    "median_forever": 206
+  },
+  "CCU Histogram": {
+    "2022-12-08": 229,
+    "2022-12-09": 227,
+    "2022-12-10": 285,
+    "2022-12-13": 256,
+    "2022-12-15": 167,
+    "2022-12-18": 219,
+    "2022-12-21": 180,
+    "2022-12-22": 158
+  },
+  "Completion": 64.30000305175781,
+  "Down 30 Days": 97,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 10,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 7,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 5,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 6,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 979690,
+    "average_2weeks": 1,
+    "average_forever": 365,
+    "median_2weeks": 1,
+    "median_forever": 206
+  },
+  "Median Playtime - Forever": {
+    "app_id": 979690,
+    "average_2weeks": 1,
+    "average_forever": 365,
+    "median_2weeks": 1,
+    "median_forever": 206
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 234,
+  "User Score": -1,
+  "appid": 979690,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,185 +208,53 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12372,
-  "negative": 3916,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 274,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/29",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/979690/header.jpg?t=1661169382",
+  "consensus_genre": "Action",
+  "developer": "Neon Giant",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 11,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 13,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 12,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 234,
-  "Down 30 Days": 97,
-  "Completion": 64.30000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/979690/header.jpg?t=1661169382",
+  "initialprice": "2999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Korean",
+  "name": "The Ascent",
+  "negative": 3916,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12372,
+  "price": "2999",
+  "publisher": "Curve Games",
+  "release_date": "2021/07/29",
+  "required_age": "15",
+  "tags": {
+    "Action": 252,
+    "Action RPG": 146,
+    "Adventure": 185,
+    "Character Customization": 98,
+    "Co-op": 207,
+    "Cyberpunk": 261,
+    "Dystopian ": 136,
+    "Futuristic": 120,
+    "Gore": 135,
+    "Indie": 191,
+    "Isometric": 156,
+    "Local Co-Op": 66,
+    "Open World": 223,
+    "PvE": 73,
+    "RPG": 250,
+    "Shooter": 237,
+    "Split Screen": 83,
+    "Top-Down Shooter": 265,
+    "Twin Stick Shooter": 137,
+    "Violent": 140
+  },
+  "type": "game"
 }

@@ -1,64 +1,102 @@
 {
-  "appid": 1825530,
-  "name": "Little Sparks",
-  "developer": "Offbit Studios LLC",
-  "publisher": "Offbit Studios LLC",
-  "tags": {
-    "Strategy": 58,
-    "Solitaire": 52,
-    "Casual": 47,
-    "Creature Collector": 47,
-    "Puzzle": 45,
-    "Turn-Based Strategy": 40,
-    "2D": 32,
-    "Cute": 30,
-    "Relaxing": 28,
-    "Colorful": 24,
-    "Family Friendly": 22,
-    "Atmospheric": 20,
-    "Nature": 18,
-    "Cartoon": 16,
-    "Singleplayer": 14,
-    "Ambient": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1825530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1825530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 36.29999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1825530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1825530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1825530,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1825530/header.jpg?t=1640291518",
+  "consensus_genre": "Strategy",
+  "developer": "Offbit Studios LLC",
+  "discount": "0",
   "genre": [
     "Casual",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 36.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1825530/header.jpg?t=1640291518",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Little Sparks",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "299",
+  "publisher": "Offbit Studios LLC",
+  "release_date": "2021/12/23",
+  "required_age": 0,
+  "tags": {
+    "2D": 32,
+    "Ambient": 12,
+    "Atmospheric": 20,
+    "Cartoon": 16,
+    "Casual": 47,
+    "Colorful": 24,
+    "Creature Collector": 47,
+    "Cute": 30,
+    "Family Friendly": 22,
+    "Nature": 18,
+    "Puzzle": 45,
+    "Relaxing": 28,
+    "Singleplayer": 14,
+    "Solitaire": 52,
+    "Strategy": 58,
+    "Turn-Based Strategy": 40
+  },
+  "type": "game"
 }

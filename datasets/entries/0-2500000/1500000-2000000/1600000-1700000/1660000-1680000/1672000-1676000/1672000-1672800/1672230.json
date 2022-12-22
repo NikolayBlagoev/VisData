@@ -1,28 +1,61 @@
 {
-  "appid": 1672230,
-  "name": "Pogo Rocket",
-  "developer": "Big Boy Games",
-  "publisher": "Big Boy Games",
-  "tags": {
-    "2D Platformer": 52,
-    "Puzzle-Platformer": 46,
-    "Physics": 44,
-    "Adventure": 40,
-    "Space": 40,
-    "Platformer": 37,
-    "Action": 35,
-    "Futuristic": 31,
-    "Sci-fi": 29,
-    "Aliens": 27,
-    "Stylized": 25,
-    "Arcade": 24,
-    "Early Access": 22,
-    "Indie": 21,
-    "Tutorial": 19,
-    "Singleplayer": 17,
-    "2D": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1672230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1672230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 22.700000762939453,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1672230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1672230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1672230,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -31,45 +64,50 @@
     "Full controller support",
     "Steam Workshop"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/08/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672230/header.jpg?t=1640953509",
+  "consensus_genre": "Adventure",
+  "developer": "Big Boy Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 22.700000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672230/header.jpg?t=1640953509",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Pogo Rocket",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "999",
+  "publisher": "Big Boy Games",
+  "release_date": "2021/08/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 14,
+    "2D Platformer": 52,
+    "Action": 35,
+    "Adventure": 40,
+    "Aliens": 27,
+    "Arcade": 24,
+    "Early Access": 22,
+    "Futuristic": 31,
+    "Indie": 21,
+    "Physics": 44,
+    "Platformer": 37,
+    "Puzzle-Platformer": 46,
+    "Sci-fi": 29,
+    "Singleplayer": 17,
+    "Space": 40,
+    "Stylized": 25,
+    "Tutorial": 19
+  },
+  "type": "game"
 }

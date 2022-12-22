@@ -1,67 +1,105 @@
 {
-  "appid": 1921510,
-  "name": "Pet Vet 3D Wild Animal Hospital",
-  "developer": "Braingame",
-  "publisher": "Braingame",
-  "tags": {
-    "Adventure": 252,
-    "Casual": 246,
-    "Interactive Fiction": 222,
-    "Point & Click": 216,
-    "Immersive Sim": 210,
-    "3D": 201,
-    "Cartoony": 194,
-    "Comic Book": 186,
-    "Dog": 177,
-    "Cats": 168,
-    "Agriculture": 158,
-    "Management": 146,
-    "Horses": 144,
-    "Underwater": 130,
-    "Science": 115,
-    "Choices Matter": 99,
-    "Character Customization": 82,
-    "Narration": 64,
-    "Artificial Intelligence": 45,
-    "Tutorial": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1921510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1921510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1921510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1921510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1921510,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1921510/header.jpg?t=1650575254",
+  "consensus_genre": "Adventure",
+  "developer": "Braingame",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1921510/header.jpg?t=1650575254",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Pet Vet 3D Wild Animal Hospital",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1199",
+  "publisher": "Braingame",
+  "release_date": "2022/04/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 201,
+    "Adventure": 252,
+    "Agriculture": 158,
+    "Artificial Intelligence": 45,
+    "Cartoony": 194,
+    "Casual": 246,
+    "Cats": 168,
+    "Character Customization": 82,
+    "Choices Matter": 99,
+    "Comic Book": 186,
+    "Dog": 177,
+    "Horses": 144,
+    "Immersive Sim": 210,
+    "Interactive Fiction": 222,
+    "Management": 146,
+    "Narration": 64,
+    "Point & Click": 216,
+    "Science": 115,
+    "Tutorial": 27,
+    "Underwater": 130
+  },
+  "type": "game"
 }

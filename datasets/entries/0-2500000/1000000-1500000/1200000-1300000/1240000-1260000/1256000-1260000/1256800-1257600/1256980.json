@@ -1,31 +1,56 @@
 {
-  "appid": 1256980,
-  "name": "Bubble Bounce",
-  "developer": "TipperNockey",
-  "publisher": "TipperNockey",
-  "tags": {
-    "Casual": 109,
-    "Indie": 103,
-    "Arcade": 100,
-    "Local Multiplayer": 96,
-    "Fast-Paced": 93,
-    "Action": 87,
-    "2D": 85,
-    "Cartoony": 82,
-    "Colorful": 78,
-    "Pixel Graphics": 75,
-    "Retro": 68,
-    "Family Friendly": 66,
-    "Funny": 62,
-    "Old School": 59,
-    "PvP": 55,
-    "Controller": 53,
-    "Physics": 47,
-    "Multiplayer": 43,
-    "Singleplayer": 40,
-    "4 Player Local": 37
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1256980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1256980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1256980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1256980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1256980,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,38 +61,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/08/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1256980/header.jpg?t=1620389869",
+  "consensus_genre": "Casual",
+  "developer": "TipperNockey",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1256980/header.jpg?t=1620389869",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Bubble Bounce",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "TipperNockey",
+  "release_date": "2020/08/28",
+  "required_age": 0,
+  "tags": {
+    "2D": 85,
+    "4 Player Local": 37,
+    "Action": 87,
+    "Arcade": 100,
+    "Cartoony": 82,
+    "Casual": 109,
+    "Colorful": 78,
+    "Controller": 53,
+    "Family Friendly": 66,
+    "Fast-Paced": 93,
+    "Funny": 62,
+    "Indie": 103,
+    "Local Multiplayer": 96,
+    "Multiplayer": 43,
+    "Old School": 59,
+    "Physics": 47,
+    "Pixel Graphics": 75,
+    "PvP": 55,
+    "Retro": 68,
+    "Singleplayer": 40
+  },
+  "type": "game"
 }

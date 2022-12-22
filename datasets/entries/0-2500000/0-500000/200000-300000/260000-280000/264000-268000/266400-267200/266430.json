@@ -1,31 +1,201 @@
 {
-  "appid": 266430,
-  "name": "Anarchy Arcade",
-  "developer": "Elijah Newman-Gomez",
-  "publisher": "Elijah Newman-Gomez",
-  "tags": {
-    "Free to Play": 161,
-    "Sandbox": 82,
-    "Indie": 75,
-    "Multiplayer": 72,
-    "Simulation": 61,
-    "Casual": 55,
-    "Early Access": 52,
-    "Arcade": 48,
-    "VR": 41,
-    "Funny": 39,
-    "Adventure": 32,
-    "Singleplayer": 28,
-    "Co-op": 25,
-    "Action": 21,
-    "Open World": 21,
-    "3D Vision": 20,
-    "First-Person": 19,
-    "Building": 16,
-    "Comedy": 13,
-    "Survival": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 266430,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 34
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 266430,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 34
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 4,
+    "2022-12-10": 4,
+    "2022-12-13": 6,
+    "2022-12-15": 4,
+    "2022-12-18": 5,
+    "2022-12-21": 2,
+    "2022-12-22": 2
+  },
+  "Completion": 1.7999999523162842,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 266430,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 34
+  },
+  "Median Playtime - Forever": {
+    "app_id": 266430,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 34
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 266430,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,185 +206,53 @@
     "Steam Leaderboards",
     "Steam Workshop"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 1532,
-  "negative": 698,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/09/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/266430/header.jpg?t=1579563618",
+  "consensus_genre": "Free to Play",
+  "developer": "Elijah Newman-Gomez",
+  "discount": "0",
   "genre": [
     "Casual",
     "Free to Play",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": 1.7999999523162842,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/266430/header.jpg?t=1579563618",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Anarchy Arcade",
+  "negative": 698,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1532,
+  "price": "0",
+  "publisher": "Elijah Newman-Gomez",
+  "release_date": "2014/09/3",
+  "required_age": 0,
+  "tags": {
+    "3D Vision": 20,
+    "Action": 21,
+    "Adventure": 32,
+    "Arcade": 48,
+    "Building": 16,
+    "Casual": 55,
+    "Co-op": 25,
+    "Comedy": 13,
+    "Early Access": 52,
+    "First-Person": 19,
+    "Free to Play": 161,
+    "Funny": 39,
+    "Indie": 75,
+    "Multiplayer": 72,
+    "Open World": 21,
+    "Sandbox": 82,
+    "Simulation": 61,
+    "Singleplayer": 28,
+    "Survival": 9,
+    "VR": 41
+  },
+  "type": "game"
 }

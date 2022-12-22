@@ -1,31 +1,201 @@
 {
-  "appid": 263060,
-  "name": "Blockstorm",
-  "developer": "GhostShark",
-  "publisher": "IndieGala",
-  "tags": {
-    "Action": 230,
-    "FPS": 147,
-    "Multiplayer": 135,
-    "Shooter": 126,
-    "Indie": 107,
-    "Building": 101,
-    "Sandbox": 98,
-    "First-Person": 96,
-    "Character Customization": 90,
-    "Voxel": 88,
-    "Pixel Graphics": 74,
-    "Open World": 53,
-    "Zombies": 30,
-    "Gun Customization": 28,
-    "Destruction": 27,
-    "Level Editor": 14,
-    "Massively Multiplayer": 14,
-    "Singleplayer": 13,
-    "Walking Simulator": 10,
-    "Casual": 8
+  "Average Playtime - 2 Weeks": {
+    "app_id": 263060,
+    "average_2weeks": 0,
+    "average_forever": 666,
+    "median_2weeks": 0,
+    "median_forever": 196
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 263060,
+    "average_2weeks": 0,
+    "average_forever": 666,
+    "median_2weeks": 0,
+    "median_forever": 196
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 2,
+    "2022-12-10": 2,
+    "2022-12-13": 3,
+    "2022-12-15": 3,
+    "2022-12-18": 1,
+    "2022-12-21": 0,
+    "2022-12-22": 3
+  },
+  "Completion": 19.700000762939453,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 263060,
+    "average_2weeks": 0,
+    "average_forever": 666,
+    "median_2weeks": 0,
+    "median_forever": 196
+  },
+  "Median Playtime - Forever": {
+    "app_id": 263060,
+    "average_2weeks": 0,
+    "average_forever": 666,
+    "median_2weeks": 0,
+    "median_forever": 196
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 263060,
   "categories": [
     "Multi-player",
     "Includes level editor",
@@ -34,183 +204,51 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5182,
-  "negative": 1279,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/05/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263060/header.jpg?t=1557347717",
+  "consensus_genre": "Action",
+  "developer": "GhostShark",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 2,
-  "Completion": 19.700000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/263060/header.jpg?t=1557347717",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Blockstorm",
+  "negative": 1279,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5182,
+  "price": "499",
+  "publisher": "IndieGala",
+  "release_date": "2015/05/21",
+  "required_age": 0,
+  "tags": {
+    "Action": 230,
+    "Building": 101,
+    "Casual": 8,
+    "Character Customization": 90,
+    "Destruction": 27,
+    "FPS": 147,
+    "First-Person": 96,
+    "Gun Customization": 28,
+    "Indie": 107,
+    "Level Editor": 14,
+    "Massively Multiplayer": 14,
+    "Multiplayer": 135,
+    "Open World": 53,
+    "Pixel Graphics": 74,
+    "Sandbox": 98,
+    "Shooter": 126,
+    "Singleplayer": 13,
+    "Voxel": 88,
+    "Walking Simulator": 10,
+    "Zombies": 30
+  },
+  "type": "game"
 }

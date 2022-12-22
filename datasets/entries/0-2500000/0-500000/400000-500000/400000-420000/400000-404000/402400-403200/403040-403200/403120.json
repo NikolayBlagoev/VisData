@@ -1,30 +1,201 @@
 {
-  "appid": 403120,
-  "name": "THE GAME OF LIFE",
-  "developer": "Marmalade Game Studio Ltd",
-  "publisher": "Marmalade Game Studio Ltd",
-  "tags": {
-    "Board Game": 88,
-    "Multiplayer": 81,
-    "Tabletop": 66,
-    "Casual": 59,
-    "Adventure": 55,
-    "Family Friendly": 55,
-    "Simulation": 49,
-    "Turn-Based": 32,
-    "Addictive": 28,
-    "Card Game": 28,
-    "Turn-Based Strategy": 27,
-    "Classic": 19,
-    "Strategy": 17,
-    "Online Co-Op": 16,
-    "Singleplayer": 14,
-    "Cult Classic": 13,
-    "Funny": 8,
-    "Psychological Horror": 8,
-    "Co-op": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 403120,
+    "average_2weeks": 0,
+    "average_forever": 318,
+    "median_2weeks": 0,
+    "median_forever": 155
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 403120,
+    "average_2weeks": 0,
+    "average_forever": 318,
+    "median_2weeks": 0,
+    "median_forever": 155
+  },
+  "CCU Histogram": {
+    "2022-12-08": 20,
+    "2022-12-09": 13,
+    "2022-12-10": 10,
+    "2022-12-13": 10,
+    "2022-12-15": 9,
+    "2022-12-18": 21,
+    "2022-12-21": 17,
+    "2022-12-22": 16
+  },
+  "Completion": 37.25,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 403120,
+    "average_2weeks": 0,
+    "average_forever": 318,
+    "median_2weeks": 0,
+    "median_forever": 155
+  },
+  "Median Playtime - Forever": {
+    "app_id": 403120,
+    "average_2weeks": 0,
+    "average_forever": 318,
+    "median_2weeks": 0,
+    "median_forever": 155
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 403120,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,184 +204,51 @@
     "Steam Trading Cards",
     "Remote Play Together"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1547,
-  "negative": 515,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 29,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/11/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/403120/header.jpg?t=1656406136",
+  "consensus_genre": "Casual",
+  "developer": "Marmalade Game Studio Ltd",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Simulation"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 2,
-  "Completion": 37.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/403120/header.jpg?t=1656406136",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "THE GAME OF LIFE",
+  "negative": 515,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1547,
+  "price": "499",
+  "publisher": "Marmalade Game Studio Ltd",
+  "release_date": "2015/11/3",
+  "required_age": 0,
+  "tags": {
+    "Addictive": 28,
+    "Adventure": 55,
+    "Board Game": 88,
+    "Card Game": 28,
+    "Casual": 59,
+    "Classic": 19,
+    "Co-op": 7,
+    "Cult Classic": 13,
+    "Family Friendly": 55,
+    "Funny": 8,
+    "Multiplayer": 81,
+    "Online Co-Op": 16,
+    "Psychological Horror": 8,
+    "Simulation": 49,
+    "Singleplayer": 14,
+    "Strategy": 17,
+    "Tabletop": 66,
+    "Turn-Based": 32,
+    "Turn-Based Strategy": 27
+  },
+  "type": "game"
 }

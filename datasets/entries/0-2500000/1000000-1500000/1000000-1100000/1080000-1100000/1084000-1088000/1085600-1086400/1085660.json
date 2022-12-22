@@ -1,31 +1,201 @@
 {
-  "appid": 1085660,
-  "name": "Destiny 2",
-  "developer": "Bungie",
-  "publisher": "Bungie",
-  "tags": {
-    "Free to Play": 2742,
-    "Open World": 2525,
-    "FPS": 2494,
-    "Looter Shooter": 2491,
-    "MMORPG": 2475,
-    "PvP": 2455,
-    "PvE": 2444,
-    "Co-op": 2426,
-    "Shooter": 2311,
-    "First-Person": 2227,
-    "Massively Multiplayer": 2216,
-    "Sci-fi": 2211,
-    "Loot": 2201,
-    "Action": 2192,
-    "Lore-Rich": 2167,
-    "Multiplayer": 2154,
-    "Space": 2150,
-    "Adventure": 2138,
-    "Competitive": 2099,
-    "Atmospheric": 2044
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1085660,
+    "average_2weeks": 1864,
+    "average_forever": 10893,
+    "median_2weeks": 804,
+    "median_forever": 397
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1085660,
+    "average_2weeks": 1864,
+    "average_forever": 10893,
+    "median_2weeks": 804,
+    "median_forever": 397
+  },
+  "CCU Histogram": {
+    "2022-12-08": 101377,
+    "2022-12-09": 101399,
+    "2022-12-10": 73344,
+    "2022-12-13": 91452,
+    "2022-12-15": 101309,
+    "2022-12-18": 81602,
+    "2022-12-21": 73722,
+    "2022-12-22": 105239
+  },
+  "Completion": 52.0,
+  "Down 30 Days": 1041,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 38,
+      "recommendations_up": 157
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 30,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 20,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 29,
+      "recommendations_up": 69
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 35,
+      "recommendations_up": 116
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 32,
+      "recommendations_up": 120
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 34,
+      "recommendations_up": 101
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 28,
+      "recommendations_up": 113
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 32,
+      "recommendations_up": 109
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 30,
+      "recommendations_up": 71
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 27,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 34,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 45,
+      "recommendations_up": 112
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 34,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 40,
+      "recommendations_up": 124
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 37,
+      "recommendations_up": 93
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 24,
+      "recommendations_up": 94
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 35,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 25,
+      "recommendations_up": 107
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 31,
+      "recommendations_up": 118
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 27,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 49,
+      "recommendations_up": 297
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 61,
+      "recommendations_up": 598
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 39,
+      "recommendations_up": 372
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 33,
+      "recommendations_up": 296
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 55,
+      "recommendations_up": 292
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 38,
+      "recommendations_up": 254
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 36,
+      "recommendations_up": 208
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 41,
+      "recommendations_up": 231
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 22,
+      "recommendations_up": 44
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1085660,
+    "average_2weeks": 1864,
+    "average_forever": 10893,
+    "median_2weeks": 804,
+    "median_forever": 397
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1085660,
+    "average_2weeks": 1864,
+    "average_forever": 10893,
+    "median_2weeks": 804,
+    "median_forever": 397
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB T",
+  "Up 30 Days": 4786,
+  "User Score": -1,
+  "appid": 1085660,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,184 +210,52 @@
     "Remote Play on TV",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 420074,
-  "negative": 81774,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 57116,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/10/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1085660/header.jpg?t=1661876523",
+  "consensus_genre": "Free to Play",
+  "developer": "Bungie",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Free to Play"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 157,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 105,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 98,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 69,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 116,
-      "recommendations_down": 35
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 120,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 101,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 113,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 109,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 71,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 98,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 108,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 112,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 98,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 124,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 93,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 94,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 86,
-      "recommendations_down": 35
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 107,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 118,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 97,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 297,
-      "recommendations_down": 49
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 598,
-      "recommendations_down": 61
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 372,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 296,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 292,
-      "recommendations_down": 55
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 254,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 208,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 231,
-      "recommendations_down": 41
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 44,
-      "recommendations_down": 22
-    }
-  ],
-  "Up 30 Days": 4786,
-  "Down 30 Days": 1041,
-  "Completion": 52.0,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1085660/header.jpg?t=1661876523",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Destiny 2",
+  "negative": 81774,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 420074,
+  "price": "0",
+  "publisher": "Bungie",
+  "release_date": "2019/10/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 2192,
+    "Adventure": 2138,
+    "Atmospheric": 2044,
+    "Co-op": 2426,
+    "Competitive": 2099,
+    "FPS": 2494,
+    "First-Person": 2227,
+    "Free to Play": 2742,
+    "Loot": 2201,
+    "Looter Shooter": 2491,
+    "Lore-Rich": 2167,
+    "MMORPG": 2475,
+    "Massively Multiplayer": 2216,
+    "Multiplayer": 2154,
+    "Open World": 2525,
+    "PvE": 2444,
+    "PvP": 2455,
+    "Sci-fi": 2211,
+    "Shooter": 2311,
+    "Space": 2150
+  },
+  "type": "game"
 }

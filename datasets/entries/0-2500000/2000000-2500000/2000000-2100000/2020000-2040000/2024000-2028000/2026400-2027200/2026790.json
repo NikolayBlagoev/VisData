@@ -1,50 +1,63 @@
 {
-  "appid": 2026790,
-  "name": "Boulder Island",
-  "developer": "mango tea",
-  "publisher": "mango tea",
-  "tags": {
-    "Adventure": 247,
-    "Action": 241,
-    "RPG": 237,
-    "3D Fighter": 213,
-    "Action-Adventure": 210,
-    "Action RPG": 203,
-    "Walking Simulator": 197,
-    "Sandbox": 193,
-    "3D Platformer": 186,
-    "Action Roguelike": 177,
-    "Wargame": 175,
-    "Creature Collector": 169,
-    "CRPG": 167,
-    "Hack and Slash": 164,
-    "FPS": 159,
-    "Souls-like": 149,
-    "3D": 147,
-    "Casual": 140,
-    "Realistic": 135,
-    "First-Person": 129
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2026790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2026790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2026790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2026790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2026790,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2026790/header.jpg?t=1662532533",
+  "consensus_genre": "Adventure",
+  "developer": "mango tea",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -52,18 +65,43 @@
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2026790/header.jpg?t=1662532533",
+  "initialprice": "999",
+  "languages": "English, Simplified Chinese",
+  "name": "Boulder Island",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "mango tea",
+  "release_date": "2022/06/28",
+  "required_age": 0,
+  "tags": {
+    "3D": 147,
+    "3D Fighter": 213,
+    "3D Platformer": 186,
+    "Action": 241,
+    "Action RPG": 203,
+    "Action Roguelike": 177,
+    "Action-Adventure": 210,
+    "Adventure": 247,
+    "CRPG": 167,
+    "Casual": 140,
+    "Creature Collector": 169,
+    "FPS": 159,
+    "First-Person": 129,
+    "Hack and Slash": 164,
+    "RPG": 237,
+    "Realistic": 135,
+    "Sandbox": 193,
+    "Souls-like": 149,
+    "Walking Simulator": 197,
+    "Wargame": 175
+  },
+  "type": "game"
 }

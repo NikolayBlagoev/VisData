@@ -1,88 +1,126 @@
 {
-  "appid": 1950470,
-  "name": "Rotten Apple - VR Arcade Version",
-  "developer": "VRilliant Studios",
-  "publisher": "VRilliant Studios",
-  "tags": {
-    "Survival": 393,
-    "Zombies": 387,
-    "FPS": 383,
-    "VR": 379,
-    "Co-op": 372,
-    "PvE": 362,
-    "Multiplayer": 355,
-    "First-Person": 347,
-    "Horror": 338,
-    "Post-apocalyptic": 328,
-    "Puzzle": 317,
-    "Dystopian ": 305,
-    "Hack and Slash": 292,
-    "War": 279,
-    "Shoot 'Em Up": 265,
-    "Looter Shooter": 249,
-    "Shooter": 247,
-    "Action-Adventure": 229,
-    "3D": 210,
-    "Team-Based": 190
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1950470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1950470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1950470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1950470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1950470,
   "categories": [
     "Multi-player",
     "Co-op",
     "LAN Co-op"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1950470/header.jpg?t=1663785319",
+  "consensus_genre": "",
+  "developer": "VRilliant Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1950470/header.jpg?t=1663785319",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Rotten Apple - VR Arcade Version",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "0",
+  "publisher": "VRilliant Studios",
+  "release_date": "2022/09/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 210,
+    "Action-Adventure": 229,
+    "Co-op": 372,
+    "Dystopian ": 305,
+    "FPS": 383,
+    "First-Person": 347,
+    "Hack and Slash": 292,
+    "Horror": 338,
+    "Looter Shooter": 249,
+    "Multiplayer": 355,
+    "Post-apocalyptic": 328,
+    "Puzzle": 317,
+    "PvE": 362,
+    "Shoot 'Em Up": 265,
+    "Shooter": 247,
+    "Survival": 393,
+    "Team-Based": 190,
+    "VR": 379,
+    "War": 279,
+    "Zombies": 387
+  },
+  "type": "game"
 }

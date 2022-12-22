@@ -1,31 +1,56 @@
 {
-  "appid": 1923920,
-  "name": "Base Craft: Desolate Survival",
-  "developer": "Cold North Games",
-  "publisher": "Cold North Games",
-  "tags": {
-    "Action": 556,
-    "Strategy": 550,
-    "RTS": 526,
-    "Rogue-like": 520,
-    "Shooter": 515,
-    "Tower Defense": 505,
-    "Action RTS": 498,
-    "Real Time Tactics": 490,
-    "Rogue-lite": 482,
-    "Twin Stick Shooter": 471,
-    "Top-Down Shooter": 460,
-    "2D": 448,
-    "Minimalist": 435,
-    "Cartoony": 421,
-    "Top-Down": 406,
-    "Building": 391,
-    "Futuristic": 375,
-    "War": 357,
-    "Space": 355,
-    "Sci-fi": 335
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1923920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1923920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 41.20000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1923920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1923920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1923920,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,39 +59,52 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1923920/header.jpg?t=1650012581",
+  "consensus_genre": "Action",
+  "developer": "Cold North Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 41.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1923920/header.jpg?t=1650012581",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Base Craft: Desolate Survival",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Cold North Games",
+  "release_date": "2022/04/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 448,
+    "Action": 556,
+    "Action RTS": 498,
+    "Building": 391,
+    "Cartoony": 421,
+    "Futuristic": 375,
+    "Minimalist": 435,
+    "RTS": 526,
+    "Real Time Tactics": 490,
+    "Rogue-like": 520,
+    "Rogue-lite": 482,
+    "Sci-fi": 335,
+    "Shooter": 515,
+    "Space": 355,
+    "Strategy": 550,
+    "Top-Down": 406,
+    "Top-Down Shooter": 460,
+    "Tower Defense": 505,
+    "Twin Stick Shooter": 471,
+    "War": 357
+  },
+  "type": "game"
 }

@@ -1,212 +1,250 @@
 {
-  "appid": 1364960,
-  "name": "Hello Neighbor 2 Alpha 1.5",
-  "developer": "Eerie Guest, tinyBuild",
-  "publisher": "tinyBuild",
-  "tags": {
-    "Adventure": 405,
-    "Puzzle": 375,
-    "Stealth": 363,
-    "Survival": 344,
-    "Investigation": 337,
-    "Survival Horror": 326,
-    "Puzzle-Platformer": 313,
-    "3D": 302,
-    "Horror": 299,
-    "First-Person": 298,
-    "Multiplayer": 298,
-    "Cartoony": 294,
-    "Colorful": 274,
-    "Atmospheric": 248,
-    "Psychedelic": 244,
-    "Detective": 234,
-    "Conspiracy": 229,
-    "Mystery": 202,
-    "Singleplayer": 171,
-    "Psychological": 162
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1364960,
+    "average_2weeks": 0,
+    "average_forever": 80,
+    "median_2weeks": 0,
+    "median_forever": 29
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1364960,
+    "average_2weeks": 0,
+    "average_forever": 80,
+    "median_2weeks": 0,
+    "median_forever": 29
+  },
+  "CCU Histogram": {
+    "2022-12-08": 46,
+    "2022-12-09": 33,
+    "2022-12-10": 53,
+    "2022-12-13": 52,
+    "2022-12-15": 53,
+    "2022-12-18": 51,
+    "2022-12-21": 48,
+    "2022-12-22": 48
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1364960,
+    "average_2weeks": 0,
+    "average_forever": 80,
+    "median_2weeks": 0,
+    "median_forever": 29
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1364960,
+    "average_2weeks": 0,
+    "average_forever": 80,
+    "median_2weeks": 0,
+    "median_forever": 29
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 38,
+  "User Score": -1,
+  "appid": 1364960,
   "categories": [
     "Single-player"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4459,
-  "negative": 740,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 33,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364960/header.jpg?t=1661798216",
+  "consensus_genre": "Adventure",
+  "developer": "Eerie Guest, tinyBuild",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 38,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364960/header.jpg?t=1661798216",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Hello Neighbor 2 Alpha 1.5",
+  "negative": 740,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4459,
+  "price": "0",
+  "publisher": "tinyBuild",
+  "release_date": "2020/07/23",
+  "required_age": 0,
+  "tags": {
+    "3D": 302,
+    "Adventure": 405,
+    "Atmospheric": 248,
+    "Cartoony": 294,
+    "Colorful": 274,
+    "Conspiracy": 229,
+    "Detective": 234,
+    "First-Person": 298,
+    "Horror": 299,
+    "Investigation": 337,
+    "Multiplayer": 298,
+    "Mystery": 202,
+    "Psychedelic": 244,
+    "Psychological": 162,
+    "Puzzle": 375,
+    "Puzzle-Platformer": 313,
+    "Singleplayer": 171,
+    "Stealth": 363,
+    "Survival": 344,
+    "Survival Horror": 326
+  },
+  "type": "game"
 }

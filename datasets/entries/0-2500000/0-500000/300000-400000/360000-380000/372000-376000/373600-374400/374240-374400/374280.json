@@ -1,31 +1,201 @@
 {
-  "appid": 374280,
-  "name": "Hired Ops",
-  "developer": "Absolut Soft LLC",
-  "publisher": "Slashware Interactive",
-  "tags": {
-    "FPS": 198,
-    "Multiplayer": 156,
-    "Free to Play": 153,
-    "Action": 131,
-    "Shooter": 100,
-    "Modern": 67,
-    "Massively Multiplayer": 58,
-    "Early Access": 56,
-    "First-Person": 56,
-    "Singleplayer": 36,
-    "Military": 31,
-    "Atmospheric": 29,
-    "Controller": 28,
-    "Co-op": 25,
-    "Exploration": 21,
-    "PvP": 17,
-    "6DOF": 16,
-    "Blood": 16,
-    "Choices Matter": 15,
-    "Choose Your Own Adventure": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 374280,
+    "average_2weeks": 31,
+    "average_forever": 447,
+    "median_2weeks": 31,
+    "median_forever": 59
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 374280,
+    "average_2weeks": 31,
+    "average_forever": 447,
+    "median_2weeks": 31,
+    "median_forever": 59
+  },
+  "CCU Histogram": {
+    "2022-12-08": 444,
+    "2022-12-09": 448,
+    "2022-12-10": 391,
+    "2022-12-13": 400,
+    "2022-12-15": 414,
+    "2022-12-18": 354,
+    "2022-12-21": 387,
+    "2022-12-22": 421
+  },
+  "Completion": 56.5,
+  "Down 30 Days": 66,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 5,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 4,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 374280,
+    "average_2weeks": 31,
+    "average_forever": 447,
+    "median_2weeks": 31,
+    "median_forever": 59
+  },
+  "Median Playtime - Forever": {
+    "app_id": 374280,
+    "average_2weeks": 31,
+    "average_forever": 447,
+    "median_2weeks": 31,
+    "median_forever": 59
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 186,
+  "User Score": -1,
+  "appid": 374280,
   "categories": [
     "Multi-player",
     "Steam Achievements",
@@ -35,184 +205,52 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 8215,
-  "negative": 4283,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 415,
-  "languages": "English, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374280/header.jpg?t=1650735909",
+  "consensus_genre": "Free to Play",
+  "developer": "Absolut Soft LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 8,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 186,
-  "Down 30 Days": 66,
-  "Completion": 56.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374280/header.jpg?t=1650735909",
+  "initialprice": "0",
+  "languages": "English, Russian, Simplified Chinese",
+  "name": "Hired Ops",
+  "negative": 4283,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 8215,
+  "price": "0",
+  "publisher": "Slashware Interactive",
+  "release_date": "2021/04/13",
+  "required_age": 0,
+  "tags": {
+    "6DOF": 16,
+    "Action": 131,
+    "Atmospheric": 29,
+    "Blood": 16,
+    "Choices Matter": 15,
+    "Choose Your Own Adventure": 14,
+    "Co-op": 25,
+    "Controller": 28,
+    "Early Access": 56,
+    "Exploration": 21,
+    "FPS": 198,
+    "First-Person": 56,
+    "Free to Play": 153,
+    "Massively Multiplayer": 58,
+    "Military": 31,
+    "Modern": 67,
+    "Multiplayer": 156,
+    "PvP": 17,
+    "Shooter": 100,
+    "Singleplayer": 36
+  },
+  "type": "game"
 }

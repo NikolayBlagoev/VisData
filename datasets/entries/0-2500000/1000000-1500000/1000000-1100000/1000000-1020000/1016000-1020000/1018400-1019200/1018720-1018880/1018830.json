@@ -1,31 +1,201 @@
 {
-  "appid": 1018830,
-  "name": "Element TD 2 - Tower Defense",
-  "developer": "Element Studios",
-  "publisher": "Element Studios",
-  "tags": {
-    "Tower Defense": 169,
-    "Real Time Tactics": 163,
-    "Strategy": 160,
-    "Multiplayer": 157,
-    "Replay Value": 154,
-    "Co-op": 148,
-    "PvE": 143,
-    "PvP": 137,
-    "Competitive": 133,
-    "Character Customization": 124,
-    "RTS": 124,
-    "3D": 121,
-    "Team-Based": 119,
-    "Fantasy": 115,
-    "Magic": 113,
-    "Tactical": 111,
-    "Score Attack": 105,
-    "Building": 93,
-    "Online Co-Op": 81,
-    "Singleplayer": 71
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1018830,
+    "average_2weeks": 0,
+    "average_forever": 464,
+    "median_2weeks": 0,
+    "median_forever": 376
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1018830,
+    "average_2weeks": 0,
+    "average_forever": 464,
+    "median_2weeks": 0,
+    "median_forever": 376
+  },
+  "CCU Histogram": {
+    "2022-12-08": 100,
+    "2022-12-09": 188,
+    "2022-12-10": 169,
+    "2022-12-13": 137,
+    "2022-12-15": 127,
+    "2022-12-18": 112,
+    "2022-12-21": 124,
+    "2022-12-22": 108
+  },
+  "Completion": 9.100000381469727,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1018830,
+    "average_2weeks": 0,
+    "average_forever": 464,
+    "median_2weeks": 0,
+    "median_forever": 376
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1018830,
+    "average_2weeks": 0,
+    "average_forever": 464,
+    "median_2weeks": 0,
+    "median_forever": 376
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 33,
+  "User Score": -1,
+  "appid": 1018830,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,183 +208,51 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1912,
-  "negative": 178,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 81,
-  "languages": "English, Italian, German, Dutch, Spanish - Latin America, Swedish, Romanian, French, Russian, Simplified Chinese, Traditional Chinese, Finnish, Czech, Portuguese - Brazil, Japanese, Turkish, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1018830/header.jpg?t=1668039886",
+  "consensus_genre": "Strategy",
+  "developer": "Element Studios",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 33,
-  "Down 30 Days": 3,
-  "Completion": 9.100000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1018830/header.jpg?t=1668039886",
+  "initialprice": "1499",
+  "languages": "English, Italian, German, Dutch, Spanish - Latin America, Swedish, Romanian, French, Russian, Simplified Chinese, Traditional Chinese, Finnish, Czech, Portuguese - Brazil, Japanese, Turkish, Korean",
+  "name": "Element TD 2 - Tower Defense",
+  "negative": 178,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1912,
+  "price": "1499",
+  "publisher": "Element Studios",
+  "release_date": "2021/04/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 121,
+    "Building": 93,
+    "Character Customization": 124,
+    "Co-op": 148,
+    "Competitive": 133,
+    "Fantasy": 115,
+    "Magic": 113,
+    "Multiplayer": 157,
+    "Online Co-Op": 81,
+    "PvE": 143,
+    "PvP": 137,
+    "RTS": 124,
+    "Real Time Tactics": 163,
+    "Replay Value": 154,
+    "Score Attack": 105,
+    "Singleplayer": 71,
+    "Strategy": 160,
+    "Tactical": 111,
+    "Team-Based": 119,
+    "Tower Defense": 169
+  },
+  "type": "game"
 }

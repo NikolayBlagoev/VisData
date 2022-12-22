@@ -1,31 +1,201 @@
 {
-  "appid": 107100,
-  "name": "Bastion",
-  "developer": "Supergiant Games",
-  "publisher": "Supergiant Games",
-  "tags": {
-    "Great Soundtrack": 1657,
-    "Indie": 1459,
-    "Action": 1274,
-    "Narration": 1114,
-    "Singleplayer": 1111,
-    "RPG": 1024,
-    "Hack and Slash": 951,
-    "Story Rich": 938,
-    "Dynamic Narration": 838,
-    "Isometric": 771,
-    "Adventure": 694,
-    "Action RPG": 615,
-    "Fantasy": 357,
-    "Atmospheric": 338,
-    "Colorful": 229,
-    "Post-apocalyptic": 204,
-    "2D": 132,
-    "Music": 121,
-    "Twin Stick Shooter": 107,
-    "Controller": 94
+  "Average Playtime - 2 Weeks": {
+    "app_id": 107100,
+    "average_2weeks": 168,
+    "average_forever": 387,
+    "median_2weeks": 168,
+    "median_forever": 214
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 107100,
+    "average_2weeks": 168,
+    "average_forever": 387,
+    "median_2weeks": 168,
+    "median_forever": 214
+  },
+  "CCU Histogram": {
+    "2022-12-08": 40,
+    "2022-12-09": 31,
+    "2022-12-10": 45,
+    "2022-12-13": 64,
+    "2022-12-15": 49,
+    "2022-12-18": 56,
+    "2022-12-21": 60,
+    "2022-12-22": 36
+  },
+  "Completion": 56.14999961853027,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 107100,
+    "average_2weeks": 168,
+    "average_forever": 387,
+    "median_2weeks": 168,
+    "median_forever": 214
+  },
+  "Median Playtime - Forever": {
+    "app_id": 107100,
+    "average_2weeks": 168,
+    "average_forever": 387,
+    "median_2weeks": 168,
+    "median_forever": 214
+  },
+  "Meta Score": "86",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 71,
+  "User Score": -1,
+  "appid": 107100,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -37,184 +207,52 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 33708,
-  "negative": 1550,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 52,
-  "languages": "English, French, German, Italian, Spanish - Spain, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2011/08/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/107100/header.jpg?t=1665003514",
+  "consensus_genre": "Indie",
+  "developer": "Supergiant Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "86",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 71,
-  "Down 30 Days": 10,
-  "Completion": 56.14999961853027,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/107100/header.jpg?t=1665003514",
+  "initialprice": "1499",
+  "languages": "English, French, German, Italian, Spanish - Spain, Simplified Chinese",
+  "name": "Bastion",
+  "negative": 1550,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 33708,
+  "price": "1499",
+  "publisher": "Supergiant Games",
+  "release_date": "2011/08/16",
+  "required_age": 0,
+  "tags": {
+    "2D": 132,
+    "Action": 1274,
+    "Action RPG": 615,
+    "Adventure": 694,
+    "Atmospheric": 338,
+    "Colorful": 229,
+    "Controller": 94,
+    "Dynamic Narration": 838,
+    "Fantasy": 357,
+    "Great Soundtrack": 1657,
+    "Hack and Slash": 951,
+    "Indie": 1459,
+    "Isometric": 771,
+    "Music": 121,
+    "Narration": 1114,
+    "Post-apocalyptic": 204,
+    "RPG": 1024,
+    "Singleplayer": 1111,
+    "Story Rich": 938,
+    "Twin Stick Shooter": 107
+  },
+  "type": "game"
 }

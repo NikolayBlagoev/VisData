@@ -1,31 +1,201 @@
 {
-  "appid": 215080,
-  "name": "WAKFU",
-  "developer": "Ankama Studio",
-  "publisher": "Ankama Games",
-  "tags": {
-    "Free to Play": 625,
-    "Massively Multiplayer": 457,
-    "RPG": 439,
-    "Turn-Based Strategy": 387,
-    "MMORPG": 357,
-    "Strategy": 322,
-    "Turn-Based": 316,
-    "Adventure": 290,
-    "Anime": 256,
-    "Open World": 221,
-    "Tactical": 216,
-    "Multiplayer": 184,
-    "Fantasy": 153,
-    "Isometric": 135,
-    "2D": 127,
-    "Sandbox": 118,
-    "Co-op": 107,
-    "Cartoon": 93,
-    "Indie": 90,
-    "Casual": 86
+  "Average Playtime - 2 Weeks": {
+    "app_id": 215080,
+    "average_2weeks": 0,
+    "average_forever": 1277,
+    "median_2weeks": 0,
+    "median_forever": 109
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 215080,
+    "average_2weeks": 0,
+    "average_forever": 1277,
+    "median_2weeks": 0,
+    "median_forever": 109
+  },
+  "CCU Histogram": {
+    "2022-12-08": 309,
+    "2022-12-09": 320,
+    "2022-12-10": 319,
+    "2022-12-13": 340,
+    "2022-12-15": 180,
+    "2022-12-18": 304,
+    "2022-12-21": 295,
+    "2022-12-22": 284
+  },
+  "Completion": 10.900000095367432,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 215080,
+    "average_2weeks": 0,
+    "average_forever": 1277,
+    "median_2weeks": 0,
+    "median_forever": 109
+  },
+  "Median Playtime - Forever": {
+    "app_id": 215080,
+    "average_2weeks": 0,
+    "average_forever": 1277,
+    "median_2weeks": 0,
+    "median_forever": 109
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 26,
+  "User Score": -1,
+  "appid": 215080,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -35,22 +205,10 @@
     "In-App Purchases",
     "Online Co-op"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 6714,
-  "negative": 2238,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 310,
-  "languages": "English, French, Spanish - Spain, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/09/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/215080/header.jpg?t=1648498631",
+  "consensus_genre": "Free to Play",
+  "developer": "Ankama Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -61,163 +219,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 26,
-  "Down 30 Days": 16,
-  "Completion": 10.900000095367432,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/215080/header.jpg?t=1648498631",
+  "initialprice": "0",
+  "languages": "English, French, Spanish - Spain, Portuguese - Brazil",
+  "name": "WAKFU",
+  "negative": 2238,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 6714,
+  "price": "0",
+  "publisher": "Ankama Games",
+  "release_date": "2014/09/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 127,
+    "Adventure": 290,
+    "Anime": 256,
+    "Cartoon": 93,
+    "Casual": 86,
+    "Co-op": 107,
+    "Fantasy": 153,
+    "Free to Play": 625,
+    "Indie": 90,
+    "Isometric": 135,
+    "MMORPG": 357,
+    "Massively Multiplayer": 457,
+    "Multiplayer": 184,
+    "Open World": 221,
+    "RPG": 439,
+    "Sandbox": 118,
+    "Strategy": 322,
+    "Tactical": 216,
+    "Turn-Based": 316,
+    "Turn-Based Strategy": 387
+  },
+  "type": "game"
 }

@@ -1,70 +1,108 @@
 {
-  "appid": 994700,
-  "name": "Loco Launcher",
-  "developer": "Nitro Rabbit Labs",
-  "publisher": "Nitro Rabbit Labs",
-  "tags": {
-    "Action": 118,
-    "Casual": 112,
-    "Arcade": 109,
-    "Platformer": 106,
-    "3D Platformer": 102,
-    "3D": 96,
-    "Cartoony": 93,
-    "Cute": 90,
-    "Stylized": 86,
-    "Destruction": 80,
-    "Fantasy": 77,
-    "Early Access": 67,
-    "Indie": 59,
-    "Controller": 52,
-    "Linear": 46,
-    "Physics": 44,
-    "Singleplayer": 42,
-    "Beat 'em up": 38,
-    "Sandbox": 36,
-    "Collectathon": 34
+  "Average Playtime - 2 Weeks": {
+    "app_id": 994700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 994700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 994700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 994700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 994700,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/994700/header.jpg?t=1662656237",
+  "consensus_genre": "Action",
+  "developer": "Nitro Rabbit Labs",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/994700/header.jpg?t=1662656237",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Loco Launcher",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Nitro Rabbit Labs",
+  "release_date": "2021/09/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 96,
+    "3D Platformer": 102,
+    "Action": 118,
+    "Arcade": 109,
+    "Beat 'em up": 38,
+    "Cartoony": 93,
+    "Casual": 112,
+    "Collectathon": 34,
+    "Controller": 52,
+    "Cute": 90,
+    "Destruction": 80,
+    "Early Access": 67,
+    "Fantasy": 77,
+    "Indie": 59,
+    "Linear": 46,
+    "Physics": 44,
+    "Platformer": 106,
+    "Sandbox": 36,
+    "Singleplayer": 42,
+    "Stylized": 86
+  },
+  "type": "game"
 }

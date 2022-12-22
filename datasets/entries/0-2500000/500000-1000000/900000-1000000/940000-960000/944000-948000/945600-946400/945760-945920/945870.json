@@ -1,10 +1,50 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 945870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 945870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 65.5999984741211,
+  "Down 30 Days": 0,
+  "Like Histogram": [],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 945870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 945870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
   "appid": 945870,
-  "name": "Starcross Arena",
-  "developer": "Digital Hogwash LLC",
-  "publisher": "Digital Hogwash LLC",
-  "tags": {},
-  "type": "game",
   "categories": [
     "Multi-player",
     "Stats",
@@ -18,33 +58,31 @@
     "Shared/Split Screen PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 0,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2018/11/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/945870/header.jpg?t=1581976778",
+  "consensus_genre": "",
+  "developer": "Digital Hogwash LLC",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 65.5999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/945870/header.jpg?t=1581976778",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Starcross Arena",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1999",
+  "publisher": "Digital Hogwash LLC",
+  "release_date": "2018/11/23",
+  "required_age": 0,
+  "tags": {},
+  "type": "game"
 }

@@ -1,67 +1,105 @@
 {
-  "appid": 1513650,
-  "name": "Gun Bots",
-  "developer": "Protect the King",
-  "publisher": "Self Published",
-  "tags": {
-    "Action": 237,
-    "Tower Defense": 233,
-    "Strategy": 231,
-    "Shoot 'Em Up": 226,
-    "Top-Down Shooter": 222,
-    "Arcade": 202,
-    "Arena Shooter": 194,
-    "2D": 187,
-    "Colorful": 177,
-    "Top-Down": 169,
-    "Aliens": 158,
-    "Funny": 146,
-    "Futuristic": 144,
-    "Mechs": 130,
-    "Sci-fi": 115,
-    "Space": 99,
-    "Character Customization": 82,
-    "Combat": 64,
-    "Grid-Based Movement": 45,
-    "Gun Customization": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1513650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1513650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1513650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1513650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1513650,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/01/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1513650/header.jpg?t=1611589058",
+  "consensus_genre": "Action",
+  "developer": "Protect the King",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1513650/header.jpg?t=1611589058",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Gun Bots",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Self Published",
+  "release_date": "2021/01/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 187,
+    "Action": 237,
+    "Aliens": 158,
+    "Arcade": 202,
+    "Arena Shooter": 194,
+    "Character Customization": 82,
+    "Colorful": 177,
+    "Combat": 64,
+    "Funny": 146,
+    "Futuristic": 144,
+    "Grid-Based Movement": 45,
+    "Gun Customization": 27,
+    "Mechs": 130,
+    "Sci-fi": 115,
+    "Shoot 'Em Up": 226,
+    "Space": 99,
+    "Strategy": 231,
+    "Top-Down": 169,
+    "Top-Down Shooter": 222,
+    "Tower Defense": 233
+  },
+  "type": "game"
 }

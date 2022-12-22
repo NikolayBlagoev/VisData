@@ -1,31 +1,71 @@
 {
-  "appid": 1556160,
-  "name": "Techno Tanks",
-  "developer": "EpiXR Games UG",
-  "publisher": "EpiXR Games UG",
-  "tags": {
-    "Tanks": 213,
-    "Arcade": 207,
-    "Shooter": 202,
-    "Casual": 201,
-    "Retro": 197,
-    "Action": 194,
-    "Co-op": 191,
-    "Adventure": 185,
-    "Bullet Hell": 157,
-    "Arena Shooter": 148,
-    "Top-Down Shooter": 139,
-    "Twin Stick Shooter": 126,
-    "Minimalist": 124,
-    "Split Screen": 110,
-    "War": 95,
-    "PvP": 79,
-    "Team-Based": 62,
-    "Local Co-Op": 44,
-    "Local Multiplayer": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1556160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1556160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 3.5,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1556160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1556160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 19,
+  "User Score": -1,
+  "appid": 1556160,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,55 +77,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 18,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556160/header.jpg?t=1620373487",
+  "consensus_genre": "Casual",
+  "developer": "EpiXR Games UG",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 19,
-  "Down 30 Days": 0,
-  "Completion": 3.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556160/header.jpg?t=1620373487",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Techno Tanks",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 18,
+  "price": "499",
+  "publisher": "EpiXR Games UG",
+  "release_date": "2021/05/7",
+  "required_age": 0,
+  "tags": {
+    "Action": 194,
+    "Adventure": 185,
+    "Arcade": 207,
+    "Arena Shooter": 148,
+    "Bullet Hell": 157,
+    "Casual": 201,
+    "Co-op": 191,
+    "Local Co-Op": 44,
+    "Local Multiplayer": 27,
+    "Minimalist": 124,
+    "PvP": 79,
+    "Retro": 197,
+    "Shooter": 202,
+    "Singleplayer": 25,
+    "Split Screen": 110,
+    "Tanks": 213,
+    "Team-Based": 62,
+    "Top-Down Shooter": 139,
+    "Twin Stick Shooter": 126,
+    "War": 95
+  },
+  "type": "game"
 }

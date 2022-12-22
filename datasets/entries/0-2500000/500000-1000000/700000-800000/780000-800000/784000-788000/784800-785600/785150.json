@@ -1,83 +1,121 @@
 {
-  "appid": 785150,
-  "name": "VIRUS RUSH",
-  "developer": "VRobot",
-  "publisher": "VRobot",
-  "tags": {
-    "Early Access": 455,
-    "Action": 413,
-    "Adventure": 386,
-    "Strategy": 382,
-    "Platformer": 377,
-    "Rhythm": 371,
-    "Building": 361,
-    "Match 3": 354,
-    "Shooter": 347,
-    "Precision Platformer": 337,
-    "Choose Your Own Adventure": 327,
-    "Real Time Tactics": 316,
-    "FPS": 305,
-    "3D": 292,
-    "VR": 281,
-    "Colorful": 265,
-    "Futuristic": 249,
-    "Survival": 246,
-    "Family Friendly": 229,
-    "Logic": 209,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 785150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 785150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 785150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 785150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 785150,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/785150/header.jpg?t=1596129790",
+  "consensus_genre": "Early Access",
+  "developer": "VRobot",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/785150/header.jpg?t=1596129790",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "VIRUS RUSH",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "499",
+  "publisher": "VRobot",
+  "release_date": "2020/07/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 292,
+    "Action": 413,
+    "Adventure": 386,
+    "Building": 361,
+    "Choose Your Own Adventure": 327,
+    "Colorful": 265,
+    "Early Access": 455,
+    "FPS": 305,
+    "Family Friendly": 229,
+    "Futuristic": 249,
+    "Logic": 209,
+    "Match 3": 354,
+    "Platformer": 377,
+    "Precision Platformer": 337,
+    "Real Time Tactics": 316,
+    "Rhythm": 371,
+    "Shooter": 347,
+    "Strategy": 382,
+    "Survival": 246,
+    "VR": 281,
+    "VR Only": 1
+  },
+  "type": "game"
 }

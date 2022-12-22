@@ -1,31 +1,201 @@
 {
-  "appid": 1331910,
-  "name": "Morkredd",
-  "developer": "Hyper Games",
-  "publisher": "Aspyr",
-  "tags": {
-    "Physics": 124,
-    "Puzzle": 121,
-    "Local Co-Op": 114,
-    "Dark": 112,
-    "Atmospheric": 107,
-    "Lovecraftian": 102,
-    "Exploration": 97,
-    "Linear": 96,
-    "Dark Fantasy": 94,
-    "Co-op": 88,
-    "Supernatural": 88,
-    "Singleplayer": 85,
-    "Co-op Campaign": 83,
-    "Split Screen": 78,
-    "Puzzle-Platformer": 71,
-    "Controller": 65,
-    "Stylized": 62,
-    "3D": 58,
-    "Mystery": 51,
-    "Indie": 48
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1331910,
+    "average_2weeks": 0,
+    "average_forever": 303,
+    "median_2weeks": 0,
+    "median_forever": 446
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1331910,
+    "average_2weeks": 0,
+    "average_forever": 303,
+    "median_2weeks": 0,
+    "median_forever": 446
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 2,
+    "2022-12-10": 1,
+    "2022-12-13": 2,
+    "2022-12-15": 2,
+    "2022-12-18": 3,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": 37.95000076293945,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1331910,
+    "average_2weeks": 0,
+    "average_forever": 303,
+    "median_2weeks": 0,
+    "median_forever": 446
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1331910,
+    "average_2weeks": 0,
+    "average_forever": 303,
+    "median_2weeks": 0,
+    "median_forever": 446
+  },
+  "Meta Score": "74",
+  "Rating": "ESRB E",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1331910,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,182 +207,50 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 273,
-  "negative": 53,
-  "price": "679",
-  "initialprice": "1999",
-  "discount": "66",
   "ccu": 1,
-  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1331910/header.jpg?t=1661538329",
+  "consensus_genre": "Indie",
+  "developer": "Hyper Games",
+  "discount": "66",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "74",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 3,
-  "Completion": 37.95000076293945,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1331910/header.jpg?t=1661538329",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish",
+  "name": "Morkredd",
+  "negative": 53,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 273,
+  "price": "679",
+  "publisher": "Aspyr",
+  "release_date": "2020/12/10",
+  "required_age": 0,
+  "tags": {
+    "3D": 58,
+    "Atmospheric": 107,
+    "Co-op": 88,
+    "Co-op Campaign": 83,
+    "Controller": 65,
+    "Dark": 112,
+    "Dark Fantasy": 94,
+    "Exploration": 97,
+    "Indie": 48,
+    "Linear": 96,
+    "Local Co-Op": 114,
+    "Lovecraftian": 102,
+    "Mystery": 51,
+    "Physics": 124,
+    "Puzzle": 121,
+    "Puzzle-Platformer": 71,
+    "Singleplayer": 85,
+    "Split Screen": 78,
+    "Stylized": 62,
+    "Supernatural": 88
+  },
+  "type": "game"
 }

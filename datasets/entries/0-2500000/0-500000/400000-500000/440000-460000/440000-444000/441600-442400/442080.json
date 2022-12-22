@@ -1,31 +1,201 @@
 {
-  "appid": 442080,
-  "name": "Riders of Icarus",
-  "developer": "WeMade, VALOFE",
-  "publisher": "VALOFE",
-  "tags": {
-    "Free to Play": 346,
-    "Massively Multiplayer": 249,
-    "RPG": 246,
-    "MMORPG": 237,
-    "Adventure": 218,
-    "Dragons": 193,
-    "Open World": 189,
-    "Multiplayer": 150,
-    "Fantasy": 141,
-    "Character Customization": 103,
-    "Action": 96,
-    "Fighting": 61,
-    "Action RPG": 57,
-    "PvP": 56,
-    "Co-op": 49,
-    "Singleplayer": 38,
-    "First-Person": 31,
-    "Anime": 25,
-    "Survival": 25,
-    "FPS": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 442080,
+    "average_2weeks": 0,
+    "average_forever": 1228,
+    "median_2weeks": 0,
+    "median_forever": 182
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 442080,
+    "average_2weeks": 0,
+    "average_forever": 1228,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "CCU Histogram": {
+    "2022-12-08": 88,
+    "2022-12-09": 95,
+    "2022-12-10": 80,
+    "2022-12-13": 98,
+    "2022-12-15": 85,
+    "2022-12-18": 83,
+    "2022-12-21": 82,
+    "2022-12-22": 86
+  },
+  "Completion": -1,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 442080,
+    "average_2weeks": 0,
+    "average_forever": 1228,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "Median Playtime - Forever": {
+    "app_id": 442080,
+    "average_2weeks": 0,
+    "average_forever": 1228,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 24,
+  "User Score": -1,
+  "appid": 442080,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,185 +205,53 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 6861,
-  "negative": 3514,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 123,
-  "languages": "English, French, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/07/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/442080/header.jpg?t=1654048807",
+  "consensus_genre": "Free to Play",
+  "developer": "WeMade, VALOFE",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Free to Play",
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 24,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/442080/header.jpg?t=1654048807",
+  "initialprice": "0",
+  "languages": "English, French, German",
+  "name": "Riders of Icarus",
+  "negative": 3514,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6861,
+  "price": "0",
+  "publisher": "VALOFE",
+  "release_date": "2016/07/6",
+  "required_age": 0,
+  "tags": {
+    "Action": 96,
+    "Action RPG": 57,
+    "Adventure": 218,
+    "Anime": 25,
+    "Character Customization": 103,
+    "Co-op": 49,
+    "Dragons": 193,
+    "FPS": 22,
+    "Fantasy": 141,
+    "Fighting": 61,
+    "First-Person": 31,
+    "Free to Play": 346,
+    "MMORPG": 237,
+    "Massively Multiplayer": 249,
+    "Multiplayer": 150,
+    "Open World": 189,
+    "PvP": 56,
+    "RPG": 246,
+    "Singleplayer": 38,
+    "Survival": 25
+  },
+  "type": "game"
 }

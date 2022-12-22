@@ -1,31 +1,201 @@
 {
-  "appid": 1850740,
-  "name": "Ghost Watchers",
-  "developer": "Renderise",
-  "publisher": " Renderise",
-  "tags": {
-    "Horror": 315,
-    "Co-op": 279,
-    "Survival Horror": 208,
-    "Adventure": 191,
-    "Demons": 182,
-    "Puzzle": 176,
-    "First-Person": 152,
-    "Action-Adventure": 145,
-    "Multiplayer": 143,
-    "Cinematic": 137,
-    "Dark": 126,
-    "Realistic": 121,
-    "Detective": 118,
-    "PvE": 96,
-    "Team-Based": 86,
-    "Online Co-Op": 82,
-    "Nonlinear": 64,
-    "Singleplayer": 40,
-    "Early Access": 35,
-    "VR": 30
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1850740,
+    "average_2weeks": 132,
+    "average_forever": 464,
+    "median_2weeks": 187,
+    "median_forever": 376
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1850740,
+    "average_2weeks": 132,
+    "average_forever": 464,
+    "median_2weeks": 187,
+    "median_forever": 376
+  },
+  "CCU Histogram": {
+    "2022-12-08": 405,
+    "2022-12-09": 475,
+    "2022-12-10": 475,
+    "2022-12-13": 338,
+    "2022-12-15": 307,
+    "2022-12-18": 285,
+    "2022-12-21": 254,
+    "2022-12-22": 323
+  },
+  "Completion": 52.54999923706055,
+  "Down 30 Days": 98,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 6,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 4,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 276
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 12,
+      "recommendations_up": 502
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 259
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 167
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 148
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 5,
+      "recommendations_up": 81
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 9,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1850740,
+    "average_2weeks": 132,
+    "average_forever": 464,
+    "median_2weeks": 187,
+    "median_forever": 376
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1850740,
+    "average_2weeks": 132,
+    "average_forever": 464,
+    "median_2weeks": 187,
+    "median_forever": 376
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1896,
+  "User Score": -1,
+  "appid": 1850740,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,183 +203,51 @@
     "Steam Achievements",
     "Online Co-op"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5374,
-  "negative": 1071,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 769,
-  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Traditional Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1850740/header.jpg?t=1666735635",
+  "consensus_genre": "Adventure",
+  "developer": "Renderise",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Early Access"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 15,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 22,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 24,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 276,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 502,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 259,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 167,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 148,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 117,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 81,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 58,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 1896,
-  "Down 30 Days": 98,
-  "Completion": 52.54999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1850740/header.jpg?t=1666735635",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Traditional Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Simplified Chinese",
+  "name": "Ghost Watchers",
+  "negative": 1071,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5374,
+  "price": "1499",
+  "publisher": " Renderise",
+  "release_date": "2022/07/28",
+  "required_age": 0,
+  "tags": {
+    "Action-Adventure": 145,
+    "Adventure": 191,
+    "Cinematic": 137,
+    "Co-op": 279,
+    "Dark": 126,
+    "Demons": 182,
+    "Detective": 118,
+    "Early Access": 35,
+    "First-Person": 152,
+    "Horror": 315,
+    "Multiplayer": 143,
+    "Nonlinear": 64,
+    "Online Co-Op": 82,
+    "Puzzle": 176,
+    "PvE": 96,
+    "Realistic": 121,
+    "Singleplayer": 40,
+    "Survival Horror": 208,
+    "Team-Based": 86,
+    "VR": 30
+  },
+  "type": "game"
 }

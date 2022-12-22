@@ -1,31 +1,201 @@
 {
-  "appid": 230230,
-  "name": "Divinity: Original Sin (Classic)",
-  "developer": "Larian Studios",
-  "publisher": "Larian Studios",
-  "tags": {
-    "RPG": 1142,
-    "Turn-Based": 620,
-    "Co-op": 520,
-    "Fantasy": 485,
-    "Adventure": 435,
-    "Strategy": 301,
-    "Open World": 260,
-    "Isometric": 259,
-    "CRPG": 251,
-    "Story Rich": 241,
-    "Kickstarter": 204,
-    "Indie": 201,
-    "Multiplayer": 200,
-    "Singleplayer": 199,
-    "Turn-Based Strategy": 175,
-    "Magic": 142,
-    "Online Co-Op": 111,
-    "Crowdfunded": 105,
-    "Atmospheric": 99,
-    "Female Protagonist": 94
+  "Average Playtime - 2 Weeks": {
+    "app_id": 230230,
+    "average_2weeks": 0,
+    "average_forever": 1444,
+    "median_2weeks": 0,
+    "median_forever": 407
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 230230,
+    "average_2weeks": 0,
+    "average_forever": 1444,
+    "median_2weeks": 0,
+    "median_forever": 407
+  },
+  "CCU Histogram": {
+    "2022-12-08": 26,
+    "2022-12-09": 30,
+    "2022-12-10": 19,
+    "2022-12-13": 32,
+    "2022-12-15": 36,
+    "2022-12-18": 26,
+    "2022-12-21": 29,
+    "2022-12-22": 31
+  },
+  "Completion": 20.75,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 230230,
+    "average_2weeks": 0,
+    "average_forever": 1444,
+    "median_2weeks": 0,
+    "median_forever": 407
+  },
+  "Median Playtime - Forever": {
+    "app_id": 230230,
+    "average_2weeks": 0,
+    "average_forever": 1444,
+    "median_2weeks": 0,
+    "median_forever": 407
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 230230,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,185 +209,53 @@
     "Steam Workshop",
     "Remote Play Together"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 10675,
-  "negative": 964,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 41,
-  "languages": "English, French, German, Russian, Polish, Italian, Czech",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2014/06/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/230230/header.jpg?t=1589968473",
+  "consensus_genre": "RPG",
+  "developer": "Larian Studios",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 3,
-  "Completion": 20.75,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/230230/header.jpg?t=1589968473",
+  "initialprice": "3999",
+  "languages": "English, French, German, Russian, Polish, Italian, Czech",
+  "name": "Divinity: Original Sin (Classic)",
+  "negative": 964,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 10675,
+  "price": "3999",
+  "publisher": "Larian Studios",
+  "release_date": "2014/06/30",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 435,
+    "Atmospheric": 99,
+    "CRPG": 251,
+    "Co-op": 520,
+    "Crowdfunded": 105,
+    "Fantasy": 485,
+    "Female Protagonist": 94,
+    "Indie": 201,
+    "Isometric": 259,
+    "Kickstarter": 204,
+    "Magic": 142,
+    "Multiplayer": 200,
+    "Online Co-Op": 111,
+    "Open World": 260,
+    "RPG": 1142,
+    "Singleplayer": 199,
+    "Story Rich": 241,
+    "Strategy": 301,
+    "Turn-Based": 620,
+    "Turn-Based Strategy": 175
+  },
+  "type": "game"
 }

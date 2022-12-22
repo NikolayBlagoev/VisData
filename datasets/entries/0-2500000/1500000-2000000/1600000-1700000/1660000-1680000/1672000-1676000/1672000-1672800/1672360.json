@@ -1,20 +1,94 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1672360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 1672360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1672360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1672360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
   "appid": 1672360,
-  "name": "Second Samurai",
+  "categories": [
+    "Single-player",
+    "Partial Controller Support"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
   "developer": "Vivid Image",
+  "discount": "40",
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672360/header.jpg?t=1645046789",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Second Samurai",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
   "publisher": "Piko Interactive LLC, Bleem!",
+  "release_date": "2022/02/16",
+  "required_age": 0,
   "tags": {
+    "2D": 299,
+    "2D Fighter": 333,
+    "2D Platformer": 314,
     "Action": 365,
     "Adventure": 358,
-    "2D Fighter": 333,
-    "Beat 'em up": 328,
-    "Platformer": 323,
-    "2D Platformer": 314,
-    "Side Scroller": 307,
-    "2D": 299,
     "Aliens": 289,
     "Alternate History": 279,
     "Assassin": 268,
+    "Beat 'em up": 328,
     "Cyberpunk": 256,
     "Demons": 244,
     "Dinosaurs": 231,
@@ -23,45 +97,9 @@
     "Fantasy": 198,
     "Martial Arts": 179,
     "Old School": 161,
-    "Post-apocalyptic": 140
+    "Platformer": 323,
+    "Post-apocalyptic": 140,
+    "Side Scroller": 307
   },
-  "type": "game",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "999",
-  "discount": "40",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672360/header.jpg?t=1645046789",
-  "genre": [
-    "Action",
-    "Adventure"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 337000,
-  "name": "Deus Ex: Mankind Divided",
-  "developer": "Eidos Montreal, Feral Interactive (Linux), Feral Interactive (Mac)",
-  "publisher": "Square Enix, Feral Interactive (Linux), Feral Interactive (Mac)",
-  "tags": {
-    "Cyberpunk": 875,
-    "Stealth": 758,
-    "RPG": 583,
-    "Sci-fi": 581,
-    "Action": 571,
-    "Story Rich": 570,
-    "Atmospheric": 485,
-    "Singleplayer": 434,
-    "Futuristic": 418,
-    "Illuminati": 411,
-    "First-Person": 407,
-    "FPS": 385,
-    "Great Soundtrack": 355,
-    "Shooter": 340,
-    "Open World": 330,
-    "Conspiracy": 320,
-    "Immersive Sim": 287,
-    "Dystopian ": 279,
-    "Transhumanism": 243,
-    "Adventure": 219
+  "Average Playtime - 2 Weeks": {
+    "app_id": 337000,
+    "average_2weeks": 466,
+    "average_forever": 1107,
+    "median_2weeks": 923,
+    "median_forever": 502
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 337000,
+    "average_2weeks": 466,
+    "average_forever": 1107,
+    "median_2weeks": 923,
+    "median_forever": 502
+  },
+  "CCU Histogram": {
+    "2022-12-08": 268,
+    "2022-12-09": 315,
+    "2022-12-10": 345,
+    "2022-12-13": 456,
+    "2022-12-15": 298,
+    "2022-12-18": 332,
+    "2022-12-21": 416,
+    "2022-12-22": 373
+  },
+  "Completion": 34.650001525878906,
+  "Down 30 Days": 19,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 337000,
+    "average_2weeks": 466,
+    "average_forever": 1107,
+    "median_2weeks": 923,
+    "median_forever": 502
+  },
+  "Median Playtime - Forever": {
+    "app_id": 337000,
+    "average_2weeks": 466,
+    "average_forever": 1107,
+    "median_2weeks": 923,
+    "median_forever": 502
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 91,
+  "User Score": -1,
+  "appid": 337000,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,183 +203,51 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 27876,
-  "negative": 9363,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 518,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/08/23",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/337000/header.jpg?t=1661267113",
+  "consensus_genre": "RPG",
+  "developer": "Eidos Montreal, Feral Interactive (Linux), Feral Interactive (Mac)",
+  "discount": "0",
   "genre": [
     "Action",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 91,
-  "Down 30 Days": 19,
-  "Completion": 34.650001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/337000/header.jpg?t=1661267113",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian",
+  "name": "Deus Ex: Mankind Divided",
+  "negative": 9363,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 27876,
+  "price": "2999",
+  "publisher": "Square Enix, Feral Interactive (Linux), Feral Interactive (Mac)",
+  "release_date": "2016/08/23",
+  "required_age": "15",
+  "tags": {
+    "Action": 571,
+    "Adventure": 219,
+    "Atmospheric": 485,
+    "Conspiracy": 320,
+    "Cyberpunk": 875,
+    "Dystopian ": 279,
+    "FPS": 385,
+    "First-Person": 407,
+    "Futuristic": 418,
+    "Great Soundtrack": 355,
+    "Illuminati": 411,
+    "Immersive Sim": 287,
+    "Open World": 330,
+    "RPG": 583,
+    "Sci-fi": 581,
+    "Shooter": 340,
+    "Singleplayer": 434,
+    "Stealth": 758,
+    "Story Rich": 570,
+    "Transhumanism": 243
+  },
+  "type": "game"
 }

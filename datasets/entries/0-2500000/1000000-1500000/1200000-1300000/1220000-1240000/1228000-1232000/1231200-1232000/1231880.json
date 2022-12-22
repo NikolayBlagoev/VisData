@@ -1,215 +1,253 @@
 {
-  "appid": 1231880,
-  "name": "Haiku, the Robot",
-  "developer": "Mister Morris Games",
-  "publisher": "Mister Morris Games",
-  "tags": {
-    "Metroidvania": 255,
-    "Adventure": 245,
-    "Exploration": 243,
-    "Open World": 239,
-    "Atmospheric": 238,
-    "Pixel Graphics": 232,
-    "Platformer": 212,
-    "2D Platformer": 207,
-    "Side Scroller": 198,
-    "Dark Fantasy": 192,
-    "Cute": 184,
-    "2D": 179,
-    "Retro": 176,
-    "Lore-Rich": 170,
-    "Controller": 164,
-    "Nonlinear": 159,
-    "Story Rich": 150,
-    "Action-Adventure": 145,
-    "Singleplayer": 140,
-    "Action": 133
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1231880,
+    "average_2weeks": 0,
+    "average_forever": 926,
+    "median_2weeks": 0,
+    "median_forever": 926
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1231880,
+    "average_2weeks": 0,
+    "average_forever": 926,
+    "median_2weeks": 0,
+    "median_forever": 926
+  },
+  "CCU Histogram": {
+    "2022-12-08": 12,
+    "2022-12-09": 16,
+    "2022-12-10": 10,
+    "2022-12-13": 7,
+    "2022-12-15": 8,
+    "2022-12-18": 18,
+    "2022-12-21": 51,
+    "2022-12-22": 55
+  },
+  "Completion": 49.29999923706055,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1231880,
+    "average_2weeks": 0,
+    "average_forever": 926,
+    "median_2weeks": 0,
+    "median_forever": 926
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1231880,
+    "average_2weeks": 0,
+    "average_forever": 926,
+    "median_2weeks": 0,
+    "median_forever": 926
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 87,
+  "User Score": -1,
+  "appid": 1231880,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1008,
-  "negative": 68,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 8,
-  "languages": "English, Portuguese - Brazil, Spanish - Latin America, German, Japanese, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/04/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1231880/header.jpg?t=1666353299",
+  "consensus_genre": "Adventure",
+  "developer": "Mister Morris Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 87,
-  "Down 30 Days": 2,
-  "Completion": 49.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1231880/header.jpg?t=1666353299",
+  "initialprice": "1999",
+  "languages": "English, Portuguese - Brazil, Spanish - Latin America, German, Japanese, Simplified Chinese",
+  "name": "Haiku, the Robot",
+  "negative": 68,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1008,
+  "price": "1999",
+  "publisher": "Mister Morris Games",
+  "release_date": "2022/04/28",
+  "required_age": 0,
+  "tags": {
+    "2D": 179,
+    "2D Platformer": 207,
+    "Action": 133,
+    "Action-Adventure": 145,
+    "Adventure": 245,
+    "Atmospheric": 238,
+    "Controller": 164,
+    "Cute": 184,
+    "Dark Fantasy": 192,
+    "Exploration": 243,
+    "Lore-Rich": 170,
+    "Metroidvania": 255,
+    "Nonlinear": 159,
+    "Open World": 239,
+    "Pixel Graphics": 232,
+    "Platformer": 212,
+    "Retro": 176,
+    "Side Scroller": 198,
+    "Singleplayer": 140,
+    "Story Rich": 150
+  },
+  "type": "game"
 }

@@ -1,31 +1,91 @@
 {
-  "appid": 1571750,
-  "name": "Gun Game",
-  "developer": "Fireround",
-  "publisher": "Fireround",
-  "tags": {
-    "Early Access": 278,
-    "Action": 252,
-    "Casual": 246,
-    "2D Fighter": 221,
-    "Platformer": 217,
-    "2D Platformer": 212,
-    "Arena Shooter": 200,
-    "Bullet Hell": 194,
-    "2D": 186,
-    "Cartoony": 177,
-    "Colorful": 168,
-    "Comedy": 158,
-    "Futuristic": 146,
-    "Retro": 144,
-    "Sci-fi": 130,
-    "PvP": 116,
-    "Combat": 99,
-    "Controller": 82,
-    "Gun Customization": 65,
-    "Multiplayer": 45
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1571750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1571750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1571750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1571750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1571750,
   "categories": [
     "Multi-player",
     "Partial Controller Support",
@@ -34,75 +94,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "90",
-  "initialprice": "90",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/07/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1571750/header.jpg?t=1627537838",
+  "consensus_genre": "Early Access",
+  "developer": "Fireround",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1571750/header.jpg?t=1627537838",
+  "initialprice": "90",
+  "languages": "English",
+  "name": "Gun Game",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "90",
+  "publisher": "Fireround",
+  "release_date": "2021/07/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 186,
+    "2D Fighter": 221,
+    "2D Platformer": 212,
+    "Action": 252,
+    "Arena Shooter": 200,
+    "Bullet Hell": 194,
+    "Cartoony": 177,
+    "Casual": 246,
+    "Colorful": 168,
+    "Combat": 99,
+    "Comedy": 158,
+    "Controller": 82,
+    "Early Access": 278,
+    "Futuristic": 146,
+    "Gun Customization": 65,
+    "Multiplayer": 45,
+    "Platformer": 217,
+    "PvP": 116,
+    "Retro": 144,
+    "Sci-fi": 130
+  },
+  "type": "game"
 }

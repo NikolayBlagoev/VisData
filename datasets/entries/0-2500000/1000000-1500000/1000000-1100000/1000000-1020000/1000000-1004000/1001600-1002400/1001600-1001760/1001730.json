@@ -1,62 +1,100 @@
 {
-  "appid": 1001730,
-  "name": "Twisting Mower",
-  "developer": "smartphone-games",
-  "publisher": "smartphone-games",
-  "tags": {
-    "Racing": 73,
-    "Casual": 67,
-    "Sports": 64,
-    "Indie": 61,
-    "Arcade": 38,
-    "Automobile Sim": 32,
-    "Time Management": 30,
-    "3D": 28,
-    "Minimalist": 26,
-    "PvP": 24,
-    "Score Attack": 22,
-    "Singleplayer": 20,
-    "Asynchronous Multiplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1001730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1001730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 47.25,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1001730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1001730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1001730,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2019/05/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1001730/header.jpg?t=1558528543",
+  "consensus_genre": "Racing",
+  "developer": "smartphone-games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Racing",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 47.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1001730/header.jpg?t=1558528543",
+  "initialprice": "299",
+  "languages": "English, Japanese",
+  "name": "Twisting Mower",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "smartphone-games",
+  "release_date": "2019/05/22",
+  "required_age": 0,
+  "tags": {
+    "3D": 28,
+    "Arcade": 38,
+    "Asynchronous Multiplayer": 18,
+    "Automobile Sim": 32,
+    "Casual": 67,
+    "Indie": 61,
+    "Minimalist": 26,
+    "PvP": 24,
+    "Racing": 73,
+    "Score Attack": 22,
+    "Singleplayer": 20,
+    "Sports": 64,
+    "Time Management": 30
+  },
+  "type": "game"
 }

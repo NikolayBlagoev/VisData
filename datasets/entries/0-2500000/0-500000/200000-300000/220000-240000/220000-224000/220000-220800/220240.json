@@ -1,214 +1,252 @@
 {
-  "appid": 220240,
-  "name": "Far Cry 3",
-  "developer": "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",
-  "publisher": "Ubisoft",
-  "tags": {
-    "Open World": 2402,
-    "FPS": 1964,
-    "Action": 1721,
-    "Adventure": 1457,
-    "Multiplayer": 1142,
-    "Shooter": 1108,
-    "Stealth": 1067,
-    "Co-op": 961,
-    "First-Person": 954,
-    "Hunting": 934,
-    "Singleplayer": 884,
-    "Sandbox": 598,
-    "Survival": 574,
-    "Story Rich": 561,
-    "Online Co-Op": 477,
-    "Atmospheric": 439,
-    "Nudity": 418,
-    "Crafting": 392,
-    "Colorful": 387,
-    "RPG": 280
+  "Average Playtime - 2 Weeks": {
+    "app_id": 220240,
+    "average_2weeks": 175,
+    "average_forever": 1583,
+    "median_2weeks": 37,
+    "median_forever": 905
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 220240,
+    "average_2weeks": 175,
+    "average_forever": 1583,
+    "median_2weeks": 37,
+    "median_forever": 905
+  },
+  "CCU Histogram": {
+    "2022-12-08": 786,
+    "2022-12-09": 777,
+    "2022-12-10": 729,
+    "2022-12-13": 847,
+    "2022-12-15": 694,
+    "2022-12-18": 642,
+    "2022-12-21": 588,
+    "2022-12-22": 571
+  },
+  "Completion": -1,
+  "Down 30 Days": 87,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 5,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 5,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 5,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 12,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 4,
+      "recommendations_up": 43
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 220240,
+    "average_2weeks": 175,
+    "average_forever": 1583,
+    "median_2weeks": 37,
+    "median_forever": 905
+  },
+  "Median Playtime - Forever": {
+    "app_id": 220240,
+    "average_2weeks": 175,
+    "average_forever": 1583,
+    "median_2weeks": 37,
+    "median_forever": 905
+  },
+  "Meta Score": "88",
+  "Rating": "ESRB M",
+  "Up 30 Days": 773,
+  "User Score": -1,
+  "appid": 220240,
   "categories": [
     "Multi-player",
     "Single-player",
     "Co-op",
     "Partial Controller Support"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 77934,
-  "negative": 8629,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 628,
-  "languages": "English, German, French, Italian, Spanish - Spain, Portuguese - Portugal, Polish, Danish, Dutch, Norwegian, Swedish, Czech, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/11/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg?t=1667245145",
+  "consensus_genre": "Action",
+  "developer": "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "88",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 41,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 25,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 24,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 54,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 55,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 42,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 65,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 82,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 51,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 48,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 43,
-      "recommendations_down": 4
-    }
-  ],
-  "Up 30 Days": 773,
-  "Down 30 Days": 87,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg?t=1667245145",
+  "initialprice": "1999",
+  "languages": "English, German, French, Italian, Spanish - Spain, Portuguese - Portugal, Polish, Danish, Dutch, Norwegian, Swedish, Czech, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+  "name": "Far Cry 3",
+  "negative": 8629,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 77934,
+  "price": "1999",
+  "publisher": "Ubisoft",
+  "release_date": "2012/11/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 1721,
+    "Adventure": 1457,
+    "Atmospheric": 439,
+    "Co-op": 961,
+    "Colorful": 387,
+    "Crafting": 392,
+    "FPS": 1964,
+    "First-Person": 954,
+    "Hunting": 934,
+    "Multiplayer": 1142,
+    "Nudity": 418,
+    "Online Co-Op": 477,
+    "Open World": 2402,
+    "RPG": 280,
+    "Sandbox": 598,
+    "Shooter": 1108,
+    "Singleplayer": 884,
+    "Stealth": 1067,
+    "Story Rich": 561,
+    "Survival": 574
+  },
+  "type": "game"
 }

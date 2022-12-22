@@ -1,31 +1,201 @@
 {
-  "appid": 442070,
-  "name": "Drawful 2",
-  "developer": "Jackbox Games, Inc.",
-  "publisher": "Jackbox Games, Inc.",
-  "tags": {
-    "Local Multiplayer": 218,
-    "Party": 215,
-    "Multiplayer": 213,
-    "Party Game": 210,
-    "Casual": 202,
-    "Indie": 194,
-    "Local Co-Op": 193,
-    "Funny": 191,
-    "Family Friendly": 189,
-    "Comedy": 186,
-    "Board Game": 179,
-    "Co-op": 178,
-    "Hand-drawn": 177,
-    "2D": 159,
-    "Trivia": 159,
-    "4 Player Local": 154,
-    "Cute": 147,
-    "PvP": 147,
-    "Strategy": 138,
-    "Free to Play": 137
+  "Average Playtime - 2 Weeks": {
+    "app_id": 442070,
+    "average_2weeks": 1,
+    "average_forever": 135,
+    "median_2weeks": 1,
+    "median_forever": 19
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 442070,
+    "average_2weeks": 1,
+    "average_forever": 135,
+    "median_2weeks": 1,
+    "median_forever": 19
+  },
+  "CCU Histogram": {
+    "2022-12-08": 23,
+    "2022-12-09": 21,
+    "2022-12-10": 46,
+    "2022-12-13": 46,
+    "2022-12-15": 26,
+    "2022-12-18": 59,
+    "2022-12-21": 37,
+    "2022-12-22": 52
+  },
+  "Completion": 43.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 442070,
+    "average_2weeks": 1,
+    "average_forever": 135,
+    "median_2weeks": 1,
+    "median_forever": 19
+  },
+  "Median Playtime - Forever": {
+    "app_id": 442070,
+    "average_2weeks": 1,
+    "average_forever": 135,
+    "median_2weeks": 1,
+    "median_forever": 19
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 442070,
   "categories": [
     "Multi-player",
     "Steam Achievements",
@@ -38,184 +208,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2369,
-  "negative": 560,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 40,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/06/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/442070/header.jpg?t=1666297015",
+  "consensus_genre": "Casual",
+  "developer": "Jackbox Games, Inc.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": 43.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/442070/header.jpg?t=1666297015",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Drawful 2",
+  "negative": 560,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2369,
+  "price": "999",
+  "publisher": "Jackbox Games, Inc.",
+  "release_date": "2016/06/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 159,
+    "4 Player Local": 154,
+    "Board Game": 179,
+    "Casual": 202,
+    "Co-op": 178,
+    "Comedy": 186,
+    "Cute": 147,
+    "Family Friendly": 189,
+    "Free to Play": 137,
+    "Funny": 191,
+    "Hand-drawn": 177,
+    "Indie": 194,
+    "Local Co-Op": 193,
+    "Local Multiplayer": 218,
+    "Multiplayer": 213,
+    "Party": 215,
+    "Party Game": 210,
+    "PvP": 147,
+    "Strategy": 138,
+    "Trivia": 159
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1426210,
-  "name": "It Takes Two",
-  "developer": "Hazelight",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Co-op": 956,
-    "Multiplayer": 551,
-    "Split Screen": 527,
-    "Puzzle": 487,
-    "Local Co-Op": 478,
-    "Adventure": 467,
-    "Online Co-Op": 424,
-    "Story Rich": 359,
-    "Local Multiplayer": 322,
-    "Puzzle-Platformer": 295,
-    "Co-op Campaign": 290,
-    "3D Platformer": 278,
-    "Action-Adventure": 254,
-    "Platformer": 253,
-    "Emotional": 234,
-    "Action": 227,
-    "Atmospheric": 204,
-    "Exploration": 197,
-    "Female Protagonist": 192,
-    "Minigames": 170
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1426210,
+    "average_2weeks": 152,
+    "average_forever": 869,
+    "median_2weeks": 127,
+    "median_forever": 858
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1426210,
+    "average_2weeks": 152,
+    "average_forever": 869,
+    "median_2weeks": 127,
+    "median_forever": 858
+  },
+  "CCU Histogram": {
+    "2022-12-08": 24024,
+    "2022-12-09": 17969,
+    "2022-12-10": 14843,
+    "2022-12-13": 19149,
+    "2022-12-15": 11955,
+    "2022-12-18": 11215,
+    "2022-12-21": 6186,
+    "2022-12-22": 9024
+  },
+  "Completion": 42.400001525878906,
+  "Down 30 Days": 204,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 4,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 74
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 7,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 4,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 6,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 7,
+      "recommendations_up": 71
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 8,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 5,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 6,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 79
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 12,
+      "recommendations_up": 452
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 13,
+      "recommendations_up": 290
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 18,
+      "recommendations_up": 288
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 23,
+      "recommendations_up": 360
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 17,
+      "recommendations_up": 390
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 13,
+      "recommendations_up": 379
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 20,
+      "recommendations_up": 312
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 11,
+      "recommendations_up": 190
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1426210,
+    "average_2weeks": 152,
+    "average_forever": 869,
+    "median_2weeks": 127,
+    "median_forever": 858
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1426210,
+    "average_2weeks": 152,
+    "average_forever": 869,
+    "median_2weeks": 127,
+    "median_forever": 858
+  },
+  "Meta Score": "89",
+  "Rating": "ESRB T",
+  "Up 30 Days": 3835,
+  "User Score": -1,
+  "appid": 1426210,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -37,183 +207,51 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 99119,
-  "negative": 4132,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 7110,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/03/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg?t=1666121755",
+  "consensus_genre": "Adventure",
+  "developer": "Hazelight",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "89",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 43,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 44,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 55,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 74,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 63,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 49,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 44,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 41,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 42,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 44,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 71,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 82,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 40,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 61,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 77,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 45,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 45,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 68,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 70,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 37,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 79,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 452,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 290,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 288,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 360,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 390,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 379,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 312,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 190,
-      "recommendations_down": 11
-    }
-  ],
-  "Up 30 Days": 3835,
-  "Down 30 Days": 204,
-  "Completion": 42.400001525878906,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg?t=1666121755",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "It Takes Two",
+  "negative": 4132,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 99119,
+  "price": "3999",
+  "publisher": "Electronic Arts",
+  "release_date": "2021/03/25",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 278,
+    "Action": 227,
+    "Action-Adventure": 254,
+    "Adventure": 467,
+    "Atmospheric": 204,
+    "Co-op": 956,
+    "Co-op Campaign": 290,
+    "Emotional": 234,
+    "Exploration": 197,
+    "Female Protagonist": 192,
+    "Local Co-Op": 478,
+    "Local Multiplayer": 322,
+    "Minigames": 170,
+    "Multiplayer": 551,
+    "Online Co-Op": 424,
+    "Platformer": 253,
+    "Puzzle": 487,
+    "Puzzle-Platformer": 295,
+    "Split Screen": 527,
+    "Story Rich": 359
+  },
+  "type": "game"
 }

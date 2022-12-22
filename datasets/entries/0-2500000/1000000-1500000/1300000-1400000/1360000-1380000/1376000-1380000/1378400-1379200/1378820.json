@@ -1,69 +1,107 @@
 {
-  "appid": 1378820,
-  "name": "Escaping Hell",
-  "developer": "Sarah Werum",
-  "publisher": "Sarah Werum",
-  "tags": {
-    "Adventure": 252,
-    "Puzzle": 246,
-    "Fighting": 242,
-    "Cute": 237,
-    "2D Fighter": 231,
-    "Choices Matter": 222,
-    "Story Rich": 214,
-    "Platformer": 206,
-    "Swordplay": 197,
-    "2.5D": 187,
-    "Atmospheric": 177,
-    "Demons": 166,
-    "Funny": 153,
-    "Multiple Endings": 151,
-    "Underground": 136,
-    "Surreal": 120,
-    "Family Friendly": 103,
-    "Combat": 85,
-    "Pixel Graphics": 67,
-    "2D Platformer": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1378820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1378820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 50.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1378820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1378820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1378820,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/08",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1378820/header.jpg?t=1611006231",
+  "consensus_genre": "",
+  "developer": "Sarah Werum",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 50.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1378820/header.jpg?t=1611006231",
+  "initialprice": "799",
+  "languages": "English, Spanish - Latin America",
+  "name": "Escaping Hell",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "799",
+  "publisher": "Sarah Werum",
+  "release_date": "2020/08",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 187,
+    "2D Fighter": 231,
+    "2D Platformer": 46,
+    "Adventure": 252,
+    "Atmospheric": 177,
+    "Choices Matter": 222,
+    "Combat": 85,
+    "Cute": 237,
+    "Demons": 166,
+    "Family Friendly": 103,
+    "Fighting": 242,
+    "Funny": 153,
+    "Multiple Endings": 151,
+    "Pixel Graphics": 67,
+    "Platformer": 206,
+    "Puzzle": 246,
+    "Story Rich": 214,
+    "Surreal": 120,
+    "Swordplay": 197,
+    "Underground": 136
+  },
+  "type": "game"
 }

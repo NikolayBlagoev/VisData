@@ -1,67 +1,105 @@
 {
-  "appid": 2053110,
-  "name": "Bubble Wars",
-  "developer": "Andr\u00e9 G.",
-  "publisher": "Zaints Roar Studios",
-  "tags": {
-    "Casual": 214,
-    "Adventure": 208,
-    "Indie": 204,
-    "Action-Adventure": 179,
-    "Singleplayer": 173,
-    "2D Platformer": 163,
-    "Platformer": 156,
-    "Action": 151,
-    "Arcade": 148,
-    "2D": 140,
-    "Colorful": 120,
-    "Cute": 118,
-    "Old School": 105,
-    "Aliens": 91,
-    "Shoot 'Em Up": 75,
-    "Retro": 60,
-    "Combat": 43,
-    "Linear": 27,
-    "Physics": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2053110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2053110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2053110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2053110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2053110,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053110/header.jpg?t=1662990320",
+  "consensus_genre": "Casual",
+  "developer": "Andr\u00e9 G.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2053110/header.jpg?t=1662990320",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Bubble Wars",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Zaints Roar Studios",
+  "release_date": "2022/09/12",
+  "required_age": 0,
+  "tags": {
+    "2D": 140,
+    "2D Platformer": 163,
+    "Action": 151,
+    "Action-Adventure": 179,
+    "Adventure": 208,
+    "Aliens": 91,
+    "Arcade": 148,
+    "Casual": 214,
+    "Colorful": 120,
+    "Combat": 43,
+    "Cute": 118,
+    "Indie": 204,
+    "Linear": 27,
+    "Old School": 105,
+    "Physics": 25,
+    "Platformer": 156,
+    "Retro": 60,
+    "Shoot 'Em Up": 75,
+    "Singleplayer": 173
+  },
+  "type": "game"
 }

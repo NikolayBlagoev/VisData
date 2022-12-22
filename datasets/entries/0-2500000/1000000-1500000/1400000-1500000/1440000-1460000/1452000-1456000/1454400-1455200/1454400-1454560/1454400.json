@@ -1,216 +1,254 @@
 {
-  "appid": 1454400,
-  "name": "Cookie Clicker",
-  "developer": "Orteil, DashNet",
-  "publisher": "Playsaurus",
-  "tags": {
-    "Clicker": 512,
-    "Idler": 438,
-    "Casual": 398,
-    "Indie": 382,
-    "Pixel Graphics": 317,
-    "Management": 310,
-    "Collectathon": 309,
-    "Economy": 288,
-    "Funny": 261,
-    "Building": 257,
-    "Strategy": 256,
-    "Memes": 255,
-    "2D": 242,
-    "Resource Management": 242,
-    "Simulation": 235,
-    "Comedy": 232,
-    "Colorful": 227,
-    "Touch-Friendly": 224,
-    "Horror": 170,
-    "Singleplayer": 136
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1454400,
+    "average_2weeks": 3928,
+    "average_forever": 21525,
+    "median_2weeks": 7305,
+    "median_forever": 11328
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1454400,
+    "average_2weeks": 3928,
+    "average_forever": 21525,
+    "median_2weeks": 7305,
+    "median_forever": 11328
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9988,
+    "2022-12-09": 9829,
+    "2022-12-10": 9650,
+    "2022-12-13": 9619,
+    "2022-12-15": 9241,
+    "2022-12-18": 9055,
+    "2022-12-21": 9251,
+    "2022-12-22": 9383
+  },
+  "Completion": 92.0,
+  "Down 30 Days": 35,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 69
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 5,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 81
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 37
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1454400,
+    "average_2weeks": 3928,
+    "average_forever": 21525,
+    "median_2weeks": 7305,
+    "median_forever": 11328
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1454400,
+    "average_2weeks": 3928,
+    "average_forever": 21525,
+    "median_2weeks": 7305,
+    "median_forever": 11328
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1148,
+  "User Score": -1,
+  "appid": 1454400,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 36122,
-  "negative": 984,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 9266,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1454400/header.jpg?t=1654840309",
+  "consensus_genre": "Casual",
+  "developer": "Orteil, DashNet",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 30,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 24,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 31,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 30,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 69,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 117,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 108,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 81,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 105,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 64,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 68,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 65,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 37,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1148,
-  "Down 30 Days": 35,
-  "Completion": 92.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1454400/header.jpg?t=1654840309",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Korean",
+  "name": "Cookie Clicker",
+  "negative": 984,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 36122,
+  "price": "499",
+  "publisher": "Playsaurus",
+  "release_date": "2021/09/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 242,
+    "Building": 257,
+    "Casual": 398,
+    "Clicker": 512,
+    "Collectathon": 309,
+    "Colorful": 227,
+    "Comedy": 232,
+    "Economy": 288,
+    "Funny": 261,
+    "Horror": 170,
+    "Idler": 438,
+    "Indie": 382,
+    "Management": 310,
+    "Memes": 255,
+    "Pixel Graphics": 317,
+    "Resource Management": 242,
+    "Simulation": 235,
+    "Singleplayer": 136,
+    "Strategy": 256,
+    "Touch-Friendly": 224
+  },
+  "type": "game"
 }

@@ -1,212 +1,250 @@
 {
-  "appid": 1170080,
-  "name": "Foretales",
-  "developer": "Alkemi",
-  "publisher": "Dear Villagers",
-  "tags": {
-    "Card Game": 127,
-    "Narration": 118,
-    "Adventure": 114,
-    "Board Game": 107,
-    "Exploration": 103,
-    "Singleplayer": 100,
-    "RPG": 96,
-    "Interactive Fiction": 86,
-    "Strategy": 86,
-    "Choose Your Own Adventure": 85,
-    "Tabletop": 82,
-    "Card Battler": 79,
-    "Cinematic": 76,
-    "Cartoony": 67,
-    "Dynamic Narration": 65,
-    "Cartoon": 62,
-    "Atmospheric": 60,
-    "Fantasy": 50,
-    "Medieval": 47,
-    "Story Rich": 47
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1170080,
+    "average_2weeks": 0,
+    "average_forever": 246,
+    "median_2weeks": 0,
+    "median_forever": 246
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1170080,
+    "average_2weeks": 0,
+    "average_forever": 246,
+    "median_2weeks": 0,
+    "median_forever": 246
+  },
+  "CCU Histogram": {
+    "2022-12-08": 21,
+    "2022-12-09": 16,
+    "2022-12-10": 12,
+    "2022-12-13": 17,
+    "2022-12-15": 7,
+    "2022-12-18": 7,
+    "2022-12-21": 8,
+    "2022-12-22": 15
+  },
+  "Completion": 22.449999809265137,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1170080,
+    "average_2weeks": 0,
+    "average_forever": 246,
+    "median_2weeks": 0,
+    "median_forever": 246
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1170080,
+    "average_2weeks": 0,
+    "average_forever": 246,
+    "median_2weeks": 0,
+    "median_forever": 246
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 74,
+  "User Score": -1,
+  "appid": 1170080,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 330,
-  "negative": 32,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 26,
-  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1170080/header.jpg?t=1663328473",
+  "consensus_genre": "Adventure",
+  "developer": "Alkemi",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 74,
-  "Down 30 Days": 6,
-  "Completion": 22.449999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1170080/header.jpg?t=1663328473",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Traditional Chinese",
+  "name": "Foretales",
+  "negative": 32,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 330,
+  "price": "1999",
+  "publisher": "Dear Villagers",
+  "release_date": "2022/09/15",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 114,
+    "Atmospheric": 60,
+    "Board Game": 107,
+    "Card Battler": 79,
+    "Card Game": 127,
+    "Cartoon": 62,
+    "Cartoony": 67,
+    "Choose Your Own Adventure": 85,
+    "Cinematic": 76,
+    "Dynamic Narration": 65,
+    "Exploration": 103,
+    "Fantasy": 50,
+    "Interactive Fiction": 86,
+    "Medieval": 47,
+    "Narration": 118,
+    "RPG": 96,
+    "Singleplayer": 100,
+    "Story Rich": 47,
+    "Strategy": 86,
+    "Tabletop": 82
+  },
+  "type": "game"
 }

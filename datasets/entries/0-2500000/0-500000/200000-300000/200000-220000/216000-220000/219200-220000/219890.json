@@ -1,212 +1,250 @@
 {
-  "appid": 219890,
-  "name": "Antichamber",
-  "developer": "Alexander Bruce",
-  "publisher": "Demruth",
-  "tags": {
-    "Puzzle": 1131,
-    "First-Person": 698,
-    "Indie": 652,
-    "Surreal": 632,
-    "Exploration": 538,
-    "Singleplayer": 449,
-    "Abstract": 358,
-    "Nonlinear": 316,
-    "Adventure": 266,
-    "Difficult": 151,
-    "Atmospheric": 148,
-    "Minimalist": 147,
-    "Psychedelic": 127,
-    "Psychological": 101,
-    "Colorful": 80,
-    "Great Soundtrack": 74,
-    "Metroidvania": 56,
-    "Replay Value": 44,
-    "Sci-fi": 41,
-    "Platformer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 219890,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 136
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 219890,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 136
+  },
+  "CCU Histogram": {
+    "2022-12-08": 12,
+    "2022-12-09": 15,
+    "2022-12-10": 24,
+    "2022-12-13": 26,
+    "2022-12-15": 15,
+    "2022-12-18": 21,
+    "2022-12-21": 14,
+    "2022-12-22": 17
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 219890,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 136
+  },
+  "Median Playtime - Forever": {
+    "app_id": 219890,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 136
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 38,
+  "User Score": -1,
+  "appid": 219890,
   "categories": [
     "Single-player",
     "Steam Trading Cards"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 14924,
-  "negative": 764,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 16,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2013/01/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/219890/header.jpg?t=1525832559",
+  "consensus_genre": "Indie",
+  "developer": "Alexander Bruce",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 38,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/219890/header.jpg?t=1525832559",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Antichamber",
+  "negative": 764,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 14924,
+  "price": "1999",
+  "publisher": "Demruth",
+  "release_date": "2013/01/31",
+  "required_age": 0,
+  "tags": {
+    "Abstract": 358,
+    "Adventure": 266,
+    "Atmospheric": 148,
+    "Colorful": 80,
+    "Difficult": 151,
+    "Exploration": 538,
+    "First-Person": 698,
+    "Great Soundtrack": 74,
+    "Indie": 652,
+    "Metroidvania": 56,
+    "Minimalist": 147,
+    "Nonlinear": 316,
+    "Platformer": 18,
+    "Psychedelic": 127,
+    "Psychological": 101,
+    "Puzzle": 1131,
+    "Replay Value": 44,
+    "Sci-fi": 41,
+    "Singleplayer": 449,
+    "Surreal": 632
+  },
+  "type": "game"
 }

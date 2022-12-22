@@ -1,213 +1,251 @@
 {
-  "appid": 1229460,
-  "name": "Dice Legacy",
-  "developer": "DESTINYbit",
-  "publisher": "Ravenscourt, Maple Whispering Limited",
-  "tags": {
-    "City Builder": 213,
-    "Survival": 200,
-    "Strategy": 196,
-    "Rogue-like": 185,
-    "Real-Time": 183,
-    "RTS": 173,
-    "Board Game": 171,
-    "Indie": 167,
-    "Colony Sim": 166,
-    "Rogue-lite": 163,
-    "Management": 158,
-    "Colorful": 149,
-    "Atmospheric": 145,
-    "Resource Management": 140,
-    "Procedural Generation": 131,
-    "Base-Building": 124,
-    "Medieval": 120,
-    "Building": 114,
-    "Crafting": 110,
-    "Exploration": 105
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1229460,
+    "average_2weeks": 0,
+    "average_forever": 562,
+    "median_2weeks": 0,
+    "median_forever": 741
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1229460,
+    "average_2weeks": 0,
+    "average_forever": 562,
+    "median_2weeks": 0,
+    "median_forever": 741
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 8,
+    "2022-12-10": 7,
+    "2022-12-13": 16,
+    "2022-12-15": 28,
+    "2022-12-18": 20,
+    "2022-12-21": 14,
+    "2022-12-22": 18
+  },
+  "Completion": 21.899999618530273,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1229460,
+    "average_2weeks": 0,
+    "average_forever": 562,
+    "median_2weeks": 0,
+    "median_forever": 741
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1229460,
+    "average_2weeks": 0,
+    "average_forever": 562,
+    "median_2weeks": 0,
+    "median_forever": 741
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 17,
+  "User Score": -1,
+  "appid": 1229460,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 575,
-  "negative": 244,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 40,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Traditional Chinese, Japanese, Korean, Polish, Simplified Chinese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1229460/header.jpg?t=1662043041",
+  "consensus_genre": "Strategy",
+  "developer": "DESTINYbit",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 17,
-  "Down 30 Days": 9,
-  "Completion": 21.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1229460/header.jpg?t=1662043041",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Traditional Chinese, Japanese, Korean, Polish, Simplified Chinese, Portuguese - Brazil",
+  "name": "Dice Legacy",
+  "negative": 244,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 575,
+  "price": "1999",
+  "publisher": "Ravenscourt, Maple Whispering Limited",
+  "release_date": "2021/09/9",
+  "required_age": 0,
+  "tags": {
+    "Atmospheric": 145,
+    "Base-Building": 124,
+    "Board Game": 171,
+    "Building": 114,
+    "City Builder": 213,
+    "Colony Sim": 166,
+    "Colorful": 149,
+    "Crafting": 110,
+    "Exploration": 105,
+    "Indie": 167,
+    "Management": 158,
+    "Medieval": 120,
+    "Procedural Generation": 131,
+    "RTS": 173,
+    "Real-Time": 183,
+    "Resource Management": 140,
+    "Rogue-like": 185,
+    "Rogue-lite": 163,
+    "Strategy": 196,
+    "Survival": 200
+  },
+  "type": "game"
 }

@@ -1,69 +1,107 @@
 {
-  "appid": 1631190,
-  "name": "The Invasion",
-  "developer": "Gene",
-  "publisher": "Gene",
-  "tags": {
-    "Action": 294,
-    "Casual": 288,
-    "Action RPG": 263,
-    "Arcade": 259,
-    "Shooter": 253,
-    "Arena Shooter": 243,
-    "Hero Shooter": 235,
-    "Hidden Object": 225,
-    "Shoot 'Em Up": 218,
-    "Third-Person Shooter": 210,
-    "Wargame": 198,
-    "3D": 188,
-    "Colorful": 175,
-    "Third Person": 173,
-    "Aliens": 158,
-    "Building": 142,
-    "Sci-fi": 126,
-    "Space": 107,
-    "Survival": 87,
-    "War": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1631190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1631190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1631190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1631190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1631190,
   "categories": [
     "Single-player",
     "Stats"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "90",
-  "initialprice": "90",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1631190/header.jpg?t=1623432039",
+  "consensus_genre": "Action",
+  "developer": "Gene",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1631190/header.jpg?t=1623432039",
+  "initialprice": "90",
+  "languages": "English",
+  "name": "The Invasion",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "90",
+  "publisher": "Gene",
+  "release_date": "2021/05/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 188,
+    "Action": 294,
+    "Action RPG": 263,
+    "Aliens": 158,
+    "Arcade": 259,
+    "Arena Shooter": 243,
+    "Building": 142,
+    "Casual": 288,
+    "Colorful": 175,
+    "Hero Shooter": 235,
+    "Hidden Object": 225,
+    "Sci-fi": 126,
+    "Shoot 'Em Up": 218,
+    "Shooter": 253,
+    "Space": 107,
+    "Survival": 87,
+    "Third Person": 173,
+    "Third-Person Shooter": 210,
+    "War": 68,
+    "Wargame": 198
+  },
+  "type": "game"
 }

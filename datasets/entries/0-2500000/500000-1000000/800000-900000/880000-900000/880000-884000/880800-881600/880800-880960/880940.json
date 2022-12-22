@@ -1,31 +1,201 @@
 {
-  "appid": 880940,
-  "name": "Pummel Party",
-  "developer": "Rebuilt Games",
-  "publisher": "Rebuilt Games",
-  "tags": {
-    "Multiplayer": 626,
-    "Funny": 396,
-    "Online Co-Op": 364,
-    "4 Player Local": 358,
-    "Board Game": 326,
-    "Casual": 238,
-    "Local Multiplayer": 221,
-    "Co-op": 217,
-    "Minigames": 210,
-    "Party Game": 207,
-    "Indie": 163,
-    "Local Co-Op": 162,
-    "Party": 162,
-    "Action": 159,
-    "Comedy": 135,
-    "Tabletop": 88,
-    "Controller": 69,
-    "Gore": 63,
-    "Colorful": 61,
-    "Singleplayer": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 880940,
+    "average_2weeks": 164,
+    "average_forever": 637,
+    "median_2weeks": 140,
+    "median_forever": 409
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 880940,
+    "average_2weeks": 164,
+    "average_forever": 637,
+    "median_2weeks": 140,
+    "median_forever": 409
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3751,
+    "2022-12-09": 2688,
+    "2022-12-10": 2519,
+    "2022-12-13": 1881,
+    "2022-12-15": 2394,
+    "2022-12-18": 2349,
+    "2022-12-21": 1902,
+    "2022-12-22": 2670
+  },
+  "Completion": 49.25,
+  "Down 30 Days": 31,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 74
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 880940,
+    "average_2weeks": 164,
+    "average_forever": 637,
+    "median_2weeks": 140,
+    "median_forever": 409
+  },
+  "Median Playtime - Forever": {
+    "app_id": 880940,
+    "average_2weeks": 164,
+    "average_forever": 637,
+    "median_2weeks": 140,
+    "median_forever": 409
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 472,
+  "User Score": -1,
+  "appid": 880940,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,184 +210,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 35543,
-  "negative": 4339,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 2170,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/09/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/880940/header.jpg?t=1585242250",
+  "consensus_genre": "Casual",
+  "developer": "Rebuilt Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 74,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 53,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 28,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 472,
-  "Down 30 Days": 31,
-  "Completion": 49.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/880940/header.jpg?t=1585242250",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Pummel Party",
+  "negative": 4339,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 35543,
+  "price": "1499",
+  "publisher": "Rebuilt Games",
+  "release_date": "2018/09/20",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 358,
+    "Action": 159,
+    "Board Game": 326,
+    "Casual": 238,
+    "Co-op": 217,
+    "Colorful": 61,
+    "Comedy": 135,
+    "Controller": 69,
+    "Funny": 396,
+    "Gore": 63,
+    "Indie": 163,
+    "Local Co-Op": 162,
+    "Local Multiplayer": 221,
+    "Minigames": 210,
+    "Multiplayer": 626,
+    "Online Co-Op": 364,
+    "Party": 162,
+    "Party Game": 207,
+    "Singleplayer": 46,
+    "Tabletop": 88
+  },
+  "type": "game"
 }

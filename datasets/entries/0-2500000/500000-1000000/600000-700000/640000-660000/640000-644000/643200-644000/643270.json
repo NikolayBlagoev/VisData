@@ -1,208 +1,246 @@
 {
-  "appid": 643270,
-  "name": "OLDTV",
-  "developer": "Creability",
-  "publisher": "Creability",
-  "tags": {
-    "Free to Play": 237,
-    "Great Soundtrack": 146,
-    "Fast-Paced": 129,
-    "Indie": 122,
-    "Difficult": 115,
-    "Singleplayer": 99,
-    "Puzzle": 42,
-    "Casual": 38,
-    "Psychological Horror": 32,
-    "Atmospheric": 28,
-    "Psychedelic": 21,
-    "Arcade": 20,
-    "Retro": 18,
-    "2D": 17,
-    "Illuminati": 15,
-    "Memes": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 643270,
+    "average_2weeks": 0,
+    "average_forever": 58,
+    "median_2weeks": 0,
+    "median_forever": 13
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 643270,
+    "average_2weeks": 0,
+    "average_forever": 58,
+    "median_2weeks": 0,
+    "median_forever": 13
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 6,
+    "2022-12-10": 2,
+    "2022-12-13": 3,
+    "2022-12-15": 4,
+    "2022-12-18": 3,
+    "2022-12-21": 1,
+    "2022-12-22": 4
+  },
+  "Completion": 73.75,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 643270,
+    "average_2weeks": 0,
+    "average_forever": 58,
+    "median_2weeks": 0,
+    "median_forever": 13
+  },
+  "Median Playtime - Forever": {
+    "app_id": 643270,
+    "average_2weeks": 0,
+    "average_forever": 58,
+    "median_2weeks": 0,
+    "median_forever": 13
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 21,
+  "User Score": -1,
+  "appid": 643270,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5019,
-  "negative": 267,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, German, Japanese, Polish, Russian, Ukrainian, Norwegian, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, French, Traditional Chinese, Korean, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2017/07/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/643270/header.jpg?t=1647951816",
+  "consensus_genre": "Free to Play",
+  "developer": "Creability",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "Indie"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 21,
-  "Down 30 Days": 3,
-  "Completion": 73.75,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/643270/header.jpg?t=1647951816",
+  "initialprice": "0",
+  "languages": "English, German, Japanese, Polish, Russian, Ukrainian, Norwegian, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, French, Traditional Chinese, Korean, Swedish",
+  "name": "OLDTV",
+  "negative": 267,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5019,
+  "price": "0",
+  "publisher": "Creability",
+  "release_date": "2017/07/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 17,
+    "Arcade": 20,
+    "Atmospheric": 28,
+    "Casual": 38,
+    "Difficult": 115,
+    "Fast-Paced": 129,
+    "Free to Play": 237,
+    "Great Soundtrack": 146,
+    "Illuminati": 15,
+    "Indie": 122,
+    "Memes": 14,
+    "Psychedelic": 21,
+    "Psychological Horror": 32,
+    "Puzzle": 42,
+    "Retro": 18,
+    "Singleplayer": 99
+  },
+  "type": "game"
 }

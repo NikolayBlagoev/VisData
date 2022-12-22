@@ -1,66 +1,104 @@
 {
-  "appid": 1652990,
-  "name": "HABITAT: Race To Mars",
-  "developer": "Elon Mustard",
-  "publisher": "X-Space",
-  "tags": {
-    "Exploration": 368,
-    "Side Scroller": 363,
-    "Puzzle-Platformer": 358,
-    "Puzzle": 353,
-    "Strategy": 350,
-    "Farming Sim": 348,
-    "Point & Click": 336,
-    "2D": 323,
-    "Funny": 313,
-    "Choices Matter": 303,
-    "Time Manipulation": 292,
-    "Colorful": 280,
-    "Minimalist": 268,
-    "Pixel Graphics": 255,
-    "Agriculture": 240,
-    "Capitalism": 238,
-    "Economy": 221,
-    "Sci-fi": 204,
-    "Space": 184,
-    "Atmospheric": 164
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1652990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1652990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1652990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1652990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1652990,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/10/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1652990/header.jpg?t=1658899278",
+  "consensus_genre": "Strategy",
+  "developer": "Elon Mustard",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1652990/header.jpg?t=1658899278",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "HABITAT: Race To Mars",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "X-Space",
+  "release_date": "2021/10/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 323,
+    "Agriculture": 240,
+    "Atmospheric": 164,
+    "Capitalism": 238,
+    "Choices Matter": 303,
+    "Colorful": 280,
+    "Economy": 221,
+    "Exploration": 368,
+    "Farming Sim": 348,
+    "Funny": 313,
+    "Minimalist": 268,
+    "Pixel Graphics": 255,
+    "Point & Click": 336,
+    "Puzzle": 353,
+    "Puzzle-Platformer": 358,
+    "Sci-fi": 204,
+    "Side Scroller": 363,
+    "Space": 184,
+    "Strategy": 350,
+    "Time Manipulation": 292
+  },
+  "type": "game"
 }

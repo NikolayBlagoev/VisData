@@ -1,31 +1,201 @@
 {
-  "appid": 1129580,
-  "name": "Medieval Dynasty",
-  "developer": "Render Cube",
-  "publisher": "Toplitz Productions",
-  "tags": {
-    "Survival": 659,
-    "Building": 572,
-    "Open World": 556,
-    "Medieval": 475,
-    "Singleplayer": 360,
-    "RPG": 327,
-    "City Builder": 317,
-    "Crafting": 289,
-    "Simulation": 272,
-    "Sandbox": 237,
-    "Colony Sim": 234,
-    "Adventure": 226,
-    "Resource Management": 194,
-    "Realistic": 191,
-    "Exploration": 169,
-    "Action": 167,
-    "First-Person": 158,
-    "Historical": 158,
-    "Early Access": 128,
-    "Atmospheric": 101
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1129580,
+    "average_2weeks": 690,
+    "average_forever": 1130,
+    "median_2weeks": 1004,
+    "median_forever": 635
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1129580,
+    "average_2weeks": 690,
+    "average_forever": 1130,
+    "median_2weeks": 1004,
+    "median_forever": 635
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2273,
+    "2022-12-09": 2242,
+    "2022-12-10": 2122,
+    "2022-12-13": 2109,
+    "2022-12-15": 1916,
+    "2022-12-18": 1922,
+    "2022-12-21": 1929,
+    "2022-12-22": 2349
+  },
+  "Completion": 50.89999961853027,
+  "Down 30 Days": 38,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1129580,
+    "average_2weeks": 690,
+    "average_forever": 1130,
+    "median_2weeks": 1004,
+    "median_forever": 635
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1129580,
+    "average_2weeks": 690,
+    "average_forever": 1130,
+    "median_2weeks": 1004,
+    "median_forever": 635
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 378,
+  "User Score": -1,
+  "appid": 1129580,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,185 +203,53 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 25348,
-  "negative": 2605,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
   "ccu": 2909,
-  "languages": "English, German, Spanish - Spain, Polish, French, Portuguese - Brazil, Japanese, Portuguese - Portugal, Russian, Czech, Turkish, Ukrainian, Italian, Simplified Chinese, Dutch, Swedish, Korean, Hungarian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/header.jpg?t=1667980070",
+  "consensus_genre": "RPG",
+  "developer": "Render Cube",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 35,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 36,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 32,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 378,
-  "Down 30 Days": 38,
-  "Completion": 50.89999961853027,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/header.jpg?t=1667980070",
+  "initialprice": "3499",
+  "languages": "English, German, Spanish - Spain, Polish, French, Portuguese - Brazil, Japanese, Portuguese - Portugal, Russian, Czech, Turkish, Ukrainian, Italian, Simplified Chinese, Dutch, Swedish, Korean, Hungarian",
+  "name": "Medieval Dynasty",
+  "negative": 2605,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 25348,
+  "price": "3499",
+  "publisher": "Toplitz Productions",
+  "release_date": "2021/09/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 167,
+    "Adventure": 226,
+    "Atmospheric": 101,
+    "Building": 572,
+    "City Builder": 317,
+    "Colony Sim": 234,
+    "Crafting": 289,
+    "Early Access": 128,
+    "Exploration": 169,
+    "First-Person": 158,
+    "Historical": 158,
+    "Medieval": 475,
+    "Open World": 556,
+    "RPG": 327,
+    "Realistic": 191,
+    "Resource Management": 194,
+    "Sandbox": 237,
+    "Simulation": 272,
+    "Singleplayer": 360,
+    "Survival": 659
+  },
+  "type": "game"
 }

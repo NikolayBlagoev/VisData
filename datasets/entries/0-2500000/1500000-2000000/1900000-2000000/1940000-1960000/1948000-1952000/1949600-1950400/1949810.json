@@ -1,120 +1,158 @@
 {
-  "appid": 1949810,
-  "name": "Rocket Mania",
-  "developer": "BlindsidedGames",
-  "publisher": "BlindsidedGames",
-  "tags": {
-    "Racing": 175,
-    "Exploration": 165,
-    "2D Platformer": 160,
-    "Flight": 156,
-    "Platformer": 151,
-    "Arcade": 144,
-    "2D": 142,
-    "Relaxing": 139,
-    "Linear": 137,
-    "Casual": 131,
-    "Pixel Graphics": 126,
-    "Family Friendly": 124,
-    "Space": 121,
-    "Score Attack": 119,
-    "Atmospheric": 116,
-    "Survival": 113,
-    "Artificial Intelligence": 106,
-    "Physics": 101,
-    "Adventure": 86,
-    "Singleplayer": 84
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1949810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1949810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 47.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1949810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1949810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1949810,
   "categories": [
     "Single-player",
     "Stats",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 8,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1949810/header.jpg?t=1655557253",
+  "consensus_genre": "Racing",
+  "developer": "BlindsidedGames",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 47.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1949810/header.jpg?t=1655557253",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Rocket Mania",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 8,
+  "price": "499",
+  "publisher": "BlindsidedGames",
+  "release_date": "2022/06/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 142,
+    "2D Platformer": 160,
+    "Adventure": 86,
+    "Arcade": 144,
+    "Artificial Intelligence": 106,
+    "Atmospheric": 116,
+    "Casual": 131,
+    "Exploration": 165,
+    "Family Friendly": 124,
+    "Flight": 156,
+    "Linear": 137,
+    "Physics": 101,
+    "Pixel Graphics": 126,
+    "Platformer": 151,
+    "Racing": 175,
+    "Relaxing": 139,
+    "Score Attack": 119,
+    "Singleplayer": 84,
+    "Space": 121,
+    "Survival": 113
+  },
+  "type": "game"
 }

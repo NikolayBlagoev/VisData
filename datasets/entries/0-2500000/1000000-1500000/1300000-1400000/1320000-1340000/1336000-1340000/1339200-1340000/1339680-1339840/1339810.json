@@ -1,67 +1,105 @@
 {
-  "appid": 1339810,
-  "name": "Slimey Champions",
-  "developer": "Mibli",
-  "publisher": "Mibli",
-  "tags": {
-    "RPG": 268,
-    "Dungeon Crawler": 265,
-    "PvE": 259,
-    "Action RPG": 257,
-    "Character Customization": 253,
-    "2D": 241,
-    "Top-Down": 239,
-    "Steampunk": 235,
-    "Cyberpunk": 231,
-    "Swordplay": 227,
-    "Funny": 223,
-    "Pixel Graphics": 212,
-    "Cartoony": 210,
-    "Hand-drawn": 200,
-    "Superhero": 188,
-    "Fantasy": 179,
-    "Sci-fi": 174,
-    "Gothic": 172,
-    "Vampire": 164,
-    "Magic": 156
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1339810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1339810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1339810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1339810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1339810,
   "categories": [
     "Single-player"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1339810/header.jpg?t=1637420196",
+  "consensus_genre": "RPG",
+  "developer": "Mibli",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1339810/header.jpg?t=1637420196",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Slimey Champions",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "0",
+  "publisher": "Mibli",
+  "release_date": "2020/06/17",
+  "required_age": 0,
+  "tags": {
+    "2D": 241,
+    "Action RPG": 257,
+    "Cartoony": 210,
+    "Character Customization": 253,
+    "Cyberpunk": 231,
+    "Dungeon Crawler": 265,
+    "Fantasy": 179,
+    "Funny": 223,
+    "Gothic": 172,
+    "Hand-drawn": 200,
+    "Magic": 156,
+    "Pixel Graphics": 212,
+    "PvE": 259,
+    "RPG": 268,
+    "Sci-fi": 174,
+    "Steampunk": 235,
+    "Superhero": 188,
+    "Swordplay": 227,
+    "Top-Down": 239,
+    "Vampire": 164
+  },
+  "type": "game"
 }

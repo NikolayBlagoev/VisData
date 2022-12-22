@@ -1,31 +1,201 @@
 {
-  "appid": 1048100,
-  "name": "Peekaboo",
-  "developer": "Redaster Studio",
-  "publisher": "Redaster Studio",
-  "tags": {
-    "Action": 249,
-    "Casual": 243,
-    "Multiplayer": 241,
-    "Physics": 236,
-    "PvP": 236,
-    "Stealth": 232,
-    "Hidden Object": 224,
-    "Co-op": 221,
-    "Online Co-Op": 219,
-    "Exploration": 217,
-    "Survival": 216,
-    "Action RPG": 214,
-    "Indie": 211,
-    "Family Friendly": 210,
-    "Funny": 202,
-    "Massively Multiplayer": 202,
-    "Stylized": 195,
-    "Atmospheric": 192,
-    "Cartoon": 191,
-    "Third Person": 181
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1048100,
+    "average_2weeks": 3,
+    "average_forever": 164,
+    "median_2weeks": 3,
+    "median_forever": 171
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1048100,
+    "average_2weeks": 3,
+    "average_forever": 164,
+    "median_2weeks": 3,
+    "median_forever": 171
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4,
+    "2022-12-09": 18,
+    "2022-12-10": 6,
+    "2022-12-13": 15,
+    "2022-12-15": 9,
+    "2022-12-18": 15,
+    "2022-12-21": 2,
+    "2022-12-22": 10
+  },
+  "Completion": 51.95000076293945,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1048100,
+    "average_2weeks": 3,
+    "average_forever": 164,
+    "median_2weeks": 3,
+    "median_forever": 171
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1048100,
+    "average_2weeks": 3,
+    "average_forever": 164,
+    "median_2weeks": 3,
+    "median_forever": 171
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 14,
+  "User Score": -1,
+  "appid": 1048100,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -38,22 +208,10 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2524,
-  "negative": 655,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 13,
-  "languages": "English, Russian, German, Simplified Chinese, French, Italian, Spanish - Spain, Traditional Chinese, Japanese, Portuguese - Portugal, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/08/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1048100/header.jpg?t=1654647375",
+  "consensus_genre": "Action",
+  "developer": "Redaster Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -63,163 +221,43 @@
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 14,
-  "Down 30 Days": 1,
-  "Completion": 51.95000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1048100/header.jpg?t=1654647375",
+  "initialprice": "599",
+  "languages": "English, Russian, German, Simplified Chinese, French, Italian, Spanish - Spain, Traditional Chinese, Japanese, Portuguese - Portugal, Korean",
+  "name": "Peekaboo",
+  "negative": 655,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2524,
+  "price": "599",
+  "publisher": "Redaster Studio",
+  "release_date": "2019/08/7",
+  "required_age": 0,
+  "tags": {
+    "Action": 249,
+    "Action RPG": 214,
+    "Atmospheric": 192,
+    "Cartoon": 191,
+    "Casual": 243,
+    "Co-op": 221,
+    "Exploration": 217,
+    "Family Friendly": 210,
+    "Funny": 202,
+    "Hidden Object": 224,
+    "Indie": 211,
+    "Massively Multiplayer": 202,
+    "Multiplayer": 241,
+    "Online Co-Op": 219,
+    "Physics": 236,
+    "PvP": 236,
+    "Stealth": 232,
+    "Stylized": 195,
+    "Survival": 216,
+    "Third Person": 181
+  },
+  "type": "game"
 }

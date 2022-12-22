@@ -1,31 +1,201 @@
 {
-  "appid": 761890,
-  "name": "Albion Online",
-  "developer": "Sandbox Interactive GmbH",
-  "publisher": "Sandbox Interactive GmbH",
-  "tags": {
-    "Free to Play": 818,
-    "MMORPG": 777,
-    "Open World": 737,
-    "Massively Multiplayer": 650,
-    "RPG": 483,
-    "Sandbox": 479,
-    "Crafting": 426,
-    "Multiplayer": 385,
-    "PvP": 318,
-    "Survival": 313,
-    "Loot": 237,
-    "PvE": 222,
-    "Medieval": 199,
-    "Economy": 197,
-    "Fantasy": 147,
-    "Co-op": 145,
-    "Strategy": 134,
-    "Action": 117,
-    "Difficult": 105,
-    "Singleplayer": 105
+  "Average Playtime - 2 Weeks": {
+    "app_id": 761890,
+    "average_2weeks": 17,
+    "average_forever": 2468,
+    "median_2weeks": 31,
+    "median_forever": 145
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 761890,
+    "average_2weeks": 17,
+    "average_forever": 2468,
+    "median_2weeks": 31,
+    "median_forever": 145
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6307,
+    "2022-12-09": 8425,
+    "2022-12-10": 8352,
+    "2022-12-13": 7950,
+    "2022-12-15": 7446,
+    "2022-12-18": 7809,
+    "2022-12-21": 7848,
+    "2022-12-22": 7625
+  },
+  "Completion": 54.900001525878906,
+  "Down 30 Days": 194,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 4,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 6,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 10,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 7,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 5,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 6,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 6,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 6,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 6,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 6,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 5,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 5,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 11,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 11,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 7,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 13,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 5,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 11,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 10,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 9,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 10,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 4,
+      "recommendations_up": 13
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 761890,
+    "average_2weeks": 17,
+    "average_forever": 2468,
+    "median_2weeks": 31,
+    "median_forever": 145
+  },
+  "Median Playtime - Forever": {
+    "app_id": 761890,
+    "average_2weeks": 17,
+    "average_forever": 2468,
+    "median_2weeks": 31,
+    "median_forever": 145
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 992,
+  "User Score": -1,
+  "appid": 761890,
   "categories": [
     "Multi-player",
     "MMO",
@@ -35,184 +205,52 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 41790,
-  "negative": 10550,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 7324,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Portuguese - Portugal, Spanish - Latin America, Korean, Simplified Chinese, Italian, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/05/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/761890/header.jpg?t=1662996017",
+  "consensus_genre": "Free to Play",
+  "developer": "Sandbox Interactive GmbH",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 22,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 22,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 21,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 31,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 19,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 20,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 17,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 19,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 20,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 15,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 25,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 19,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 16,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 30,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 18,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 26,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 56,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 24,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 77,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 105,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 64,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 61,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 61,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 57,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 49,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 47,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 13,
-      "recommendations_down": 4
-    }
-  ],
-  "Up 30 Days": 992,
-  "Down 30 Days": 194,
-  "Completion": 54.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/761890/header.jpg?t=1662996017",
+  "initialprice": "0",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Portuguese - Portugal, Spanish - Latin America, Korean, Simplified Chinese, Italian, Japanese",
+  "name": "Albion Online",
+  "negative": 10550,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 41790,
+  "price": "0",
+  "publisher": "Sandbox Interactive GmbH",
+  "release_date": "2018/05/16",
+  "required_age": 0,
+  "tags": {
+    "Action": 117,
+    "Co-op": 145,
+    "Crafting": 426,
+    "Difficult": 105,
+    "Economy": 197,
+    "Fantasy": 147,
+    "Free to Play": 818,
+    "Loot": 237,
+    "MMORPG": 777,
+    "Massively Multiplayer": 650,
+    "Medieval": 199,
+    "Multiplayer": 385,
+    "Open World": 737,
+    "PvE": 222,
+    "PvP": 318,
+    "RPG": 483,
+    "Sandbox": 479,
+    "Singleplayer": 105,
+    "Strategy": 134,
+    "Survival": 313
+  },
+  "type": "game"
 }

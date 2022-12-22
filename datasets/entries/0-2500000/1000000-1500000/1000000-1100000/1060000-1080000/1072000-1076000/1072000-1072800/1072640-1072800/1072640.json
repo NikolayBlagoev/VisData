@@ -1,52 +1,210 @@
 {
-  "appid": 1072640,
-  "name": "Beat Blast",
-  "developer": "Woolly Walrus Games",
-  "publisher": "Woolly Walrus Games",
-  "tags": {
-    "Bullet Hell": 221,
-    "Music": 212,
-    "Difficult": 211,
-    "Action Roguelike": 207,
-    "Dungeon Crawler": 200,
-    "Rogue-like": 195,
-    "Singleplayer": 181,
-    "Action": 172,
-    "2D": 166,
-    "Rhythm": 159,
-    "Controller": 153,
-    "Top-Down": 149,
-    "Loot": 145,
-    "Procedural Generation": 139,
-    "Twin Stick Shooter": 133,
-    "Minimalist": 131,
-    "Indie": 94,
-    "Casual": 88,
-    "Arcade": 63,
-    "RPG": 52
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1072640,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 52
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1072640,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 52
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 0,
+    "2022-12-10": 1,
+    "2022-12-13": 2,
+    "2022-12-15": 2,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 4
+  },
+  "Completion": 62.04999923706055,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1072640,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 52
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1072640,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 52
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1072640,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 321,
-  "negative": 34,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/08/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1072640/header.jpg?t=1638977212",
+  "consensus_genre": "Action",
+  "developer": "Woolly Walrus Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -54,163 +212,43 @@
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": 62.04999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1072640/header.jpg?t=1638977212",
+  "initialprice": "1399",
+  "languages": "English, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Beat Blast",
+  "negative": 34,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 321,
+  "price": "1399",
+  "publisher": "Woolly Walrus Games",
+  "release_date": "2021/08/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 166,
+    "Action": 172,
+    "Action Roguelike": 207,
+    "Arcade": 63,
+    "Bullet Hell": 221,
+    "Casual": 88,
+    "Controller": 153,
+    "Difficult": 211,
+    "Dungeon Crawler": 200,
+    "Indie": 94,
+    "Loot": 145,
+    "Minimalist": 131,
+    "Music": 212,
+    "Procedural Generation": 139,
+    "RPG": 52,
+    "Rhythm": 159,
+    "Rogue-like": 195,
+    "Singleplayer": 181,
+    "Top-Down": 149,
+    "Twin Stick Shooter": 133
+  },
+  "type": "game"
 }

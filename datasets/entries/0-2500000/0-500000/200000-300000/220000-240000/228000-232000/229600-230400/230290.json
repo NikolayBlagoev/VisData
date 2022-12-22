@@ -1,215 +1,253 @@
 {
-  "appid": 230290,
-  "name": "Universe Sandbox",
-  "developer": "Giant Army",
-  "publisher": "Giant Army",
-  "tags": {
-    "Sandbox": 612,
-    "Space": 586,
-    "Simulation": 558,
-    "Physics": 515,
-    "Science": 455,
-    "Destruction": 366,
-    "Realistic": 314,
-    "God Game": 311,
-    "Education": 297,
-    "Early Access": 257,
-    "Singleplayer": 253,
-    "VR": 205,
-    "Open World": 201,
-    "Indie": 194,
-    "Casual": 173,
-    "Atmospheric": 163,
-    "Sci-fi": 148,
-    "Great Soundtrack": 139,
-    "Exploration": 116,
-    "Adventure": 55
+  "Average Playtime - 2 Weeks": {
+    "app_id": 230290,
+    "average_2weeks": 722,
+    "average_forever": 531,
+    "median_2weeks": 730,
+    "median_forever": 223
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 230290,
+    "average_2weeks": 722,
+    "average_forever": 531,
+    "median_2weeks": 730,
+    "median_forever": 223
+  },
+  "CCU Histogram": {
+    "2022-12-08": 297,
+    "2022-12-09": 320,
+    "2022-12-10": 347,
+    "2022-12-13": 350,
+    "2022-12-15": 276,
+    "2022-12-18": 395,
+    "2022-12-21": 324,
+    "2022-12-22": 313
+  },
+  "Completion": -1,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 230290,
+    "average_2weeks": 722,
+    "average_forever": 531,
+    "median_2weeks": 730,
+    "median_forever": 223
+  },
+  "Median Playtime - Forever": {
+    "app_id": 230290,
+    "average_2weeks": 722,
+    "average_forever": 531,
+    "median_2weeks": 730,
+    "median_forever": 223
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 286,
+  "User Score": -1,
+  "appid": 230290,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Workshop"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 17644,
-  "negative": 734,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 278,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Russian, Swedish, Thai, Turkish, Simplified Chinese, Traditional Chinese, Bulgarian, Greek, Romanian, Ukrainian, Vietnamese, Filipino, Indonesian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/08/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/230290/header.jpg?t=1667450213",
+  "consensus_genre": "Simulation",
+  "developer": "Giant Army",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 286,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/230290/header.jpg?t=1667450213",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Russian, Swedish, Thai, Turkish, Simplified Chinese, Traditional Chinese, Bulgarian, Greek, Romanian, Ukrainian, Vietnamese, Filipino, Indonesian",
+  "name": "Universe Sandbox",
+  "negative": 734,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 17644,
+  "price": "2999",
+  "publisher": "Giant Army",
+  "release_date": "2015/08/24",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 55,
+    "Atmospheric": 163,
+    "Casual": 173,
+    "Destruction": 366,
+    "Early Access": 257,
+    "Education": 297,
+    "Exploration": 116,
+    "God Game": 311,
+    "Great Soundtrack": 139,
+    "Indie": 194,
+    "Open World": 201,
+    "Physics": 515,
+    "Realistic": 314,
+    "Sandbox": 612,
+    "Sci-fi": 148,
+    "Science": 455,
+    "Simulation": 558,
+    "Singleplayer": 253,
+    "Space": 586,
+    "VR": 205
+  },
+  "type": "game"
 }

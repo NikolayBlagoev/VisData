@@ -1,49 +1,87 @@
 {
-  "appid": 886540,
-  "name": "Magical girl's labyrinth",
-  "developer": "SQUARE PHOENIX",
-  "publisher": "SQUARE PHOENIX",
-  "tags": {
-    "RPG": 23,
-    "RPGMaker": 7,
-    "Anime": 6,
-    "Female Protagonist": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 886540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1599",
-  "initialprice": "1599",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 886540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2018/08/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/886540/header.jpg?t=1534383763",
-  "genre": [
-    "RPG"
-  ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 886540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 886540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 886540,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "RPG",
+  "developer": "SQUARE PHOENIX",
+  "discount": "0",
+  "genre": [
+    "RPG"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/886540/header.jpg?t=1534383763",
+  "initialprice": "1599",
+  "languages": "English",
+  "name": "Magical girl's labyrinth",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1599",
+  "publisher": "SQUARE PHOENIX",
+  "release_date": "2018/08/11",
+  "required_age": 0,
+  "tags": {
+    "Anime": 6,
+    "Female Protagonist": 5,
+    "RPG": 23,
+    "RPGMaker": 7
+  },
+  "type": "game"
 }

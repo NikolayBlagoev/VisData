@@ -1,51 +1,64 @@
 {
-  "appid": 1750960,
-  "name": "Re: Summon",
-  "developer": "Aidil",
-  "publisher": "Aidil",
-  "tags": {
-    "Adventure": 213,
-    "RPG": 208,
-    "Action-Adventure": 183,
-    "JRPG": 179,
-    "Creature Collector": 176,
-    "Exploration": 163,
-    "3D": 157,
-    "Anime": 148,
-    "Cartoony": 140,
-    "Cute": 131,
-    "Atmospheric": 120,
-    "Fantasy": 118,
-    "Historical": 103,
-    "Nature": 91,
-    "Combat": 76,
-    "Inventory Management": 60,
-    "Open World": 43,
-    "Turn-Based Combat": 28,
-    "Singleplayer": 25,
-    "Action": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1750960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1750960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1750960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1750960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1750960,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1750960/header.jpg?t=1647727848",
+  "consensus_genre": "Adventure",
+  "developer": "Aidil",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,18 +66,43 @@
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1750960/header.jpg?t=1647727848",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Re: Summon",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "1999",
+  "publisher": "Aidil",
+  "release_date": "2022/01/22",
+  "required_age": 0,
+  "tags": {
+    "3D": 157,
+    "Action": 21,
+    "Action-Adventure": 183,
+    "Adventure": 213,
+    "Anime": 148,
+    "Atmospheric": 120,
+    "Cartoony": 140,
+    "Combat": 76,
+    "Creature Collector": 176,
+    "Cute": 131,
+    "Exploration": 163,
+    "Fantasy": 118,
+    "Historical": 103,
+    "Inventory Management": 60,
+    "JRPG": 179,
+    "Nature": 91,
+    "Open World": 43,
+    "RPG": 208,
+    "Singleplayer": 25,
+    "Turn-Based Combat": 28
+  },
+  "type": "game"
 }

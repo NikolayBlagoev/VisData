@@ -1,51 +1,209 @@
 {
-  "appid": 1096550,
-  "name": "Desktop Magic Engine",
-  "developer": "DesktopMMD Team",
-  "publisher": "DesktopMMD Team",
-  "tags": {
-    "Utilities": 38,
-    "Animation & Modeling": 34,
-    "Casual": 33,
-    "Simulation": 32,
-    "Audio Production": 31,
-    "Indie": 31,
-    "Nudity": 26,
-    "Sexual Content": 25,
-    "Design & Illustration": 24,
-    "Anime": 19,
-    "3D": 15,
-    "Singleplayer": 14,
-    "Software": 14,
-    "Music": 13,
-    "3D Vision": 12,
-    "Relaxing": 12,
-    "Beautiful": 11,
-    "Cartoon": 11,
-    "Funny": 11,
-    "Realistic": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1096550,
+    "average_2weeks": 0,
+    "average_forever": 28579,
+    "median_2weeks": 0,
+    "median_forever": 42778
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1096550,
+    "average_2weeks": 0,
+    "average_forever": 28579,
+    "median_2weeks": 0,
+    "median_forever": 42778
+  },
+  "CCU Histogram": {
+    "2022-12-08": 35,
+    "2022-12-09": 36,
+    "2022-12-10": 42,
+    "2022-12-13": 43,
+    "2022-12-15": 40,
+    "2022-12-18": 29,
+    "2022-12-21": 44,
+    "2022-12-22": 39
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1096550,
+    "average_2weeks": 0,
+    "average_forever": 28579,
+    "median_2weeks": 0,
+    "median_forever": 42778
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1096550,
+    "average_2weeks": 0,
+    "average_forever": 28579,
+    "median_2weeks": 0,
+    "median_forever": 42778
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1096550,
   "categories": [
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 578,
-  "negative": 206,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 40,
-  "languages": "English, Simplified Chinese, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1096550/header.jpg?t=1652877726",
+  "consensus_genre": "Utilities",
+  "developer": "DesktopMMD Team",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -55,163 +213,43 @@
     "Design & Illustration",
     "Utilities"
   ],
-  "consensus_genre": "Utilities",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1096550/header.jpg?t=1652877726",
+  "initialprice": "399",
+  "languages": "English, Simplified Chinese, Japanese, Korean",
+  "name": "Desktop Magic Engine",
+  "negative": 206,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 578,
+  "price": "399",
+  "publisher": "DesktopMMD Team",
+  "release_date": "2020/07/18",
+  "required_age": 0,
+  "tags": {
+    "3D": 15,
+    "3D Vision": 12,
+    "Animation & Modeling": 34,
+    "Anime": 19,
+    "Audio Production": 31,
+    "Beautiful": 11,
+    "Cartoon": 11,
+    "Casual": 33,
+    "Design & Illustration": 24,
+    "Funny": 11,
+    "Indie": 31,
+    "Music": 13,
+    "Nudity": 26,
+    "Realistic": 10,
+    "Relaxing": 12,
+    "Sexual Content": 25,
+    "Simulation": 32,
+    "Singleplayer": 14,
+    "Software": 14,
+    "Utilities": 38
+  },
+  "type": "game"
 }

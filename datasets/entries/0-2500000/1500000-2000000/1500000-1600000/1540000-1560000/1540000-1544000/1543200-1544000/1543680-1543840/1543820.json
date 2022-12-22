@@ -1,103 +1,141 @@
 {
-  "appid": 1543820,
-  "name": "PaperCraft",
-  "developer": "Cinnamancer Studios",
-  "publisher": "Cinnamancer Studios",
-  "tags": {
-    "Simulation": 251,
-    "Action": 231,
-    "Crafting": 227,
-    "Survival": 223,
-    "Casual": 221,
-    "2.5D": 218,
-    "Farming Sim": 194,
-    "Sandbox": 186,
-    "Exploration": 177,
-    "Immersive Sim": 167,
-    "Cartoony": 158,
-    "Colorful": 146,
-    "Cute": 144,
-    "Minimalist": 130,
-    "Third Person": 115,
-    "Agriculture": 99,
-    "Atmospheric": 82,
-    "Fishing": 64,
-    "Management": 45,
-    "Base-Building": 28
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1543820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1543820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1543820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1543820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 1543820,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 12,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1543820/header.jpg?t=1618933518",
+  "consensus_genre": "Simulation",
+  "developer": "Cinnamancer Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1543820/header.jpg?t=1618933518",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+  "name": "PaperCraft",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12,
+  "price": "0",
+  "publisher": "Cinnamancer Studios",
+  "release_date": "2021/02/25",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 218,
+    "Action": 231,
+    "Agriculture": 99,
+    "Atmospheric": 82,
+    "Base-Building": 28,
+    "Cartoony": 158,
+    "Casual": 221,
+    "Colorful": 146,
+    "Crafting": 227,
+    "Cute": 144,
+    "Exploration": 177,
+    "Farming Sim": 194,
+    "Fishing": 64,
+    "Immersive Sim": 167,
+    "Management": 45,
+    "Minimalist": 130,
+    "Sandbox": 186,
+    "Simulation": 251,
+    "Survival": 223,
+    "Third Person": 115
+  },
+  "type": "game"
 }

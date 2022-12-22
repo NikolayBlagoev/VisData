@@ -1,51 +1,104 @@
 {
-  "appid": 1970730,
-  "name": "BeachRun",
-  "developer": "Gamesforgames",
-  "publisher": "Gamesforgames",
-  "tags": {
-    "Casual": 294,
-    "Racing": 287,
-    "Sports": 283,
-    "Action-Adventure": 258,
-    "Arcade": 253,
-    "Automobile Sim": 242,
-    "Rhythm": 235,
-    "Walking Simulator": 227,
-    "Clicker": 218,
-    "Combat Racing": 208,
-    "Real Time Tactics": 197,
-    "Runner": 188,
-    "Time Management": 174,
-    "2D": 172,
-    "Colorful": 157,
-    "Cute": 141,
-    "Third Person": 126,
-    "Atmospheric": 106,
-    "Cycling": 88,
-    "Parkour": 67
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1970730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1970730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 46.85000038146973,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1970730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1970730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1970730,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 10,
-  "negative": 0,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970730/header.jpg?t=1653503719",
+  "consensus_genre": "Casual",
+  "developer": "Gamesforgames",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -53,58 +106,43 @@
     "Racing",
     "Sports"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": 46.85000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970730/header.jpg?t=1653503719",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "BeachRun",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10,
+  "price": "2499",
+  "publisher": "Gamesforgames",
+  "release_date": "2022/05/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 172,
+    "Action-Adventure": 258,
+    "Arcade": 253,
+    "Atmospheric": 106,
+    "Automobile Sim": 242,
+    "Casual": 294,
+    "Clicker": 218,
+    "Colorful": 157,
+    "Combat Racing": 208,
+    "Cute": 141,
+    "Cycling": 88,
+    "Parkour": 67,
+    "Racing": 287,
+    "Real Time Tactics": 197,
+    "Rhythm": 235,
+    "Runner": 188,
+    "Sports": 283,
+    "Third Person": 126,
+    "Time Management": 174,
+    "Walking Simulator": 227
+  },
+  "type": "game"
 }

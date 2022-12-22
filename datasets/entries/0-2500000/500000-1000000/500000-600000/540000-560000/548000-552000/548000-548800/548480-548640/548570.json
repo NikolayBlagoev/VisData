@@ -1,31 +1,201 @@
 {
-  "appid": 548570,
-  "name": "RAGE 2",
-  "developer": "id Software, Avalanche Studios",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "Action": 418,
-    "FPS": 389,
-    "Open World": 369,
-    "Post-apocalyptic": 326,
-    "Vehicular Combat": 313,
-    "Automobile Sim": 301,
-    "Singleplayer": 264,
-    "Gore": 262,
-    "Shooter": 244,
-    "Violent": 218,
-    "First-Person": 197,
-    "Multiplayer": 136,
-    "Blood": 117,
-    "Funny": 96,
-    "Exploration": 88,
-    "Sci-fi": 82,
-    "Adventure": 70,
-    "Cyberpunk": 53,
-    "Racing": 49,
-    "Sandbox": 49
+  "Average Playtime - 2 Weeks": {
+    "app_id": 548570,
+    "average_2weeks": 38,
+    "average_forever": 1426,
+    "median_2weeks": 38,
+    "median_forever": 964
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 548570,
+    "average_2weeks": 38,
+    "average_forever": 1426,
+    "median_2weeks": 38,
+    "median_forever": 964
+  },
+  "CCU Histogram": {
+    "2022-12-08": 107,
+    "2022-12-09": 112,
+    "2022-12-10": 109,
+    "2022-12-13": 147,
+    "2022-12-15": 89,
+    "2022-12-18": 101,
+    "2022-12-21": 94,
+    "2022-12-22": 105
+  },
+  "Completion": 41.75,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 548570,
+    "average_2weeks": 38,
+    "average_forever": 1426,
+    "median_2weeks": 38,
+    "median_forever": 964
+  },
+  "Median Playtime - Forever": {
+    "app_id": 548570,
+    "average_2weeks": 38,
+    "average_forever": 1426,
+    "median_2weeks": 38,
+    "median_forever": 964
+  },
+  "Meta Score": "73",
+  "Rating": "ESRB M",
+  "Up 30 Days": 27,
+  "User Score": -1,
+  "appid": 548570,
   "categories": [
     "Single-player",
     "Captions available",
@@ -33,182 +203,50 @@
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 9148,
-  "negative": 5683,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 132,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/05/13",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/548570/header.jpg?t=1582901756",
+  "consensus_genre": "Action",
+  "developer": "id Software, Avalanche Studios",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "73",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 27,
-  "Down 30 Days": 13,
-  "Completion": 41.75,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/548570/header.jpg?t=1582901756",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America",
+  "name": "RAGE 2",
+  "negative": 5683,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9148,
+  "price": "3999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2019/05/13",
+  "required_age": "15",
+  "tags": {
+    "Action": 418,
+    "Adventure": 70,
+    "Automobile Sim": 301,
+    "Blood": 117,
+    "Cyberpunk": 53,
+    "Exploration": 88,
+    "FPS": 389,
+    "First-Person": 197,
+    "Funny": 96,
+    "Gore": 262,
+    "Multiplayer": 136,
+    "Open World": 369,
+    "Post-apocalyptic": 326,
+    "Racing": 49,
+    "Sandbox": 49,
+    "Sci-fi": 82,
+    "Shooter": 244,
+    "Singleplayer": 264,
+    "Vehicular Combat": 313,
+    "Violent": 218
+  },
+  "type": "game"
 }

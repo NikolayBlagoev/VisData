@@ -1,211 +1,249 @@
 {
-  "appid": 22300,
-  "name": "Fallout 3",
-  "developer": "Bethesda Game Studios",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "Open World": 762,
-    "Post-apocalyptic": 668,
-    "RPG": 626,
-    "Singleplayer": 426,
-    "Exploration": 397,
-    "First-Person": 355,
-    "Sci-fi": 330,
-    "Adventure": 321,
-    "Moddable": 317,
-    "Action": 315,
-    "Atmospheric": 262,
-    "FPS": 257,
-    "Shooter": 229,
-    "Character Customization": 221,
-    "Third Person": 217,
-    "Story Rich": 207,
-    "Sandbox": 185,
-    "Action RPG": 173,
-    "Horror": 98,
-    "Female Protagonist": 81
+  "Average Playtime - 2 Weeks": {
+    "app_id": 22300,
+    "average_2weeks": 0,
+    "average_forever": 698,
+    "median_2weeks": 0,
+    "median_forever": 330
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 22300,
+    "average_2weeks": 0,
+    "average_forever": 698,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "CCU Histogram": {
+    "2022-12-08": 103,
+    "2022-12-09": 96,
+    "2022-12-10": 96,
+    "2022-12-13": 88,
+    "2022-12-15": 78,
+    "2022-12-18": 94,
+    "2022-12-21": 94,
+    "2022-12-22": 91
+  },
+  "Completion": -1,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 22300,
+    "average_2weeks": 0,
+    "average_forever": 698,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "Median Playtime - Forever": {
+    "app_id": 22300,
+    "average_2weeks": 0,
+    "average_forever": 698,
+    "median_2weeks": 0,
+    "median_forever": 330
+  },
+  "Meta Score": "91",
+  "Rating": "ESRB M",
+  "Up 30 Days": 68,
+  "User Score": -1,
+  "appid": 22300,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 14096,
-  "negative": 3674,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 99,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2008/10/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/22300/header.jpg?t=1665072658",
+  "consensus_genre": "RPG",
+  "developer": "Bethesda Game Studios",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "91",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 68,
-  "Down 30 Days": 13,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/22300/header.jpg?t=1665072658",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Fallout 3",
+  "negative": 3674,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14096,
+  "price": "999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2008/10/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 315,
+    "Action RPG": 173,
+    "Adventure": 321,
+    "Atmospheric": 262,
+    "Character Customization": 221,
+    "Exploration": 397,
+    "FPS": 257,
+    "Female Protagonist": 81,
+    "First-Person": 355,
+    "Horror": 98,
+    "Moddable": 317,
+    "Open World": 762,
+    "Post-apocalyptic": 668,
+    "RPG": 626,
+    "Sandbox": 185,
+    "Sci-fi": 330,
+    "Shooter": 229,
+    "Singleplayer": 426,
+    "Story Rich": 207,
+    "Third Person": 217
+  },
+  "type": "game"
 }

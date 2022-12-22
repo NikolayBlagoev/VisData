@@ -1,25 +1,56 @@
 {
-  "appid": 1268840,
-  "name": "Project Toon Tanks",
-  "developer": "Behnam Saeedi",
-  "publisher": "Behnam Saeedi",
-  "tags": {
-    "Action": 81,
-    "Casual": 81,
-    "Indie": 81,
-    "Strategy": 80,
-    "Early Access": 31,
-    "Tanks": 13,
-    "Top-Down Shooter": 12,
-    "Arena Shooter": 11,
-    "Cartoon": 11,
-    "Cartoony": 11,
-    "Competitive": 11,
-    "PvP": 11,
-    "Shooter": 11,
-    "Top-Down": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1268840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1268840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 60.95000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1268840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1268840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1268840,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -28,22 +59,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/04/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1268840/header.jpg?t=1666984445",
+  "consensus_genre": "Action",
+  "developer": "Behnam Saeedi",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -51,18 +70,37 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 60.95000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1268840/header.jpg?t=1666984445",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Project Toon Tanks",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Behnam Saeedi",
+  "release_date": "2020/04/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 81,
+    "Arena Shooter": 11,
+    "Cartoon": 11,
+    "Cartoony": 11,
+    "Casual": 81,
+    "Competitive": 11,
+    "Early Access": 31,
+    "Indie": 81,
+    "PvP": 11,
+    "Shooter": 11,
+    "Strategy": 80,
+    "Tanks": 13,
+    "Top-Down": 11,
+    "Top-Down Shooter": 12
+  },
+  "type": "game"
 }

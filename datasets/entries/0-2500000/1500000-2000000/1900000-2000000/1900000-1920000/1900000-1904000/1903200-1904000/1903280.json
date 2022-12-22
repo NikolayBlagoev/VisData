@@ -1,70 +1,108 @@
 {
-  "appid": 1903280,
-  "name": "Heroes of The Sacred Tree",
-  "developer": "Animas Games",
-  "publisher": "Animas Games",
-  "tags": {
-    "Action": 339,
-    "Adventure": 334,
-    "Action-Adventure": 310,
-    "Arcade": 305,
-    "Shooter": 299,
-    "2D Fighter": 288,
-    "Beat 'em up": 283,
-    "Hero Shooter": 274,
-    "Arena Shooter": 265,
-    "2D": 254,
-    "Hand-drawn": 244,
-    "1980s": 233,
-    "1990's": 221,
-    "Comic Book": 207,
-    "Swordplay": 205,
-    "Fantasy": 189,
-    "Dark Fantasy": 172,
-    "Medieval": 154,
-    "Hack and Slash": 135,
-    "Controller": 115
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1903280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1903280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1903280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1903280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1903280,
   "categories": [
     "Multi-player",
     "Single-player",
     "Co-op",
     "Full controller support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1903280/header.jpg?t=1652808729",
+  "consensus_genre": "Action",
+  "developer": "Animas Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1903280/header.jpg?t=1652808729",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Heroes of The Sacred Tree",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "Animas Games",
+  "release_date": "2022/03/10",
+  "required_age": 0,
+  "tags": {
+    "1980s": 233,
+    "1990's": 221,
+    "2D": 254,
+    "2D Fighter": 288,
+    "Action": 339,
+    "Action-Adventure": 310,
+    "Adventure": 334,
+    "Arcade": 305,
+    "Arena Shooter": 265,
+    "Beat 'em up": 283,
+    "Comic Book": 207,
+    "Controller": 115,
+    "Dark Fantasy": 172,
+    "Fantasy": 189,
+    "Hack and Slash": 135,
+    "Hand-drawn": 244,
+    "Hero Shooter": 274,
+    "Medieval": 154,
+    "Shooter": 299,
+    "Swordplay": 205
+  },
+  "type": "game"
 }

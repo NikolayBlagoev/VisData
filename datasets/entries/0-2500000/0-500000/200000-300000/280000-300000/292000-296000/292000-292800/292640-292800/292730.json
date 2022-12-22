@@ -1,31 +1,201 @@
 {
-  "appid": 292730,
-  "name": "Call of Duty: Infinite Warfare",
-  "developer": "Infinity Ward",
-  "publisher": "Activision",
-  "tags": {
-    "Action": 604,
-    "FPS": 574,
-    "Multiplayer": 500,
-    "Zombies": 487,
-    "Futuristic": 485,
-    "Space": 479,
-    "Shooter": 473,
-    "Hero Shooter": 455,
-    "First-Person": 419,
-    "Singleplayer": 340,
-    "Sci-fi": 308,
-    "Robots": 298,
-    "Adventure": 212,
-    "Story Rich": 167,
-    "Quick-Time Events": 146,
-    "Atmospheric": 143,
-    "Great Soundtrack": 117,
-    "War": 114,
-    "Co-op": 82,
-    "Post-apocalyptic": 76
+  "Average Playtime - 2 Weeks": {
+    "app_id": 292730,
+    "average_2weeks": 215,
+    "average_forever": 2753,
+    "median_2weeks": 247,
+    "median_forever": 676
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 292730,
+    "average_2weeks": 215,
+    "average_forever": 2753,
+    "median_2weeks": 247,
+    "median_forever": 676
+  },
+  "CCU Histogram": {
+    "2022-12-08": 267,
+    "2022-12-09": 174,
+    "2022-12-10": 183,
+    "2022-12-13": 242,
+    "2022-12-15": 147,
+    "2022-12-18": 148,
+    "2022-12-21": 144,
+    "2022-12-22": 156
+  },
+  "Completion": 30.100000381469727,
+  "Down 30 Days": 20,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 292730,
+    "average_2weeks": 215,
+    "average_forever": 2753,
+    "median_2weeks": 247,
+    "median_forever": 676
+  },
+  "Median Playtime - Forever": {
+    "app_id": 292730,
+    "average_2weeks": 215,
+    "average_forever": 2753,
+    "median_2weeks": 247,
+    "median_forever": 676
+  },
+  "Meta Score": "73",
+  "Rating": "ESRB M",
+  "Up 30 Days": 115,
+  "User Score": -1,
+  "appid": 292730,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,183 +208,51 @@
     "Remote Play on TV",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12834,
-  "negative": 10974,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 241,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/11/3",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292730/header.jpg?t=1646764561",
+  "consensus_genre": "Action",
+  "developer": "Infinity Ward",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "73",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 115,
-  "Down 30 Days": 20,
-  "Completion": 30.100000381469727,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292730/header.jpg?t=1646764561",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Call of Duty: Infinite Warfare",
+  "negative": 10974,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12834,
+  "price": "5999",
+  "publisher": "Activision",
+  "release_date": "2016/11/3",
+  "required_age": "15",
+  "tags": {
+    "Action": 604,
+    "Adventure": 212,
+    "Atmospheric": 143,
+    "Co-op": 82,
+    "FPS": 574,
+    "First-Person": 419,
+    "Futuristic": 485,
+    "Great Soundtrack": 117,
+    "Hero Shooter": 455,
+    "Multiplayer": 500,
+    "Post-apocalyptic": 76,
+    "Quick-Time Events": 146,
+    "Robots": 298,
+    "Sci-fi": 308,
+    "Shooter": 473,
+    "Singleplayer": 340,
+    "Space": 479,
+    "Story Rich": 167,
+    "War": 114,
+    "Zombies": 487
+  },
+  "type": "game"
 }

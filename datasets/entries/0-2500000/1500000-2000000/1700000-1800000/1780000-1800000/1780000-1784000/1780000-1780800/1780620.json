@@ -1,90 +1,128 @@
 {
-  "appid": 1780620,
-  "name": "\u6d41\u653e\u4e4b\u57df",
-  "developer": "\u5229\u8d1d\u5c14\u6751\u592b",
-  "publisher": "\u5229\u8d1d\u5c14\u6751\u592b",
-  "tags": {
-    "Strategy": 232,
-    "RTS": 206,
-    "Survival": 202,
-    "Building": 198,
-    "Nudity": 192,
-    "Tower Defense": 181,
-    "Female Protagonist": 174,
-    "Real Time Tactics": 166,
-    "Tactical": 158,
-    "Top-Down": 148,
-    "Anime": 137,
-    "Tactical RPG": 123,
-    "Grand Strategy": 122,
-    "Indie": 110,
-    "Fantasy": 95,
-    "Wargame": 77,
-    "Combat": 62,
-    "Cartoon": 43,
-    "Simulation": 25,
-    "Singleplayer": 24
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1780620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1780620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/05/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1780620/header.jpg?t=1651410344",
-  "genre": [
-    "Strategy"
-  ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1780620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1780620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1780620,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Strategy",
+  "developer": "\u5229\u8d1d\u5c14\u6751\u592b",
+  "discount": "0",
+  "genre": [
+    "Strategy"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1780620/header.jpg?t=1651410344",
+  "initialprice": "199",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u6d41\u653e\u4e4b\u57df",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "199",
+  "publisher": "\u5229\u8d1d\u5c14\u6751\u592b",
+  "release_date": "2022/05/1",
+  "required_age": 0,
+  "tags": {
+    "Anime": 137,
+    "Building": 198,
+    "Cartoon": 43,
+    "Combat": 62,
+    "Fantasy": 95,
+    "Female Protagonist": 174,
+    "Grand Strategy": 122,
+    "Indie": 110,
+    "Nudity": 192,
+    "RTS": 206,
+    "Real Time Tactics": 166,
+    "Simulation": 25,
+    "Singleplayer": 24,
+    "Strategy": 232,
+    "Survival": 202,
+    "Tactical": 158,
+    "Tactical RPG": 123,
+    "Top-Down": 148,
+    "Tower Defense": 181,
+    "Wargame": 77
+  },
+  "type": "game"
 }

@@ -1,216 +1,254 @@
 {
-  "appid": 1218500,
-  "name": "Galactic Mining Corp",
-  "developer": "Windybeard",
-  "publisher": "Windybeard, Creature Cauldron",
-  "tags": {
-    "Collectathon": 217,
-    "Exploration": 207,
-    "Rogue-lite": 202,
-    "Economy": 200,
-    "Management": 196,
-    "Space": 193,
-    "Capitalism": 182,
-    "Base-Building": 180,
-    "Mining": 176,
-    "Building": 161,
-    "Action": 157,
-    "Crafting": 156,
-    "Space Sim": 146,
-    "2D": 143,
-    "Procedural Generation": 139,
-    "Rogue-like": 133,
-    "Simulation": 130,
-    "Colorful": 128,
-    "Sci-fi": 116,
-    "Loot": 107
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1218500,
+    "average_2weeks": 0,
+    "average_forever": 786,
+    "median_2weeks": 0,
+    "median_forever": 1496
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1218500,
+    "average_2weeks": 0,
+    "average_forever": 786,
+    "median_2weeks": 0,
+    "median_forever": 1496
+  },
+  "CCU Histogram": {
+    "2022-12-08": 11,
+    "2022-12-09": 8,
+    "2022-12-10": 10,
+    "2022-12-13": 7,
+    "2022-12-15": 2,
+    "2022-12-18": 6,
+    "2022-12-21": 7,
+    "2022-12-22": 11
+  },
+  "Completion": 69.04999923706055,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1218500,
+    "average_2weeks": 0,
+    "average_forever": 786,
+    "median_2weeks": 0,
+    "median_forever": 1496
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1218500,
+    "average_2weeks": 0,
+    "average_forever": 786,
+    "median_2weeks": 0,
+    "median_forever": 1496
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 7,
+  "User Score": -1,
+  "appid": 1218500,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Remote Play on Tablet"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 653,
-  "negative": 93,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 17,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218500/header.jpg?t=1646503250",
+  "consensus_genre": "Action",
+  "developer": "Windybeard",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 7,
-  "Down 30 Days": 4,
-  "Completion": 69.04999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1218500/header.jpg?t=1646503250",
+  "initialprice": "1299",
+  "languages": "English",
+  "name": "Galactic Mining Corp",
+  "negative": 93,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 653,
+  "price": "1299",
+  "publisher": "Windybeard, Creature Cauldron",
+  "release_date": "2021/05/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 143,
+    "Action": 157,
+    "Base-Building": 180,
+    "Building": 161,
+    "Capitalism": 182,
+    "Collectathon": 217,
+    "Colorful": 128,
+    "Crafting": 156,
+    "Economy": 200,
+    "Exploration": 207,
+    "Loot": 107,
+    "Management": 196,
+    "Mining": 176,
+    "Procedural Generation": 139,
+    "Rogue-like": 133,
+    "Rogue-lite": 202,
+    "Sci-fi": 116,
+    "Simulation": 130,
+    "Space": 193,
+    "Space Sim": 146
+  },
+  "type": "game"
 }

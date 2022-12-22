@@ -1,31 +1,201 @@
 {
-  "appid": 1301210,
-  "name": "Knockout City",
-  "developer": "Velan Studios",
-  "publisher": "Velan Studios",
-  "tags": {
-    "Multiplayer": 197,
-    "Sports": 175,
-    "Team-Based": 166,
-    "Third Person": 160,
-    "Action-Adventure": 157,
-    "PvP": 154,
-    "Action": 151,
-    "Physics": 145,
-    "Co-op": 143,
-    "Competitive": 141,
-    "Adventure": 140,
-    "Free to Play": 121,
-    "LGBTQ+": 113,
-    "Indie": 107,
-    "Fighting": 100,
-    "Fast-Paced": 97,
-    "Singleplayer": 78,
-    "Character Customization": 35,
-    "Controller": 15,
-    "Action Roguelike": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1301210,
+    "average_2weeks": 17,
+    "average_forever": 529,
+    "median_2weeks": 17,
+    "median_forever": 204
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1301210,
+    "average_2weeks": 17,
+    "average_forever": 529,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "CCU Histogram": {
+    "2022-12-08": 136,
+    "2022-12-09": 164,
+    "2022-12-10": 187,
+    "2022-12-13": 199,
+    "2022-12-15": 152,
+    "2022-12-18": 194,
+    "2022-12-21": 178,
+    "2022-12-22": 183
+  },
+  "Completion": 31.40000057220459,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1301210,
+    "average_2weeks": 17,
+    "average_forever": 529,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1301210,
+    "average_2weeks": 17,
+    "average_forever": 529,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "Meta Score": "80",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 87,
+  "User Score": -1,
+  "appid": 1301210,
   "categories": [
     "Multi-player",
     "Steam Achievements",
@@ -36,22 +206,10 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 6500,
-  "negative": 1075,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 173,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1301210/header.jpg?t=1661861664",
+  "consensus_genre": "Sports",
+  "developer": "Velan Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -59,163 +217,43 @@
     "Indie",
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": "80",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 87,
-  "Down 30 Days": 16,
-  "Completion": 31.40000057220459,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1301210/header.jpg?t=1661861664",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Knockout City",
+  "negative": 1075,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6500,
+  "price": "0",
+  "publisher": "Velan Studios",
+  "release_date": "2021/05/21",
+  "required_age": 0,
+  "tags": {
+    "Action": 151,
+    "Action Roguelike": 10,
+    "Action-Adventure": 157,
+    "Adventure": 140,
+    "Character Customization": 35,
+    "Co-op": 143,
+    "Competitive": 141,
+    "Controller": 15,
+    "Fast-Paced": 97,
+    "Fighting": 100,
+    "Free to Play": 121,
+    "Indie": 107,
+    "LGBTQ+": 113,
+    "Multiplayer": 197,
+    "Physics": 145,
+    "PvP": 154,
+    "Singleplayer": 78,
+    "Sports": 175,
+    "Team-Based": 166,
+    "Third Person": 160
+  },
+  "type": "game"
 }

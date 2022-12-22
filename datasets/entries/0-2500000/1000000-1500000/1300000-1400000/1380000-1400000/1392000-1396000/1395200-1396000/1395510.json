@@ -1,51 +1,64 @@
 {
-  "appid": 1395510,
-  "name": "Solar Scion",
-  "developer": "Platinum Thunder Studios",
-  "publisher": "Platinum Thunder Studios",
-  "tags": {
-    "Arena Shooter": 194,
-    "Looter Shooter": 187,
-    "Top-Down Shooter": 185,
-    "Twin Stick Shooter": 179,
-    "Colony Sim": 171,
-    "Sandbox": 163,
-    "Base-Building": 156,
-    "Management": 148,
-    "Shooter": 140,
-    "Strategy": 138,
-    "Arcade": 131,
-    "Physics": 119,
-    "Action": 111,
-    "Top-Down": 105,
-    "Simulation": 96,
-    "3D": 59,
-    "Minimalist": 43,
-    "Combat": 27,
-    "Singleplayer": 25,
-    "Early Access": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1395510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1395510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1395510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1395510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1395510,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1395510/header.jpg?t=1667408432",
+  "consensus_genre": "Strategy",
+  "developer": "Platinum Thunder Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -54,18 +67,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1395510/header.jpg?t=1667408432",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Solar Scion",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Platinum Thunder Studios",
+  "release_date": "2021/06/7",
+  "required_age": 0,
+  "tags": {
+    "3D": 59,
+    "Action": 111,
+    "Arcade": 131,
+    "Arena Shooter": 194,
+    "Base-Building": 156,
+    "Colony Sim": 171,
+    "Combat": 27,
+    "Early Access": 22,
+    "Looter Shooter": 187,
+    "Management": 148,
+    "Minimalist": 43,
+    "Physics": 119,
+    "Sandbox": 163,
+    "Shooter": 140,
+    "Simulation": 96,
+    "Singleplayer": 25,
+    "Strategy": 138,
+    "Top-Down": 105,
+    "Top-Down Shooter": 185,
+    "Twin Stick Shooter": 179
+  },
+  "type": "game"
 }

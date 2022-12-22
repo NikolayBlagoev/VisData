@@ -1,215 +1,253 @@
 {
-  "appid": 476240,
-  "name": "KNIGHTS",
-  "developer": "Arzola's",
-  "publisher": "Arzola's",
-  "tags": {
-    "Immersive Sim": 164,
-    "Puzzle": 161,
-    "Tabletop": 158,
-    "Strategy": 155,
-    "2D": 152,
-    "Chess": 146,
-    "Relaxing": 141,
-    "Procedural Generation": 135,
-    "Logic": 132,
-    "Casual": 130,
-    "Simulation": 125,
-    "Minimalist": 118,
-    "Family Friendly": 105,
-    "Tactical": 96,
-    "Atmospheric": 87,
-    "Singleplayer": 75,
-    "Indie": 62,
-    "Mouse only": 38,
-    "Mature": 29,
-    "Dark": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 476240,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 245
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 476240,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 245
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 6,
+    "2022-12-10": 3,
+    "2022-12-13": 6,
+    "2022-12-15": 6,
+    "2022-12-18": 8,
+    "2022-12-21": 7,
+    "2022-12-22": 3
+  },
+  "Completion": 21.600000381469727,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 476240,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 245
+  },
+  "Median Playtime - Forever": {
+    "app_id": 476240,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 245
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 476240,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 651,
-  "negative": 36,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/05/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/476240/header.jpg?t=1636745215",
+  "consensus_genre": "Strategy",
+  "developer": "Arzola's",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 1,
-  "Completion": 21.600000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/476240/header.jpg?t=1636745215",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "KNIGHTS",
+  "negative": 36,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 651,
+  "price": "99",
+  "publisher": "Arzola's",
+  "release_date": "2016/05/30",
+  "required_age": 0,
+  "tags": {
+    "2D": 152,
+    "Atmospheric": 87,
+    "Casual": 130,
+    "Chess": 146,
+    "Dark": 27,
+    "Family Friendly": 105,
+    "Immersive Sim": 164,
+    "Indie": 62,
+    "Logic": 132,
+    "Mature": 29,
+    "Minimalist": 118,
+    "Mouse only": 38,
+    "Procedural Generation": 135,
+    "Puzzle": 161,
+    "Relaxing": 141,
+    "Simulation": 125,
+    "Singleplayer": 75,
+    "Strategy": 155,
+    "Tabletop": 158,
+    "Tactical": 96
+  },
+  "type": "game"
 }

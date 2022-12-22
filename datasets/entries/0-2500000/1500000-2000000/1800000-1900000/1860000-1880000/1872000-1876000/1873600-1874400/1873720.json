@@ -1,29 +1,56 @@
 {
-  "appid": 1873720,
-  "name": "Return Ace",
-  "developer": "NEROTA",
-  "publisher": "NEROTA",
-  "tags": {
-    "Action": 165,
-    "Shoot 'Em Up": 160,
-    "Bullet Hell": 154,
-    "Shooter": 150,
-    "Arcade": 139,
-    "2D": 129,
-    "Pixel Graphics": 122,
-    "Top-Down": 115,
-    "1980s": 107,
-    "Sci-fi": 97,
-    "Old School": 95,
-    "Dark": 83,
-    "Retro": 70,
-    "Controller": 56,
-    "Linear": 41,
-    "Procedural Generation": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1873720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1873720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 13.100000381469727,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1873720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1873720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1873720,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -31,38 +58,49 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Thai, Turkish, Portuguese - Portugal, Polish, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1873720/header.jpg?t=1648537546",
+  "consensus_genre": "Action",
+  "developer": "NEROTA",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 13.100000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1873720/header.jpg?t=1648537546",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Thai, Turkish, Portuguese - Portugal, Polish, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+  "name": "Return Ace",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "NEROTA",
+  "release_date": "2022/03/25",
+  "required_age": 0,
+  "tags": {
+    "1980s": 107,
+    "2D": 129,
+    "Action": 165,
+    "Arcade": 139,
+    "Bullet Hell": 154,
+    "Controller": 56,
+    "Dark": 83,
+    "Indie": 21,
+    "Linear": 41,
+    "Old School": 95,
+    "Pixel Graphics": 122,
+    "Procedural Generation": 27,
+    "Retro": 70,
+    "Sci-fi": 97,
+    "Shoot 'Em Up": 160,
+    "Shooter": 150,
+    "Singleplayer": 25,
+    "Top-Down": 115
+  },
+  "type": "game"
 }

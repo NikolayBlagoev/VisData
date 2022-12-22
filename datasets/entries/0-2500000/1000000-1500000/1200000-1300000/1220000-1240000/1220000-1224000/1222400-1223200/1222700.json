@@ -1,31 +1,201 @@
 {
-  "appid": 1222700,
-  "name": "A Way Out",
-  "developer": "Hazelight",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Co-op": 406,
-    "Online Co-Op": 388,
-    "Split Screen": 316,
-    "Story Rich": 313,
-    "Local Co-Op": 269,
-    "Action-Adventure": 225,
-    "Action": 197,
-    "Adventure": 169,
-    "Third Person": 163,
-    "Crime": 161,
-    "Multiplayer": 153,
-    "Emotional": 139,
-    "Conversation": 131,
-    "Atmospheric": 105,
-    "Nudity": 76,
-    "Cinematic": 70,
-    "Sexual Content": 65,
-    "Violent": 62,
-    "Singleplayer": 40,
-    "Indie": 35
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1222700,
+    "average_2weeks": 60,
+    "average_forever": 774,
+    "median_2weeks": 60,
+    "median_forever": 336
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1222700,
+    "average_2weeks": 60,
+    "average_forever": 774,
+    "median_2weeks": 60,
+    "median_forever": 336
+  },
+  "CCU Histogram": {
+    "2022-12-08": 739,
+    "2022-12-09": 418,
+    "2022-12-10": 364,
+    "2022-12-13": 503,
+    "2022-12-15": 267,
+    "2022-12-18": 271,
+    "2022-12-21": 249,
+    "2022-12-22": 267
+  },
+  "Completion": 39.599998474121094,
+  "Down 30 Days": 68,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 12,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 8,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 7,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1222700,
+    "average_2weeks": 60,
+    "average_forever": 774,
+    "median_2weeks": 60,
+    "median_forever": 336
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1222700,
+    "average_2weeks": 60,
+    "average_forever": 774,
+    "median_2weeks": 60,
+    "median_forever": 336
+  },
+  "Meta Score": "78",
+  "Rating": "ESRB M",
+  "Up 30 Days": 377,
+  "User Score": -1,
+  "appid": 1222700,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -40,184 +210,52 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 34191,
-  "negative": 4535,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 409,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg?t=1626878628",
+  "consensus_genre": "Action",
+  "developer": "Hazelight",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "78",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 22,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 29,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 27,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 41,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 46,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 32,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 32,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 377,
-  "Down 30 Days": 68,
-  "Completion": 39.599998474121094,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg?t=1626878628",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian",
+  "name": "A Way Out",
+  "negative": 4535,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 34191,
+  "price": "2999",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/06/18",
+  "required_age": 0,
+  "tags": {
+    "Action": 197,
+    "Action-Adventure": 225,
+    "Adventure": 169,
+    "Atmospheric": 105,
+    "Cinematic": 70,
+    "Co-op": 406,
+    "Conversation": 131,
+    "Crime": 161,
+    "Emotional": 139,
+    "Indie": 35,
+    "Local Co-Op": 269,
+    "Multiplayer": 153,
+    "Nudity": 76,
+    "Online Co-Op": 388,
+    "Sexual Content": 65,
+    "Singleplayer": 40,
+    "Split Screen": 316,
+    "Story Rich": 313,
+    "Third Person": 163,
+    "Violent": 62
+  },
+  "type": "game"
 }

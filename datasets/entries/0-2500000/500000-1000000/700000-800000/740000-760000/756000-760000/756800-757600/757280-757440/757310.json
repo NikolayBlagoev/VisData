@@ -1,215 +1,253 @@
 {
-  "appid": 757310,
-  "name": "Sable",
-  "developer": "Shedworks",
-  "publisher": "Raw Fury",
-  "tags": {
-    "Exploration": 392,
-    "Open World": 384,
-    "Adventure": 377,
-    "Puzzle": 374,
-    "Story Rich": 373,
-    "3D Platformer": 363,
-    "Platformer": 358,
-    "Puzzle-Platformer": 354,
-    "Female Protagonist": 353,
-    "Stylized": 350,
-    "Relaxing": 349,
-    "Comic Book": 343,
-    "Sci-fi": 341,
-    "Singleplayer": 337,
-    "Third Person": 335,
-    "Atmospheric": 333,
-    "Lore-Rich": 326,
-    "Indie": 317,
-    "Spaceships": 166,
-    "RPG": 88
+  "Average Playtime - 2 Weeks": {
+    "app_id": 757310,
+    "average_2weeks": 0,
+    "average_forever": 519,
+    "median_2weeks": 0,
+    "median_forever": 708
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 757310,
+    "average_2weeks": 0,
+    "average_forever": 519,
+    "median_2weeks": 0,
+    "median_forever": 708
+  },
+  "CCU Histogram": {
+    "2022-12-08": 98,
+    "2022-12-09": 87,
+    "2022-12-10": 109,
+    "2022-12-13": 88,
+    "2022-12-15": 61,
+    "2022-12-18": 58,
+    "2022-12-21": 55,
+    "2022-12-22": 63
+  },
+  "Completion": 35.349998474121094,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 757310,
+    "average_2weeks": 0,
+    "average_forever": 519,
+    "median_2weeks": 0,
+    "median_forever": 708
+  },
+  "Median Playtime - Forever": {
+    "app_id": 757310,
+    "average_2weeks": 0,
+    "average_forever": 519,
+    "median_2weeks": 0,
+    "median_forever": 708
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 94,
+  "User Score": -1,
+  "appid": 757310,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2485,
-  "negative": 403,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 19,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/757310/header.jpg?t=1658922379",
+  "consensus_genre": "Adventure",
+  "developer": "Shedworks",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 94,
-  "Down 30 Days": 13,
-  "Completion": 35.349998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/757310/header.jpg?t=1658922379",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese",
+  "name": "Sable",
+  "negative": 403,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2485,
+  "price": "2499",
+  "publisher": "Raw Fury",
+  "release_date": "2021/09/23",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 363,
+    "Adventure": 377,
+    "Atmospheric": 333,
+    "Comic Book": 343,
+    "Exploration": 392,
+    "Female Protagonist": 353,
+    "Indie": 317,
+    "Lore-Rich": 326,
+    "Open World": 384,
+    "Platformer": 358,
+    "Puzzle": 374,
+    "Puzzle-Platformer": 354,
+    "RPG": 88,
+    "Relaxing": 349,
+    "Sci-fi": 341,
+    "Singleplayer": 337,
+    "Spaceships": 166,
+    "Story Rich": 373,
+    "Stylized": 350,
+    "Third Person": 335
+  },
+  "type": "game"
 }

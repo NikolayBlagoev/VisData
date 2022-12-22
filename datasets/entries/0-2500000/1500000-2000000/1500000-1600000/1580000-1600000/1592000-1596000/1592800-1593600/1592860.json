@@ -1,113 +1,151 @@
 {
-  "appid": 1592860,
-  "name": "Keezeh The Spector of Time",
-  "developer": "rabbani prottoy",
-  "publisher": "chalidus",
-  "tags": {
-    "Adventure": 194,
-    "Action RPG": 168,
-    "Action-Adventure": 165,
-    "RPG": 163,
-    "Tactical RPG": 159,
-    "Exploration": 155,
-    "Survival": 136,
-    "Realistic": 128,
-    "Sci-fi": 122,
-    "Combat": 113,
-    "3D": 102,
-    "Colorful": 99,
-    "Cinematic": 86,
-    "PvE": 73,
-    "Singleplayer": 58,
-    "3D Platformer": 40,
-    "Mystery": 26,
-    "Artificial Intelligence": 23,
-    "Action": 22,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1592860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1592860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1592860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1592860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1592860,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1592860/header.jpg?t=1642689637",
+  "consensus_genre": "Adventure",
+  "developer": "rabbani prottoy",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1592860/header.jpg?t=1642689637",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Keezeh The Spector of Time",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "299",
+  "publisher": "chalidus",
+  "release_date": "2021/05/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 102,
+    "3D Platformer": 40,
+    "Action": 22,
+    "Action RPG": 168,
+    "Action-Adventure": 165,
+    "Adventure": 194,
+    "Artificial Intelligence": 23,
+    "Cinematic": 86,
+    "Colorful": 99,
+    "Combat": 113,
+    "Exploration": 155,
+    "Indie": 21,
+    "Mystery": 26,
+    "PvE": 73,
+    "RPG": 163,
+    "Realistic": 128,
+    "Sci-fi": 122,
+    "Singleplayer": 58,
+    "Survival": 136,
+    "Tactical RPG": 159
+  },
+  "type": "game"
 }

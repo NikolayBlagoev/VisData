@@ -1,69 +1,107 @@
 {
-  "appid": 1556740,
-  "name": "Oplitak",
-  "developer": "SkillNest",
-  "publisher": "SkillNest",
-  "tags": {
-    "Side Scroller": 172,
-    "Difficult": 167,
-    "2D Platformer": 164,
-    "Shooter": 160,
-    "Platformer": 158,
-    "Action-Adventure": 147,
-    "2D": 146,
-    "Funny": 143,
-    "Submarine": 141,
-    "Story Rich": 138,
-    "Action": 133,
-    "Nonlinear": 126,
-    "Cartoony": 124,
-    "Hand-drawn": 121,
-    "Shoot 'Em Up": 121,
-    "Sci-fi": 118,
-    "Fantasy": 107,
-    "Family Friendly": 92,
-    "Comedy": 81,
-    "Adventure": 75
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1556740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1556740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 56.400001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1556740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1556740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1556740,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1899",
-  "initialprice": "1899",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556740/header.jpg?t=1668153086",
+  "consensus_genre": "Action",
+  "developer": "SkillNest",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 56.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556740/header.jpg?t=1668153086",
+  "initialprice": "1899",
+  "languages": "English, Spanish - Latin America",
+  "name": "Oplitak",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1899",
+  "publisher": "SkillNest",
+  "release_date": "2022/02/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 146,
+    "2D Platformer": 164,
+    "Action": 133,
+    "Action-Adventure": 147,
+    "Adventure": 75,
+    "Cartoony": 124,
+    "Comedy": 81,
+    "Difficult": 167,
+    "Family Friendly": 92,
+    "Fantasy": 107,
+    "Funny": 143,
+    "Hand-drawn": 121,
+    "Nonlinear": 126,
+    "Platformer": 158,
+    "Sci-fi": 118,
+    "Shoot 'Em Up": 121,
+    "Shooter": 160,
+    "Side Scroller": 172,
+    "Story Rich": 138,
+    "Submarine": 141
+  },
+  "type": "game"
 }

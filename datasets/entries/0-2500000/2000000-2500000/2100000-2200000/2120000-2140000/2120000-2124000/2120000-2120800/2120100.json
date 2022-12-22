@@ -1,61 +1,99 @@
 {
-  "appid": 2120100,
-  "name": "Top Fun 10 VR",
-  "developer": "Top Fun Gaming Inc.",
-  "publisher": "Top Fun Gaming Inc.",
-  "tags": {
-    "Action": 69,
-    "Action RPG": 43,
-    "Action-Adventure": 40,
-    "Shooter": 37,
-    "Exploration": 34,
-    "VR": 29,
-    "Zombies": 26,
-    "Combat": 24,
-    "Hack and Slash": 22,
-    "Adventure": 21,
-    "Nudity": 21,
-    "Violent": 21,
-    "Open World": 20,
-    "Multiplayer": 18,
-    "Singleplayer": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2120100,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2120100,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2120100,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2120100,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2120100,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/10",
-  "required_age": "21+",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2120100/header.jpg?t=1667998199",
+  "consensus_genre": "Action",
+  "developer": "Top Fun Gaming Inc.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2120100/header.jpg?t=1667998199",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Top Fun 10 VR",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Top Fun Gaming Inc.",
+  "release_date": "2022/09/10",
+  "required_age": "21+",
+  "tags": {
+    "Action": 69,
+    "Action RPG": 43,
+    "Action-Adventure": 40,
+    "Adventure": 21,
+    "Combat": 24,
+    "Exploration": 34,
+    "Hack and Slash": 22,
+    "Multiplayer": 18,
+    "Nudity": 21,
+    "Open World": 20,
+    "Shooter": 37,
+    "Singleplayer": 16,
+    "VR": 29,
+    "Violent": 21,
+    "Zombies": 26
+  },
+  "type": "game"
 }

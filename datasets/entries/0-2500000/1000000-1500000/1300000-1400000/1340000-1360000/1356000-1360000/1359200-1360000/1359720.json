@@ -1,30 +1,56 @@
 {
-  "appid": 1359720,
-  "name": "Turbo Machines Mini Racing",
-  "developer": "Pix Arts",
-  "publisher": "Pix Arts",
-  "tags": {
-    "Racing": 215,
-    "Driving": 188,
-    "e-sports": 184,
-    "Combat Racing": 179,
-    "Split Screen": 173,
-    "Multiplayer": 163,
-    "4 Player Local": 156,
-    "Local Multiplayer": 148,
-    "Physics": 140,
-    "PvP": 131,
-    "3D": 120,
-    "Arcade": 119,
-    "First-Person": 105,
-    "Isometric": 91,
-    "Modern": 76,
-    "Motorbike": 60,
-    "Realistic": 43,
-    "Singleplayer": 27,
-    "Artificial Intelligence": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1359720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1359720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1359720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1359720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1359720,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,37 +60,49 @@
     "Shared/Split Screen PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/07/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1359720/header.jpg?t=1601258015",
+  "consensus_genre": "Racing",
+  "developer": "Pix Arts",
+  "discount": "0",
   "genre": [
     "Racing"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1359720/header.jpg?t=1601258015",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Turbo Machines Mini Racing",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "399",
+  "publisher": "Pix Arts",
+  "release_date": "2020/07/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 120,
+    "4 Player Local": 156,
+    "Arcade": 119,
+    "Artificial Intelligence": 25,
+    "Combat Racing": 179,
+    "Driving": 188,
+    "First-Person": 105,
+    "Isometric": 91,
+    "Local Multiplayer": 148,
+    "Modern": 76,
+    "Motorbike": 60,
+    "Multiplayer": 163,
+    "Physics": 140,
+    "PvP": 131,
+    "Racing": 215,
+    "Realistic": 43,
+    "Singleplayer": 27,
+    "Split Screen": 173,
+    "e-sports": 184
+  },
+  "type": "game"
 }

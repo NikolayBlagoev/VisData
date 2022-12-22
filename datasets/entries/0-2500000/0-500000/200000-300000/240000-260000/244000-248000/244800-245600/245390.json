@@ -1,212 +1,250 @@
 {
-  "appid": 245390,
-  "name": "I Have No Mouth, and I Must Scream",
-  "developer": "Cyberdreams",
-  "publisher": "Nightdive Studios",
-  "tags": {
-    "Point & Click": 207,
-    "Adventure": 173,
-    "Horror": 112,
-    "Classic": 104,
-    "Retro": 91,
-    "Based On A Novel": 79,
-    "Story Rich": 67,
-    "Cult Classic": 64,
-    "Singleplayer": 62,
-    "1990's": 59,
-    "Dark": 53,
-    "2D": 44,
-    "Post-apocalyptic": 43,
-    "Psychological Horror": 42,
-    "Surreal": 39,
-    "Great Soundtrack": 38,
-    "Puzzle": 35,
-    "Funny": 31,
-    "Cyberpunk": 29,
-    "Sci-fi": 29
+  "Average Playtime - 2 Weeks": {
+    "app_id": 245390,
+    "average_2weeks": 0,
+    "average_forever": 129,
+    "median_2weeks": 0,
+    "median_forever": 144
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 245390,
+    "average_2weeks": 0,
+    "average_forever": 129,
+    "median_2weeks": 0,
+    "median_forever": 144
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 3,
+    "2022-12-10": 4,
+    "2022-12-13": 5,
+    "2022-12-15": 4,
+    "2022-12-18": 3,
+    "2022-12-21": 4,
+    "2022-12-22": 5
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 245390,
+    "average_2weeks": 0,
+    "average_forever": 129,
+    "median_2weeks": 0,
+    "median_forever": 144
+  },
+  "Median Playtime - Forever": {
+    "app_id": 245390,
+    "average_2weeks": 0,
+    "average_forever": 129,
+    "median_2weeks": 0,
+    "median_forever": 144
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 245390,
   "categories": [
     "Single-player",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 1279,
-  "negative": 163,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 7,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2013/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245390/header.jpg?t=1569522451",
+  "consensus_genre": "Adventure",
+  "developer": "Cyberdreams",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/245390/header.jpg?t=1569522451",
+  "initialprice": "599",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "I Have No Mouth, and I Must Scream",
+  "negative": 163,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1279,
+  "price": "599",
+  "publisher": "Nightdive Studios",
+  "release_date": "2013/10/17",
+  "required_age": 0,
+  "tags": {
+    "1990's": 59,
+    "2D": 44,
+    "Adventure": 173,
+    "Based On A Novel": 79,
+    "Classic": 104,
+    "Cult Classic": 64,
+    "Cyberpunk": 29,
+    "Dark": 53,
+    "Funny": 31,
+    "Great Soundtrack": 38,
+    "Horror": 112,
+    "Point & Click": 207,
+    "Post-apocalyptic": 43,
+    "Psychological Horror": 42,
+    "Puzzle": 35,
+    "Retro": 91,
+    "Sci-fi": 29,
+    "Singleplayer": 62,
+    "Story Rich": 67,
+    "Surreal": 39
+  },
+  "type": "game"
 }

@@ -1,94 +1,132 @@
 {
-  "appid": 1564240,
-  "name": "Gob",
-  "developer": "Terrence Donnelly",
-  "publisher": "Peek",
-  "tags": {
-    "Adventure": 127,
-    "Platformer": 122,
-    "Difficult": 120,
-    "2D Platformer": 117,
-    "2D": 113,
-    "Colorful": 107,
-    "Cute": 106,
-    "Pixel Graphics": 104,
-    "Old School": 101,
-    "Retro": 94,
-    "Action": 89,
-    "Drama": 81,
-    "Indie": 73,
-    "Linear": 66,
-    "Singleplayer": 54,
-    "Action-Adventure": 40,
-    "Arcade": 39,
-    "Precision Platformer": 37,
-    "Runner": 34,
-    "Side Scroller": 33
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1564240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1564240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1564240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1564240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1564240,
   "categories": [
     "Single-player",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 5,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/05/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1564240/header.jpg?t=1620342597",
+  "consensus_genre": "Adventure",
+  "developer": "Terrence Donnelly",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1564240/header.jpg?t=1620342597",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Gob",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5,
+  "price": "99",
+  "publisher": "Peek",
+  "release_date": "2021/05/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 113,
+    "2D Platformer": 117,
+    "Action": 89,
+    "Action-Adventure": 40,
+    "Adventure": 127,
+    "Arcade": 39,
+    "Colorful": 107,
+    "Cute": 106,
+    "Difficult": 120,
+    "Drama": 81,
+    "Indie": 73,
+    "Linear": 66,
+    "Old School": 101,
+    "Pixel Graphics": 104,
+    "Platformer": 122,
+    "Precision Platformer": 37,
+    "Retro": 94,
+    "Runner": 34,
+    "Side Scroller": 33,
+    "Singleplayer": 54
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 99900,
-  "name": "Spiral Knights",
-  "developer": "Grey Havens",
-  "publisher": "Grey Havens",
-  "tags": {
-    "Free to Play": 1167,
-    "Massively Multiplayer": 644,
-    "RPG": 619,
-    "Adventure": 608,
-    "Action": 536,
-    "Multiplayer": 526,
-    "Online Co-Op": 511,
-    "Dungeon Crawler": 420,
-    "Hack and Slash": 338,
-    "Co-op": 319,
-    "MMORPG": 316,
-    "Cute": 257,
-    "Great Soundtrack": 211,
-    "Action RPG": 203,
-    "Sci-fi": 180,
-    "Open World": 176,
-    "Casual": 164,
-    "Singleplayer": 150,
-    "Indie": 136,
-    "Anime": 77
+  "Average Playtime - 2 Weeks": {
+    "app_id": 99900,
+    "average_2weeks": 0,
+    "average_forever": 1004,
+    "median_2weeks": 0,
+    "median_forever": 83
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 99900,
+    "average_2weeks": 0,
+    "average_forever": 1004,
+    "median_2weeks": 0,
+    "median_forever": 83
+  },
+  "CCU Histogram": {
+    "2022-12-08": 143,
+    "2022-12-09": 139,
+    "2022-12-10": 125,
+    "2022-12-13": 151,
+    "2022-12-15": 139,
+    "2022-12-18": 164,
+    "2022-12-21": 140,
+    "2022-12-22": 142
+  },
+  "Completion": 27.899999618530273,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 99900,
+    "average_2weeks": 0,
+    "average_forever": 1004,
+    "median_2weeks": 0,
+    "median_forever": 83
+  },
+  "Median Playtime - Forever": {
+    "app_id": 99900,
+    "average_2weeks": 0,
+    "average_forever": 1004,
+    "median_2weeks": 0,
+    "median_forever": 83
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 62,
+  "User Score": -1,
+  "appid": 99900,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,22 +206,10 @@
     "Steam Trading Cards",
     "In-App Purchases"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 19034,
-  "negative": 3636,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 142,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2011/06/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/99900/header.jpg?t=1654611466",
+  "consensus_genre": "Free to Play",
+  "developer": "Grey Havens",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -61,163 +219,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 62,
-  "Down 30 Days": 13,
-  "Completion": 27.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/99900/header.jpg?t=1654611466",
+  "initialprice": "0",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "Spiral Knights",
+  "negative": 3636,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 19034,
+  "price": "0",
+  "publisher": "Grey Havens",
+  "release_date": "2011/06/14",
+  "required_age": 0,
+  "tags": {
+    "Action": 536,
+    "Action RPG": 203,
+    "Adventure": 608,
+    "Anime": 77,
+    "Casual": 164,
+    "Co-op": 319,
+    "Cute": 257,
+    "Dungeon Crawler": 420,
+    "Free to Play": 1167,
+    "Great Soundtrack": 211,
+    "Hack and Slash": 338,
+    "Indie": 136,
+    "MMORPG": 316,
+    "Massively Multiplayer": 644,
+    "Multiplayer": 526,
+    "Online Co-Op": 511,
+    "Open World": 176,
+    "RPG": 619,
+    "Sci-fi": 180,
+    "Singleplayer": 150
+  },
+  "type": "game"
 }

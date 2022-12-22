@@ -1,69 +1,107 @@
 {
-  "appid": 1614030,
-  "name": "Electrogene",
-  "developer": "ElvGames",
-  "publisher": "ElvGames",
-  "tags": {
-    "Adventure": 158,
-    "2D": 152,
-    "Pixel Graphics": 149,
-    "Dungeon Crawler": 146,
-    "Fantasy": 143,
-    "Indie": 137,
-    "Casual": 133,
-    "Singleplayer": 129,
-    "Platformer": 127,
-    "2D Platformer": 125,
-    "Atmospheric": 121,
-    "Dark": 119,
-    "Family Friendly": 114,
-    "Funny": 107,
-    "Controller": 104,
-    "Linear": 102,
-    "Puzzle": 99,
-    "Puzzle-Platformer": 95,
-    "Action": 91,
-    "RPG": 83
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1614030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1614030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 21.850000381469727,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1614030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1614030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1614030,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1614030/header.jpg?t=1646921220",
+  "consensus_genre": "Adventure",
+  "developer": "ElvGames",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 21.850000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1614030/header.jpg?t=1646921220",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Electrogene",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "599",
+  "publisher": "ElvGames",
+  "release_date": "2022/03/10",
+  "required_age": 0,
+  "tags": {
+    "2D": 152,
+    "2D Platformer": 125,
+    "Action": 91,
+    "Adventure": 158,
+    "Atmospheric": 121,
+    "Casual": 133,
+    "Controller": 104,
+    "Dark": 119,
+    "Dungeon Crawler": 146,
+    "Family Friendly": 114,
+    "Fantasy": 143,
+    "Funny": 107,
+    "Indie": 137,
+    "Linear": 102,
+    "Pixel Graphics": 149,
+    "Platformer": 127,
+    "Puzzle": 99,
+    "Puzzle-Platformer": 95,
+    "RPG": 83,
+    "Singleplayer": 129
+  },
+  "type": "game"
 }

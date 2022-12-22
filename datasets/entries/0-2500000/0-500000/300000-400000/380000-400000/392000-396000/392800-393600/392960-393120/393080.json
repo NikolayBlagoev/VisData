@@ -1,31 +1,201 @@
 {
-  "appid": 393080,
-  "name": "Call of Duty: Modern Warfare Remastered",
-  "developer": "Raven Software, Beenox",
-  "publisher": "Activision",
-  "tags": {
-    "FPS": 229,
-    "Action": 172,
-    "Multiplayer": 167,
-    "Singleplayer": 166,
-    "Shooter": 162,
-    "War": 148,
-    "Military": 123,
-    "First-Person": 122,
-    "Violent": 83,
-    "Controller": 80,
-    "Remake": 59,
-    "Story Rich": 55,
-    "Co-op": 37,
-    "Classic": 36,
-    "Stealth": 25,
-    "Casual": 23,
-    "Gore": 21,
-    "World War II": 16,
-    "Zombies": 14,
-    "Atmospheric": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 393080,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 247
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 393080,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "CCU Histogram": {
+    "2022-12-08": 150,
+    "2022-12-09": 140,
+    "2022-12-10": 90,
+    "2022-12-13": 144,
+    "2022-12-15": 96,
+    "2022-12-18": 106,
+    "2022-12-21": 85,
+    "2022-12-22": 88
+  },
+  "Completion": 49.599998474121094,
+  "Down 30 Days": 63,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 5,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 8,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 6,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 393080,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "Median Playtime - Forever": {
+    "app_id": 393080,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 156,
+  "User Score": -1,
+  "appid": 393080,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,182 +205,50 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4695,
-  "negative": 2560,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 213,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/07/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/393080/header.jpg?t=1646764590",
+  "consensus_genre": "Action",
+  "developer": "Raven Software, Beenox",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 11,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 11,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 156,
-  "Down 30 Days": 63,
-  "Completion": 49.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/393080/header.jpg?t=1646764590",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Call of Duty: Modern Warfare Remastered",
+  "negative": 2560,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4695,
+  "price": "3999",
+  "publisher": "Activision",
+  "release_date": "2017/07/27",
+  "required_age": 0,
+  "tags": {
+    "Action": 172,
+    "Atmospheric": 7,
+    "Casual": 23,
+    "Classic": 36,
+    "Co-op": 37,
+    "Controller": 80,
+    "FPS": 229,
+    "First-Person": 122,
+    "Gore": 21,
+    "Military": 123,
+    "Multiplayer": 167,
+    "Remake": 59,
+    "Shooter": 162,
+    "Singleplayer": 166,
+    "Stealth": 25,
+    "Story Rich": 55,
+    "Violent": 83,
+    "War": 148,
+    "World War II": 16,
+    "Zombies": 14
+  },
+  "type": "game"
 }

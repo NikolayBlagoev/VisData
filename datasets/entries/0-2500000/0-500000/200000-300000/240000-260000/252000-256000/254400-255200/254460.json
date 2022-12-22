@@ -1,28 +1,201 @@
 {
-  "appid": 254460,
-  "name": "Obscure",
-  "developer": "Hydravision Entertainment",
-  "publisher": "Mighty Rocket Studio",
-  "tags": {
-    "Horror": 135,
-    "Survival Horror": 107,
-    "Local Co-Op": 83,
-    "Action": 72,
-    "Adventure": 66,
-    "Co-op": 55,
-    "Third Person": 49,
-    "Atmospheric": 40,
-    "Classic": 40,
-    "Singleplayer": 35,
-    "Survival": 34,
-    "Gore": 21,
-    "Great Soundtrack": 20,
-    "Zombies": 18,
-    "Multiplayer": 16,
-    "Female Protagonist": 14,
-    "Co-op Campaign": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 254460,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 145
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 254460,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 145
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 9,
+    "2022-12-10": 11,
+    "2022-12-13": 9,
+    "2022-12-15": 7,
+    "2022-12-18": 7,
+    "2022-12-21": 11,
+    "2022-12-22": 6
+  },
+  "Completion": 65.29999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 254460,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 145
+  },
+  "Median Playtime - Forever": {
+    "app_id": 254460,
+    "average_2weeks": 0,
+    "average_forever": 179,
+    "median_2weeks": 0,
+    "median_forever": 145
+  },
+  "Meta Score": "63",
+  "Rating": "ESRB M",
+  "Up 30 Days": 27,
+  "User Score": -1,
+  "appid": 254460,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -32,183 +205,48 @@
     "Shared/Split Screen",
     "Remote Play Together"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1641,
-  "negative": 83,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 13,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/03/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/254460/header.jpg?t=1447358758",
+  "consensus_genre": "Action",
+  "developer": "Hydravision Entertainment",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "63",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 27,
-  "Down 30 Days": 0,
-  "Completion": 65.29999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/254460/header.jpg?t=1447358758",
+  "initialprice": "699",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Obscure",
+  "negative": 83,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1641,
+  "price": "699",
+  "publisher": "Mighty Rocket Studio",
+  "release_date": "2014/03/10",
+  "required_age": 0,
+  "tags": {
+    "Action": 72,
+    "Adventure": 66,
+    "Atmospheric": 40,
+    "Classic": 40,
+    "Co-op": 55,
+    "Co-op Campaign": 11,
+    "Female Protagonist": 14,
+    "Gore": 21,
+    "Great Soundtrack": 20,
+    "Horror": 135,
+    "Local Co-Op": 83,
+    "Multiplayer": 16,
+    "Singleplayer": 35,
+    "Survival": 34,
+    "Survival Horror": 107,
+    "Third Person": 49,
+    "Zombies": 18
+  },
+  "type": "game"
 }

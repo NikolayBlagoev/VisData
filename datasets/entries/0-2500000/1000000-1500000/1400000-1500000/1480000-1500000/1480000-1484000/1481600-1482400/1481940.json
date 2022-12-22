@@ -1,70 +1,108 @@
 {
-  "appid": 1481940,
-  "name": "Medium: The Psychic Party Game",
-  "developer": "Unboxed Games LLC, Oh My Games",
-  "publisher": "Unboxed Games LLC",
-  "tags": {
-    "Casual": 214,
-    "Strategy": 208,
-    "Board Game": 184,
-    "Card Game": 179,
-    "Trivia": 173,
-    "Grand Strategy": 162,
-    "Spelling": 156,
-    "Trading Card Game": 148,
-    "Typing": 140,
-    "2D": 131,
-    "Cartoon": 120,
-    "Colorful": 118,
-    "Comic Book": 105,
-    "Minimalist": 91,
-    "Text-Based": 76,
-    "Multiplayer": 60,
-    "Singleplayer": 43,
-    "Party": 27,
-    "Party Game": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1481940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1481940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1481940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1481940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1481940,
   "categories": [
     "Multi-player",
     "Single-player",
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/08/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1481940/header.jpg?t=1627925772",
+  "consensus_genre": "Casual",
+  "developer": "Unboxed Games LLC, Oh My Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1481940/header.jpg?t=1627925772",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Medium: The Psychic Party Game",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "Unboxed Games LLC",
+  "release_date": "2021/08/2",
+  "required_age": 0,
+  "tags": {
+    "2D": 131,
+    "Board Game": 184,
+    "Card Game": 179,
+    "Cartoon": 120,
+    "Casual": 214,
+    "Colorful": 118,
+    "Comic Book": 105,
+    "Grand Strategy": 162,
+    "Indie": 21,
+    "Minimalist": 91,
+    "Multiplayer": 60,
+    "Party": 27,
+    "Party Game": 25,
+    "Singleplayer": 43,
+    "Spelling": 156,
+    "Strategy": 208,
+    "Text-Based": 76,
+    "Trading Card Game": 148,
+    "Trivia": 173,
+    "Typing": 140
+  },
+  "type": "game"
 }

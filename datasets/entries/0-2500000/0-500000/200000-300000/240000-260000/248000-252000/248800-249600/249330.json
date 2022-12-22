@@ -1,215 +1,253 @@
 {
-  "appid": 249330,
-  "name": "Unholy Heights",
-  "developer": "Petit Depotto",
-  "publisher": "PLAYISM",
-  "tags": {
-    "Immersive Sim": 300,
-    "Creature Collector": 296,
-    "Tower Defense": 291,
-    "City Builder": 287,
-    "Auto Battler": 284,
-    "Management": 275,
-    "Building": 273,
-    "Real-Time": 270,
-    "RTS": 266,
-    "Strategy": 262,
-    "2D": 254,
-    "Cute": 253,
-    "Dark Humor": 245,
-    "Funny": 242,
-    "Casual": 237,
-    "Simulation": 234,
-    "Hand-drawn": 222,
-    "Cartoony": 220,
-    "Zombies": 186,
-    "Lovecraftian": 184
+  "Average Playtime - 2 Weeks": {
+    "app_id": 249330,
+    "average_2weeks": 0,
+    "average_forever": 496,
+    "median_2weeks": 0,
+    "median_forever": 230
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 249330,
+    "average_2weeks": 0,
+    "average_forever": 496,
+    "median_2weeks": 0,
+    "median_forever": 230
+  },
+  "CCU Histogram": {
+    "2022-12-08": 15,
+    "2022-12-09": 9,
+    "2022-12-10": 5,
+    "2022-12-13": 9,
+    "2022-12-15": 5,
+    "2022-12-18": 4,
+    "2022-12-21": 6,
+    "2022-12-22": 7
+  },
+  "Completion": 48.29999923706055,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 249330,
+    "average_2weeks": 0,
+    "average_forever": 496,
+    "median_2weeks": 0,
+    "median_forever": 230
+  },
+  "Median Playtime - Forever": {
+    "app_id": 249330,
+    "average_2weeks": 0,
+    "average_forever": 496,
+    "median_2weeks": 0,
+    "median_forever": 230
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 6,
+  "User Score": -1,
+  "appid": 249330,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards",
     "Steam Trading Cards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1314,
-  "negative": 161,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 8,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2013/10/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/249330/header.jpg?t=1646219394",
+  "consensus_genre": "Strategy",
+  "developer": "Petit Depotto",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 6,
-  "Down 30 Days": 1,
-  "Completion": 48.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/249330/header.jpg?t=1646219394",
+  "initialprice": "399",
+  "languages": "English, Japanese",
+  "name": "Unholy Heights",
+  "negative": 161,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1314,
+  "price": "399",
+  "publisher": "PLAYISM",
+  "release_date": "2013/10/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 254,
+    "Auto Battler": 284,
+    "Building": 273,
+    "Cartoony": 220,
+    "Casual": 237,
+    "City Builder": 287,
+    "Creature Collector": 296,
+    "Cute": 253,
+    "Dark Humor": 245,
+    "Funny": 242,
+    "Hand-drawn": 222,
+    "Immersive Sim": 300,
+    "Lovecraftian": 184,
+    "Management": 275,
+    "RTS": 266,
+    "Real-Time": 270,
+    "Simulation": 234,
+    "Strategy": 262,
+    "Tower Defense": 291,
+    "Zombies": 186
+  },
+  "type": "game"
 }

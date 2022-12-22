@@ -1,29 +1,91 @@
 {
-  "appid": 826470,
-  "name": "Nummels",
-  "developer": "Plattnip",
-  "publisher": "Plattnip",
-  "tags": {
-    "Action": 105,
-    "Platformer": 94,
-    "2D": 89,
-    "Puzzle": 82,
-    "2D Platformer": 79,
-    "Puzzle-Platformer": 73,
-    "Lemmings": 71,
-    "Side Scroller": 69,
-    "Precision Platformer": 67,
-    "Cute": 65,
-    "Funny": 63,
-    "Controller": 61,
-    "Colorful": 59,
-    "Cartoony": 57,
-    "Score Attack": 55,
-    "Retro": 53,
-    "Character Customization": 51,
-    "Singleplayer": 49
+  "Average Playtime - 2 Weeks": {
+    "app_id": 826470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 826470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 3,
+    "2022-12-10": 3,
+    "2022-12-13": 3,
+    "2022-12-15": 3,
+    "2022-12-18": 3,
+    "2022-12-21": 3,
+    "2022-12-22": 3
+  },
+  "Completion": 60.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 826470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 826470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 826470,
   "categories": [
     "Single-player",
     "Stats",
@@ -32,73 +94,49 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 14,
-  "negative": 0,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English, Spanish - Spain, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/06/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/826470/header.jpg?t=1655911391",
+  "consensus_genre": "Action",
+  "developer": "Plattnip",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": 60.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/826470/header.jpg?t=1655911391",
+  "initialprice": "1299",
+  "languages": "English, Spanish - Spain, Russian, Simplified Chinese",
+  "name": "Nummels",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14,
+  "price": "1299",
+  "publisher": "Plattnip",
+  "release_date": "2022/06/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 89,
+    "2D Platformer": 79,
+    "Action": 105,
+    "Cartoony": 57,
+    "Character Customization": 51,
+    "Colorful": 59,
+    "Controller": 61,
+    "Cute": 65,
+    "Funny": 63,
+    "Lemmings": 71,
+    "Platformer": 94,
+    "Precision Platformer": 67,
+    "Puzzle": 82,
+    "Puzzle-Platformer": 73,
+    "Retro": 53,
+    "Score Attack": 55,
+    "Side Scroller": 69,
+    "Singleplayer": 49
+  },
+  "type": "game"
 }

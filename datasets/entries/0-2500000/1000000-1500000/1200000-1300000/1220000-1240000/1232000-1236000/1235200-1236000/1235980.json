@@ -1,31 +1,61 @@
 {
-  "appid": 1235980,
-  "name": "Nice Try!",
-  "developer": "Roman Shuvalov",
-  "publisher": "Roman Shuvalov",
-  "tags": {
-    "Casual": 109,
-    "Indie": 103,
-    "Difficult": 100,
-    "Funny": 96,
-    "Arcade": 90,
-    "Puzzle": 82,
-    "Top-Down": 78,
-    "Driving": 76,
-    "Singleplayer": 73,
-    "Isometric": 71,
-    "Minimalist": 69,
-    "Physics": 66,
-    "PvP": 59,
-    "Linear": 57,
-    "3D Platformer": 55,
-    "Local Co-Op": 53,
-    "Local Multiplayer": 51,
-    "4 Player Local": 49,
-    "Racing": 47,
-    "Massively Multiplayer": 45
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1235980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1235980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 23.199999809265137,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1235980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1235980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1235980,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,45 +70,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2020/02/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1235980/header.jpg?t=1667158121",
+  "consensus_genre": "Casual",
+  "developer": "Roman Shuvalov",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Massively Multiplayer",
     "Racing"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 23.199999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1235980/header.jpg?t=1667158121",
+  "initialprice": "199",
+  "languages": "English, Russian, French, Italian, German, Spanish - Spain",
+  "name": "Nice Try!",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "Roman Shuvalov",
+  "release_date": "2020/02/12",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 55,
+    "4 Player Local": 49,
+    "Arcade": 90,
+    "Casual": 109,
+    "Difficult": 100,
+    "Driving": 76,
+    "Funny": 96,
+    "Indie": 103,
+    "Isometric": 71,
+    "Linear": 57,
+    "Local Co-Op": 53,
+    "Local Multiplayer": 51,
+    "Massively Multiplayer": 45,
+    "Minimalist": 69,
+    "Physics": 66,
+    "Puzzle": 82,
+    "PvP": 59,
+    "Racing": 47,
+    "Singleplayer": 73,
+    "Top-Down": 78
+  },
+  "type": "game"
 }

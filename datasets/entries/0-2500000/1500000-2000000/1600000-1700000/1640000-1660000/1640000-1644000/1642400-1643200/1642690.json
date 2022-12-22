@@ -1,66 +1,104 @@
 {
-  "appid": 1642690,
-  "name": "DREAMWORLD",
-  "developer": "NG STUDIO",
-  "publisher": "NG STUDIO",
-  "tags": {
-    "Cartoony": 168,
-    "2D Platformer": 162,
-    "Female Protagonist": 159,
-    "2D": 156,
-    "Linear": 153,
-    "Colorful": 146,
-    "Fantasy": 143,
-    "Platformer": 141,
-    "Atmospheric": 138,
-    "Adventure": 131,
-    "Singleplayer": 121,
-    "Anime": 119,
-    "Logic": 114,
-    "Magic": 112,
-    "Nature": 110,
-    "Indie": 102,
-    "Cute": 92,
-    "Stylized": 89,
-    "Story Rich": 78,
-    "Drama": 76
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1642690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1642690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 75.30000305175781,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1642690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1642690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1642690,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1642690/header.jpg?t=1666012810",
+  "consensus_genre": "Indie",
+  "developer": "NG STUDIO",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 75.30000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1642690/header.jpg?t=1666012810",
+  "initialprice": "0",
+  "languages": "English, French, Spanish - Spain",
+  "name": "DREAMWORLD",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "NG STUDIO",
+  "release_date": "2021/06/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 156,
+    "2D Platformer": 162,
+    "Adventure": 131,
+    "Anime": 119,
+    "Atmospheric": 138,
+    "Cartoony": 168,
+    "Colorful": 146,
+    "Cute": 92,
+    "Drama": 76,
+    "Fantasy": 143,
+    "Female Protagonist": 159,
+    "Indie": 102,
+    "Linear": 153,
+    "Logic": 114,
+    "Magic": 112,
+    "Nature": 110,
+    "Platformer": 141,
+    "Singleplayer": 121,
+    "Story Rich": 78,
+    "Stylized": 89
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1250,
-  "name": "Killing Floor",
-  "developer": "Tripwire Interactive",
-  "publisher": "Tripwire Interactive",
-  "tags": {
-    "FPS": 1630,
-    "Zombies": 1603,
-    "Co-op": 1494,
-    "Survival": 1175,
-    "Horror": 1036,
-    "Action": 1020,
-    "Multiplayer": 1008,
-    "Online Co-Op": 909,
-    "Gore": 775,
-    "Shooter": 736,
-    "Team-Based": 539,
-    "First-Person": 472,
-    "Survival Horror": 374,
-    "Moddable": 338,
-    "Great Soundtrack": 269,
-    "Class-Based": 225,
-    "Singleplayer": 215,
-    "Difficult": 214,
-    "Comedy": 144,
-    "Adventure": 138
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1250,
+    "average_2weeks": 0,
+    "average_forever": 1790,
+    "median_2weeks": 0,
+    "median_forever": 315
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1250,
+    "average_2weeks": 0,
+    "average_forever": 1790,
+    "median_2weeks": 0,
+    "median_forever": 315
+  },
+  "CCU Histogram": {
+    "2022-12-08": 224,
+    "2022-12-09": 315,
+    "2022-12-10": 308,
+    "2022-12-13": 305,
+    "2022-12-15": 326,
+    "2022-12-18": 335,
+    "2022-12-21": 321,
+    "2022-12-22": 377
+  },
+  "Completion": 39.10000038146973,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1250,
+    "average_2weeks": 0,
+    "average_forever": 1790,
+    "median_2weeks": 0,
+    "median_forever": 315
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1250,
+    "average_2weeks": 0,
+    "average_forever": 1790,
+    "median_2weeks": 0,
+    "median_forever": 315
+  },
+  "Meta Score": "72",
+  "Rating": "ESRB M",
+  "Up 30 Days": 91,
+  "User Score": -1,
+  "appid": 1250,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,182 +208,50 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 60670,
-  "negative": 3219,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 285,
-  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2009/05/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg?t=1667930433",
+  "consensus_genre": "Action",
+  "developer": "Tripwire Interactive",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "72",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 91,
-  "Down 30 Days": 3,
-  "Completion": 39.10000038146973,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg?t=1667930433",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Russian",
+  "name": "Killing Floor",
+  "negative": 3219,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 60670,
+  "price": "1999",
+  "publisher": "Tripwire Interactive",
+  "release_date": "2009/05/14",
+  "required_age": 0,
+  "tags": {
+    "Action": 1020,
+    "Adventure": 138,
+    "Class-Based": 225,
+    "Co-op": 1494,
+    "Comedy": 144,
+    "Difficult": 214,
+    "FPS": 1630,
+    "First-Person": 472,
+    "Gore": 775,
+    "Great Soundtrack": 269,
+    "Horror": 1036,
+    "Moddable": 338,
+    "Multiplayer": 1008,
+    "Online Co-Op": 909,
+    "Shooter": 736,
+    "Singleplayer": 215,
+    "Survival": 1175,
+    "Survival Horror": 374,
+    "Team-Based": 539,
+    "Zombies": 1603
+  },
+  "type": "game"
 }

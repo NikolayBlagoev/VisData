@@ -1,71 +1,109 @@
 {
-  "appid": 1397060,
-  "name": "Little Brother's Turn",
-  "developer": "Mindmill Studios",
-  "publisher": "Mindmill Studios",
-  "tags": {
-    "Casual": 233,
-    "Arcade": 207,
-    "Platformer": 202,
-    "2D Platformer": 198,
-    "Precision Platformer": 191,
-    "2D": 181,
-    "Cartoon": 175,
-    "Cartoony": 167,
-    "Colorful": 157,
-    "Cute": 148,
-    "Hand-drawn": 139,
-    "Stylized": 126,
-    "1990's": 123,
-    "Comedy": 110,
-    "Dark Humor": 95,
-    "Funny": 80,
-    "Old School": 62,
-    "Procedural Generation": 44,
-    "Score Attack": 28,
-    "Singleplayer": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1397060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1397060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1397060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1397060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 7,
+  "User Score": -1,
+  "appid": 1397060,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 9,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/01/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1397060/header.jpg?t=1609693759",
+  "consensus_genre": "Casual",
+  "developer": "Mindmill Studios",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 7,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1397060/header.jpg?t=1609693759",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Little Brother's Turn",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 9,
+  "price": "299",
+  "publisher": "Mindmill Studios",
+  "release_date": "2021/01/3",
+  "required_age": 0,
+  "tags": {
+    "1990's": 123,
+    "2D": 181,
+    "2D Platformer": 198,
+    "Arcade": 207,
+    "Cartoon": 175,
+    "Cartoony": 167,
+    "Casual": 233,
+    "Colorful": 157,
+    "Comedy": 110,
+    "Cute": 148,
+    "Dark Humor": 95,
+    "Funny": 80,
+    "Hand-drawn": 139,
+    "Old School": 62,
+    "Platformer": 202,
+    "Precision Platformer": 191,
+    "Procedural Generation": 44,
+    "Score Attack": 28,
+    "Singleplayer": 26,
+    "Stylized": 126
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 291550,
-  "name": "Brawlhalla",
-  "developer": "Blue Mammoth Games",
-  "publisher": "Ubisoft",
-  "tags": {
-    "Free to Play": 3874,
-    "Multiplayer": 2782,
-    "Fighting": 2640,
-    "Casual": 1998,
-    "2D Fighter": 1960,
-    "2D Platformer": 1928,
-    "Fantasy": 1876,
-    "Action": 1867,
-    "Local Multiplayer": 1864,
-    "Family Friendly": 1855,
-    "Co-op": 1851,
-    "Platformer": 1851,
-    "Controller": 1848,
-    "Online Co-Op": 1841,
-    "e-sports": 1838,
-    "Cartoony": 1833,
-    "Local Co-Op": 1833,
-    "4 Player Local": 1825,
-    "Singleplayer": 1809,
-    "Indie": 1805
+  "Average Playtime - 2 Weeks": {
+    "app_id": 291550,
+    "average_2weeks": 158,
+    "average_forever": 2217,
+    "median_2weeks": 92,
+    "median_forever": 176
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 291550,
+    "average_2weeks": 158,
+    "average_forever": 2217,
+    "median_2weeks": 92,
+    "median_forever": 176
+  },
+  "CCU Histogram": {
+    "2022-12-08": 13783,
+    "2022-12-09": 14233,
+    "2022-12-10": 14611,
+    "2022-12-13": 13776,
+    "2022-12-15": 21016,
+    "2022-12-18": 18775,
+    "2022-12-21": 16379,
+    "2022-12-22": 16607
+  },
+  "Completion": 24.399999618530273,
+  "Down 30 Days": 716,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 21,
+      "recommendations_up": 78
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 15,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 21,
+      "recommendations_up": 71
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 37,
+      "recommendations_up": 107
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 21,
+      "recommendations_up": 93
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 13,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 18,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 17,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 19,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 31,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 37,
+      "recommendations_up": 91
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 29,
+      "recommendations_up": 88
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 19,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 26,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 18,
+      "recommendations_up": 119
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 25,
+      "recommendations_up": 78
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 29,
+      "recommendations_up": 99
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 21,
+      "recommendations_up": 136
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 24,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 23,
+      "recommendations_up": 73
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 23,
+      "recommendations_up": 191
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 31,
+      "recommendations_up": 327
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 29,
+      "recommendations_up": 223
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 30,
+      "recommendations_up": 221
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 34,
+      "recommendations_up": 228
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 30,
+      "recommendations_up": 221
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 21,
+      "recommendations_up": 168
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 21,
+      "recommendations_up": 142
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 33,
+      "recommendations_up": 91
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 291550,
+    "average_2weeks": 158,
+    "average_forever": 2217,
+    "median_2weeks": 92,
+    "median_forever": 176
+  },
+  "Median Playtime - Forever": {
+    "app_id": 291550,
+    "average_2weeks": 158,
+    "average_forever": 2217,
+    "median_2weeks": 92,
+    "median_forever": 176
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3536,
+  "User Score": -1,
+  "appid": 291550,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,184 +215,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 254203,
-  "negative": 48663,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 13566,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2017/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg?t=1666282453",
+  "consensus_genre": "Free to Play",
+  "developer": "Blue Mammoth Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
     "Indie"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 78,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 75,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 71,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 107,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 93,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 72,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 62,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 70,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 70,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 82,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 91,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 88,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 86,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 76,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 119,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 78,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 99,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 136,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 98,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 73,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 191,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 327,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 223,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 221,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 228,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 221,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 168,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 142,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 91,
-      "recommendations_down": 33
-    }
-  ],
-  "Up 30 Days": 3536,
-  "Down 30 Days": 716,
-  "Completion": 24.399999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg?t=1666282453",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Brawlhalla",
+  "negative": 48663,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 254203,
+  "price": "0",
+  "publisher": "Ubisoft",
+  "release_date": "2017/10/17",
+  "required_age": 0,
+  "tags": {
+    "2D Fighter": 1960,
+    "2D Platformer": 1928,
+    "4 Player Local": 1825,
+    "Action": 1867,
+    "Cartoony": 1833,
+    "Casual": 1998,
+    "Co-op": 1851,
+    "Controller": 1848,
+    "Family Friendly": 1855,
+    "Fantasy": 1876,
+    "Fighting": 2640,
+    "Free to Play": 3874,
+    "Indie": 1805,
+    "Local Co-Op": 1833,
+    "Local Multiplayer": 1864,
+    "Multiplayer": 2782,
+    "Online Co-Op": 1841,
+    "Platformer": 1851,
+    "Singleplayer": 1809,
+    "e-sports": 1838
+  },
+  "type": "game"
 }

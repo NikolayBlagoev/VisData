@@ -1,31 +1,201 @@
 {
-  "appid": 462770,
-  "name": "Pyre",
-  "developer": "Supergiant Games",
-  "publisher": "Supergiant Games",
-  "tags": {
-    "Indie": 351,
-    "RPG": 341,
-    "Great Soundtrack": 314,
-    "Story Rich": 277,
-    "Action": 249,
-    "Visual Novel": 218,
-    "Atmospheric": 168,
-    "Hand-drawn": 147,
-    "Fantasy": 143,
-    "Choices Matter": 104,
-    "Singleplayer": 103,
-    "Colorful": 95,
-    "Party-Based RPG": 94,
-    "Adventure": 92,
-    "Local Multiplayer": 81,
-    "Lore-Rich": 60,
-    "Multiple Endings": 55,
-    "Interactive Fiction": 48,
-    "Stylized": 46,
-    "Music": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 462770,
+    "average_2weeks": 0,
+    "average_forever": 488,
+    "median_2weeks": 0,
+    "median_forever": 499
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 462770,
+    "average_2weeks": 0,
+    "average_forever": 488,
+    "median_2weeks": 0,
+    "median_forever": 499
+  },
+  "CCU Histogram": {
+    "2022-12-08": 18,
+    "2022-12-09": 22,
+    "2022-12-10": 23,
+    "2022-12-13": 37,
+    "2022-12-15": 29,
+    "2022-12-18": 24,
+    "2022-12-21": 21,
+    "2022-12-22": 27
+  },
+  "Completion": 61.29999923706055,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 462770,
+    "average_2weeks": 0,
+    "average_forever": 488,
+    "median_2weeks": 0,
+    "median_forever": 499
+  },
+  "Median Playtime - Forever": {
+    "app_id": 462770,
+    "average_2weeks": 0,
+    "average_forever": 488,
+    "median_2weeks": 0,
+    "median_forever": 499
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 20,
+  "User Score": -1,
+  "appid": 462770,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,184 +211,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 7221,
-  "negative": 738,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 21,
-  "languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2017/07/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/462770/header.jpg?t=1601500944",
+  "consensus_genre": "Indie",
+  "developer": "Supergiant Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 20,
-  "Down 30 Days": 4,
-  "Completion": 61.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/462770/header.jpg?t=1601500944",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese",
+  "name": "Pyre",
+  "negative": 738,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 7221,
+  "price": "1999",
+  "publisher": "Supergiant Games",
+  "release_date": "2017/07/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 249,
+    "Adventure": 92,
+    "Atmospheric": 168,
+    "Choices Matter": 104,
+    "Colorful": 95,
+    "Fantasy": 143,
+    "Great Soundtrack": 314,
+    "Hand-drawn": 147,
+    "Indie": 351,
+    "Interactive Fiction": 48,
+    "Local Multiplayer": 81,
+    "Lore-Rich": 60,
+    "Multiple Endings": 55,
+    "Music": 21,
+    "Party-Based RPG": 94,
+    "RPG": 341,
+    "Singleplayer": 103,
+    "Story Rich": 277,
+    "Stylized": 46,
+    "Visual Novel": 218
+  },
+  "type": "game"
 }

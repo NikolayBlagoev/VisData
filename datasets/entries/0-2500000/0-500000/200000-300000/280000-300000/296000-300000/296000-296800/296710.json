@@ -1,31 +1,201 @@
 {
-  "appid": 296710,
-  "name": "Monstrum",
-  "developer": "Team Junkfish",
-  "publisher": "Junkfish Limited",
-  "tags": {
-    "Horror": 220,
-    "Action Roguelike": 178,
-    "Survival Horror": 175,
-    "Indie": 128,
-    "First-Person": 87,
-    "Rogue-like": 79,
-    "Survival": 64,
-    "Singleplayer": 61,
-    "Atmospheric": 52,
-    "Rogue-lite": 46,
-    "Procedural Generation": 42,
-    "Perma Death": 41,
-    "Difficult": 38,
-    "Stealth": 34,
-    "VR": 31,
-    "Action": 20,
-    "Psychological Horror": 15,
-    "Dark": 13,
-    "Multiplayer": 8,
-    "Strategy": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 296710,
+    "average_2weeks": 25,
+    "average_forever": 621,
+    "median_2weeks": 25,
+    "median_forever": 202
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 296710,
+    "average_2weeks": 25,
+    "average_forever": 621,
+    "median_2weeks": 25,
+    "median_forever": 202
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 11,
+    "2022-12-10": 14,
+    "2022-12-13": 10,
+    "2022-12-15": 19,
+    "2022-12-18": 13,
+    "2022-12-21": 16,
+    "2022-12-22": 15
+  },
+  "Completion": 31.200000762939453,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 296710,
+    "average_2weeks": 25,
+    "average_forever": 621,
+    "median_2weeks": 25,
+    "median_forever": 202
+  },
+  "Median Playtime - Forever": {
+    "app_id": 296710,
+    "average_2weeks": 25,
+    "average_forever": 621,
+    "median_2weeks": 25,
+    "median_forever": 202
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 17,
+  "User Score": -1,
+  "appid": 296710,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,182 +203,50 @@
     "VR Support",
     "Remote Play on TV"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2569,
-  "negative": 246,
-  "price": "1799",
-  "initialprice": "1799",
-  "discount": "0",
   "ccu": 17,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/05/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/296710/header.jpg?t=1667201785",
+  "consensus_genre": "Indie",
+  "developer": "Team Junkfish",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 17,
-  "Down 30 Days": 3,
-  "Completion": 31.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/296710/header.jpg?t=1667201785",
+  "initialprice": "1799",
+  "languages": "English",
+  "name": "Monstrum",
+  "negative": 246,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2569,
+  "price": "1799",
+  "publisher": "Junkfish Limited",
+  "release_date": "2015/05/20",
+  "required_age": 0,
+  "tags": {
+    "Action": 20,
+    "Action Roguelike": 178,
+    "Atmospheric": 52,
+    "Dark": 13,
+    "Difficult": 38,
+    "First-Person": 87,
+    "Horror": 220,
+    "Indie": 128,
+    "Multiplayer": 8,
+    "Perma Death": 41,
+    "Procedural Generation": 42,
+    "Psychological Horror": 15,
+    "Rogue-like": 79,
+    "Rogue-lite": 46,
+    "Singleplayer": 61,
+    "Stealth": 34,
+    "Strategy": 7,
+    "Survival": 64,
+    "Survival Horror": 175,
+    "VR": 31
+  },
+  "type": "game"
 }

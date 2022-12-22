@@ -1,215 +1,253 @@
 {
-  "appid": 339800,
-  "name": "HuniePop",
-  "developer": "HuniePot",
-  "publisher": "HuniePot",
-  "tags": {
-    "Nudity": 2495,
-    "Mature": 1741,
-    "Sexual Content": 1588,
-    "Anime": 1461,
-    "Dating Sim": 1286,
-    "Puzzle": 620,
-    "Match 3": 539,
-    "Romance": 493,
-    "Hentai": 469,
-    "Singleplayer": 460,
-    "Cute": 391,
-    "Comedy": 267,
-    "Indie": 248,
-    "Casual": 232,
-    "RPG": 226,
-    "Story Rich": 222,
-    "Strategy": 188,
-    "Great Soundtrack": 165,
-    "Memes": 164,
-    "2D": 157
+  "Average Playtime - 2 Weeks": {
+    "app_id": 339800,
+    "average_2weeks": 15,
+    "average_forever": 860,
+    "median_2weeks": 15,
+    "median_forever": 642
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 339800,
+    "average_2weeks": 15,
+    "average_forever": 860,
+    "median_2weeks": 15,
+    "median_forever": 642
+  },
+  "CCU Histogram": {
+    "2022-12-08": 171,
+    "2022-12-09": 169,
+    "2022-12-10": 153,
+    "2022-12-13": 171,
+    "2022-12-15": 145,
+    "2022-12-18": 169,
+    "2022-12-21": 182,
+    "2022-12-22": 162
+  },
+  "Completion": 48.70000076293945,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 339800,
+    "average_2weeks": 15,
+    "average_forever": 860,
+    "median_2weeks": 15,
+    "median_forever": 642
+  },
+  "Median Playtime - Forever": {
+    "app_id": 339800,
+    "average_2weeks": 15,
+    "average_forever": 860,
+    "median_2weeks": 15,
+    "median_forever": 642
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 123,
+  "User Score": -1,
+  "appid": 339800,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 26390,
-  "negative": 1002,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 188,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/01/19",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/339800/header.jpg?t=1645933259",
+  "consensus_genre": "Indie",
+  "developer": "HuniePot",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 123,
-  "Down 30 Days": 12,
-  "Completion": 48.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/339800/header.jpg?t=1645933259",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "HuniePop",
+  "negative": 1002,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 26390,
+  "price": "999",
+  "publisher": "HuniePot",
+  "release_date": "2015/01/19",
+  "required_age": "18",
+  "tags": {
+    "2D": 157,
+    "Anime": 1461,
+    "Casual": 232,
+    "Comedy": 267,
+    "Cute": 391,
+    "Dating Sim": 1286,
+    "Great Soundtrack": 165,
+    "Hentai": 469,
+    "Indie": 248,
+    "Match 3": 539,
+    "Mature": 1741,
+    "Memes": 164,
+    "Nudity": 2495,
+    "Puzzle": 620,
+    "RPG": 226,
+    "Romance": 493,
+    "Sexual Content": 1588,
+    "Singleplayer": 460,
+    "Story Rich": 222,
+    "Strategy": 188
+  },
+  "type": "game"
 }

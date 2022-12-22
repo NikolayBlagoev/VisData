@@ -1,31 +1,201 @@
 {
-  "appid": 200210,
-  "name": "Realm of the Mad God Exalt",
-  "developer": "Wild Shadow Studios, Deca Games",
-  "publisher": "Deca Games",
-  "tags": {
-    "Action Roguelike": 1559,
-    "Pixel Graphics": 1556,
-    "Rogue-like": 1556,
-    "Rogue-lite": 1546,
-    "Difficult": 1545,
-    "Indie": 1537,
-    "Perma Death": 1537,
-    "2D": 1534,
-    "Action RPG": 1532,
-    "MMORPG": 1529,
-    "Bullet Hell": 1524,
-    "Free to Play": 1517,
-    "Action": 1516,
-    "RPG": 1513,
-    "Massively Multiplayer": 1501,
-    "Multiplayer": 711,
-    "Co-op": 708,
-    "Adventure": 706,
-    "Online Co-Op": 671,
-    "Fantasy": 489
+  "Average Playtime - 2 Weeks": {
+    "app_id": 200210,
+    "average_2weeks": 583,
+    "average_forever": 1581,
+    "median_2weeks": 583,
+    "median_forever": 130
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 200210,
+    "average_2weeks": 583,
+    "average_forever": 1581,
+    "median_2weeks": 583,
+    "median_forever": 130
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1631,
+    "2022-12-09": 1676,
+    "2022-12-10": 1683,
+    "2022-12-13": 1868,
+    "2022-12-15": 2202,
+    "2022-12-18": 2036,
+    "2022-12-21": 2127,
+    "2022-12-22": 2127
+  },
+  "Completion": 30.299999237060547,
+  "Down 30 Days": 50,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 5,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 7,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 200210,
+    "average_2weeks": 583,
+    "average_forever": 1581,
+    "median_2weeks": 583,
+    "median_forever": 130
+  },
+  "Median Playtime - Forever": {
+    "app_id": 200210,
+    "average_2weeks": 583,
+    "average_forever": 1581,
+    "median_2weeks": 583,
+    "median_forever": 130
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 256,
+  "User Score": -1,
+  "appid": 200210,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -35,22 +205,10 @@
     "In-App Purchases",
     "Online Co-op"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 35690,
-  "negative": 6907,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 2016,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2012/02/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/200210/header.jpg?t=1659426890",
+  "consensus_genre": "Indie",
+  "developer": "Wild Shadow Studios, Deca Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
@@ -58,163 +216,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 24,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 14,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 256,
-  "Down 30 Days": 50,
-  "Completion": 30.299999237060547,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/200210/header.jpg?t=1659426890",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Realm of the Mad God Exalt",
+  "negative": 6907,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 35690,
+  "price": "0",
+  "publisher": "Deca Games",
+  "release_date": "2012/02/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 1534,
+    "Action": 1516,
+    "Action RPG": 1532,
+    "Action Roguelike": 1559,
+    "Adventure": 706,
+    "Bullet Hell": 1524,
+    "Co-op": 708,
+    "Difficult": 1545,
+    "Fantasy": 489,
+    "Free to Play": 1517,
+    "Indie": 1537,
+    "MMORPG": 1529,
+    "Massively Multiplayer": 1501,
+    "Multiplayer": 711,
+    "Online Co-Op": 671,
+    "Perma Death": 1537,
+    "Pixel Graphics": 1556,
+    "RPG": 1513,
+    "Rogue-like": 1556,
+    "Rogue-lite": 1546
+  },
+  "type": "game"
 }

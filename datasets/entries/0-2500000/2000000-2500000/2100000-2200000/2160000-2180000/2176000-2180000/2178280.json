@@ -1,92 +1,130 @@
 {
-  "appid": 2178280,
-  "name": "Pengreens",
-  "developer": "Studio SoulAres",
-  "publisher": "Studio SoulAres",
-  "tags": {
-    "Puzzle-Platformer": 197,
-    "Pixel Graphics": 191,
-    "Adventure": 188,
-    "Singleplayer": 185,
-    "Cute": 182,
-    "Puzzle": 173,
-    "Platformer": 166,
-    "Linear": 159,
-    "Action": 153,
-    "Retro": 153,
-    "2D Platformer": 145,
-    "Cartoony": 135,
-    "2D": 121,
-    "Fantasy": 107,
-    "Colorful": 92,
-    "Funny": 76,
-    "Nature": 59,
-    "Logic": 44,
-    "Collectathon": 28,
-    "Controller": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2178280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2178280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 68.0999984741211,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2178280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2178280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2178280,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "169",
-  "initialprice": "199",
-  "discount": "15",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/11/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2178280/header.jpg?t=1667506116",
+  "consensus_genre": "Adventure",
+  "developer": "Studio SoulAres",
+  "discount": "15",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 68.0999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2178280/header.jpg?t=1667506116",
+  "initialprice": "199",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Pengreens",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "169",
+  "publisher": "Studio SoulAres",
+  "release_date": "2022/11/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 121,
+    "2D Platformer": 145,
+    "Action": 153,
+    "Adventure": 188,
+    "Cartoony": 135,
+    "Collectathon": 28,
+    "Colorful": 92,
+    "Controller": 26,
+    "Cute": 182,
+    "Fantasy": 107,
+    "Funny": 76,
+    "Linear": 159,
+    "Logic": 44,
+    "Nature": 59,
+    "Pixel Graphics": 191,
+    "Platformer": 166,
+    "Puzzle": 173,
+    "Puzzle-Platformer": 197,
+    "Retro": 153,
+    "Singleplayer": 185
+  },
+  "type": "game"
 }

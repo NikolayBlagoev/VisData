@@ -1,68 +1,106 @@
 {
-  "appid": 2099060,
-  "name": "Rikki Kuu",
-  "developer": "Float Between The Molecules",
-  "publisher": "Float Between The Molecules",
-  "tags": {
-    "Early Access": 326,
-    "Flight": 296,
-    "Combat Racing": 290,
-    "Third-Person Shooter": 286,
-    "Building": 281,
-    "Space": 275,
-    "Physics": 265,
-    "PvE": 258,
-    "Space Sim": 250,
-    "Shooter": 241,
-    "3D Fighter": 231,
-    "3D": 220,
-    "Third Person": 209,
-    "Action": 201,
-    "Procedural Generation": 197,
-    "Simulation": 185,
-    "Vehicular Combat": 183,
-    "Stylized": 148,
-    "Sci-fi": 130,
-    "6DOF": 111
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2099060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2099060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2099060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2099060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2099060,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2099060/header.jpg?t=1664564601",
+  "consensus_genre": "Early Access",
+  "developer": "Float Between The Molecules",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2099060/header.jpg?t=1664564601",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Rikki Kuu",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "Float Between The Molecules",
+  "release_date": "2022/09/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 220,
+    "3D Fighter": 231,
+    "6DOF": 111,
+    "Action": 201,
+    "Building": 281,
+    "Combat Racing": 290,
+    "Early Access": 326,
+    "Flight": 296,
+    "Physics": 265,
+    "Procedural Generation": 197,
+    "PvE": 258,
+    "Sci-fi": 130,
+    "Shooter": 241,
+    "Simulation": 185,
+    "Space": 275,
+    "Space Sim": 250,
+    "Stylized": 148,
+    "Third Person": 209,
+    "Third-Person Shooter": 286,
+    "Vehicular Combat": 183
+  },
+  "type": "game"
 }

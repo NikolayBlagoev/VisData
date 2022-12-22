@@ -1,81 +1,119 @@
 {
-  "appid": 1406710,
-  "name": "Smoop Can't Sleep!",
-  "developer": "Delectable Studios",
-  "publisher": "Delectable Studios",
-  "tags": {
-    "Action": 170,
-    "Adventure": 164,
-    "2D Platformer": 161,
-    "Fantasy": 154,
-    "Shooter": 140,
-    "Pixel Graphics": 129,
-    "Singleplayer": 122,
-    "PvE": 115,
-    "Platformer": 107,
-    "Magic": 97,
-    "Side Scroller": 95,
-    "2D": 83,
-    "Precision Platformer": 70,
-    "Colorful": 56,
-    "Underground": 41,
-    "Combat": 27,
-    "Linear": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1406710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1406710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 66.60000038146973,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1406710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1406710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1406710,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1406710/header.jpg?t=1635544996",
+  "consensus_genre": "Action",
+  "developer": "Delectable Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 66.60000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1406710/header.jpg?t=1635544996",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Smoop Can't Sleep!",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Delectable Studios",
+  "release_date": "2021/10/27",
+  "required_age": 0,
+  "tags": {
+    "2D": 83,
+    "2D Platformer": 161,
+    "Action": 170,
+    "Adventure": 164,
+    "Colorful": 56,
+    "Combat": 27,
+    "Fantasy": 154,
+    "Indie": 21,
+    "Linear": 25,
+    "Magic": 97,
+    "Pixel Graphics": 129,
+    "Platformer": 107,
+    "Precision Platformer": 70,
+    "PvE": 115,
+    "Shooter": 140,
+    "Side Scroller": 95,
+    "Singleplayer": 122,
+    "Underground": 41
+  },
+  "type": "game"
 }

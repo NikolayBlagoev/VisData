@@ -1,215 +1,253 @@
 {
-  "appid": 492270,
-  "name": "The Cat! Porfirio's Adventure",
-  "developer": "Cats Who Play",
-  "publisher": "Cats Who Play",
-  "tags": {
-    "Indie": 127,
-    "Cats": 122,
-    "3D Platformer": 117,
-    "Adventure": 114,
-    "Cute": 108,
-    "Action": 100,
-    "Family Friendly": 98,
-    "Simulation": 92,
-    "Third Person": 84,
-    "Memes": 81,
-    "Action-Adventure": 75,
-    "Cartoony": 69,
-    "Singleplayer": 60,
-    "Stylized": 52,
-    "Colorful": 47,
-    "Atmospheric": 45,
-    "Conversation": 42,
-    "Nonlinear": 37,
-    "Short": 35,
-    "Open World": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 492270,
+    "average_2weeks": 0,
+    "average_forever": 252,
+    "median_2weeks": 0,
+    "median_forever": 305
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 492270,
+    "average_2weeks": 0,
+    "average_forever": 252,
+    "median_2weeks": 0,
+    "median_forever": 305
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 0,
+    "2022-12-13": 2,
+    "2022-12-15": 0,
+    "2022-12-18": 1,
+    "2022-12-21": 0,
+    "2022-12-22": 1
+  },
+  "Completion": 25.100000381469727,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 492270,
+    "average_2weeks": 0,
+    "average_forever": 252,
+    "median_2weeks": 0,
+    "median_forever": 305
+  },
+  "Median Playtime - Forever": {
+    "app_id": 492270,
+    "average_2weeks": 0,
+    "average_forever": 252,
+    "median_2weeks": 0,
+    "median_forever": 305
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 492270,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 255,
-  "negative": 58,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/08/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/492270/header.jpg?t=1568035330",
+  "consensus_genre": "Indie",
+  "developer": "Cats Who Play",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": 25.100000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/492270/header.jpg?t=1568035330",
+  "initialprice": "299",
+  "languages": "English, Russian",
+  "name": "The Cat! Porfirio's Adventure",
+  "negative": 58,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 255,
+  "price": "299",
+  "publisher": "Cats Who Play",
+  "release_date": "2016/08/4",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 117,
+    "Action": 100,
+    "Action-Adventure": 75,
+    "Adventure": 114,
+    "Atmospheric": 45,
+    "Cartoony": 69,
+    "Cats": 122,
+    "Colorful": 47,
+    "Conversation": 42,
+    "Cute": 108,
+    "Family Friendly": 98,
+    "Indie": 127,
+    "Memes": 81,
+    "Nonlinear": 37,
+    "Open World": 31,
+    "Short": 35,
+    "Simulation": 92,
+    "Singleplayer": 60,
+    "Stylized": 52,
+    "Third Person": 84
+  },
+  "type": "game"
 }

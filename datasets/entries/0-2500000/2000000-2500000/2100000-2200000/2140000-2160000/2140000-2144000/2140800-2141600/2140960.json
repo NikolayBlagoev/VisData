@@ -1,50 +1,63 @@
 {
-  "appid": 2140960,
-  "name": "AQRA Tenses [Learn English]",
-  "developer": "Samer Hammami",
-  "publisher": "Samer Hammami",
-  "tags": {
-    "Education": 201,
-    "Word Game": 194,
-    "3D": 191,
-    "Colorful": 188,
-    "Realistic": 184,
-    "Text-Based": 177,
-    "Aliens": 171,
-    "Family Friendly": 168,
-    "Horror": 165,
-    "Logic": 162,
-    "Science": 160,
-    "Combat": 158,
-    "Co-op": 154,
-    "Singleplayer": 152,
-    "Action": 147,
-    "Casual": 139,
-    "Racing": 125,
-    "Adventure": 123,
-    "Indie": 115,
-    "Hero Shooter": 109
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2140960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2140960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2140960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2140960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2140960,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "89",
-  "initialprice": "299",
-  "discount": "70",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2140960/header.jpg?t=1667235468",
+  "consensus_genre": "Action",
+  "developer": "Samer Hammami",
+  "discount": "70",
   "genre": [
     "Action",
     "Adventure",
@@ -52,18 +65,43 @@
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2140960/header.jpg?t=1667235468",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "AQRA Tenses [Learn English]",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "89",
+  "publisher": "Samer Hammami",
+  "release_date": "2022/09/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 191,
+    "Action": 147,
+    "Adventure": 123,
+    "Aliens": 171,
+    "Casual": 139,
+    "Co-op": 154,
+    "Colorful": 188,
+    "Combat": 158,
+    "Education": 201,
+    "Family Friendly": 168,
+    "Hero Shooter": 109,
+    "Horror": 165,
+    "Indie": 115,
+    "Logic": 162,
+    "Racing": 125,
+    "Realistic": 184,
+    "Science": 160,
+    "Singleplayer": 152,
+    "Text-Based": 177,
+    "Word Game": 194
+  },
+  "type": "game"
 }

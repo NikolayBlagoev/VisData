@@ -1,31 +1,201 @@
 {
-  "appid": 1056600,
-  "name": "Home Sweet Home : Survive",
-  "developer": "YGGDRAZIL GROUP PUBLIC CO.,LTD",
-  "publisher": "Shift Now",
-  "tags": {
-    "Survival Horror": 90,
-    "Action": 79,
-    "Multiplayer": 78,
-    "Horror": 75,
-    "Survival": 67,
-    "Online Co-Op": 51,
-    "Co-op": 45,
-    "Indie": 44,
-    "Funny": 41,
-    "PvP": 39,
-    "Early Access": 36,
-    "Gore": 36,
-    "Third Person": 36,
-    "Violent": 34,
-    "Battle Royale": 32,
-    "PvE": 28,
-    "Strategy": 21,
-    "Realistic": 19,
-    "Atmospheric": 6,
-    "Adventure": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1056600,
+    "average_2weeks": 0,
+    "average_forever": 825,
+    "median_2weeks": 0,
+    "median_forever": 1326
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1056600,
+    "average_2weeks": 0,
+    "average_forever": 825,
+    "median_2weeks": 0,
+    "median_forever": 1326
+  },
+  "CCU Histogram": {
+    "2022-12-08": 196,
+    "2022-12-09": 190,
+    "2022-12-10": 164,
+    "2022-12-13": 170,
+    "2022-12-15": 172,
+    "2022-12-18": 188,
+    "2022-12-21": 131,
+    "2022-12-22": 170
+  },
+  "Completion": -1,
+  "Down 30 Days": 20,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1056600,
+    "average_2weeks": 0,
+    "average_forever": 825,
+    "median_2weeks": 0,
+    "median_forever": 1326
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1056600,
+    "average_2weeks": 0,
+    "average_forever": 825,
+    "median_2weeks": 0,
+    "median_forever": 1326
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 14,
+  "User Score": -1,
+  "appid": 1056600,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,185 +204,53 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4539,
-  "negative": 3655,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 215,
-  "languages": "English, Thai, Korean, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/03/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1056600/header.jpg?t=1656393111",
+  "consensus_genre": "Action",
+  "developer": "YGGDRAZIL GROUP PUBLIC CO.,LTD",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 14,
-  "Down 30 Days": 20,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1056600/header.jpg?t=1656393111",
+  "initialprice": "699",
+  "languages": "English, Thai, Korean, Traditional Chinese",
+  "name": "Home Sweet Home : Survive",
+  "negative": 3655,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4539,
+  "price": "699",
+  "publisher": "Shift Now",
+  "release_date": "2021/03/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 79,
+    "Adventure": 5,
+    "Atmospheric": 6,
+    "Battle Royale": 32,
+    "Co-op": 45,
+    "Early Access": 36,
+    "Funny": 41,
+    "Gore": 36,
+    "Horror": 75,
+    "Indie": 44,
+    "Multiplayer": 78,
+    "Online Co-Op": 51,
+    "PvE": 28,
+    "PvP": 39,
+    "Realistic": 19,
+    "Strategy": 21,
+    "Survival": 67,
+    "Survival Horror": 90,
+    "Third Person": 36,
+    "Violent": 34
+  },
+  "type": "game"
 }

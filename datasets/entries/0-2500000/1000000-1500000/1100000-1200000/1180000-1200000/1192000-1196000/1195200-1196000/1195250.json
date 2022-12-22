@@ -1,50 +1,88 @@
 {
-  "appid": 1195250,
-  "name": "Gateball VR",
-  "developer": "NJoyGo Inc.",
-  "publisher": "NJoyGo Inc.",
-  "tags": {
-    "Sports": 142,
-    "VR": 13,
-    "3D": 11,
-    "Family Friendly": 11,
-    "Singleplayer": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1195250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1195250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/06/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1195250/header.jpg?t=1655974367",
-  "genre": [
-    "Sports"
-  ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1195250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1195250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1195250,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Sports",
+  "developer": "NJoyGo Inc.",
+  "discount": "0",
+  "genre": [
+    "Sports"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1195250/header.jpg?t=1655974367",
+  "initialprice": "99",
+  "languages": "Korean",
+  "name": "Gateball VR",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "NJoyGo Inc.",
+  "release_date": "2020/06/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 11,
+    "Family Friendly": 11,
+    "Singleplayer": 11,
+    "Sports": 142,
+    "VR": 13
+  },
+  "type": "game"
 }

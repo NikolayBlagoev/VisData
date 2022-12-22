@@ -1,68 +1,106 @@
 {
-  "appid": 1917870,
-  "name": "STAY ALIVE",
-  "developer": "Mad Games Company",
-  "publisher": "Mad Games Company",
-  "tags": {
-    "Early Access": 324,
-    "Exploration": 294,
-    "FPS": 288,
-    "Hidden Object": 285,
-    "Creature Collector": 282,
-    "Puzzle": 276,
-    "Life Sim": 266,
-    "Open World Survival Craft": 259,
-    "Action-Adventure": 257,
-    "First-Person": 248,
-    "3D": 240,
-    "Horror": 236,
-    "Open World": 224,
-    "Story Rich": 213,
-    "Choices Matter": 209,
-    "Multiple Endings": 194,
-    "Action": 179,
-    "Survival": 176,
-    "Nature": 158,
-    "Atmospheric": 139
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1917870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1917870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1917870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1917870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1917870,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "Russian, English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917870/header.jpg?t=1658159420",
+  "consensus_genre": "Early Access",
+  "developer": "Mad Games Company",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917870/header.jpg?t=1658159420",
+  "initialprice": "2999",
+  "languages": "Russian, English",
+  "name": "STAY ALIVE",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "2999",
+  "publisher": "Mad Games Company",
+  "release_date": "2022/06/8",
+  "required_age": 0,
+  "tags": {
+    "3D": 240,
+    "Action": 179,
+    "Action-Adventure": 257,
+    "Atmospheric": 139,
+    "Choices Matter": 209,
+    "Creature Collector": 282,
+    "Early Access": 324,
+    "Exploration": 294,
+    "FPS": 288,
+    "First-Person": 248,
+    "Hidden Object": 285,
+    "Horror": 236,
+    "Life Sim": 266,
+    "Multiple Endings": 194,
+    "Nature": 158,
+    "Open World": 224,
+    "Open World Survival Craft": 259,
+    "Puzzle": 276,
+    "Story Rich": 213,
+    "Survival": 176
+  },
+  "type": "game"
 }

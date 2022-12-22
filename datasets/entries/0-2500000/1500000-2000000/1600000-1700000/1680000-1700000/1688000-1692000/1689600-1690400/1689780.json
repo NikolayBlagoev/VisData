@@ -1,85 +1,123 @@
 {
-  "appid": 1689780,
-  "name": "\u771f\u4eba\u604b\u7231\u5927\u5192\u9669",
-  "developer": "BeiJingShiJiHe_VAMD",
-  "publisher": "BeiJingShiJiHe_VAMD",
-  "tags": {
-    "Casual": 74,
-    "Adventure": 60,
-    "Simulation": 51,
-    "3D": 48,
-    "Relaxing": 44,
-    "Drama": 38,
-    "Tabletop": 29,
-    "Auto Battler": 26,
-    "3D Platformer": 25,
-    "Solitaire": 24,
-    "Indie": 21,
-    "Turn-Based Strategy": 21,
-    "Cartoon": 20,
-    "Cute": 18,
-    "Emotional": 15,
-    "Funny": 14,
-    "Singleplayer": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1689780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1689780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1689780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1689780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1689780,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 2,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689780/header.jpg?t=1635562127",
+  "consensus_genre": "Casual",
+  "developer": "BeiJingShiJiHe_VAMD",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689780/header.jpg?t=1635562127",
+  "initialprice": "1199",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u771f\u4eba\u604b\u7231\u5927\u5192\u9669",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1199",
+  "publisher": "BeiJingShiJiHe_VAMD",
+  "release_date": "2021/10/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 48,
+    "3D Platformer": 25,
+    "Adventure": 60,
+    "Auto Battler": 26,
+    "Cartoon": 20,
+    "Casual": 74,
+    "Cute": 18,
+    "Drama": 38,
+    "Emotional": 15,
+    "Funny": 14,
+    "Indie": 21,
+    "Relaxing": 44,
+    "Simulation": 51,
+    "Singleplayer": 12,
+    "Solitaire": 24,
+    "Tabletop": 29,
+    "Turn-Based Strategy": 21
+  },
+  "type": "game"
 }

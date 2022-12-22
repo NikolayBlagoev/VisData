@@ -1,31 +1,201 @@
 {
-  "appid": 402560,
-  "name": "Tabletopia",
-  "developer": "Tabletopia",
-  "publisher": "Tabletopia",
-  "tags": {
-    "Sandbox": 163,
-    "Tabletop": 160,
-    "Free to Play": 156,
-    "Game Development": 149,
-    "Board Game": 146,
-    "Simulation": 114,
-    "Strategy": 110,
-    "Multiplayer": 106,
-    "RPG": 93,
-    "Casual": 91,
-    "Indie": 88,
-    "Card Game": 75,
-    "Co-op": 71,
-    "3D Vision": 68,
-    "VR": 66,
-    "Fantasy": 61,
-    "Online Co-Op": 59,
-    "Choose Your Own Adventure": 57,
-    "3D": 55,
-    "Top-Down": 53
+  "Average Playtime - 2 Weeks": {
+    "app_id": 402560,
+    "average_2weeks": 4,
+    "average_forever": 151,
+    "median_2weeks": 4,
+    "median_forever": 32
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 402560,
+    "average_2weeks": 4,
+    "average_forever": 151,
+    "median_2weeks": 4,
+    "median_forever": 32
+  },
+  "CCU Histogram": {
+    "2022-12-08": 15,
+    "2022-12-09": 29,
+    "2022-12-10": 34,
+    "2022-12-13": 23,
+    "2022-12-15": 13,
+    "2022-12-18": 19,
+    "2022-12-21": 20,
+    "2022-12-22": 21
+  },
+  "Completion": 0.699999988079071,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 402560,
+    "average_2weeks": 4,
+    "average_forever": 151,
+    "median_2weeks": 4,
+    "median_forever": 32
+  },
+  "Median Playtime - Forever": {
+    "app_id": 402560,
+    "average_2weeks": 4,
+    "average_forever": 151,
+    "median_2weeks": 4,
+    "median_forever": 32
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 402560,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,22 +206,10 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 941,
-  "negative": 563,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 16,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2016/11/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/402560/header.jpg?t=1643183654",
+  "consensus_genre": "Free to Play",
+  "developer": "Tabletopia",
+  "discount": "0",
   "genre": [
     "Casual",
     "Free to Play",
@@ -60,163 +218,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 1,
-  "Completion": 0.699999988079071,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/402560/header.jpg?t=1643183654",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Tabletopia",
+  "negative": 563,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 941,
+  "price": "0",
+  "publisher": "Tabletopia",
+  "release_date": "2016/11/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 55,
+    "3D Vision": 68,
+    "Board Game": 146,
+    "Card Game": 75,
+    "Casual": 91,
+    "Choose Your Own Adventure": 57,
+    "Co-op": 71,
+    "Fantasy": 61,
+    "Free to Play": 156,
+    "Game Development": 149,
+    "Indie": 88,
+    "Multiplayer": 106,
+    "Online Co-Op": 59,
+    "RPG": 93,
+    "Sandbox": 163,
+    "Simulation": 114,
+    "Strategy": 110,
+    "Tabletop": 160,
+    "Top-Down": 53,
+    "VR": 66
+  },
+  "type": "game"
 }

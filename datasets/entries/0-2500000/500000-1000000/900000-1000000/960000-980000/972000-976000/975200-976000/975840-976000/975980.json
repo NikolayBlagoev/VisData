@@ -1,52 +1,90 @@
 {
-  "appid": 975980,
-  "name": "Mahjong Fest: Winterland",
-  "developer": "Notus Games Ltd",
-  "publisher": "Notus Games Ltd",
-  "tags": {
-    "Casual": 21,
-    "Puzzle": 12,
-    "2D": 11,
-    "Atmospheric": 11,
-    "Mahjong": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 975980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 975980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 81.9000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 975980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 975980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 975980,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2018/12/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/975980/header.jpg?t=1545211746",
+  "consensus_genre": "Casual",
+  "developer": "Notus Games Ltd",
+  "discount": "0",
   "genre": [
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 81.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/975980/header.jpg?t=1545211746",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Mahjong Fest: Winterland",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Notus Games Ltd",
+  "release_date": "2018/12/19",
+  "required_age": 0,
+  "tags": {
+    "2D": 11,
+    "Atmospheric": 11,
+    "Casual": 21,
+    "Mahjong": 11,
+    "Puzzle": 12
+  },
+  "type": "game"
 }

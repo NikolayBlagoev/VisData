@@ -1,31 +1,201 @@
 {
-  "appid": 292140,
-  "name": "FINAL FANTASY XIII-2",
-  "developer": "Square Enix",
-  "publisher": "Square Enix",
-  "tags": {
-    "JRPG": 248,
-    "RPG": 188,
-    "Female Protagonist": 170,
-    "Fantasy": 168,
-    "Singleplayer": 164,
-    "Great Soundtrack": 158,
-    "Story Rich": 117,
-    "Time Travel": 103,
-    "Adventure": 102,
-    "Anime": 101,
-    "Action": 63,
-    "Sci-fi": 62,
-    "Third Person": 49,
-    "Open World": 45,
-    "Action RPG": 35,
-    "Cinematic": 34,
-    "Turn-Based": 29,
-    "Atmospheric": 24,
-    "Linear": 23,
-    "Turn-Based Combat": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 292140,
+    "average_2weeks": 0,
+    "average_forever": 1186,
+    "median_2weeks": 0,
+    "median_forever": 250
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 292140,
+    "average_2weeks": 0,
+    "average_forever": 1186,
+    "median_2weeks": 0,
+    "median_forever": 250
+  },
+  "CCU Histogram": {
+    "2022-12-08": 56,
+    "2022-12-09": 56,
+    "2022-12-10": 52,
+    "2022-12-13": 70,
+    "2022-12-15": 47,
+    "2022-12-18": 60,
+    "2022-12-21": 58,
+    "2022-12-22": 56
+  },
+  "Completion": 43.45000076293945,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 292140,
+    "average_2weeks": 0,
+    "average_forever": 1186,
+    "median_2weeks": 0,
+    "median_forever": 250
+  },
+  "Median Playtime - Forever": {
+    "app_id": 292140,
+    "average_2weeks": 0,
+    "average_forever": 1186,
+    "median_2weeks": 0,
+    "median_forever": 250
+  },
+  "Meta Score": "75",
+  "Rating": "ESRB T",
+  "Up 30 Days": 15,
+  "User Score": -1,
+  "appid": 292140,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,182 +203,50 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2718,
-  "negative": 1903,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 75,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/12/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292140/header.jpg?t=1633655527",
+  "consensus_genre": "RPG",
+  "developer": "Square Enix",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "75",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 15,
-  "Down 30 Days": 8,
-  "Completion": 43.45000076293945,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292140/header.jpg?t=1633655527",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "FINAL FANTASY XIII-2",
+  "negative": 1903,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2718,
+  "price": "1999",
+  "publisher": "Square Enix",
+  "release_date": "2014/12/11",
+  "required_age": 0,
+  "tags": {
+    "Action": 63,
+    "Action RPG": 35,
+    "Adventure": 102,
+    "Anime": 101,
+    "Atmospheric": 24,
+    "Cinematic": 34,
+    "Fantasy": 168,
+    "Female Protagonist": 170,
+    "Great Soundtrack": 158,
+    "JRPG": 248,
+    "Linear": 23,
+    "Open World": 45,
+    "RPG": 188,
+    "Sci-fi": 62,
+    "Singleplayer": 164,
+    "Story Rich": 117,
+    "Third Person": 49,
+    "Time Travel": 103,
+    "Turn-Based": 29,
+    "Turn-Based Combat": 13
+  },
+  "type": "game"
 }

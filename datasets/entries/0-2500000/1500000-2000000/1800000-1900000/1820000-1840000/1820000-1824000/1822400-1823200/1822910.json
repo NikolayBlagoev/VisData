@@ -1,212 +1,250 @@
 {
-  "appid": 1822910,
-  "name": "Capybara Spa",
-  "developer": "Cozy Bee Games",
-  "publisher": "Cozy Bee Games",
-  "tags": {
-    "Simulation": 235,
-    "Casual": 209,
-    "Point & Click": 199,
-    "Sandbox": 199,
-    "Time Management": 192,
-    "Clicker": 184,
-    "Farming Sim": 176,
-    "Cute": 175,
-    "3D": 157,
-    "Management": 151,
-    "Agriculture": 140,
-    "Relaxing": 130,
-    "Building": 127,
-    "Colorful": 110,
-    "Stylized": 96,
-    "Nature": 81,
-    "Family Friendly": 68,
-    "Base-Building": 45,
-    "Resource Management": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1822910,
+    "average_2weeks": 0,
+    "average_forever": 26,
+    "median_2weeks": 0,
+    "median_forever": 26
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1822910,
+    "average_2weeks": 0,
+    "average_forever": 26,
+    "median_2weeks": 0,
+    "median_forever": 26
+  },
+  "CCU Histogram": {
+    "2022-12-08": 7,
+    "2022-12-09": 6,
+    "2022-12-10": 3,
+    "2022-12-13": 8,
+    "2022-12-15": 9,
+    "2022-12-18": 5,
+    "2022-12-21": 4,
+    "2022-12-22": 7
+  },
+  "Completion": 82.80000305175781,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1822910,
+    "average_2weeks": 0,
+    "average_forever": 26,
+    "median_2weeks": 0,
+    "median_forever": 26
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1822910,
+    "average_2weeks": 0,
+    "average_forever": 26,
+    "median_2weeks": 0,
+    "median_forever": 26
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 107,
+  "User Score": -1,
+  "appid": 1822910,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 737,
-  "negative": 18,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 8,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1822910/header.jpg?t=1647369203",
+  "consensus_genre": "Simulation",
+  "developer": "Cozy Bee Games",
+  "discount": "0",
   "genre": [
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 107,
-  "Down 30 Days": 1,
-  "Completion": 82.80000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1822910/header.jpg?t=1647369203",
+  "initialprice": "799",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil",
+  "name": "Capybara Spa",
+  "negative": 18,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 737,
+  "price": "799",
+  "publisher": "Cozy Bee Games",
+  "release_date": "2022/03/14",
+  "required_age": 0,
+  "tags": {
+    "3D": 157,
+    "Agriculture": 140,
+    "Base-Building": 45,
+    "Building": 127,
+    "Casual": 209,
+    "Clicker": 184,
+    "Colorful": 110,
+    "Cute": 175,
+    "Family Friendly": 68,
+    "Farming Sim": 176,
+    "Management": 151,
+    "Nature": 81,
+    "Point & Click": 199,
+    "Relaxing": 130,
+    "Resource Management": 27,
+    "Sandbox": 199,
+    "Simulation": 235,
+    "Singleplayer": 25,
+    "Stylized": 96,
+    "Time Management": 192
+  },
+  "type": "game"
 }

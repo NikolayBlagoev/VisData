@@ -1,68 +1,106 @@
 {
-  "appid": 1372670,
-  "name": "86",
-  "developer": "Loony Code",
-  "publisher": "Loony Code",
-  "tags": {
-    "Puzzle": 194,
-    "Sokoban": 188,
-    "Top-Down": 184,
-    "Hand-drawn": 179,
-    "Exploration": 173,
-    "Logic": 163,
-    "Grid-Based Movement": 156,
-    "Short": 148,
-    "Family Friendly": 140,
-    "Cartoony": 131,
-    "Cartoon": 120,
-    "2D": 119,
-    "Cute": 106,
-    "Mystery": 91,
-    "Old School": 76,
-    "Surreal": 60,
-    "Nonlinear": 43,
-    "Singleplayer": 27,
-    "Aliens": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1372670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1372670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 95.4000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1372670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1372670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1372670,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372670/header.jpg?t=1599145166",
+  "consensus_genre": "Indie",
+  "developer": "Loony Code",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 95.4000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372670/header.jpg?t=1599145166",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "86",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Loony Code",
+  "release_date": "2020/09/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 119,
+    "Aliens": 25,
+    "Cartoon": 120,
+    "Cartoony": 131,
+    "Cute": 106,
+    "Exploration": 173,
+    "Family Friendly": 140,
+    "Grid-Based Movement": 156,
+    "Hand-drawn": 179,
+    "Indie": 21,
+    "Logic": 163,
+    "Mystery": 91,
+    "Nonlinear": 43,
+    "Old School": 76,
+    "Puzzle": 194,
+    "Short": 148,
+    "Singleplayer": 27,
+    "Sokoban": 188,
+    "Surreal": 60,
+    "Top-Down": 184
+  },
+  "type": "game"
 }

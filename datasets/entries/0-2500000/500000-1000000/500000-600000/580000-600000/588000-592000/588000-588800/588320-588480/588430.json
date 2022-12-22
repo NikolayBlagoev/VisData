@@ -1,31 +1,201 @@
 {
-  "appid": 588430,
-  "name": "Fallout Shelter",
-  "developer": "Bethesda Game Studios",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "Free to Play": 2460,
-    "Base-Building": 1604,
-    "Survival": 1545,
-    "Post-apocalyptic": 1299,
-    "Singleplayer": 1051,
-    "Simulation": 920,
-    "Management": 879,
-    "Strategy": 844,
-    "2D": 764,
-    "Building": 730,
-    "Casual": 514,
-    "Crafting": 506,
-    "Adventure": 464,
-    "Sandbox": 432,
-    "RPG": 402,
-    "Multiplayer": 379,
-    "Funny": 320,
-    "Atmospheric": 302,
-    "Action": 290,
-    "Great Soundtrack": 211
+  "Average Playtime - 2 Weeks": {
+    "app_id": 588430,
+    "average_2weeks": 17,
+    "average_forever": 797,
+    "median_2weeks": 17,
+    "median_forever": 204
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 588430,
+    "average_2weeks": 17,
+    "average_forever": 797,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1646,
+    "2022-12-09": 1595,
+    "2022-12-10": 1539,
+    "2022-12-13": 1652,
+    "2022-12-15": 1567,
+    "2022-12-18": 1547,
+    "2022-12-21": 1570,
+    "2022-12-22": 1608
+  },
+  "Completion": 48.79999923706055,
+  "Down 30 Days": 111,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 4,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 8,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 5,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 5,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 69
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 10,
+      "recommendations_up": 146
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 79
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 7,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 588430,
+    "average_2weeks": 17,
+    "average_forever": 797,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "Median Playtime - Forever": {
+    "app_id": 588430,
+    "average_2weeks": 17,
+    "average_forever": 797,
+    "median_2weeks": 17,
+    "median_forever": 204
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 948,
+  "User Score": -1,
+  "appid": 588430,
   "categories": [
     "Single-player",
     "Stats",
@@ -34,184 +204,52 @@
     "Full controller support",
     "In-App Purchases"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 48035,
-  "negative": 6283,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 1981,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/03/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/588430/header.jpg?t=1666909289",
+  "consensus_genre": "Free to Play",
+  "developer": "Bethesda Game Studios",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 26,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 24,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 26,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 23,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 18,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 15,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 69,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 146,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 79,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 47,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 54,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 64,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 57,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 28,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 948,
-  "Down 30 Days": 111,
-  "Completion": 48.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/588430/header.jpg?t=1666909289",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
+  "name": "Fallout Shelter",
+  "negative": 6283,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 48035,
+  "price": "0",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2017/03/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 764,
+    "Action": 290,
+    "Adventure": 464,
+    "Atmospheric": 302,
+    "Base-Building": 1604,
+    "Building": 730,
+    "Casual": 514,
+    "Crafting": 506,
+    "Free to Play": 2460,
+    "Funny": 320,
+    "Great Soundtrack": 211,
+    "Management": 879,
+    "Multiplayer": 379,
+    "Post-apocalyptic": 1299,
+    "RPG": 402,
+    "Sandbox": 432,
+    "Simulation": 920,
+    "Singleplayer": 1051,
+    "Strategy": 844,
+    "Survival": 1545
+  },
+  "type": "game"
 }

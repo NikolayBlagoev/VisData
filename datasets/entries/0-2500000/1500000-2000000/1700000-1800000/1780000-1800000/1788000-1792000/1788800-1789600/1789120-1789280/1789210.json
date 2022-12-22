@@ -1,50 +1,63 @@
 {
-  "appid": 1789210,
-  "name": "Laypo Simulator",
-  "developer": "Lewibie",
-  "publisher": "Lewibie",
-  "tags": {
-    "Early Access": 255,
-    "Action": 231,
-    "Casual": 226,
-    "Simulation": 221,
-    "Strategy": 218,
-    "2D Fighter": 190,
-    "Card Game": 180,
-    "City Builder": 173,
-    "Life Sim": 165,
-    "Word Game": 156,
-    "Wargame": 148,
-    "2D": 138,
-    "Colorful": 126,
-    "Pixel Graphics": 124,
-    "Agriculture": 110,
-    "Building": 95,
-    "Economy": 79,
-    "Fantasy": 62,
-    "Management": 44,
-    "Resource Management": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1789210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1789210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1789210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1789210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1789210,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/11/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1789210/header.jpg?t=1651825201",
+  "consensus_genre": "Early Access",
+  "developer": "Lewibie",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -54,18 +67,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1789210/header.jpg?t=1651825201",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Laypo Simulator",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Lewibie",
+  "release_date": "2021/11/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 138,
+    "2D Fighter": 190,
+    "Action": 231,
+    "Agriculture": 110,
+    "Building": 95,
+    "Card Game": 180,
+    "Casual": 226,
+    "City Builder": 173,
+    "Colorful": 126,
+    "Early Access": 255,
+    "Economy": 79,
+    "Fantasy": 62,
+    "Life Sim": 165,
+    "Management": 44,
+    "Pixel Graphics": 124,
+    "Resource Management": 27,
+    "Simulation": 221,
+    "Strategy": 218,
+    "Wargame": 148,
+    "Word Game": 156
+  },
+  "type": "game"
 }

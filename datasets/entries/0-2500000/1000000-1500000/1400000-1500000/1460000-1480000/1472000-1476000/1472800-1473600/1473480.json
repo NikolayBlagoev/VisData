@@ -1,215 +1,253 @@
 {
-  "appid": 1473480,
-  "name": "A.V.A",
-  "developer": "NEOWIZ",
-  "publisher": "NEOWIZ",
-  "tags": {
-    "FPS": 268,
-    "PvP": 255,
-    "Competitive": 250,
-    "Shooter": 248,
-    "First-Person": 240,
-    "Action": 229,
-    "Military": 222,
-    "Sniper": 221,
-    "Free to Play": 212,
-    "Multiplayer": 212,
-    "Massively Multiplayer": 211,
-    "Singleplayer": 205,
-    "Violent": 135,
-    "PvE": 134,
-    "Online Co-Op": 121,
-    "Co-op": 102,
-    "Co-op Campaign": 99,
-    "Strategy": 96,
-    "Sexual Content": 87,
-    "Zombies": 78
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1473480,
+    "average_2weeks": 21,
+    "average_forever": 352,
+    "median_2weeks": 31,
+    "median_forever": 71
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1473480,
+    "average_2weeks": 21,
+    "average_forever": 352,
+    "median_2weeks": 31,
+    "median_forever": 71
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1879,
+    "2022-12-09": 726,
+    "2022-12-10": 1417,
+    "2022-12-13": 1262,
+    "2022-12-15": 1913,
+    "2022-12-18": 1680,
+    "2022-12-21": 1592,
+    "2022-12-22": 1719
+  },
+  "Completion": -1,
+  "Down 30 Days": 280,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 8,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 11,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 6,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 6,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 8,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 8,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 10,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 13,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 5,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 7,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 6,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 8,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 10,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 6,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 7,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 7,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 40,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 30,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 9,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 14,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 15,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 13,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 14,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1473480,
+    "average_2weeks": 21,
+    "average_forever": 352,
+    "median_2weeks": 31,
+    "median_forever": 71
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1473480,
+    "average_2weeks": 21,
+    "average_forever": 352,
+    "median_2weeks": 31,
+    "median_forever": 71
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 342,
+  "User Score": -1,
+  "appid": 1473480,
   "categories": [
     "Multi-player",
     "In-App Purchases",
     "Online PvP",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 2412,
-  "negative": 2733,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 2231,
-  "languages": "English, Simplified Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1473480/header.jpg?t=1667198298",
+  "consensus_genre": "Action",
+  "developer": "NEOWIZ",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 8,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 30,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 72,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 48,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 31,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 23,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 18,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 21,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 17,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    }
-  ],
-  "Up 30 Days": 342,
-  "Down 30 Days": 280,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1473480/header.jpg?t=1667198298",
+  "initialprice": "0",
+  "languages": "English, Simplified Chinese, Japanese",
+  "name": "A.V.A",
+  "negative": 2733,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2412,
+  "price": "0",
+  "publisher": "NEOWIZ",
+  "release_date": "2022/08/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 229,
+    "Co-op": 102,
+    "Co-op Campaign": 99,
+    "Competitive": 250,
+    "FPS": 268,
+    "First-Person": 240,
+    "Free to Play": 212,
+    "Massively Multiplayer": 211,
+    "Military": 222,
+    "Multiplayer": 212,
+    "Online Co-Op": 121,
+    "PvE": 134,
+    "PvP": 255,
+    "Sexual Content": 87,
+    "Shooter": 248,
+    "Singleplayer": 205,
+    "Sniper": 221,
+    "Strategy": 96,
+    "Violent": 135,
+    "Zombies": 78
+  },
+  "type": "game"
 }

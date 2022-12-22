@@ -1,31 +1,201 @@
 {
-  "appid": 233450,
-  "name": "Prison Architect",
-  "developer": "Double Eleven, Introversion Software",
-  "publisher": "Paradox Interactive",
-  "tags": {
-    "Simulation": 1861,
-    "Building": 1761,
-    "Sandbox": 1708,
-    "Strategy": 1690,
-    "Base-Building": 1675,
-    "Colony Sim": 1656,
-    "Management": 1606,
-    "City Builder": 1527,
-    "2D": 1520,
-    "Top-Down": 1499,
-    "Economy": 1032,
-    "Resource Management": 1024,
-    "Singleplayer": 1010,
-    "Capitalism": 1004,
-    "Multiplayer": 1004,
-    "Moddable": 1000,
-    "Funny": 997,
-    "Replay Value": 875,
-    "Indie": 866,
-    "Casual": 314
+  "Average Playtime - 2 Weeks": {
+    "app_id": 233450,
+    "average_2weeks": 3,
+    "average_forever": 1975,
+    "median_2weeks": 3,
+    "median_forever": 559
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 233450,
+    "average_2weeks": 3,
+    "average_forever": 1975,
+    "median_2weeks": 3,
+    "median_forever": 559
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1173,
+    "2022-12-09": 1261,
+    "2022-12-10": 1327,
+    "2022-12-13": 1256,
+    "2022-12-15": 1086,
+    "2022-12-18": 1127,
+    "2022-12-21": 1194,
+    "2022-12-22": 1144
+  },
+  "Completion": 34.25,
+  "Down 30 Days": 50,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 6,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 6,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 233450,
+    "average_2weeks": 3,
+    "average_forever": 1975,
+    "median_2weeks": 3,
+    "median_forever": 559
+  },
+  "Median Playtime - Forever": {
+    "app_id": 233450,
+    "average_2weeks": 3,
+    "average_forever": 1975,
+    "median_2weeks": 3,
+    "median_forever": 559
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB M",
+  "Up 30 Days": 346,
+  "User Score": -1,
+  "appid": 233450,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -34,184 +204,52 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 57563,
-  "negative": 6155,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 1120,
-  "languages": "English, French, Italian, German, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Spain, Dutch, Japanese, Swedish, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/10/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/233450/header.jpg?t=1668093280",
+  "consensus_genre": "Simulation",
+  "developer": "Double Eleven, Introversion Software",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 8,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 25,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 32,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 20,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 346,
-  "Down 30 Days": 50,
-  "Completion": 34.25,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/233450/header.jpg?t=1668093280",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Spain, Dutch, Japanese, Swedish, Traditional Chinese, Turkish",
+  "name": "Prison Architect",
+  "negative": 6155,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 57563,
+  "price": "2999",
+  "publisher": "Paradox Interactive",
+  "release_date": "2015/10/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 1520,
+    "Base-Building": 1675,
+    "Building": 1761,
+    "Capitalism": 1004,
+    "Casual": 314,
+    "City Builder": 1527,
+    "Colony Sim": 1656,
+    "Economy": 1032,
+    "Funny": 997,
+    "Indie": 866,
+    "Management": 1606,
+    "Moddable": 1000,
+    "Multiplayer": 1004,
+    "Replay Value": 875,
+    "Resource Management": 1024,
+    "Sandbox": 1708,
+    "Simulation": 1861,
+    "Singleplayer": 1010,
+    "Strategy": 1690,
+    "Top-Down": 1499
+  },
+  "type": "game"
 }

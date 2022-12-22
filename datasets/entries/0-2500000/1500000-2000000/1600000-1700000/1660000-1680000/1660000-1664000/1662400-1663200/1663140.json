@@ -1,59 +1,97 @@
 {
-  "appid": 1663140,
-  "name": "\u5973\u5b69\u4e0e\u4e03\u5339\u72fc",
-  "developer": "Asong",
-  "publisher": "Asong",
-  "tags": {
-    "RPG": 63,
-    "Puzzle": 38,
-    "Exploration": 35,
-    "First-Person": 33,
-    "Thriller": 29,
-    "Female Protagonist": 23,
-    "Indie": 21,
-    "Singleplayer": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1663140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1663140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1663140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1663140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1663140,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 2,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663140/header.jpg?t=1625753208",
+  "consensus_genre": "RPG",
+  "developer": "Asong",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1663140/header.jpg?t=1625753208",
+  "initialprice": "99",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u5973\u5b69\u4e0e\u4e03\u5339\u72fc",
+  "negative": 2,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Asong",
+  "release_date": "2021/07/8",
+  "required_age": 0,
+  "tags": {
+    "Exploration": 35,
+    "Female Protagonist": 23,
+    "First-Person": 33,
+    "Indie": 21,
+    "Puzzle": 38,
+    "RPG": 63,
+    "Singleplayer": 21,
+    "Thriller": 29
+  },
+  "type": "game"
 }

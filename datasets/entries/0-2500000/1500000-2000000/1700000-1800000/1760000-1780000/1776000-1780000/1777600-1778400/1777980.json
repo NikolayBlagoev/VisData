@@ -1,68 +1,106 @@
 {
-  "appid": 1777980,
-  "name": "Touhou Adventure",
-  "developer": "Crimson Games Dev",
-  "publisher": "Crimson Games Dev",
-  "tags": {
-    "Early Access": 485,
-    "Action": 440,
-    "Adventure": 433,
-    "2D Fighter": 408,
-    "Action-Adventure": 405,
-    "Farming Sim": 399,
-    "Shooter": 389,
-    "Bullet Hell": 381,
-    "Looter Shooter": 373,
-    "Shoot 'Em Up": 364,
-    "2.5D": 354,
-    "Anime": 344,
-    "Cute": 331,
-    "Pixel Graphics": 319,
-    "Top-Down": 306,
-    "Agriculture": 293,
-    "Faith": 277,
-    "Fantasy": 274,
-    "Fishing": 256,
-    "Magic": 237
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1777980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1777980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 24.949999809265137,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1777980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1777980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1777980,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1777980/header.jpg?t=1667673945",
+  "consensus_genre": "Early Access",
+  "developer": "Crimson Games Dev",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 24.949999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1777980/header.jpg?t=1667673945",
+  "initialprice": "499",
+  "languages": "English, Japanese",
+  "name": "Touhou Adventure",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Crimson Games Dev",
+  "release_date": "2021/10/20",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 354,
+    "2D Fighter": 408,
+    "Action": 440,
+    "Action-Adventure": 405,
+    "Adventure": 433,
+    "Agriculture": 293,
+    "Anime": 344,
+    "Bullet Hell": 381,
+    "Cute": 331,
+    "Early Access": 485,
+    "Faith": 277,
+    "Fantasy": 274,
+    "Farming Sim": 399,
+    "Fishing": 256,
+    "Looter Shooter": 373,
+    "Magic": 237,
+    "Pixel Graphics": 319,
+    "Shoot 'Em Up": 364,
+    "Shooter": 389,
+    "Top-Down": 306
+  },
+  "type": "game"
 }

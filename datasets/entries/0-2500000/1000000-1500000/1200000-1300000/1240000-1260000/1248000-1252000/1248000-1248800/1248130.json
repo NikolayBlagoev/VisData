@@ -1,31 +1,201 @@
 {
-  "appid": 1248130,
-  "name": "Farming Simulator 22",
-  "developer": "Giants Software",
-  "publisher": "Giants Software",
-  "tags": {
-    "Simulation": 644,
-    "Co-op": 628,
-    "Farming Sim": 625,
-    "Agriculture": 601,
-    "Moddable": 571,
-    "Management": 551,
-    "Sandbox": 512,
-    "Multiplayer": 511,
-    "3D": 488,
-    "Immersive Sim": 486,
-    "First-Person": 485,
-    "Character Customization": 458,
-    "Economy": 455,
-    "Online Co-Op": 452,
-    "Family Friendly": 445,
-    "Open World": 441,
-    "Third Person": 438,
-    "Nature": 427,
-    "America": 419,
-    "Horses": 418
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1248130,
+    "average_2weeks": 756,
+    "average_forever": 8574,
+    "median_2weeks": 425,
+    "median_forever": 2850
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1248130,
+    "average_2weeks": 756,
+    "average_forever": 8574,
+    "median_2weeks": 425,
+    "median_forever": 2850
+  },
+  "CCU Histogram": {
+    "2022-12-08": 30081,
+    "2022-12-09": 29926,
+    "2022-12-10": 28895,
+    "2022-12-13": 25452,
+    "2022-12-15": 27576,
+    "2022-12-18": 24804,
+    "2022-12-21": 26160,
+    "2022-12-22": 29038
+  },
+  "Completion": 41.64999961853027,
+  "Down 30 Days": 92,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 5,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 3,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 8,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 10,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 99
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 6,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 6,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 7,
+      "recommendations_up": 73
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1248130,
+    "average_2weeks": 756,
+    "average_forever": 8574,
+    "median_2weeks": 425,
+    "median_forever": 2850
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1248130,
+    "average_2weeks": 756,
+    "average_forever": 8574,
+    "median_2weeks": 425,
+    "median_forever": 2850
+  },
+  "Meta Score": "78",
+  "Rating": "ESRB E",
+  "Up 30 Days": 1461,
+  "User Score": -1,
+  "appid": 1248130,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,182 +208,50 @@
     "Online Co-op",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 33215,
-  "negative": 3797,
-  "price": "4999",
-  "initialprice": "4999",
-  "discount": "0",
   "ccu": 30825,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Norwegian, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/11/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg?t=1659447814",
+  "consensus_genre": "Simulation",
+  "developer": "Giants Software",
+  "discount": "0",
   "genre": [
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": "78",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 40,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 34,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 28,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 36,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 46,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 43,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 29,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 38,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 49,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 45,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 99,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 55,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 48,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 40,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 43,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 45,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 51,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 38,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 76,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 105,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 76,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 77,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 82,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 73,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 39,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 40,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1461,
-  "Down 30 Days": 92,
-  "Completion": 41.64999961853027,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg?t=1659447814",
+  "initialprice": "4999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Norwegian, Spanish - Latin America",
+  "name": "Farming Simulator 22",
+  "negative": 3797,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 33215,
+  "price": "4999",
+  "publisher": "Giants Software",
+  "release_date": "2021/11/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 488,
+    "Agriculture": 601,
+    "America": 419,
+    "Character Customization": 458,
+    "Co-op": 628,
+    "Economy": 455,
+    "Family Friendly": 445,
+    "Farming Sim": 625,
+    "First-Person": 485,
+    "Horses": 418,
+    "Immersive Sim": 486,
+    "Management": 551,
+    "Moddable": 571,
+    "Multiplayer": 511,
+    "Nature": 427,
+    "Online Co-Op": 452,
+    "Open World": 441,
+    "Sandbox": 512,
+    "Simulation": 644,
+    "Third Person": 438
+  },
+  "type": "game"
 }

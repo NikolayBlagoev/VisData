@@ -1,31 +1,201 @@
 {
-  "appid": 780310,
-  "name": "The Riftbreaker",
-  "developer": "EXOR Studios",
-  "publisher": "EXOR Studios, Surefire.Games",
-  "tags": {
-    "Base-Building": 272,
-    "Strategy": 223,
-    "Tower Defense": 218,
-    "Survival": 213,
-    "Hack and Slash": 171,
-    "Crafting": 160,
-    "Sci-fi": 151,
-    "Resource Management": 149,
-    "Action RPG": 145,
-    "Building": 140,
-    "Adventure": 139,
-    "Exploration": 136,
-    "RPG": 136,
-    "Simulation": 129,
-    "Isometric": 125,
-    "Loot": 122,
-    "Sandbox": 120,
-    "Action": 106,
-    "Atmospheric": 102,
-    "Mechs": 74
+  "Average Playtime - 2 Weeks": {
+    "app_id": 780310,
+    "average_2weeks": 73,
+    "average_forever": 1486,
+    "median_2weeks": 73,
+    "median_forever": 1693
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 780310,
+    "average_2weeks": 73,
+    "average_forever": 1486,
+    "median_2weeks": 73,
+    "median_forever": 1693
+  },
+  "CCU Histogram": {
+    "2022-12-08": 980,
+    "2022-12-09": 910,
+    "2022-12-10": 876,
+    "2022-12-13": 655,
+    "2022-12-15": 672,
+    "2022-12-18": 647,
+    "2022-12-21": 557,
+    "2022-12-22": 656
+  },
+  "Completion": 37.29999923706055,
+  "Down 30 Days": 31,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 780310,
+    "average_2weeks": 73,
+    "average_forever": 1486,
+    "median_2weeks": 73,
+    "median_forever": 1693
+  },
+  "Median Playtime - Forever": {
+    "app_id": 780310,
+    "average_2weeks": 73,
+    "average_forever": 1486,
+    "median_2weeks": 73,
+    "median_forever": 1693
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB T",
+  "Up 30 Days": 315,
+  "User Score": -1,
+  "appid": 780310,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -35,22 +205,10 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 11008,
-  "negative": 981,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 384,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/780310/header.jpg?t=1662731240",
+  "consensus_genre": "Strategy",
+  "developer": "EXOR Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -59,163 +217,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 20,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 37,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 23,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 26,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 34,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 315,
-  "Down 30 Days": 31,
-  "Completion": 37.29999923706055,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/780310/header.jpg?t=1662731240",
+  "initialprice": "2999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Portuguese - Brazil",
+  "name": "The Riftbreaker",
+  "negative": 981,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 11008,
+  "price": "2999",
+  "publisher": "EXOR Studios, Surefire.Games",
+  "release_date": "2021/10/14",
+  "required_age": 0,
+  "tags": {
+    "Action": 106,
+    "Action RPG": 145,
+    "Adventure": 139,
+    "Atmospheric": 102,
+    "Base-Building": 272,
+    "Building": 140,
+    "Crafting": 160,
+    "Exploration": 136,
+    "Hack and Slash": 171,
+    "Isometric": 125,
+    "Loot": 122,
+    "Mechs": 74,
+    "RPG": 136,
+    "Resource Management": 149,
+    "Sandbox": 120,
+    "Sci-fi": 151,
+    "Simulation": 129,
+    "Strategy": 223,
+    "Survival": 213,
+    "Tower Defense": 218
+  },
+  "type": "game"
 }

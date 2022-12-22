@@ -1,31 +1,201 @@
 {
-  "appid": 1948280,
-  "name": "Stacklands",
-  "developer": "Sokpop Collective",
-  "publisher": "Sokpop Collective",
-  "tags": {
-    "Card Battler": 183,
-    "Management": 181,
-    "Rogue-lite": 180,
-    "Card Game": 177,
-    "Survival": 176,
-    "City Builder": 166,
-    "Solitaire": 163,
-    "Building": 155,
-    "Strategy": 146,
-    "Tabletop": 134,
-    "2D": 130,
-    "Cute": 123,
-    "Deckbuilding": 116,
-    "Singleplayer": 112,
-    "Simulation": 109,
-    "Colorful": 106,
-    "Hand-drawn": 102,
-    "Indie": 91,
-    "Casual": 75,
-    "Fantasy": 38
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1948280,
+    "average_2weeks": 70,
+    "average_forever": 337,
+    "median_2weeks": 75,
+    "median_forever": 252
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1948280,
+    "average_2weeks": 70,
+    "average_forever": 337,
+    "median_2weeks": 75,
+    "median_forever": 252
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1122,
+    "2022-12-09": 1052,
+    "2022-12-10": 962,
+    "2022-12-13": 758,
+    "2022-12-15": 915,
+    "2022-12-18": 1017,
+    "2022-12-21": 1070,
+    "2022-12-22": 1224
+  },
+  "Completion": 82.25,
+  "Down 30 Days": 51,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 324
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 918
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 7,
+      "recommendations_up": 398
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 316
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 4,
+      "recommendations_up": 316
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 275
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 224
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 210
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 41
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1948280,
+    "average_2weeks": 70,
+    "average_forever": 337,
+    "median_2weeks": 75,
+    "median_forever": 252
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1948280,
+    "average_2weeks": 70,
+    "average_forever": 337,
+    "median_2weeks": 75,
+    "median_forever": 252
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3520,
+  "User Score": -1,
+  "appid": 1948280,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,184 +203,52 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 0,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 636,
-  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/04/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1948280/header.jpg?t=1657626123",
+  "consensus_genre": "Simulation",
+  "developer": "Sokpop Collective",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 24,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 19,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 31,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 39,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 35,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 324,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 918,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 398,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 316,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 316,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 275,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 224,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 210,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 41,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 3520,
-  "Down 30 Days": 51,
-  "Completion": 82.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1948280/header.jpg?t=1657626123",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+  "name": "Stacklands",
+  "negative": 0,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Sokpop Collective",
+  "release_date": "2022/04/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 130,
+    "Building": 155,
+    "Card Battler": 183,
+    "Card Game": 177,
+    "Casual": 75,
+    "City Builder": 166,
+    "Colorful": 106,
+    "Cute": 123,
+    "Deckbuilding": 116,
+    "Fantasy": 38,
+    "Hand-drawn": 102,
+    "Indie": 91,
+    "Management": 181,
+    "Rogue-lite": 180,
+    "Simulation": 109,
+    "Singleplayer": 112,
+    "Solitaire": 163,
+    "Strategy": 146,
+    "Survival": 176,
+    "Tabletop": 134
+  },
+  "type": "game"
 }

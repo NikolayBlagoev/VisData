@@ -1,27 +1,56 @@
 {
-  "appid": 1845040,
-  "name": "Panzers on the Steppe",
-  "developer": "Demetrios Glinos",
-  "publisher": "Advanced Text Analytics, LLC",
-  "tags": {
-    "Simulation": 77,
-    "Historical": 73,
-    "Hex Grid": 71,
-    "2D": 67,
-    "Local Co-Op": 63,
-    "Strategy": 57,
-    "Local Multiplayer": 36,
-    "Singleplayer": 34,
-    "Turn-Based Strategy": 33,
-    "Wargame": 32,
-    "Top-Down": 28,
-    "War": 26,
-    "World War II": 26,
-    "Turn-Based Combat": 22,
-    "Asynchronous Multiplayer": 20,
-    "Multiplayer": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1845040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1845040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1845040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1845040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1845040,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -29,38 +58,47 @@
     "LAN PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/01/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1845040/header.jpg?t=1662056927",
+  "consensus_genre": "Simulation",
+  "developer": "Demetrios Glinos",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1845040/header.jpg?t=1662056927",
+  "initialprice": "5999",
+  "languages": "English",
+  "name": "Panzers on the Steppe",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "5999",
+  "publisher": "Advanced Text Analytics, LLC",
+  "release_date": "2022/01/13",
+  "required_age": 0,
+  "tags": {
+    "2D": 67,
+    "Asynchronous Multiplayer": 20,
+    "Hex Grid": 71,
+    "Historical": 73,
+    "Local Co-Op": 63,
+    "Local Multiplayer": 36,
+    "Multiplayer": 19,
+    "Simulation": 77,
+    "Singleplayer": 34,
+    "Strategy": 57,
+    "Top-Down": 28,
+    "Turn-Based Combat": 22,
+    "Turn-Based Strategy": 33,
+    "War": 26,
+    "Wargame": 32,
+    "World War II": 26
+  },
+  "type": "game"
 }

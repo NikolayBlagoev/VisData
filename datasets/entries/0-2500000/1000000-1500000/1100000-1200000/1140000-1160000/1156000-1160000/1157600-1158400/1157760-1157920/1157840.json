@@ -1,16 +1,56 @@
 {
-  "appid": 1157840,
-  "name": "Firezone",
-  "developer": "Arcadia",
-  "publisher": "MIRROR Soft",
-  "tags": {
-    "Strategy": 43,
-    "Hex Grid": 13,
-    "Retro": 13,
-    "Sci-fi": 12,
-    "Turn-Based Strategy": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1157840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1157840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1157840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1157840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1157840,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -19,37 +59,35 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2020/02/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1157840/header.jpg?t=1614361042",
+  "consensus_genre": "Strategy",
+  "developer": "Arcadia",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1157840/header.jpg?t=1614361042",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Firezone",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "699",
+  "publisher": "MIRROR Soft",
+  "release_date": "2020/02/6",
+  "required_age": 0,
+  "tags": {
+    "Hex Grid": 13,
+    "Retro": 13,
+    "Sci-fi": 12,
+    "Strategy": 43,
+    "Turn-Based Strategy": 11
+  },
+  "type": "game"
 }

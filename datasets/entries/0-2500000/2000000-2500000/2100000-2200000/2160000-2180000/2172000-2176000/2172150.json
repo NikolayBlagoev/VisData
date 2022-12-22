@@ -1,50 +1,63 @@
 {
-  "appid": 2172150,
-  "name": "ANGEL DROID",
-  "developer": "Lunar Penguin Media LLC",
-  "publisher": "Lunar Penguin Media LLC",
-  "tags": {
-    "Early Access": 439,
-    "Action Roguelike": 399,
-    "Side Scroller": 394,
-    "Bullet Hell": 390,
-    "Hack and Slash": 388,
-    "Souls-like": 383,
-    "Rogue-lite": 376,
-    "Card Game": 374,
-    "Action RPG": 368,
-    "RPG": 366,
-    "Arcade": 363,
-    "Rogue-like": 358,
-    "Character Customization": 351,
-    "2D": 339,
-    "Dragons": 327,
-    "Action": 326,
-    "Psychological Horror": 323,
-    "Surreal": 319,
-    "Choices Matter": 316,
-    "Deckbuilding": 314
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2172150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2172150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2172150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2172150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2172150,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2172150/header.jpg?t=1667177591",
+  "consensus_genre": "Early Access",
+  "developer": "Lunar Penguin Media LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -52,18 +65,43 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2172150/header.jpg?t=1667177591",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "ANGEL DROID",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Lunar Penguin Media LLC",
+  "release_date": "2022/10/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 339,
+    "Action": 326,
+    "Action RPG": 368,
+    "Action Roguelike": 399,
+    "Arcade": 363,
+    "Bullet Hell": 390,
+    "Card Game": 374,
+    "Character Customization": 351,
+    "Choices Matter": 316,
+    "Deckbuilding": 314,
+    "Dragons": 327,
+    "Early Access": 439,
+    "Hack and Slash": 388,
+    "Psychological Horror": 323,
+    "RPG": 366,
+    "Rogue-like": 358,
+    "Rogue-lite": 376,
+    "Side Scroller": 394,
+    "Souls-like": 383,
+    "Surreal": 319
+  },
+  "type": "game"
 }

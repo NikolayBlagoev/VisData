@@ -1,68 +1,106 @@
 {
-  "appid": 1550470,
-  "name": "Polgar: Magic detective",
-  "developer": "Cooking and Publishing",
-  "publisher": "Cooking and Publishing",
-  "tags": {
-    "Investigation": 166,
-    "Point & Click": 159,
-    "2D": 156,
-    "Adventure": 151,
-    "Puzzle": 147,
-    "Exploration": 139,
-    "Creature Collector": 136,
-    "Interactive Fiction": 133,
-    "Choose Your Own Adventure": 132,
-    "Singleplayer": 129,
-    "Cute": 125,
-    "Story Rich": 123,
-    "Linear": 112,
-    "Strategy": 98,
-    "Narration": 88,
-    "Indie": 79,
-    "Text-Based": 72,
-    "Hand-drawn": 71,
-    "Assassin": 66,
-    "RPG": 61
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1550470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1550470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1550470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1550470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1550470,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1550470/header.jpg?t=1636627385",
+  "consensus_genre": "Adventure",
+  "developer": "Cooking and Publishing",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1550470/header.jpg?t=1636627385",
+  "initialprice": "1199",
+  "languages": "English, Spanish - Spain",
+  "name": "Polgar: Magic detective",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1199",
+  "publisher": "Cooking and Publishing",
+  "release_date": "2021/11/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 156,
+    "Adventure": 151,
+    "Assassin": 66,
+    "Choose Your Own Adventure": 132,
+    "Creature Collector": 136,
+    "Cute": 125,
+    "Exploration": 139,
+    "Hand-drawn": 71,
+    "Indie": 79,
+    "Interactive Fiction": 133,
+    "Investigation": 166,
+    "Linear": 112,
+    "Narration": 88,
+    "Point & Click": 159,
+    "Puzzle": 147,
+    "RPG": 61,
+    "Singleplayer": 129,
+    "Story Rich": 123,
+    "Strategy": 98,
+    "Text-Based": 72
+  },
+  "type": "game"
 }

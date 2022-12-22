@@ -1,214 +1,252 @@
 {
-  "appid": 757320,
-  "name": "Atomicrops",
-  "developer": "Bird Bath Games",
-  "publisher": "Raw Fury",
-  "tags": {
-    "Action": 214,
-    "Indie": 198,
-    "Farming Sim": 181,
-    "Bullet Hell": 171,
-    "Action Roguelike": 168,
-    "Rogue-like": 167,
-    "Rogue-lite": 162,
-    "Pixel Graphics": 152,
-    "Twin Stick Shooter": 145,
-    "Survival": 138,
-    "Simulation": 134,
-    "Colorful": 125,
-    "Agriculture": 120,
-    "Combat": 106,
-    "Gun Customization": 98,
-    "Perma Death": 98,
-    "Open World": 94,
-    "PvE": 89,
-    "Singleplayer": 88,
-    "Cats": 75
+  "Average Playtime - 2 Weeks": {
+    "app_id": 757320,
+    "average_2weeks": 0,
+    "average_forever": 1105,
+    "median_2weeks": 0,
+    "median_forever": 1788
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 757320,
+    "average_2weeks": 0,
+    "average_forever": 1105,
+    "median_2weeks": 0,
+    "median_forever": 1788
+  },
+  "CCU Histogram": {
+    "2022-12-08": 126,
+    "2022-12-09": 119,
+    "2022-12-10": 111,
+    "2022-12-13": 159,
+    "2022-12-15": 122,
+    "2022-12-18": 107,
+    "2022-12-21": 122,
+    "2022-12-22": 130
+  },
+  "Completion": 42.30000114440918,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 757320,
+    "average_2weeks": 0,
+    "average_forever": 1105,
+    "median_2weeks": 0,
+    "median_forever": 1788
+  },
+  "Median Playtime - Forever": {
+    "app_id": 757320,
+    "average_2weeks": 0,
+    "average_forever": 1105,
+    "median_2weeks": 0,
+    "median_forever": 1788
+  },
+  "Meta Score": "78",
+  "Rating": "ESRB T",
+  "Up 30 Days": 89,
+  "User Score": -1,
+  "appid": 757320,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 974,
-  "negative": 81,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 287,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Czech, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/757320/header.jpg?t=1667986269",
+  "consensus_genre": "Action",
+  "developer": "Bird Bath Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "78",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 89,
-  "Down 30 Days": 6,
-  "Completion": 42.30000114440918,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/757320/header.jpg?t=1667986269",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Czech, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian",
+  "name": "Atomicrops",
+  "negative": 81,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 974,
+  "price": "1499",
+  "publisher": "Raw Fury",
+  "release_date": "2020/09/17",
+  "required_age": 0,
+  "tags": {
+    "Action": 214,
+    "Action Roguelike": 168,
+    "Agriculture": 120,
+    "Bullet Hell": 171,
+    "Cats": 75,
+    "Colorful": 125,
+    "Combat": 106,
+    "Farming Sim": 181,
+    "Gun Customization": 98,
+    "Indie": 198,
+    "Open World": 94,
+    "Perma Death": 98,
+    "Pixel Graphics": 152,
+    "PvE": 89,
+    "Rogue-like": 167,
+    "Rogue-lite": 162,
+    "Simulation": 134,
+    "Singleplayer": 88,
+    "Survival": 138,
+    "Twin Stick Shooter": 145
+  },
+  "type": "game"
 }

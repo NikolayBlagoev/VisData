@@ -1,211 +1,249 @@
 {
-  "appid": 12100,
-  "name": "Grand Theft Auto III",
-  "developer": "Rockstar Games",
-  "publisher": "Rockstar Games",
-  "tags": {
-    "Open World": 450,
-    "Action": 400,
-    "Automobile Sim": 360,
-    "Classic": 274,
-    "Third Person": 237,
-    "Crime": 210,
-    "Singleplayer": 208,
-    "Driving": 185,
-    "Sandbox": 183,
-    "Shooter": 157,
-    "Third-Person Shooter": 139,
-    "Great Soundtrack": 121,
-    "Violent": 116,
-    "Adventure": 114,
-    "Atmospheric": 109,
-    "Silent Protagonist": 105,
-    "Mature": 95,
-    "Story Rich": 85,
-    "Moddable": 60,
-    "Multiplayer": 60
+  "Average Playtime - 2 Weeks": {
+    "app_id": 12100,
+    "average_2weeks": 11,
+    "average_forever": 920,
+    "median_2weeks": 11,
+    "median_forever": 41
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 12100,
+    "average_2weeks": 11,
+    "average_forever": 920,
+    "median_2weeks": 11,
+    "median_forever": 41
+  },
+  "CCU Histogram": {
+    "2022-12-08": 41,
+    "2022-12-09": 54,
+    "2022-12-10": 54,
+    "2022-12-13": 74,
+    "2022-12-15": 64,
+    "2022-12-18": 61,
+    "2022-12-21": 65,
+    "2022-12-22": 55
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 12100,
+    "average_2weeks": 11,
+    "average_forever": 920,
+    "median_2weeks": 11,
+    "median_forever": 41
+  },
+  "Median Playtime - Forever": {
+    "app_id": 12100,
+    "average_2weeks": 11,
+    "average_forever": 920,
+    "median_2weeks": 11,
+    "median_forever": 41
+  },
+  "Meta Score": "93",
+  "Rating": "ESRB M",
+  "Up 30 Days": 63,
+  "User Score": -1,
+  "appid": 12100,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 11349,
-  "negative": 1808,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 85,
-  "languages": "English, French, German, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2008/01/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/12100/header.jpg?t=1634144440",
+  "consensus_genre": "Action",
+  "developer": "Rockstar Games",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "93",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 63,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/12100/header.jpg?t=1634144440",
+  "initialprice": "0",
+  "languages": "English, French, German, Italian, Spanish - Spain",
+  "name": "Grand Theft Auto III",
+  "negative": 1808,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 11349,
+  "price": "0",
+  "publisher": "Rockstar Games",
+  "release_date": "2008/01/4",
+  "required_age": 0,
+  "tags": {
+    "Action": 400,
+    "Adventure": 114,
+    "Atmospheric": 109,
+    "Automobile Sim": 360,
+    "Classic": 274,
+    "Crime": 210,
+    "Driving": 185,
+    "Great Soundtrack": 121,
+    "Mature": 95,
+    "Moddable": 60,
+    "Multiplayer": 60,
+    "Open World": 450,
+    "Sandbox": 183,
+    "Shooter": 157,
+    "Silent Protagonist": 105,
+    "Singleplayer": 208,
+    "Story Rich": 85,
+    "Third Person": 237,
+    "Third-Person Shooter": 139,
+    "Violent": 116
+  },
+  "type": "game"
 }

@@ -1,31 +1,56 @@
 {
-  "appid": 1223760,
-  "name": "Recoil",
-  "developer": "Hruy Gashaw",
-  "publisher": "Hruy Gashaw",
-  "tags": {
-    "Action": 105,
-    "Indie": 99,
-    "Casual": 91,
-    "Physics": 88,
-    "4 Player Local": 87,
-    "Strategy": 84,
-    "Controller": 79,
-    "Tactical": 75,
-    "Combat": 72,
-    "Local Multiplayer": 70,
-    "Competitive": 66,
-    "2D Fighter": 61,
-    "Arcade": 56,
-    "Fighting": 48,
-    "Shooter": 44,
-    "2D": 39,
-    "Cartoony": 36,
-    "Minimalist": 34,
-    "Stylized": 32,
-    "PvP": 30
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1223760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1223760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 3.700000047683716,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1223760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1223760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1223760,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,40 +61,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1223760/header.jpg?t=1662048060",
+  "consensus_genre": "Action",
+  "developer": "Hruy Gashaw",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 3.700000047683716,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1223760/header.jpg?t=1662048060",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Recoil",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "Hruy Gashaw",
+  "release_date": "2020/09/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 39,
+    "2D Fighter": 61,
+    "4 Player Local": 87,
+    "Action": 105,
+    "Arcade": 56,
+    "Cartoony": 36,
+    "Casual": 91,
+    "Combat": 72,
+    "Competitive": 66,
+    "Controller": 79,
+    "Fighting": 48,
+    "Indie": 99,
+    "Local Multiplayer": 70,
+    "Minimalist": 34,
+    "Physics": 88,
+    "PvP": 30,
+    "Shooter": 44,
+    "Strategy": 84,
+    "Stylized": 32,
+    "Tactical": 75
+  },
+  "type": "game"
 }

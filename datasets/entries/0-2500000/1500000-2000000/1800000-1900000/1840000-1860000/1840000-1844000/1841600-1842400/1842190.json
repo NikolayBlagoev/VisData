@@ -1,66 +1,104 @@
 {
-  "appid": 1842190,
-  "name": "jingor 2048",
-  "developer": "ZHANG LIDONG",
-  "publisher": "ZHANG LIDONG",
-  "tags": {
-    "Casual": 196,
-    "Strategy": 190,
-    "Match 3": 165,
-    "Puzzle-Platformer": 160,
-    "Futuristic": 155,
-    "Puzzle": 146,
-    "Score Attack": 138,
-    "Education": 130,
-    "Board Game": 121,
-    "Minimalist": 113,
-    "Detective": 102,
-    "Relaxing": 100,
-    "Logic": 87,
-    "Tabletop": 72,
-    "Clicker": 57,
-    "Colorful": 42,
-    "2D": 28,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1842190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1842190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1842190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1842190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1842190,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/01/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1842190/header.jpg?t=1641905202",
+  "consensus_genre": "Casual",
+  "developer": "ZHANG LIDONG",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1842190/header.jpg?t=1641905202",
+  "initialprice": "199",
+  "languages": "English, Simplified Chinese",
+  "name": "jingor 2048",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "ZHANG LIDONG",
+  "release_date": "2022/01/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 28,
+    "Board Game": 121,
+    "Casual": 196,
+    "Clicker": 57,
+    "Colorful": 42,
+    "Detective": 102,
+    "Education": 130,
+    "Futuristic": 155,
+    "Indie": 21,
+    "Logic": 87,
+    "Match 3": 165,
+    "Minimalist": 113,
+    "Puzzle": 146,
+    "Puzzle-Platformer": 160,
+    "Relaxing": 100,
+    "Score Attack": 138,
+    "Singleplayer": 25,
+    "Strategy": 190,
+    "Tabletop": 72
+  },
+  "type": "game"
 }

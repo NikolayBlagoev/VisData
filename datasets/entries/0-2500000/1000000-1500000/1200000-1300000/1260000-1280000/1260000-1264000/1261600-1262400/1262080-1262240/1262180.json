@@ -1,69 +1,107 @@
 {
-  "appid": 1262180,
-  "name": "Space Haters",
-  "developer": "Beehive Games",
-  "publisher": "Beehive Games",
-  "tags": {
-    "Shoot 'Em Up": 297,
-    "Arcade": 290,
-    "2D": 287,
-    "Space": 281,
-    "Indie": 278,
-    "Music": 275,
-    "Action": 270,
-    "Colorful": 265,
-    "Shooter": 241,
-    "Stylized": 231,
-    "Top-Down": 220,
-    "Futuristic": 209,
-    "Sci-fi": 197,
-    "Combat": 183,
-    "Score Attack": 181,
-    "Singleplayer": 165,
-    "Bullet Hell": 149,
-    "Psychedelic": 130,
-    "Comedy": 111,
-    "Funny": 91
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1262180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1262180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 33.29999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1262180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1262180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1262180,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262180/header.jpg?t=1636396088",
+  "consensus_genre": "Indie",
+  "developer": "Beehive Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 33.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262180/header.jpg?t=1636396088",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Space Haters",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Beehive Games",
+  "release_date": "2021/04/19",
+  "required_age": 0,
+  "tags": {
+    "2D": 287,
+    "Action": 270,
+    "Arcade": 290,
+    "Bullet Hell": 149,
+    "Colorful": 265,
+    "Combat": 183,
+    "Comedy": 111,
+    "Funny": 91,
+    "Futuristic": 209,
+    "Indie": 278,
+    "Music": 275,
+    "Psychedelic": 130,
+    "Sci-fi": 197,
+    "Score Attack": 181,
+    "Shoot 'Em Up": 297,
+    "Shooter": 241,
+    "Singleplayer": 165,
+    "Space": 281,
+    "Stylized": 231,
+    "Top-Down": 220
+  },
+  "type": "game"
 }

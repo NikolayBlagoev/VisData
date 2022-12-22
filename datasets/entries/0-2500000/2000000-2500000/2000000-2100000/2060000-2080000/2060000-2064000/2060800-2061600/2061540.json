@@ -1,28 +1,71 @@
 {
-  "appid": 2061540,
-  "name": "Chompies!",
-  "developer": "Eucalypt",
-  "publisher": "Eucalypt",
-  "tags": {
-    "Casual": 89,
-    "Action": 83,
-    "Platformer": 79,
-    "2D Fighter": 76,
-    "2D Platformer": 73,
-    "2D": 67,
-    "Cartoon": 65,
-    "Cartoony": 63,
-    "Cute": 61,
-    "Funny": 59,
-    "Controller": 57,
-    "4 Player Local": 55,
-    "Local Multiplayer": 53,
-    "Multiplayer": 51,
-    "Indie": 50,
-    "Sports": 46,
-    "Fighting": 28
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2061540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2061540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2061540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2061540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 2061540,
   "categories": [
     "Multi-player",
     "Partial Controller Support",
@@ -31,55 +74,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 6,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2061540/header.jpg?t=1661231619",
+  "consensus_genre": "Casual",
+  "developer": "Eucalypt",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Sports"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2061540/header.jpg?t=1661231619",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Chompies!",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6,
+  "price": "99",
+  "publisher": "Eucalypt",
+  "release_date": "2022/08/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 67,
+    "2D Fighter": 76,
+    "2D Platformer": 73,
+    "4 Player Local": 55,
+    "Action": 83,
+    "Cartoon": 65,
+    "Cartoony": 63,
+    "Casual": 89,
+    "Controller": 57,
+    "Cute": 61,
+    "Fighting": 28,
+    "Funny": 59,
+    "Indie": 50,
+    "Local Multiplayer": 53,
+    "Multiplayer": 51,
+    "Platformer": 79,
+    "Sports": 46
+  },
+  "type": "game"
 }

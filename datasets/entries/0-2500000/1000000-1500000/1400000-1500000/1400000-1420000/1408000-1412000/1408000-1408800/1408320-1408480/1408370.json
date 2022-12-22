@@ -1,68 +1,106 @@
 {
-  "appid": 1408370,
-  "name": "\u4eba\u7c7bVS\u602a\u7269(Human vs Monster)",
-  "developer": "\u5468\u9e4f\u98de",
-  "publisher": "\u5468\u9e4f\u98de",
-  "tags": {
-    "Casual": 208,
-    "Tower Defense": 196,
-    "RTS": 184,
-    "Strategy": 184,
-    "Tactical": 179,
-    "Real Time Tactics": 173,
-    "Card Game": 156,
-    "Card Battler": 148,
-    "Funny": 140,
-    "Atmospheric": 131,
-    "Dragons": 120,
-    "Automation": 117,
-    "Deckbuilding": 106,
-    "Colorful": 91,
-    "3D Platformer": 75,
-    "3D": 60,
-    "Third Person": 42,
-    "Stylized": 27,
-    "Singleplayer": 26,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1408370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1408370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1408370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1408370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1408370,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1408370/header.jpg?t=1622289135",
+  "consensus_genre": "Casual",
+  "developer": "\u5468\u9e4f\u98de",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1408370/header.jpg?t=1622289135",
+  "initialprice": "599",
+  "languages": "English, Simplified Chinese",
+  "name": "\u4eba\u7c7bVS\u602a\u7269(Human vs Monster)",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "599",
+  "publisher": "\u5468\u9e4f\u98de",
+  "release_date": "2020/09/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 60,
+    "3D Platformer": 75,
+    "Atmospheric": 131,
+    "Automation": 117,
+    "Card Battler": 148,
+    "Card Game": 156,
+    "Casual": 208,
+    "Colorful": 91,
+    "Deckbuilding": 106,
+    "Dragons": 120,
+    "Funny": 140,
+    "Indie": 21,
+    "RTS": 184,
+    "Real Time Tactics": 173,
+    "Singleplayer": 26,
+    "Strategy": 184,
+    "Stylized": 27,
+    "Tactical": 179,
+    "Third Person": 42,
+    "Tower Defense": 196
+  },
+  "type": "game"
 }

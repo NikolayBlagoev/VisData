@@ -1,51 +1,104 @@
 {
-  "appid": 1995840,
-  "name": "Shadow Angel",
-  "developer": "Blue Charm",
-  "publisher": "Blue Charm",
-  "tags": {
-    "Early Access": 249,
-    "Action": 226,
-    "RPG": 222,
-    "Souls-like": 212,
-    "Action-Adventure": 197,
-    "Action RPG": 191,
-    "Hack and Slash": 182,
-    "3D": 174,
-    "Third Person": 166,
-    "Medieval": 157,
-    "Swordplay": 149,
-    "Fantasy": 138,
-    "Assassin": 125,
-    "Martial Arts": 124,
-    "Sci-fi": 110,
-    "Magic": 95,
-    "Dark": 79,
-    "Dark Fantasy": 62,
-    "Female Protagonist": 45,
-    "Combat": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1995840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1995840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 60.20000076293945,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1995840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1995840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 7,
+  "User Score": -1,
+  "appid": 1995840,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 7,
-  "negative": 5,
-  "price": "639",
-  "initialprice": "799",
-  "discount": "20",
   "ccu": 0,
-  "languages": "English, Japanese, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1995840/header.jpg?t=1664739753",
+  "consensus_genre": "Early Access",
+  "developer": "Blue Charm",
+  "discount": "20",
   "genre": [
     "Action",
     "Adventure",
@@ -53,58 +106,43 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 7,
-  "Down 30 Days": 4,
-  "Completion": 60.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1995840/header.jpg?t=1664739753",
+  "initialprice": "799",
+  "languages": "English, Japanese, Simplified Chinese",
+  "name": "Shadow Angel",
+  "negative": 5,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7,
+  "price": "639",
+  "publisher": "Blue Charm",
+  "release_date": "2022/09/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 174,
+    "Action": 226,
+    "Action RPG": 191,
+    "Action-Adventure": 197,
+    "Assassin": 125,
+    "Combat": 27,
+    "Dark": 79,
+    "Dark Fantasy": 62,
+    "Early Access": 249,
+    "Fantasy": 138,
+    "Female Protagonist": 45,
+    "Hack and Slash": 182,
+    "Magic": 95,
+    "Martial Arts": 124,
+    "Medieval": 157,
+    "RPG": 222,
+    "Sci-fi": 110,
+    "Souls-like": 212,
+    "Swordplay": 149,
+    "Third Person": 166
+  },
+  "type": "game"
 }

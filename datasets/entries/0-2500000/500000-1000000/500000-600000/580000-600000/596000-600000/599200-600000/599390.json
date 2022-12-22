@@ -1,31 +1,201 @@
 {
-  "appid": 599390,
-  "name": "Battle for Wesnoth",
-  "developer": "The Battle for Wesnoth Project",
-  "publisher": "Wesnoth Inc.",
-  "tags": {
-    "Free to Play": 154,
-    "Strategy": 142,
-    "Turn-Based Strategy": 132,
-    "Hex Grid": 105,
-    "Fantasy": 83,
-    "Indie": 83,
-    "Turn-Based": 82,
-    "Multiplayer": 80,
-    "Pixel Graphics": 63,
-    "Turn-Based Tactics": 60,
-    "Singleplayer": 47,
-    "2D": 40,
-    "Story Rich": 32,
-    "Tactical": 26,
-    "Medieval": 24,
-    "Strategy RPG": 20,
-    "Wargame": 15,
-    "Turn-Based Combat": 14,
-    "RPG": 13,
-    "War": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 599390,
+    "average_2weeks": 0,
+    "average_forever": 212,
+    "median_2weeks": 0,
+    "median_forever": 37
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 599390,
+    "average_2weeks": 0,
+    "average_forever": 212,
+    "median_2weeks": 0,
+    "median_forever": 37
+  },
+  "CCU Histogram": {
+    "2022-12-08": 185,
+    "2022-12-09": 212,
+    "2022-12-10": 206,
+    "2022-12-13": 192,
+    "2022-12-15": 197,
+    "2022-12-18": 202,
+    "2022-12-21": 235,
+    "2022-12-22": 209
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 599390,
+    "average_2weeks": 0,
+    "average_forever": 212,
+    "median_2weeks": 0,
+    "median_forever": 37
+  },
+  "Median Playtime - Forever": {
+    "app_id": 599390,
+    "average_2weeks": 0,
+    "average_forever": 212,
+    "median_2weeks": 0,
+    "median_forever": 37
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 68,
+  "User Score": -1,
+  "appid": 599390,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,184 +207,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 3711,
-  "negative": 232,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 134,
-  "languages": "English, Italian, Spanish - Spain, French, Czech, Japanese, Simplified Chinese, Polish, German, Hungarian, Portuguese - Portugal, Russian, Traditional Chinese, Turkish, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/05/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/599390/header.jpg?t=1657220002",
+  "consensus_genre": "Free to Play",
+  "developer": "The Battle for Wesnoth Project",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 68,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/599390/header.jpg?t=1657220002",
+  "initialprice": "0",
+  "languages": "English, Italian, Spanish - Spain, French, Czech, Japanese, Simplified Chinese, Polish, German, Hungarian, Portuguese - Portugal, Russian, Traditional Chinese, Turkish, Portuguese - Brazil",
+  "name": "Battle for Wesnoth",
+  "negative": 232,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3711,
+  "price": "0",
+  "publisher": "Wesnoth Inc.",
+  "release_date": "2018/05/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 40,
+    "Fantasy": 83,
+    "Free to Play": 154,
+    "Hex Grid": 105,
+    "Indie": 83,
+    "Medieval": 24,
+    "Multiplayer": 80,
+    "Pixel Graphics": 63,
+    "RPG": 13,
+    "Singleplayer": 47,
+    "Story Rich": 32,
+    "Strategy": 142,
+    "Strategy RPG": 20,
+    "Tactical": 26,
+    "Turn-Based": 82,
+    "Turn-Based Combat": 14,
+    "Turn-Based Strategy": 132,
+    "Turn-Based Tactics": 60,
+    "War": 10,
+    "Wargame": 15
+  },
+  "type": "game"
 }

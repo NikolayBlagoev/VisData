@@ -1,10 +1,50 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 670970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 670970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 25.600000381469727,
+  "Down 30 Days": 0,
+  "Like Histogram": [],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 670970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 670970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
   "appid": 670970,
-  "name": "Res Judicata: Vale of Myth",
-  "developer": "Blue Booth Studios",
-  "publisher": "Blue Booth Studios",
-  "tags": {},
-  "type": "game",
   "categories": [
     "Single-player",
     "Captions available",
@@ -13,31 +53,29 @@
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/670970/header.jpg?t=1600399537",
+  "consensus_genre": "",
+  "developer": "Blue Booth Studios",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 25.600000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/670970/header.jpg?t=1600399537",
+  "initialprice": "799",
+  "languages": "English",
+  "name": "Res Judicata: Vale of Myth",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "799",
+  "publisher": "Blue Booth Studios",
+  "release_date": "2017/09/29",
+  "required_age": 0,
+  "tags": {},
+  "type": "game"
 }

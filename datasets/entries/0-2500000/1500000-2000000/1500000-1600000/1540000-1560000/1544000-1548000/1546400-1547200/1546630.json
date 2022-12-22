@@ -1,68 +1,106 @@
 {
-  "appid": 1546630,
-  "name": "Tank War Nexus",
-  "developer": "Estenio Garcia",
-  "publisher": "SpartanBloodGames",
-  "tags": {
-    "Action": 427,
-    "Adventure": 420,
-    "Strategy": 417,
-    "Action-Adventure": 394,
-    "Arcade": 392,
-    "Shooter": 386,
-    "Arena Shooter": 383,
-    "Bullet Hell": 377,
-    "Looter Shooter": 372,
-    "Third-Person Shooter": 367,
-    "War": 359,
-    "3D": 358,
-    "Cartoon": 355,
-    "Combat": 353,
-    "Hand-drawn": 340,
-    "Singleplayer": 331,
-    "Stylized": 329,
-    "Robots": 323,
-    "Tanks": 319,
-    "Vehicular Combat": 306
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1546630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1546630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1546630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1546630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1546630,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/03/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546630/header.jpg?t=1615032293",
+  "consensus_genre": "Action",
+  "developer": "Estenio Garcia",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546630/header.jpg?t=1615032293",
+  "initialprice": "99",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Tank War Nexus",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "SpartanBloodGames",
+  "release_date": "2021/03/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 358,
+    "Action": 427,
+    "Action-Adventure": 394,
+    "Adventure": 420,
+    "Arcade": 392,
+    "Arena Shooter": 383,
+    "Bullet Hell": 377,
+    "Cartoon": 355,
+    "Combat": 353,
+    "Hand-drawn": 340,
+    "Looter Shooter": 372,
+    "Robots": 323,
+    "Shooter": 386,
+    "Singleplayer": 331,
+    "Strategy": 417,
+    "Stylized": 329,
+    "Tanks": 319,
+    "Third-Person Shooter": 367,
+    "Vehicular Combat": 306,
+    "War": 359
+  },
+  "type": "game"
 }

@@ -1,68 +1,106 @@
 {
-  "appid": 460730,
-  "name": "Draco Dux",
-  "developer": "Szymon Sikora",
-  "publisher": "Szymon Sikora (Dragon Snack Productions)",
-  "tags": {
-    "Early Access": 195,
-    "VR": 177,
-    "Action": 171,
-    "Adventure": 168,
-    "Indie": 164,
-    "Puzzle": 161,
-    "Platformer": 153,
-    "Arcade": 148,
-    "Puzzle-Platformer": 142,
-    "First-Person": 137,
-    "Dragons": 134,
-    "Singleplayer": 132,
-    "Archery": 130,
-    "Family Friendly": 122,
-    "Fantasy": 111,
-    "Magic": 98,
-    "Relaxing": 82,
-    "6DOF": 68,
-    "Physics": 54,
-    "Tutorial": 52
+  "Average Playtime - 2 Weeks": {
+    "app_id": 460730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 460730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 460730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 460730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 460730,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/460730/header.jpg?t=1643833862",
+  "consensus_genre": "Early Access",
+  "developer": "Szymon Sikora",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/460730/header.jpg?t=1643833862",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Draco Dux",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1199",
+  "publisher": "Szymon Sikora (Dragon Snack Productions)",
+  "release_date": "2021/04/30",
+  "required_age": 0,
+  "tags": {
+    "6DOF": 68,
+    "Action": 171,
+    "Adventure": 168,
+    "Arcade": 148,
+    "Archery": 130,
+    "Dragons": 134,
+    "Early Access": 195,
+    "Family Friendly": 122,
+    "Fantasy": 111,
+    "First-Person": 137,
+    "Indie": 164,
+    "Magic": 98,
+    "Physics": 54,
+    "Platformer": 153,
+    "Puzzle": 161,
+    "Puzzle-Platformer": 142,
+    "Relaxing": 82,
+    "Singleplayer": 132,
+    "Tutorial": 52,
+    "VR": 177
+  },
+  "type": "game"
 }

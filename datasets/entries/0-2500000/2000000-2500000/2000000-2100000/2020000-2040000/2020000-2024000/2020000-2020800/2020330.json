@@ -1,102 +1,140 @@
 {
-  "appid": 2020330,
-  "name": "RockSlide",
-  "developer": "PixelDol",
-  "publisher": "PixelDol",
-  "tags": {
-    "Strategy": 377,
-    "Singleplayer": 368,
-    "Pixel Graphics": 362,
-    "2D": 353,
-    "Top-Down": 347,
-    "Arcade": 337,
-    "Minimalist": 330,
-    "Action-Adventure": 321,
-    "1990's": 313,
-    "Solitaire": 302,
-    "Retro": 292,
-    "Runner": 279,
-    "Survival": 267,
-    "Action": 259,
-    "Colorful": 254,
-    "Racing": 237,
-    "PvE": 220,
-    "Funny": 202,
-    "Relaxing": 184,
-    "Quick-Time Events": 163
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2020330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2020330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2020330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2020330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2020330,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2020330/header.jpg?t=1660731319",
+  "consensus_genre": "Strategy",
+  "developer": "PixelDol",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2020330/header.jpg?t=1660731319",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "RockSlide",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "199",
+  "publisher": "PixelDol",
+  "release_date": "2022/08/17",
+  "required_age": 0,
+  "tags": {
+    "1990's": 313,
+    "2D": 353,
+    "Action": 259,
+    "Action-Adventure": 321,
+    "Arcade": 337,
+    "Colorful": 254,
+    "Funny": 202,
+    "Minimalist": 330,
+    "Pixel Graphics": 362,
+    "PvE": 220,
+    "Quick-Time Events": 163,
+    "Racing": 237,
+    "Relaxing": 184,
+    "Retro": 292,
+    "Runner": 279,
+    "Singleplayer": 368,
+    "Solitaire": 302,
+    "Strategy": 377,
+    "Survival": 267,
+    "Top-Down": 347
+  },
+  "type": "game"
 }

@@ -1,69 +1,107 @@
 {
-  "appid": 1236180,
-  "name": "Balkadia",
-  "developer": "Tsar Republic Games",
-  "publisher": "Tsar Republic Games",
-  "tags": {
-    "2D Platformer": 126,
-    "Difficult": 120,
-    "Female Protagonist": 117,
-    "Old School": 113,
-    "2D": 110,
-    "Platformer": 101,
-    "Action": 94,
-    "Colorful": 91,
-    "Minimalist": 83,
-    "Stylized": 81,
-    "Retro": 79,
-    "Combat": 77,
-    "Singleplayer": 76,
-    "Cartoony": 73,
-    "1980s": 71,
-    "1990's": 69,
-    "Indie": 67,
-    "Gore": 65,
-    "Violent": 48,
-    "Beautiful": 28
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1236180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1236180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 13.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1236180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1236180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1236180,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/04/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236180/header.jpg?t=1661268222",
+  "consensus_genre": "Action",
+  "developer": "Tsar Republic Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 13.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236180/header.jpg?t=1661268222",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Balkadia",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1199",
+  "publisher": "Tsar Republic Games",
+  "release_date": "2022/04/28",
+  "required_age": 0,
+  "tags": {
+    "1980s": 71,
+    "1990's": 69,
+    "2D": 110,
+    "2D Platformer": 126,
+    "Action": 94,
+    "Beautiful": 28,
+    "Cartoony": 73,
+    "Colorful": 91,
+    "Combat": 77,
+    "Difficult": 120,
+    "Female Protagonist": 117,
+    "Gore": 65,
+    "Indie": 67,
+    "Minimalist": 83,
+    "Old School": 113,
+    "Platformer": 101,
+    "Retro": 79,
+    "Singleplayer": 76,
+    "Stylized": 81,
+    "Violent": 48
+  },
+  "type": "game"
 }

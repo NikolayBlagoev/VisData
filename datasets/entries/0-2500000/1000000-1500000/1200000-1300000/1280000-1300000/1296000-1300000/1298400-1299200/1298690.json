@@ -1,65 +1,103 @@
 {
-  "appid": 1298690,
-  "name": "Nigel's Journey : A Working Day",
-  "developer": "Maestro Creations",
-  "publisher": "Maestro Creations",
-  "tags": {
-    "Action": 131,
-    "Indie": 125,
-    "Violent": 122,
-    "Gore": 117,
-    "Shooter": 111,
-    "FPS": 102,
-    "Shoot 'Em Up": 93,
-    "First-Person": 86,
-    "Cinematic": 80,
-    "War": 77,
-    "Surreal": 69,
-    "Assassin": 61,
-    "Destruction": 59,
-    "Underground": 49,
-    "Perma Death": 39,
-    "Combat": 28,
-    "Singleplayer": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1298690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1298690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1298690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1298690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1298690,
   "categories": [
     "Single-player",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Latin America, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1298690/header.jpg?t=1606772039",
+  "consensus_genre": "Action",
+  "developer": "Maestro Creations",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1298690/header.jpg?t=1606772039",
+  "initialprice": "699",
+  "languages": "English, French, German, Spanish - Latin America, Portuguese - Brazil",
+  "name": "Nigel's Journey : A Working Day",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "699",
+  "publisher": "Maestro Creations",
+  "release_date": "2020/11/29",
+  "required_age": 0,
+  "tags": {
+    "Action": 131,
+    "Assassin": 61,
+    "Cinematic": 80,
+    "Combat": 28,
+    "Destruction": 59,
+    "FPS": 102,
+    "First-Person": 86,
+    "Gore": 117,
+    "Indie": 125,
+    "Perma Death": 39,
+    "Shoot 'Em Up": 93,
+    "Shooter": 111,
+    "Singleplayer": 26,
+    "Surreal": 69,
+    "Underground": 49,
+    "Violent": 122,
+    "War": 77
+  },
+  "type": "game"
 }

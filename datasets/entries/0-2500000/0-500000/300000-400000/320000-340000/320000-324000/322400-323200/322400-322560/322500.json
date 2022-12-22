@@ -1,31 +1,201 @@
 {
-  "appid": 322500,
-  "name": "SUPERHOT",
-  "developer": "SUPERHOT Team",
-  "publisher": "SUPERHOT Team",
-  "tags": {
-    "Action": 569,
-    "FPS": 516,
-    "Bullet Time": 445,
-    "Time Manipulation": 437,
-    "Indie": 410,
-    "Singleplayer": 392,
-    "First-Person": 388,
-    "Shooter": 283,
-    "Puzzle": 235,
-    "Minimalist": 215,
-    "Short": 175,
-    "Difficult": 174,
-    "Cyberpunk": 119,
-    "Kickstarter": 71,
-    "Fast-Paced": 42,
-    "Violent": 40,
-    "Sci-fi": 34,
-    "Casual": 30,
-    "Gore": 17,
-    "Adventure": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 322500,
+    "average_2weeks": 0,
+    "average_forever": 276,
+    "median_2weeks": 0,
+    "median_forever": 156
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 322500,
+    "average_2weeks": 0,
+    "average_forever": 276,
+    "median_2weeks": 0,
+    "median_forever": 156
+  },
+  "CCU Histogram": {
+    "2022-12-08": 64,
+    "2022-12-09": 60,
+    "2022-12-10": 75,
+    "2022-12-13": 87,
+    "2022-12-15": 111,
+    "2022-12-18": 122,
+    "2022-12-21": 135,
+    "2022-12-22": 165
+  },
+  "Completion": 49.099998474121094,
+  "Down 30 Days": 18,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 322500,
+    "average_2weeks": 0,
+    "average_forever": 276,
+    "median_2weeks": 0,
+    "median_forever": 156
+  },
+  "Median Playtime - Forever": {
+    "app_id": 322500,
+    "average_2weeks": 0,
+    "average_forever": 276,
+    "median_2weeks": 0,
+    "median_forever": 156
+  },
+  "Meta Score": "82",
+  "Rating": "ESRB T",
+  "Up 30 Days": 353,
+  "User Score": -1,
+  "appid": 322500,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,183 +206,51 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 28959,
-  "negative": 3120,
-  "price": "749",
-  "initialprice": "2499",
-  "discount": "70",
   "ccu": 149,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Japanese, Simplified Chinese, Traditional Chinese, Hungarian, Korean, Slovak",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/02/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/322500/header.jpg?t=1667473657",
+  "consensus_genre": "Action",
+  "developer": "SUPERHOT Team",
+  "discount": "70",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 353,
-  "Down 30 Days": 18,
-  "Completion": 49.099998474121094,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/322500/header.jpg?t=1667473657",
+  "initialprice": "2499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Japanese, Simplified Chinese, Traditional Chinese, Hungarian, Korean, Slovak",
+  "name": "SUPERHOT",
+  "negative": 3120,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 28959,
+  "price": "749",
+  "publisher": "SUPERHOT Team",
+  "release_date": "2016/02/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 569,
+    "Adventure": 15,
+    "Bullet Time": 445,
+    "Casual": 30,
+    "Cyberpunk": 119,
+    "Difficult": 174,
+    "FPS": 516,
+    "Fast-Paced": 42,
+    "First-Person": 388,
+    "Gore": 17,
+    "Indie": 410,
+    "Kickstarter": 71,
+    "Minimalist": 215,
+    "Puzzle": 235,
+    "Sci-fi": 34,
+    "Shooter": 283,
+    "Short": 175,
+    "Singleplayer": 392,
+    "Time Manipulation": 437,
+    "Violent": 40
+  },
+  "type": "game"
 }

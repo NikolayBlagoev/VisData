@@ -1,63 +1,101 @@
 {
-  "appid": 1892450,
-  "name": "Bouldering Robot 3D",
-  "developer": "NoraPerikaProject",
-  "publisher": "NoraPerikaProject",
-  "tags": {
-    "Sports": 62,
-    "2D Platformer": 51,
-    "Action": 46,
-    "3D Platformer": 45,
-    "Platformer": 39,
-    "Arcade": 36,
-    "2D": 30,
-    "Controller": 28,
-    "Minimalist": 24,
-    "Family Friendly": 22,
-    "Indie": 21,
-    "Comedy": 20,
-    "Physics": 18,
-    "Futuristic": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1892450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1892450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 65.19999694824219,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1892450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1892450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1892450,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1892450/header.jpg?t=1648366347",
+  "consensus_genre": "Sports",
+  "developer": "NoraPerikaProject",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 65.19999694824219,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1892450/header.jpg?t=1648366347",
+  "initialprice": "399",
+  "languages": "English, Japanese",
+  "name": "Bouldering Robot 3D",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "NoraPerikaProject",
+  "release_date": "2022/03/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 30,
+    "2D Platformer": 51,
+    "3D Platformer": 45,
+    "Action": 46,
+    "Arcade": 36,
+    "Comedy": 20,
+    "Controller": 28,
+    "Family Friendly": 22,
+    "Futuristic": 16,
+    "Indie": 21,
+    "Minimalist": 24,
+    "Physics": 18,
+    "Platformer": 39,
+    "Singleplayer": 14,
+    "Sports": 62
+  },
+  "type": "game"
 }

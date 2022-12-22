@@ -1,69 +1,107 @@
 {
-  "appid": 1269230,
-  "name": "Dodo Adventures",
-  "developer": "TechLemon Ltd",
-  "publisher": "TechLemon Ltd",
-  "tags": {
-    "Early Access": 195,
-    "Education": 177,
-    "Choose Your Own Adventure": 171,
-    "FPS": 168,
-    "Casual": 165,
-    "Exploration": 161,
-    "Interactive Fiction": 155,
-    "Sandbox": 152,
-    "Nature": 147,
-    "Experimental": 143,
-    "VR": 141,
-    "First-Person": 139,
-    "Historical": 137,
-    "Relaxing": 135,
-    "Story Rich": 132,
-    "Choices Matter": 129,
-    "Colorful": 127,
-    "Time Travel": 122,
-    "Family Friendly": 105,
-    "Magic": 103,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1269230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1269230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1269230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1269230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1269230,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/08/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1269230/header.jpg?t=1606430134",
+  "consensus_genre": "Early Access",
+  "developer": "TechLemon Ltd",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1269230/header.jpg?t=1606430134",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Dodo Adventures",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1199",
+  "publisher": "TechLemon Ltd",
+  "release_date": "2020/08/14",
+  "required_age": 0,
+  "tags": {
+    "Casual": 165,
+    "Choices Matter": 129,
+    "Choose Your Own Adventure": 171,
+    "Colorful": 127,
+    "Early Access": 195,
+    "Education": 177,
+    "Experimental": 143,
+    "Exploration": 161,
+    "FPS": 168,
+    "Family Friendly": 105,
+    "First-Person": 139,
+    "Historical": 137,
+    "Interactive Fiction": 155,
+    "Magic": 103,
+    "Nature": 147,
+    "Relaxing": 135,
+    "Sandbox": 152,
+    "Story Rich": 132,
+    "Time Travel": 122,
+    "VR": 141,
+    "VR Only": 1
+  },
+  "type": "game"
 }

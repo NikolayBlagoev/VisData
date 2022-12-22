@@ -1,51 +1,209 @@
 {
-  "appid": 293760,
-  "name": "Automation - The Car Company Tycoon Game",
-  "developer": "Camshaft Software Ltd",
-  "publisher": "Camshaft Software Ltd",
-  "tags": {
-    "Simulation": 211,
-    "Management": 187,
-    "Building": 164,
-    "Sandbox": 144,
-    "Strategy": 126,
-    "Early Access": 121,
-    "Automobile Sim": 117,
-    "Realistic": 114,
-    "Crafting": 109,
-    "Education": 106,
-    "Indie": 105,
-    "Moddable": 102,
-    "Science": 96,
-    "Replay Value": 93,
-    "Singleplayer": 93,
-    "Racing": 91,
-    "Economy": 89,
-    "Immersive Sim": 83,
-    "Choices Matter": 80,
-    "Physics": 78
+  "Average Playtime - 2 Weeks": {
+    "app_id": 293760,
+    "average_2weeks": 223,
+    "average_forever": 2575,
+    "median_2weeks": 192,
+    "median_forever": 1030
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 293760,
+    "average_2weeks": 223,
+    "average_forever": 2575,
+    "median_2weeks": 192,
+    "median_forever": 1030
+  },
+  "CCU Histogram": {
+    "2022-12-08": 411,
+    "2022-12-09": 479,
+    "2022-12-10": 875,
+    "2022-12-13": 749,
+    "2022-12-15": 685,
+    "2022-12-18": 643,
+    "2022-12-21": 636,
+    "2022-12-22": 633
+  },
+  "Completion": -1,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 293760,
+    "average_2weeks": 223,
+    "average_forever": 2575,
+    "median_2weeks": 192,
+    "median_forever": 1030
+  },
+  "Median Playtime - Forever": {
+    "app_id": 293760,
+    "average_2weeks": 223,
+    "average_forever": 2575,
+    "median_2weeks": 192,
+    "median_forever": 1030
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 132,
+  "User Score": -1,
+  "appid": 293760,
   "categories": [
     "Single-player",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 7965,
-  "negative": 647,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 432,
-  "languages": "English, French, German, Spanish - Spain, Polish, Italian, Japanese, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Turkish, Indonesian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/03/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/293760/header.jpg?t=1663542370",
+  "consensus_genre": "Simulation",
+  "developer": "Camshaft Software Ltd",
+  "discount": "0",
   "genre": [
     "Indie",
     "Racing",
@@ -53,163 +211,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 132,
-  "Down 30 Days": 10,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/293760/header.jpg?t=1663542370",
+  "initialprice": "2999",
+  "languages": "English, French, German, Spanish - Spain, Polish, Italian, Japanese, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Turkish, Indonesian",
+  "name": "Automation - The Car Company Tycoon Game",
+  "negative": 647,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7965,
+  "price": "2999",
+  "publisher": "Camshaft Software Ltd",
+  "release_date": "2015/03/12",
+  "required_age": 0,
+  "tags": {
+    "Automobile Sim": 117,
+    "Building": 164,
+    "Choices Matter": 80,
+    "Crafting": 109,
+    "Early Access": 121,
+    "Economy": 89,
+    "Education": 106,
+    "Immersive Sim": 83,
+    "Indie": 105,
+    "Management": 187,
+    "Moddable": 102,
+    "Physics": 78,
+    "Racing": 91,
+    "Realistic": 114,
+    "Replay Value": 93,
+    "Sandbox": 144,
+    "Science": 96,
+    "Simulation": 211,
+    "Singleplayer": 93,
+    "Strategy": 126
+  },
+  "type": "game"
 }

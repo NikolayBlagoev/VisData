@@ -1,67 +1,105 @@
 {
-  "appid": 2080930,
-  "name": "Whispering Abyss",
-  "developer": "Precipice Games",
-  "publisher": "Marist College",
-  "tags": {
-    "Action Roguelike": 252,
-    "Dungeon Crawler": 246,
-    "Action-Adventure": 242,
-    "Top-Down Shooter": 237,
-    "Lovecraftian": 231,
-    "Action": 226,
-    "Female Protagonist": 221,
-    "Adventure": 217,
-    "3D": 214,
-    "Procedural Generation": 187,
-    "Arcade": 177,
-    "Rogue-like": 166,
-    "Rogue-lite": 153,
-    "Cartoony": 151,
-    "Top-Down": 136,
-    "Atmospheric": 120,
-    "Dark Fantasy": 103,
-    "Combat": 85,
-    "PvE": 66,
-    "Story Rich": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2080930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2080930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 14.699999809265137,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2080930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2080930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2080930,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2080930/header.jpg?t=1666983670",
+  "consensus_genre": "Action",
+  "developer": "Precipice Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": 14.699999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2080930/header.jpg?t=1666983670",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Whispering Abyss",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Marist College",
+  "release_date": "2022/10/28",
+  "required_age": 0,
+  "tags": {
+    "3D": 214,
+    "Action": 226,
+    "Action Roguelike": 252,
+    "Action-Adventure": 242,
+    "Adventure": 217,
+    "Arcade": 177,
+    "Atmospheric": 120,
+    "Cartoony": 151,
+    "Combat": 85,
+    "Dark Fantasy": 103,
+    "Dungeon Crawler": 246,
+    "Female Protagonist": 221,
+    "Lovecraftian": 231,
+    "Procedural Generation": 187,
+    "PvE": 66,
+    "Rogue-like": 166,
+    "Rogue-lite": 153,
+    "Story Rich": 46,
+    "Top-Down": 136,
+    "Top-Down Shooter": 237
+  },
+  "type": "game"
 }

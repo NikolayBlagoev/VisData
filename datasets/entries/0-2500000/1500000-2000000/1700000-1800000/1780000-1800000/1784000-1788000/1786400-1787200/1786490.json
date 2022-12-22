@@ -1,82 +1,120 @@
 {
-  "appid": 1786490,
-  "name": "Legend of Krilona",
-  "developer": "Bauschan Gamez",
-  "publisher": "Bauschan Gamez",
-  "tags": {
-    "Adventure": 213,
-    "RPG": 208,
-    "Pixel Graphics": 184,
-    "Exploration": 179,
-    "Old School": 173,
-    "Colorful": 163,
-    "2D": 157,
-    "2D Platformer": 147,
-    "Atmospheric": 139,
-    "Detective": 131,
-    "Dragons": 120,
-    "Demons": 118,
-    "Fantasy": 105,
-    "Magic": 91,
-    "Funny": 76,
-    "Linear": 60,
-    "PvE": 43,
-    "Singleplayer": 27,
-    "Turn-Based Combat": 25,
-    "Casual": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1786490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1786490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1786490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1786490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1786490,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1786490/header.jpg?t=1665228029",
+  "consensus_genre": "Adventure",
+  "developer": "Bauschan Gamez",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1786490/header.jpg?t=1665228029",
+  "initialprice": "1099",
+  "languages": "English, Not supported, German",
+  "name": "Legend of Krilona",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "1099",
+  "publisher": "Bauschan Gamez",
+  "release_date": "2021/11/9",
+  "required_age": 0,
+  "tags": {
+    "2D": 157,
+    "2D Platformer": 147,
+    "Adventure": 213,
+    "Atmospheric": 139,
+    "Casual": 21,
+    "Colorful": 163,
+    "Demons": 118,
+    "Detective": 131,
+    "Dragons": 120,
+    "Exploration": 179,
+    "Fantasy": 105,
+    "Funny": 76,
+    "Linear": 60,
+    "Magic": 91,
+    "Old School": 173,
+    "Pixel Graphics": 184,
+    "PvE": 43,
+    "RPG": 208,
+    "Singleplayer": 27,
+    "Turn-Based Combat": 25
+  },
+  "type": "game"
 }

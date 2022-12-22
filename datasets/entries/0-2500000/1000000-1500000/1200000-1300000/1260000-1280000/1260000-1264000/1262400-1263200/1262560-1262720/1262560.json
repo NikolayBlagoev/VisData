@@ -1,28 +1,201 @@
 {
-  "appid": 1262560,
-  "name": "Need for Speed Most Wanted",
-  "developer": "Criterion Games",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Racing": 220,
-    "Driving": 168,
-    "Multiplayer": 168,
-    "Open World": 168,
-    "Competitive": 140,
-    "Action": 138,
-    "Automobile Sim": 131,
-    "Arcade": 126,
-    "Adventure": 115,
-    "Combat Racing": 112,
-    "First-Person": 111,
-    "Vehicular Combat": 108,
-    "Singleplayer": 98,
-    "Third Person": 78,
-    "Controller": 53,
-    "Co-op": 17,
-    "Split Screen": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1262560,
+    "average_2weeks": 10,
+    "average_forever": 288,
+    "median_2weeks": 10,
+    "median_forever": 191
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1262560,
+    "average_2weeks": 10,
+    "average_forever": 288,
+    "median_2weeks": 10,
+    "median_forever": 191
+  },
+  "CCU Histogram": {
+    "2022-12-08": 167,
+    "2022-12-09": 173,
+    "2022-12-10": 172,
+    "2022-12-13": 147,
+    "2022-12-15": 170,
+    "2022-12-18": 170,
+    "2022-12-21": 187,
+    "2022-12-22": 174
+  },
+  "Completion": -1,
+  "Down 30 Days": 78,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 7,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 5,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 6,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 6,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1262560,
+    "average_2weeks": 10,
+    "average_forever": 288,
+    "median_2weeks": 10,
+    "median_forever": 191
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1262560,
+    "average_2weeks": 10,
+    "average_forever": 288,
+    "median_2weeks": 10,
+    "median_forever": 191
+  },
+  "Meta Score": "82",
+  "Rating": "ESRB T",
+  "Up 30 Days": 194,
+  "User Score": -1,
+  "appid": 1262560,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -30,184 +203,49 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 9453,
-  "negative": 2710,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 173,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Polish, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262560/header.jpg?t=1605151411",
+  "consensus_genre": "Racing",
+  "developer": "Criterion Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Racing"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 11,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 194,
-  "Down 30 Days": 78,
-  "Completion": -1,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262560/header.jpg?t=1605151411",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Polish, Russian, Traditional Chinese",
+  "name": "Need for Speed Most Wanted",
+  "negative": 2710,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9453,
+  "price": "1999",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/06/18",
+  "required_age": 0,
+  "tags": {
+    "Action": 138,
+    "Adventure": 115,
+    "Arcade": 126,
+    "Automobile Sim": 131,
+    "Co-op": 17,
+    "Combat Racing": 112,
+    "Competitive": 140,
+    "Controller": 53,
+    "Driving": 168,
+    "First-Person": 111,
+    "Multiplayer": 168,
+    "Open World": 168,
+    "Racing": 220,
+    "Singleplayer": 98,
+    "Split Screen": 11,
+    "Third Person": 78,
+    "Vehicular Combat": 108
+  },
+  "type": "game"
 }

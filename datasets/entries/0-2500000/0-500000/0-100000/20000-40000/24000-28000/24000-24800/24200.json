@@ -1,31 +1,201 @@
 {
-  "appid": 24200,
-  "name": "DC Universe Online",
-  "developer": "Dimensional Ink Games",
-  "publisher": "Daybreak Game Company",
-  "tags": {
-    "Free to Play": 922,
-    "Superhero": 627,
-    "MMORPG": 562,
-    "Massively Multiplayer": 559,
-    "Character Customization": 507,
-    "Action": 493,
-    "Comic Book": 485,
-    "RPG": 482,
-    "Adventure": 479,
-    "Controller": 476,
-    "Third Person": 471,
-    "Multiplayer": 469,
-    "Combat": 466,
-    "Beat 'em up": 463,
-    "Exploration": 461,
-    "PvP": 460,
-    "Open World": 457,
-    "Fighting": 211,
-    "Online Co-Op": 205,
-    "Co-op": 183
+  "Average Playtime - 2 Weeks": {
+    "app_id": 24200,
+    "average_2weeks": 392,
+    "average_forever": 1163,
+    "median_2weeks": 392,
+    "median_forever": 397
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 24200,
+    "average_2weeks": 392,
+    "average_forever": 1163,
+    "median_2weeks": 392,
+    "median_forever": 397
+  },
+  "CCU Histogram": {
+    "2022-12-08": 455,
+    "2022-12-09": 474,
+    "2022-12-10": 478,
+    "2022-12-13": 631,
+    "2022-12-15": 534,
+    "2022-12-18": 541,
+    "2022-12-21": 543,
+    "2022-12-22": 534
+  },
+  "Completion": 8.199999809265137,
+  "Down 30 Days": 18,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 24200,
+    "average_2weeks": 392,
+    "average_forever": 1163,
+    "median_2weeks": 392,
+    "median_forever": 397
+  },
+  "Median Playtime - Forever": {
+    "app_id": 24200,
+    "average_2weeks": 392,
+    "average_forever": 1163,
+    "median_2weeks": 392,
+    "median_forever": 397
+  },
+  "Meta Score": "72",
+  "Rating": "ESRB T",
+  "Up 30 Days": 72,
+  "User Score": -1,
+  "appid": 24200,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -37,22 +207,10 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 15085,
-  "negative": 3707,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 805,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/11/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/24200/header.jpg?t=1667418520",
+  "consensus_genre": "Free to Play",
+  "developer": "Dimensional Ink Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -60,163 +218,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": "72",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 72,
-  "Down 30 Days": 18,
-  "Completion": 8.199999809265137,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/24200/header.jpg?t=1667418520",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "DC Universe Online",
+  "negative": 3707,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 15085,
+  "price": "0",
+  "publisher": "Daybreak Game Company",
+  "release_date": "2011/11/2",
+  "required_age": 0,
+  "tags": {
+    "Action": 493,
+    "Adventure": 479,
+    "Beat 'em up": 463,
+    "Character Customization": 507,
+    "Co-op": 183,
+    "Combat": 466,
+    "Comic Book": 485,
+    "Controller": 476,
+    "Exploration": 461,
+    "Fighting": 211,
+    "Free to Play": 922,
+    "MMORPG": 562,
+    "Massively Multiplayer": 559,
+    "Multiplayer": 469,
+    "Online Co-Op": 205,
+    "Open World": 457,
+    "PvP": 460,
+    "RPG": 482,
+    "Superhero": 627,
+    "Third Person": 471
+  },
+  "type": "game"
 }

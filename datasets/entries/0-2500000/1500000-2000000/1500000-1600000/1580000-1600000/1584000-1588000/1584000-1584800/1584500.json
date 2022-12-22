@@ -1,78 +1,116 @@
 {
-  "appid": 1584500,
-  "name": "Spacey Vade",
-  "developer": "Brown Bot",
-  "publisher": "Brown Bot",
-  "tags": {
-    "Top-Down Shooter": 274,
-    "Physics": 268,
-    "Pixel Graphics": 264,
-    "Action": 263,
-    "1980s": 258,
-    "Shoot 'Em Up": 253,
-    "Casual": 239,
-    "Puzzle": 236,
-    "Shooter": 228,
-    "Old School": 209,
-    "Retro": 200,
-    "Stylized": 188,
-    "Top-Down": 175,
-    "Futuristic": 173,
-    "Sci-fi": 158,
-    "Space": 142,
-    "Bullet Hell": 125,
-    "2D": 107,
-    "Arcade": 89,
-    "Tactical": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1584500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1584500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1584500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1584500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1584500,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1584500/header.jpg?t=1635796348",
+  "consensus_genre": "Action",
+  "developer": "Brown Bot",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1584500/header.jpg?t=1635796348",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Spacey Vade",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "499",
+  "publisher": "Brown Bot",
+  "release_date": "2021/11/1",
+  "required_age": 0,
+  "tags": {
+    "1980s": 258,
+    "2D": 107,
+    "Action": 263,
+    "Arcade": 89,
+    "Bullet Hell": 125,
+    "Casual": 239,
+    "Futuristic": 173,
+    "Old School": 209,
+    "Physics": 268,
+    "Pixel Graphics": 264,
+    "Puzzle": 236,
+    "Retro": 200,
+    "Sci-fi": 158,
+    "Shoot 'Em Up": 253,
+    "Shooter": 228,
+    "Space": 142,
+    "Stylized": 188,
+    "Tactical": 68,
+    "Top-Down": 175,
+    "Top-Down Shooter": 274
+  },
+  "type": "game"
 }

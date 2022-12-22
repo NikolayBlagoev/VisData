@@ -1,31 +1,201 @@
 {
-  "appid": 570,
-  "name": "Dota 2",
-  "developer": "Valve",
-  "publisher": "Valve",
-  "tags": {
-    "Free to Play": 58679,
-    "MOBA": 19557,
-    "Multiplayer": 14772,
-    "Strategy": 13779,
-    "e-sports": 11245,
-    "Team-Based": 10570,
-    "Competitive": 7937,
-    "Action": 7673,
-    "Online Co-Op": 7173,
-    "PvP": 5719,
-    "Difficult": 5034,
-    "Co-op": 4052,
-    "RTS": 3900,
-    "Tower Defense": 3576,
-    "RPG": 3561,
-    "Fantasy": 3558,
-    "Character Customization": 2753,
-    "Replay Value": 2633,
-    "Action RPG": 2316,
-    "Simulation": 1821
+  "Average Playtime - 2 Weeks": {
+    "app_id": 570,
+    "average_2weeks": 1623,
+    "average_forever": 37285,
+    "median_2weeks": 779,
+    "median_forever": 882
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 570,
+    "average_2weeks": 1623,
+    "average_forever": 37285,
+    "median_2weeks": 779,
+    "median_forever": 882
+  },
+  "CCU Histogram": {
+    "2022-12-08": 572795,
+    "2022-12-09": 667207,
+    "2022-12-10": 700878,
+    "2022-12-13": 767567,
+    "2022-12-15": 627546,
+    "2022-12-18": 663543,
+    "2022-12-21": 637524,
+    "2022-12-22": 587561
+  },
+  "Completion": -1,
+  "Down 30 Days": 7624,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 284,
+      "recommendations_up": 817
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 248,
+      "recommendations_up": 772
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 485,
+      "recommendations_up": 1391
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 450,
+      "recommendations_up": 1212
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 275,
+      "recommendations_up": 782
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 233,
+      "recommendations_up": 663
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 214,
+      "recommendations_up": 671
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 187,
+      "recommendations_up": 605
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 189,
+      "recommendations_up": 695
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 191,
+      "recommendations_up": 496
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 204,
+      "recommendations_up": 596
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 180,
+      "recommendations_up": 623
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 160,
+      "recommendations_up": 591
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 191,
+      "recommendations_up": 497
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 159,
+      "recommendations_up": 501
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 167,
+      "recommendations_up": 514
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 187,
+      "recommendations_up": 631
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 213,
+      "recommendations_up": 554
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 213,
+      "recommendations_up": 615
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 184,
+      "recommendations_up": 519
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 157,
+      "recommendations_up": 533
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 288,
+      "recommendations_up": 1567
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 575,
+      "recommendations_up": 3880
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 352,
+      "recommendations_up": 3261
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 322,
+      "recommendations_up": 2562
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 338,
+      "recommendations_up": 1750
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 306,
+      "recommendations_up": 1526
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 299,
+      "recommendations_up": 1415
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 306,
+      "recommendations_up": 1438
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 67,
+      "recommendations_up": 261
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 570,
+    "average_2weeks": 1623,
+    "average_forever": 37285,
+    "median_2weeks": 779,
+    "median_forever": 882
+  },
+  "Median Playtime - Forever": {
+    "app_id": 570,
+    "average_2weeks": 1623,
+    "average_forever": 37285,
+    "median_2weeks": 779,
+    "median_forever": 882
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 31938,
+  "User Score": -1,
+  "appid": 570,
   "categories": [
     "Multi-player",
     "Valve Anti-Cheat enabled",
@@ -35,184 +205,52 @@
     "In-App Purchases",
     "SteamVR Collectibles"
   ],
-  "owners": "200,000,000 .. 500,000,000",
-  "positive": 1534895,
-  "negative": 317916,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 852995,
-  "languages": "English, Bulgarian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Spanish - Latin America, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2013/07/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1666237243",
+  "consensus_genre": "Free to Play",
+  "developer": "Valve",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 817,
-      "recommendations_down": 284
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 772,
-      "recommendations_down": 248
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1391,
-      "recommendations_down": 485
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1212,
-      "recommendations_down": 450
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 782,
-      "recommendations_down": 275
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 663,
-      "recommendations_down": 233
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 671,
-      "recommendations_down": 214
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 605,
-      "recommendations_down": 187
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 695,
-      "recommendations_down": 189
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 496,
-      "recommendations_down": 191
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 596,
-      "recommendations_down": 204
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 623,
-      "recommendations_down": 180
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 591,
-      "recommendations_down": 160
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 497,
-      "recommendations_down": 191
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 501,
-      "recommendations_down": 159
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 514,
-      "recommendations_down": 167
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 631,
-      "recommendations_down": 187
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 554,
-      "recommendations_down": 213
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 615,
-      "recommendations_down": 213
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 519,
-      "recommendations_down": 184
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 533,
-      "recommendations_down": 157
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1567,
-      "recommendations_down": 288
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3880,
-      "recommendations_down": 575
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3261,
-      "recommendations_down": 352
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2562,
-      "recommendations_down": 322
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1750,
-      "recommendations_down": 338
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1526,
-      "recommendations_down": 306
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1415,
-      "recommendations_down": 299
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1438,
-      "recommendations_down": 306
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 261,
-      "recommendations_down": 67
-    }
-  ],
-  "Up 30 Days": 31938,
-  "Down 30 Days": 7624,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1666237243",
+  "initialprice": "0",
+  "languages": "English, Bulgarian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Spanish - Latin America, Vietnamese",
+  "name": "Dota 2",
+  "negative": 317916,
+  "owners": "200,000,000 .. 500,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1534895,
+  "price": "0",
+  "publisher": "Valve",
+  "release_date": "2013/07/9",
+  "required_age": 0,
+  "tags": {
+    "Action": 7673,
+    "Action RPG": 2316,
+    "Character Customization": 2753,
+    "Co-op": 4052,
+    "Competitive": 7937,
+    "Difficult": 5034,
+    "Fantasy": 3558,
+    "Free to Play": 58679,
+    "MOBA": 19557,
+    "Multiplayer": 14772,
+    "Online Co-Op": 7173,
+    "PvP": 5719,
+    "RPG": 3561,
+    "RTS": 3900,
+    "Replay Value": 2633,
+    "Simulation": 1821,
+    "Strategy": 13779,
+    "Team-Based": 10570,
+    "Tower Defense": 3576,
+    "e-sports": 11245
+  },
+  "type": "game"
 }

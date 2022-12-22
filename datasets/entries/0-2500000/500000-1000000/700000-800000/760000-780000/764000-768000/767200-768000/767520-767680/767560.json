@@ -1,31 +1,201 @@
 {
-  "appid": 767560,
-  "name": "War Robots",
-  "developer": "Pixonic",
-  "publisher": "Pixonic",
-  "tags": {
-    "Free to Play": 306,
-    "Action": 199,
-    "Robots": 190,
-    "Multiplayer": 184,
-    "Shooter": 166,
-    "Mechs": 135,
-    "FPS": 100,
-    "PvP": 94,
-    "Massively Multiplayer": 80,
-    "Controller": 72,
-    "First-Person": 61,
-    "War": 61,
-    "Third Person": 51,
-    "Third-Person Shooter": 48,
-    "Co-op": 42,
-    "Strategy": 41,
-    "Singleplayer": 34,
-    "RPG": 14,
-    "MMORPG": 13,
-    "Open World": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 767560,
+    "average_2weeks": 0,
+    "average_forever": 204,
+    "median_2weeks": 0,
+    "median_forever": 38
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 767560,
+    "average_2weeks": 0,
+    "average_forever": 204,
+    "median_2weeks": 0,
+    "median_forever": 38
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1477,
+    "2022-12-09": 1380,
+    "2022-12-10": 1682,
+    "2022-12-13": 1459,
+    "2022-12-15": 1520,
+    "2022-12-18": 2080,
+    "2022-12-21": 1933,
+    "2022-12-22": 1917
+  },
+  "Completion": -1,
+  "Down 30 Days": 144,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 6,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 8,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 6,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 7,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 4,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 5,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 7,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 5,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 5,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 6,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 4,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 4,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 8,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 7,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 6,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 8,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 767560,
+    "average_2weeks": 0,
+    "average_forever": 204,
+    "median_2weeks": 0,
+    "median_forever": 38
+  },
+  "Median Playtime - Forever": {
+    "app_id": 767560,
+    "average_2weeks": 0,
+    "average_forever": 204,
+    "median_2weeks": 0,
+    "median_forever": 38
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 280,
+  "User Score": -1,
+  "appid": 767560,
   "categories": [
     "Multi-player",
     "Steam Trading Cards",
@@ -33,183 +203,51 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 9144,
-  "negative": 5431,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 1629,
-  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/04/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/767560/header.jpg?t=1661416850",
+  "consensus_genre": "Free to Play",
+  "developer": "Pixonic",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 11,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 11,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 14,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 10,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 8,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 16,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 280,
-  "Down 30 Days": 144,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/767560/header.jpg?t=1661416850",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese, Turkish",
+  "name": "War Robots",
+  "negative": 5431,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9144,
+  "price": "0",
+  "publisher": "Pixonic",
+  "release_date": "2018/04/4",
+  "required_age": 0,
+  "tags": {
+    "Action": 199,
+    "Co-op": 42,
+    "Controller": 72,
+    "FPS": 100,
+    "First-Person": 61,
+    "Free to Play": 306,
+    "MMORPG": 13,
+    "Massively Multiplayer": 80,
+    "Mechs": 135,
+    "Multiplayer": 184,
+    "Open World": 9,
+    "PvP": 94,
+    "RPG": 14,
+    "Robots": 190,
+    "Shooter": 166,
+    "Singleplayer": 34,
+    "Strategy": 41,
+    "Third Person": 51,
+    "Third-Person Shooter": 48,
+    "War": 61
+  },
+  "type": "game"
 }

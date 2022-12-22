@@ -1,53 +1,211 @@
 {
-  "appid": 625960,
-  "name": "Stoneshard",
-  "developer": "Ink Stains Games",
-  "publisher": "HypeTrain Digital",
-  "tags": {
-    "RPG": 578,
-    "Strategy": 373,
-    "Rogue-like": 365,
-    "Open World Survival Craft": 328,
-    "Survival": 315,
-    "Turn-Based": 302,
-    "Singleplayer": 288,
-    "2D": 284,
-    "Dungeon Crawler": 276,
-    "Turn-Based Combat": 264,
-    "Indie": 247,
-    "Pixel Graphics": 244,
-    "Difficult": 220,
-    "Dark Fantasy": 211,
-    "Sandbox": 209,
-    "Replay Value": 199,
-    "Medieval": 168,
-    "Early Access": 151,
-    "Tabletop": 143,
-    "Violent": 120
+  "Average Playtime - 2 Weeks": {
+    "app_id": 625960,
+    "average_2weeks": 5,
+    "average_forever": 1346,
+    "median_2weeks": 5,
+    "median_forever": 1154
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 625960,
+    "average_2weeks": 5,
+    "average_forever": 1346,
+    "median_2weeks": 5,
+    "median_forever": 1154
+  },
+  "CCU Histogram": {
+    "2022-12-08": 516,
+    "2022-12-09": 501,
+    "2022-12-10": 530,
+    "2022-12-13": 606,
+    "2022-12-15": 593,
+    "2022-12-18": 464,
+    "2022-12-21": 576,
+    "2022-12-22": 580
+  },
+  "Completion": 12.300000190734863,
+  "Down 30 Days": 46,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 625960,
+    "average_2weeks": 5,
+    "average_forever": 1346,
+    "median_2weeks": 5,
+    "median_forever": 1154
+  },
+  "Median Playtime - Forever": {
+    "app_id": 625960,
+    "average_2weeks": 5,
+    "average_forever": 1346,
+    "median_2weeks": 5,
+    "median_forever": 1154
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 175,
+  "User Score": -1,
+  "appid": 625960,
   "categories": [
     "Single-player",
     "Captions available",
     "Remote Play on Phone",
     "Remote Play on Tablet"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 16981,
-  "negative": 5351,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 461,
-  "languages": "English, Russian, German, Simplified Chinese, Polish, Italian, Spanish - Latin America, Turkish, Portuguese - Brazil, Japanese, French, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2020/02/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/625960/header.jpg?t=1665595816",
+  "consensus_genre": "RPG",
+  "developer": "Ink Stains Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
@@ -55,163 +213,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 33,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 175,
-  "Down 30 Days": 46,
-  "Completion": 12.300000190734863,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/625960/header.jpg?t=1665595816",
+  "initialprice": "2499",
+  "languages": "English, Russian, German, Simplified Chinese, Polish, Italian, Spanish - Latin America, Turkish, Portuguese - Brazil, Japanese, French, Korean",
+  "name": "Stoneshard",
+  "negative": 5351,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 16981,
+  "price": "2499",
+  "publisher": "HypeTrain Digital",
+  "release_date": "2020/02/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 284,
+    "Dark Fantasy": 211,
+    "Difficult": 220,
+    "Dungeon Crawler": 276,
+    "Early Access": 151,
+    "Indie": 247,
+    "Medieval": 168,
+    "Open World Survival Craft": 328,
+    "Pixel Graphics": 244,
+    "RPG": 578,
+    "Replay Value": 199,
+    "Rogue-like": 365,
+    "Sandbox": 209,
+    "Singleplayer": 288,
+    "Strategy": 373,
+    "Survival": 315,
+    "Tabletop": 143,
+    "Turn-Based": 302,
+    "Turn-Based Combat": 264,
+    "Violent": 120
+  },
+  "type": "game"
 }

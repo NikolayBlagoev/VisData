@@ -1,31 +1,201 @@
 {
-  "appid": 257850,
-  "name": "Hyper Light Drifter",
-  "developer": "Heart Machine",
-  "publisher": "Heart Machine",
-  "tags": {
-    "Pixel Graphics": 790,
-    "Great Soundtrack": 580,
-    "Atmospheric": 572,
-    "Adventure": 557,
-    "Difficult": 529,
-    "Indie": 525,
-    "Action": 462,
-    "Singleplayer": 358,
-    "Hack and Slash": 354,
-    "Exploration": 330,
-    "RPG": 302,
-    "2D": 275,
-    "Colorful": 257,
-    "Post-apocalyptic": 238,
-    "Top-Down": 235,
-    "Action RPG": 224,
-    "Metroidvania": 203,
-    "Fantasy": 195,
-    "Souls-like": 192,
-    "Sci-fi": 184
+  "Average Playtime - 2 Weeks": {
+    "app_id": 257850,
+    "average_2weeks": 0,
+    "average_forever": 567,
+    "median_2weeks": 0,
+    "median_forever": 175
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 257850,
+    "average_2weeks": 0,
+    "average_forever": 567,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "CCU Histogram": {
+    "2022-12-08": 55,
+    "2022-12-09": 55,
+    "2022-12-10": 68,
+    "2022-12-13": 75,
+    "2022-12-15": 66,
+    "2022-12-18": 62,
+    "2022-12-21": 57,
+    "2022-12-22": 54
+  },
+  "Completion": 17.649999618530273,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 257850,
+    "average_2weeks": 0,
+    "average_forever": 567,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "Median Playtime - Forever": {
+    "app_id": 257850,
+    "average_2weeks": 0,
+    "average_forever": 567,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "Meta Score": "84",
+  "Rating": "ESRB T",
+  "Up 30 Days": 106,
+  "User Score": -1,
+  "appid": 257850,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,185 +211,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 14596,
-  "negative": 1007,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 41,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/03/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/257850/header.jpg?t=1649868127",
+  "consensus_genre": "Adventure",
+  "developer": "Heart Machine",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "84",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 106,
-  "Down 30 Days": 5,
-  "Completion": 17.649999618530273,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/257850/header.jpg?t=1649868127",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese",
+  "name": "Hyper Light Drifter",
+  "negative": 1007,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 14596,
+  "price": "1999",
+  "publisher": "Heart Machine",
+  "release_date": "2016/03/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 275,
+    "Action": 462,
+    "Action RPG": 224,
+    "Adventure": 557,
+    "Atmospheric": 572,
+    "Colorful": 257,
+    "Difficult": 529,
+    "Exploration": 330,
+    "Fantasy": 195,
+    "Great Soundtrack": 580,
+    "Hack and Slash": 354,
+    "Indie": 525,
+    "Metroidvania": 203,
+    "Pixel Graphics": 790,
+    "Post-apocalyptic": 238,
+    "RPG": 302,
+    "Sci-fi": 184,
+    "Singleplayer": 358,
+    "Souls-like": 192,
+    "Top-Down": 235
+  },
+  "type": "game"
 }

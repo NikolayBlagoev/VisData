@@ -1,48 +1,86 @@
 {
-  "appid": 2088420,
-  "name": "Fill and Cross Pirate Riddles 3",
-  "developer": "Creobit",
-  "publisher": "8floor",
-  "tags": {
-    "Casual": 62,
-    "Puzzle": 36,
-    "2D": 33,
-    "Pirates": 30,
-    "Singleplayer": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2088420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "49",
-  "initialprice": "499",
-  "discount": "90",
-  "ccu": 0,
-  "languages": "English, French, German, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 2088420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/08/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2088420/header.jpg?t=1659960707",
-  "genre": [
-    "Casual"
-  ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2088420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2088420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 2088420,
+  "categories": [],
+  "ccu": 0,
+  "consensus_genre": "Casual",
+  "developer": "Creobit",
+  "discount": "90",
+  "genre": [
+    "Casual"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2088420/header.jpg?t=1659960707",
+  "initialprice": "499",
+  "languages": "English, French, German, Russian",
+  "name": "Fill and Cross Pirate Riddles 3",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "49",
+  "publisher": "8floor",
+  "release_date": "2022/08/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 33,
+    "Casual": 62,
+    "Pirates": 30,
+    "Puzzle": 36,
+    "Singleplayer": 27
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1169740,
-  "name": "Danger Scavenger",
-  "developer": "Piotr Wolk, Star Drifters",
-  "publisher": "Star Drifters, Doyoyo Games",
-  "tags": {
-    "Multiplayer": 1094,
-    "Local Multiplayer": 1088,
-    "Looter Shooter": 811,
-    "Bullet Hell": 802,
-    "Top-Down Shooter": 780,
-    "Shooter": 773,
-    "Rogue-like": 770,
-    "Twin Stick Shooter": 763,
-    "Procedural Generation": 746,
-    "Local Co-Op": 741,
-    "Action Roguelike": 738,
-    "Co-op": 738,
-    "Rogue-lite": 736,
-    "Stylized": 736,
-    "Top-Down": 732,
-    "Perma Death": 729,
-    "Colorful": 728,
-    "Cyberpunk": 726,
-    "Action": 723,
-    "Singleplayer": 723
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1169740,
+    "average_2weeks": 0,
+    "average_forever": 147,
+    "median_2weeks": 0,
+    "median_forever": 147
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1169740,
+    "average_2weeks": 0,
+    "average_forever": 147,
+    "median_2weeks": 0,
+    "median_forever": 147
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 4,
+    "2022-12-10": 3,
+    "2022-12-13": 5,
+    "2022-12-15": 5,
+    "2022-12-18": 9,
+    "2022-12-21": 4,
+    "2022-12-22": 1
+  },
+  "Completion": 27.200000762939453,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1169740,
+    "average_2weeks": 0,
+    "average_forever": 147,
+    "median_2weeks": 0,
+    "median_forever": 147
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1169740,
+    "average_2weeks": 0,
+    "average_forever": 147,
+    "median_2weeks": 0,
+    "median_forever": 147
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1169740,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,183 +210,51 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 240,
-  "negative": 64,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, Simplified Chinese, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Polish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/03/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1169740/header.jpg?t=1659632278",
+  "consensus_genre": "Action",
+  "developer": "Piotr Wolk, Star Drifters",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 2,
-  "Completion": 27.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1169740/header.jpg?t=1659632278",
+  "initialprice": "999",
+  "languages": "English, Simplified Chinese, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Polish",
+  "name": "Danger Scavenger",
+  "negative": 64,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 240,
+  "price": "999",
+  "publisher": "Star Drifters, Doyoyo Games",
+  "release_date": "2021/03/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 723,
+    "Action Roguelike": 738,
+    "Bullet Hell": 802,
+    "Co-op": 738,
+    "Colorful": 728,
+    "Cyberpunk": 726,
+    "Local Co-Op": 741,
+    "Local Multiplayer": 1088,
+    "Looter Shooter": 811,
+    "Multiplayer": 1094,
+    "Perma Death": 729,
+    "Procedural Generation": 746,
+    "Rogue-like": 770,
+    "Rogue-lite": 736,
+    "Shooter": 773,
+    "Singleplayer": 723,
+    "Stylized": 736,
+    "Top-Down": 732,
+    "Top-Down Shooter": 780,
+    "Twin Stick Shooter": 763
+  },
+  "type": "game"
 }

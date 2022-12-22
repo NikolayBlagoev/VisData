@@ -1,31 +1,201 @@
 {
-  "appid": 286160,
-  "name": "Tabletop Simulator",
-  "developer": "Berserk Games",
-  "publisher": "Berserk Games",
-  "tags": {
-    "Tabletop": 948,
-    "Board Game": 812,
-    "Simulation": 582,
-    "Multiplayer": 547,
-    "Sandbox": 449,
-    "Card Game": 397,
-    "Trading Card Game": 358,
-    "VR": 343,
-    "Physics": 336,
-    "3D": 325,
-    "Casual": 323,
-    "Strategy": 323,
-    "Wargame": 323,
-    "Moddable": 322,
-    "Online Co-Op": 312,
-    "Co-op": 307,
-    "RPG": 300,
-    "Funny": 299,
-    "First-Person": 292,
-    "Indie": 285
+  "Average Playtime - 2 Weeks": {
+    "app_id": 286160,
+    "average_2weeks": 242,
+    "average_forever": 1627,
+    "median_2weeks": 138,
+    "median_forever": 448
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 286160,
+    "average_2weeks": 242,
+    "average_forever": 1627,
+    "median_2weeks": 138,
+    "median_forever": 448
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4965,
+    "2022-12-09": 4739,
+    "2022-12-10": 5211,
+    "2022-12-13": 5801,
+    "2022-12-15": 5639,
+    "2022-12-18": 5301,
+    "2022-12-21": 5193,
+    "2022-12-22": 5546
+  },
+  "Completion": 50.849998474121094,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 286160,
+    "average_2weeks": 242,
+    "average_forever": 1627,
+    "median_2weeks": 138,
+    "median_forever": 448
+  },
+  "Median Playtime - Forever": {
+    "app_id": 286160,
+    "average_2weeks": 242,
+    "average_forever": 1627,
+    "median_2weeks": 138,
+    "median_forever": 448
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 394,
+  "User Score": -1,
+  "appid": 286160,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,22 +215,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 52072,
-  "negative": 3540,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 6421,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/06/5",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg?t=1620412025",
+  "consensus_genre": "Simulation",
+  "developer": "Berserk Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -68,163 +226,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 33,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 23,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 394,
-  "Down 30 Days": 12,
-  "Completion": 50.849998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg?t=1620412025",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Tabletop Simulator",
+  "negative": 3540,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 52072,
+  "price": "1999",
+  "publisher": "Berserk Games",
+  "release_date": "2015/06/5",
+  "required_age": 0,
+  "tags": {
+    "3D": 325,
+    "Board Game": 812,
+    "Card Game": 397,
+    "Casual": 323,
+    "Co-op": 307,
+    "First-Person": 292,
+    "Funny": 299,
+    "Indie": 285,
+    "Moddable": 322,
+    "Multiplayer": 547,
+    "Online Co-Op": 312,
+    "Physics": 336,
+    "RPG": 300,
+    "Sandbox": 449,
+    "Simulation": 582,
+    "Strategy": 323,
+    "Tabletop": 948,
+    "Trading Card Game": 358,
+    "VR": 343,
+    "Wargame": 323
+  },
+  "type": "game"
 }

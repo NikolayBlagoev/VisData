@@ -1,31 +1,201 @@
 {
-  "appid": 527230,
-  "name": "For The King",
-  "developer": "IronOak Games",
-  "publisher": "Curve Games",
-  "tags": {
-    "RPG": 525,
-    "Open World": 510,
-    "Strategy": 500,
-    "Online Co-Op": 484,
-    "Turn-Based": 464,
-    "Rogue-like": 461,
-    "Multiplayer": 451,
-    "Co-op": 447,
-    "Adventure": 433,
-    "Turn-Based Combat": 432,
-    "Tabletop": 414,
-    "Rogue-lite": 406,
-    "Turn-Based Strategy": 204,
-    "Party-Based RPG": 203,
-    "Indie": 180,
-    "Board Game": 174,
-    "Fantasy": 155,
-    "Hex Grid": 146,
-    "Local Co-Op": 145,
-    "Strategy RPG": 144
+  "Average Playtime - 2 Weeks": {
+    "app_id": 527230,
+    "average_2weeks": 573,
+    "average_forever": 1161,
+    "median_2weeks": 574,
+    "median_forever": 725
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 527230,
+    "average_2weeks": 573,
+    "average_forever": 1161,
+    "median_2weeks": 574,
+    "median_forever": 725
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1809,
+    "2022-12-09": 1673,
+    "2022-12-10": 1597,
+    "2022-12-13": 2071,
+    "2022-12-15": 1364,
+    "2022-12-18": 1818,
+    "2022-12-21": 2358,
+    "2022-12-22": 3045
+  },
+  "Completion": 42.400001525878906,
+  "Down 30 Days": 78,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 4,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 10,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 7,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 7,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 7,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 6,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 527230,
+    "average_2weeks": 573,
+    "average_forever": 1161,
+    "median_2weeks": 574,
+    "median_forever": 725
+  },
+  "Median Playtime - Forever": {
+    "app_id": 527230,
+    "average_2weeks": 573,
+    "average_forever": 1161,
+    "median_2weeks": 574,
+    "median_forever": 725
+  },
+  "Meta Score": "79",
+  "Rating": "ESRB T",
+  "Up 30 Days": 495,
+  "User Score": -1,
+  "appid": 527230,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,185 +215,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 26270,
-  "negative": 3258,
-  "price": "599",
-  "initialprice": "1999",
-  "discount": "70",
   "ccu": 1366,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Polish, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/04/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/527230/header.jpg?t=1657213218",
+  "consensus_genre": "RPG",
+  "developer": "IronOak Games",
+  "discount": "70",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "79",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 17,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 34,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 26,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 41,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 32,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 42,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 21,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 24,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 20,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 495,
-  "Down 30 Days": 78,
-  "Completion": 42.400001525878906,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/527230/header.jpg?t=1657213218",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Polish, Japanese, Korean",
+  "name": "For The King",
+  "negative": 3258,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 26270,
+  "price": "599",
+  "publisher": "Curve Games",
+  "release_date": "2018/04/19",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 433,
+    "Board Game": 174,
+    "Co-op": 447,
+    "Fantasy": 155,
+    "Hex Grid": 146,
+    "Indie": 180,
+    "Local Co-Op": 145,
+    "Multiplayer": 451,
+    "Online Co-Op": 484,
+    "Open World": 510,
+    "Party-Based RPG": 203,
+    "RPG": 525,
+    "Rogue-like": 461,
+    "Rogue-lite": 406,
+    "Strategy": 500,
+    "Strategy RPG": 144,
+    "Tabletop": 414,
+    "Turn-Based": 464,
+    "Turn-Based Combat": 432,
+    "Turn-Based Strategy": 204
+  },
+  "type": "game"
 }

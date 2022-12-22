@@ -1,215 +1,253 @@
 {
-  "appid": 207170,
-  "name": "Legend of Grimrock",
-  "developer": "Almost Human Games",
-  "publisher": "Almost Human Games",
-  "tags": {
-    "Dungeon Crawler": 551,
-    "RPG": 512,
-    "Grid-Based Movement": 302,
-    "Indie": 297,
-    "Fantasy": 264,
-    "Old School": 234,
-    "Adventure": 218,
-    "Singleplayer": 202,
-    "Party-Based RPG": 200,
-    "Puzzle": 136,
-    "First-Person": 132,
-    "Real-Time": 109,
-    "Atmospheric": 92,
-    "Moddable": 88,
-    "Retro": 51,
-    "Difficult": 42,
-    "Action": 36,
-    "Tactical": 34,
-    "Character Customization": 33,
-    "Level Editor": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 207170,
+    "average_2weeks": 0,
+    "average_forever": 486,
+    "median_2weeks": 0,
+    "median_forever": 125
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 207170,
+    "average_2weeks": 0,
+    "average_forever": 486,
+    "median_2weeks": 0,
+    "median_forever": 125
+  },
+  "CCU Histogram": {
+    "2022-12-08": 33,
+    "2022-12-09": 33,
+    "2022-12-10": 35,
+    "2022-12-13": 30,
+    "2022-12-15": 18,
+    "2022-12-18": 19,
+    "2022-12-21": 25,
+    "2022-12-22": 25
+  },
+  "Completion": 40.0,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 207170,
+    "average_2weeks": 0,
+    "average_forever": 486,
+    "median_2weeks": 0,
+    "median_forever": 125
+  },
+  "Median Playtime - Forever": {
+    "app_id": 207170,
+    "average_2weeks": 0,
+    "average_forever": 486,
+    "median_2weeks": 0,
+    "median_forever": 125
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 14,
+  "User Score": -1,
+  "appid": 207170,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Steam Achievements",
     "Steam Workshop"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 5390,
-  "negative": 345,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 20,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2012/04/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/207170/header.jpg?t=1447355394",
+  "consensus_genre": "RPG",
+  "developer": "Almost Human Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 14,
-  "Down 30 Days": 5,
-  "Completion": 40.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/207170/header.jpg?t=1447355394",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Legend of Grimrock",
+  "negative": 345,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5390,
+  "price": "1499",
+  "publisher": "Almost Human Games",
+  "release_date": "2012/04/11",
+  "required_age": 0,
+  "tags": {
+    "Action": 36,
+    "Adventure": 218,
+    "Atmospheric": 92,
+    "Character Customization": 33,
+    "Difficult": 42,
+    "Dungeon Crawler": 551,
+    "Fantasy": 264,
+    "First-Person": 132,
+    "Grid-Based Movement": 302,
+    "Indie": 297,
+    "Level Editor": 26,
+    "Moddable": 88,
+    "Old School": 234,
+    "Party-Based RPG": 200,
+    "Puzzle": 136,
+    "RPG": 512,
+    "Real-Time": 109,
+    "Retro": 51,
+    "Singleplayer": 202,
+    "Tactical": 34
+  },
+  "type": "game"
 }

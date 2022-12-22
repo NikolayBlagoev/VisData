@@ -1,68 +1,106 @@
 {
-  "appid": 1579250,
-  "name": "Tactical Battle Chronicles: Prelude to a War",
-  "developer": "Andrew Gardner",
-  "publisher": "Andrew Gardner",
-  "tags": {
-    "Tactical RPG": 176,
-    "RPG": 175,
-    "Turn-Based Tactics": 171,
-    "Turn-Based Strategy": 166,
-    "Strategy": 165,
-    "Perma Death": 161,
-    "2D": 139,
-    "Turn-Based Combat": 130,
-    "Grid-Based Movement": 122,
-    "Fantasy": 113,
-    "Tactical": 102,
-    "Anime": 100,
-    "Pixel Graphics": 87,
-    "Class-Based": 73,
-    "Combat": 58,
-    "Indie": 45,
-    "War": 42,
-    "Singleplayer": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1579250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1579250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 26.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1579250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1579250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1579250,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/04/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1579250/header.jpg?t=1618270351",
+  "consensus_genre": "RPG",
+  "developer": "Andrew Gardner",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 26.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1579250/header.jpg?t=1618270351",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Tactical Battle Chronicles: Prelude to a War",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "Andrew Gardner",
+  "release_date": "2021/04/7",
+  "required_age": 0,
+  "tags": {
+    "2D": 139,
+    "Anime": 100,
+    "Class-Based": 73,
+    "Combat": 58,
+    "Fantasy": 113,
+    "Grid-Based Movement": 122,
+    "Indie": 45,
+    "Perma Death": 161,
+    "Pixel Graphics": 87,
+    "RPG": 175,
+    "Singleplayer": 27,
+    "Strategy": 165,
+    "Tactical": 102,
+    "Tactical RPG": 176,
+    "Turn-Based Combat": 130,
+    "Turn-Based Strategy": 166,
+    "Turn-Based Tactics": 171,
+    "War": 42
+  },
+  "type": "game"
 }

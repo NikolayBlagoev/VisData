@@ -1,31 +1,201 @@
 {
-  "appid": 301760,
-  "name": "Disney\u2022Pixar Cars 2: The Video Game",
-  "developer": "Avalanche Software",
-  "publisher": "Disney",
-  "tags": {
-    "NSFW": 237,
-    "World War II": 206,
-    "Mature": 170,
-    "Dating Sim": 162,
-    "Illuminati": 162,
-    "Post-apocalyptic": 143,
-    "Action": 128,
-    "War": 117,
-    "Racing": 113,
-    "Adventure": 91,
-    "Family Friendly": 89,
-    "Souls-like": 87,
-    "World War I": 80,
-    "Story Rich": 76,
-    "Dark Fantasy": 62,
-    "Difficult": 56,
-    "FPS": 53,
-    "Funny": 48,
-    "Memes": 48,
-    "Multiplayer": 44
+  "Average Playtime - 2 Weeks": {
+    "app_id": 301760,
+    "average_2weeks": 0,
+    "average_forever": 1308,
+    "median_2weeks": 0,
+    "median_forever": 1309
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 301760,
+    "average_2weeks": 0,
+    "average_forever": 1308,
+    "median_2weeks": 0,
+    "median_forever": 1309
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 9,
+    "2022-12-10": 5,
+    "2022-12-13": 8,
+    "2022-12-15": 10,
+    "2022-12-18": 2,
+    "2022-12-21": 9,
+    "2022-12-22": 11
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 301760,
+    "average_2weeks": 0,
+    "average_forever": 1308,
+    "median_2weeks": 0,
+    "median_forever": 1309
+  },
+  "Median Playtime - Forever": {
+    "app_id": 301760,
+    "average_2weeks": 0,
+    "average_forever": 1308,
+    "median_2weeks": 0,
+    "median_forever": 1309
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 16,
+  "User Score": -1,
+  "appid": 301760,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,184 +207,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 412,
-  "negative": 156,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 8,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Brazil, Russian, Danish, Finnish, Norwegian, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/10/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301760/header.jpg?t=1604517676",
+  "consensus_genre": "Action",
+  "developer": "Avalanche Software",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Racing"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 16,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301760/header.jpg?t=1604517676",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Brazil, Russian, Danish, Finnish, Norwegian, Swedish",
+  "name": "Disney\u2022Pixar Cars 2: The Video Game",
+  "negative": 156,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 412,
+  "price": "1999",
+  "publisher": "Disney",
+  "release_date": "2014/10/6",
+  "required_age": 0,
+  "tags": {
+    "Action": 128,
+    "Adventure": 91,
+    "Dark Fantasy": 62,
+    "Dating Sim": 162,
+    "Difficult": 56,
+    "FPS": 53,
+    "Family Friendly": 89,
+    "Funny": 48,
+    "Illuminati": 162,
+    "Mature": 170,
+    "Memes": 48,
+    "Multiplayer": 44,
+    "NSFW": 237,
+    "Post-apocalyptic": 143,
+    "Racing": 113,
+    "Souls-like": 87,
+    "Story Rich": 76,
+    "War": 117,
+    "World War I": 80,
+    "World War II": 206
+  },
+  "type": "game"
 }

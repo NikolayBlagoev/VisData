@@ -1,65 +1,103 @@
 {
-  "appid": 1800010,
-  "name": "Ruin or Victory",
-  "developer": "Wedge End Games",
-  "publisher": "Wedge End Games",
-  "tags": {
-    "Strategy": 252,
-    "RTS": 226,
-    "Medieval": 222,
-    "Historical": 217,
-    "War": 211,
-    "Combat": 201,
-    "Building": 194,
-    "Real Time Tactics": 186,
-    "Tactical": 177,
-    "Base-Building": 168,
-    "Procedural Generation": 158,
-    "3D": 146,
-    "Top-Down": 144,
-    "Stylized": 130,
-    "Hand-drawn": 115,
-    "Singleplayer": 99,
-    "Economy": 82,
-    "Management": 64,
-    "Resource Management": 45,
-    "City Builder": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1800010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1800010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/05/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1800010/header.jpg?t=1666914484",
-  "genre": [
-    "Strategy"
-  ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1800010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1800010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1800010,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Strategy",
+  "developer": "Wedge End Games",
+  "discount": "0",
+  "genre": [
+    "Strategy"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1800010/header.jpg?t=1666914484",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "Ruin or Victory",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "2499",
+  "publisher": "Wedge End Games",
+  "release_date": "2022/05/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 146,
+    "Base-Building": 168,
+    "Building": 194,
+    "City Builder": 27,
+    "Combat": 201,
+    "Economy": 82,
+    "Hand-drawn": 115,
+    "Historical": 217,
+    "Management": 64,
+    "Medieval": 222,
+    "Procedural Generation": 158,
+    "RTS": 226,
+    "Real Time Tactics": 186,
+    "Resource Management": 45,
+    "Singleplayer": 99,
+    "Strategy": 252,
+    "Stylized": 130,
+    "Tactical": 177,
+    "Top-Down": 144,
+    "War": 211
+  },
+  "type": "game"
 }

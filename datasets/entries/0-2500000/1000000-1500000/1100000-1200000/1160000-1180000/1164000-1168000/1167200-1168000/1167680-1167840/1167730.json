@@ -1,31 +1,66 @@
 {
-  "appid": 1167730,
-  "name": "A Time Paradox",
-  "developer": "A Game Studio",
-  "publisher": "A Game Studio",
-  "tags": {
-    "Puzzle": 171,
-    "Time Travel": 165,
-    "Sci-fi": 162,
-    "Local Co-Op": 158,
-    "Narration": 154,
-    "Singleplayer": 145,
-    "Pixel Graphics": 143,
-    "Minimalist": 141,
-    "Indie": 138,
-    "Space": 132,
-    "Futuristic": 128,
-    "Split Screen": 124,
-    "Level Editor": 118,
-    "Time Manipulation": 116,
-    "Local Multiplayer": 113,
-    "Co-op Campaign": 111,
-    "Puzzle-Platformer": 109,
-    "PvP": 106,
-    "Team-Based": 104,
-    "4 Player Local": 95
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1167730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1167730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1167730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1167730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1167730,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,47 +72,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 5,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1167730/header.jpg?t=1598972700",
+  "consensus_genre": "Indie",
+  "developer": "A Game Studio",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1167730/header.jpg?t=1598972700",
+  "initialprice": "1199",
+  "languages": "English, French",
+  "name": "A Time Paradox",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5,
+  "price": "1199",
+  "publisher": "A Game Studio",
+  "release_date": "2020/09/1",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 95,
+    "Co-op Campaign": 111,
+    "Futuristic": 128,
+    "Indie": 138,
+    "Level Editor": 118,
+    "Local Co-Op": 158,
+    "Local Multiplayer": 113,
+    "Minimalist": 141,
+    "Narration": 154,
+    "Pixel Graphics": 143,
+    "Puzzle": 171,
+    "Puzzle-Platformer": 109,
+    "PvP": 106,
+    "Sci-fi": 162,
+    "Singleplayer": 145,
+    "Space": 132,
+    "Split Screen": 124,
+    "Team-Based": 104,
+    "Time Manipulation": 116,
+    "Time Travel": 165
+  },
+  "type": "game"
 }

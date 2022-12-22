@@ -1,67 +1,105 @@
 {
-  "appid": 1582810,
-  "name": "Alien Wall",
-  "developer": "Stefan Preuss",
-  "publisher": "Stefan Preuss",
-  "tags": {
-    "Action": 174,
-    "Arcade": 161,
-    "Shooter": 150,
-    "Casual": 149,
-    "2D": 146,
-    "Space": 139,
-    "Space Sim": 121,
-    "Arena Shooter": 114,
-    "Shoot 'Em Up": 106,
-    "Top-Down Shooter": 96,
-    "Colorful": 95,
-    "Pixel Graphics": 83,
-    "Old School": 70,
-    "Retro": 57,
-    "Sci-fi": 41,
-    "Linear": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1582810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1582810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 30.200000762939453,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1582810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1582810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1582810,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/05/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1582810/header.jpg?t=1620403531",
+  "consensus_genre": "Action",
+  "developer": "Stefan Preuss",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 30.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1582810/header.jpg?t=1620403531",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Alien Wall",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "399",
+  "publisher": "Stefan Preuss",
+  "release_date": "2021/05/7",
+  "required_age": 0,
+  "tags": {
+    "2D": 146,
+    "Action": 174,
+    "Arcade": 161,
+    "Arena Shooter": 114,
+    "Casual": 149,
+    "Colorful": 95,
+    "Indie": 21,
+    "Linear": 27,
+    "Old School": 70,
+    "Pixel Graphics": 83,
+    "Retro": 57,
+    "Sci-fi": 41,
+    "Shoot 'Em Up": 106,
+    "Shooter": 150,
+    "Singleplayer": 25,
+    "Space": 139,
+    "Space Sim": 121,
+    "Top-Down Shooter": 96
+  },
+  "type": "game"
 }

@@ -1,26 +1,201 @@
 {
-  "appid": 842100,
-  "name": "Daymare: 1998",
-  "developer": "Invader Studios",
-  "publisher": "Destructive Creations, All in! Games",
-  "tags": {
-    "Action": 58,
-    "Adventure": 58,
-    "Horror": 58,
-    "Zombies": 58,
-    "Survival Horror": 54,
-    "Indie": 52,
-    "Gore": 38,
-    "Violent": 36,
-    "Survival": 34,
-    "Third Person": 34,
-    "Third-Person Shooter": 29,
-    "Singleplayer": 17,
-    "Nudity": 16,
-    "Shooter": 13,
-    "Inventory Management": 8
+  "Average Playtime - 2 Weeks": {
+    "app_id": 842100,
+    "average_2weeks": 0,
+    "average_forever": 409,
+    "median_2weeks": 0,
+    "median_forever": 549
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 842100,
+    "average_2weeks": 0,
+    "average_forever": 409,
+    "median_2weeks": 0,
+    "median_forever": 549
+  },
+  "CCU Histogram": {
+    "2022-12-08": 11,
+    "2022-12-09": 11,
+    "2022-12-10": 10,
+    "2022-12-13": 10,
+    "2022-12-15": 13,
+    "2022-12-18": 13,
+    "2022-12-21": 12,
+    "2022-12-22": 10
+  },
+  "Completion": 22.600000381469727,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 842100,
+    "average_2weeks": 0,
+    "average_forever": 409,
+    "median_2weeks": 0,
+    "median_forever": 549
+  },
+  "Median Playtime - Forever": {
+    "app_id": 842100,
+    "average_2weeks": 0,
+    "average_forever": 409,
+    "median_2weeks": 0,
+    "median_forever": 549
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 842100,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -29,184 +204,47 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1814,
-  "negative": 708,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 6,
-  "languages": "English, Italian, German, Russian, French, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Arabic, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/09/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/842100/header.jpg?t=1667407611",
+  "consensus_genre": "Action",
+  "developer": "Invader Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 12,
-  "Completion": 22.600000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/842100/header.jpg?t=1667407611",
+  "initialprice": "2999",
+  "languages": "English, Italian, German, Russian, French, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Arabic, Turkish",
+  "name": "Daymare: 1998",
+  "negative": 708,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1814,
+  "price": "2999",
+  "publisher": "Destructive Creations, All in! Games",
+  "release_date": "2019/09/17",
+  "required_age": 0,
+  "tags": {
+    "Action": 58,
+    "Adventure": 58,
+    "Gore": 38,
+    "Horror": 58,
+    "Indie": 52,
+    "Inventory Management": 8,
+    "Nudity": 16,
+    "Shooter": 13,
+    "Singleplayer": 17,
+    "Survival": 34,
+    "Survival Horror": 54,
+    "Third Person": 34,
+    "Third-Person Shooter": 29,
+    "Violent": 36,
+    "Zombies": 58
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 649950,
-  "name": "Ashen",
-  "developer": "A44",
-  "publisher": "Annapurna Interactive",
-  "tags": {
-    "Souls-like": 293,
-    "Adventure": 194,
-    "RPG": 189,
-    "Action": 184,
-    "Online Co-Op": 180,
-    "Open World": 169,
-    "Multiplayer": 164,
-    "Dark Fantasy": 157,
-    "Third Person": 145,
-    "Fantasy": 144,
-    "Singleplayer": 141,
-    "Atmospheric": 139,
-    "Survival": 138,
-    "Exploration": 131,
-    "Indie": 131,
-    "Stylized": 127,
-    "Dark": 126,
-    "Action-Adventure": 121,
-    "Action RPG": 120,
-    "Hack and Slash": 115
+  "Average Playtime - 2 Weeks": {
+    "app_id": 649950,
+    "average_2weeks": 0,
+    "average_forever": 1619,
+    "median_2weeks": 0,
+    "median_forever": 1748
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 649950,
+    "average_2weeks": 0,
+    "average_forever": 1619,
+    "median_2weeks": 0,
+    "median_forever": 1748
+  },
+  "CCU Histogram": {
+    "2022-12-08": 24,
+    "2022-12-09": 19,
+    "2022-12-10": 16,
+    "2022-12-13": 32,
+    "2022-12-15": 18,
+    "2022-12-18": 22,
+    "2022-12-21": 20,
+    "2022-12-22": 16
+  },
+  "Completion": 50.89999961853027,
+  "Down 30 Days": 24,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 649950,
+    "average_2weeks": 0,
+    "average_forever": 1619,
+    "median_2weeks": 0,
+    "median_forever": 1748
+  },
+  "Median Playtime - Forever": {
+    "app_id": 649950,
+    "average_2weeks": 0,
+    "average_forever": 1619,
+    "median_2weeks": 0,
+    "median_forever": 1748
+  },
+  "Meta Score": "81",
+  "Rating": "ESRB T",
+  "Up 30 Days": 40,
+  "User Score": -1,
+  "appid": 649950,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,184 +208,52 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1890,
-  "negative": 826,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 53,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/12/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/649950/header.jpg?t=1667001911",
+  "consensus_genre": "Adventure",
+  "developer": "A44",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "81",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 40,
-  "Down 30 Days": 24,
-  "Completion": 50.89999961853027,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/649950/header.jpg?t=1667001911",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
+  "name": "Ashen",
+  "negative": 826,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1890,
+  "price": "3999",
+  "publisher": "Annapurna Interactive",
+  "release_date": "2019/12/9",
+  "required_age": 0,
+  "tags": {
+    "Action": 184,
+    "Action RPG": 120,
+    "Action-Adventure": 121,
+    "Adventure": 194,
+    "Atmospheric": 139,
+    "Dark": 126,
+    "Dark Fantasy": 157,
+    "Exploration": 131,
+    "Fantasy": 144,
+    "Hack and Slash": 115,
+    "Indie": 131,
+    "Multiplayer": 164,
+    "Online Co-Op": 180,
+    "Open World": 169,
+    "RPG": 189,
+    "Singleplayer": 141,
+    "Souls-like": 293,
+    "Stylized": 127,
+    "Survival": 138,
+    "Third Person": 145
+  },
+  "type": "game"
 }

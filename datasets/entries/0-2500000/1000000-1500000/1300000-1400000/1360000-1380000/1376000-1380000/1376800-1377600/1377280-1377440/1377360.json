@@ -1,216 +1,254 @@
 {
-  "appid": 1377360,
-  "name": "Vampires' Melody",
-  "developer": "AsicxArt",
-  "publisher": "SakuraGame",
-  "tags": {
-    "Casual": 400,
-    "Visual Novel": 393,
-    "Adventure": 391,
-    "Interactive Fiction": 371,
-    "Word Game": 350,
-    "Vampire": 349,
-    "Dating Sim": 340,
-    "JRPG": 340,
-    "Anime": 326,
-    "Drama": 323,
-    "Multiple Endings": 323,
-    "Cartoon": 282,
-    "Cartoony": 269,
-    "Cute": 266,
-    "2D": 243,
-    "Comic Book": 242,
-    "Relaxing": 225,
-    "Alternate History": 203,
-    "Funny": 190,
-    "Romance": 176
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1377360,
+    "average_2weeks": 0,
+    "average_forever": 175,
+    "median_2weeks": 0,
+    "median_forever": 175
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1377360,
+    "average_2weeks": 0,
+    "average_forever": 175,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "CCU Histogram": {
+    "2022-12-08": 67,
+    "2022-12-09": 41,
+    "2022-12-10": 36,
+    "2022-12-13": 38,
+    "2022-12-15": 35,
+    "2022-12-18": 31,
+    "2022-12-21": 20,
+    "2022-12-22": 26
+  },
+  "Completion": 78.89999771118164,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1377360,
+    "average_2weeks": 0,
+    "average_forever": 175,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1377360,
+    "average_2weeks": 0,
+    "average_forever": 175,
+    "median_2weeks": 0,
+    "median_forever": 175
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 59,
+  "User Score": -1,
+  "appid": 1377360,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2901,
-  "negative": 68,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 11,
-  "languages": "English, Simplified Chinese, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/10/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1377360/header.jpg?t=1604905429",
+  "consensus_genre": "Casual",
+  "developer": "AsicxArt",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 59,
-  "Down 30 Days": 1,
-  "Completion": 78.89999771118164,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1377360/header.jpg?t=1604905429",
+  "initialprice": "399",
+  "languages": "English, Simplified Chinese, Traditional Chinese, Japanese",
+  "name": "Vampires' Melody",
+  "negative": 68,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2901,
+  "price": "399",
+  "publisher": "SakuraGame",
+  "release_date": "2020/10/2",
+  "required_age": 0,
+  "tags": {
+    "2D": 243,
+    "Adventure": 391,
+    "Alternate History": 203,
+    "Anime": 326,
+    "Cartoon": 282,
+    "Cartoony": 269,
+    "Casual": 400,
+    "Comic Book": 242,
+    "Cute": 266,
+    "Dating Sim": 340,
+    "Drama": 323,
+    "Funny": 190,
+    "Interactive Fiction": 371,
+    "JRPG": 340,
+    "Multiple Endings": 323,
+    "Relaxing": 225,
+    "Romance": 176,
+    "Vampire": 349,
+    "Visual Novel": 393,
+    "Word Game": 350
+  },
+  "type": "game"
 }

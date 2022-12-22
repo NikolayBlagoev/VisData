@@ -1,31 +1,201 @@
 {
-  "appid": 552970,
-  "name": "Sumoman",
-  "developer": "Tequilabyte Studio",
-  "publisher": "Tequilabyte Studio",
-  "tags": {
-    "Action": 171,
-    "Adventure": 164,
-    "Indie": 161,
-    "Funny": 159,
-    "Puzzle-Platformer": 154,
-    "Puzzle": 148,
-    "Time Manipulation": 146,
-    "Parkour": 140,
-    "Difficult": 139,
-    "Comedy": 138,
-    "Ninja": 132,
-    "Story Rich": 130,
-    "Casual": 125,
-    "Singleplayer": 121,
-    "Experimental": 113,
-    "Family Friendly": 105,
-    "Anime": 95,
-    "Atmospheric": 95,
-    "Platformer": 95,
-    "Colorful": 89
+  "Average Playtime - 2 Weeks": {
+    "app_id": 552970,
+    "average_2weeks": 0,
+    "average_forever": 137,
+    "median_2weeks": 0,
+    "median_forever": 207
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 552970,
+    "average_2weeks": 0,
+    "average_forever": 137,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 1,
+    "2022-12-10": 2,
+    "2022-12-13": 4,
+    "2022-12-15": 2,
+    "2022-12-18": 2,
+    "2022-12-21": 2,
+    "2022-12-22": 1
+  },
+  "Completion": 35.70000076293945,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 552970,
+    "average_2weeks": 0,
+    "average_forever": 137,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "Median Playtime - Forever": {
+    "app_id": 552970,
+    "average_2weeks": 0,
+    "average_forever": 137,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 552970,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,184 +206,52 @@
     "Steam Trading Cards",
     "Remote Play Together"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 416,
-  "negative": 98,
-  "price": "1699",
-  "initialprice": "1699",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, Russian, Japanese, Polish, Finnish, Portuguese - Portugal, Swedish, Turkish, Norwegian, Simplified Chinese, Czech, German, Hungarian, Spanish - Spain, French, Vietnamese, Italian, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2017/03/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/552970/header.jpg?t=1600325236",
+  "consensus_genre": "Action",
+  "developer": "Tequilabyte Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 3,
-  "Completion": 35.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/552970/header.jpg?t=1600325236",
+  "initialprice": "1699",
+  "languages": "English, Russian, Japanese, Polish, Finnish, Portuguese - Portugal, Swedish, Turkish, Norwegian, Simplified Chinese, Czech, German, Hungarian, Spanish - Spain, French, Vietnamese, Italian, Portuguese - Brazil",
+  "name": "Sumoman",
+  "negative": 98,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 416,
+  "price": "1699",
+  "publisher": "Tequilabyte Studio",
+  "release_date": "2017/03/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 171,
+    "Adventure": 164,
+    "Anime": 95,
+    "Atmospheric": 95,
+    "Casual": 125,
+    "Colorful": 89,
+    "Comedy": 138,
+    "Difficult": 139,
+    "Experimental": 113,
+    "Family Friendly": 105,
+    "Funny": 159,
+    "Indie": 161,
+    "Ninja": 132,
+    "Parkour": 140,
+    "Platformer": 95,
+    "Puzzle": 148,
+    "Puzzle-Platformer": 154,
+    "Singleplayer": 121,
+    "Story Rich": 130,
+    "Time Manipulation": 146
+  },
+  "type": "game"
 }

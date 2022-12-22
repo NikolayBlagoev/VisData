@@ -1,50 +1,63 @@
 {
-  "appid": 1796840,
-  "name": "Underground escape \u5730\u5e95\u9003\u751f",
-  "developer": "dongxujuan",
-  "publisher": "dongxujuan",
-  "tags": {
-    "Tactical RPG": 215,
-    "Exploration": 210,
-    "Choose Your Own Adventure": 206,
-    "Action RTS": 203,
-    "Immersive Sim": 199,
-    "FPS": 195,
-    "Animation & Modeling": 193,
-    "Puzzle": 191,
-    "Parkour": 189,
-    "PvE": 186,
-    "Strategy": 182,
-    "Battle Royale": 179,
-    "RPG": 177,
-    "Walking Simulator": 173,
-    "Action-Adventure": 169,
-    "3D": 153,
-    "3D Vision": 145,
-    "VR": 136,
-    "Underground": 127,
-    "Horror": 123
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1796840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1796840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1796840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1796840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1796840,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1796840/header.jpg?t=1642225433",
+  "consensus_genre": "Strategy",
+  "developer": "dongxujuan",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,18 +66,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1796840/header.jpg?t=1642225433",
+  "initialprice": "99",
+  "languages": "English, Simplified Chinese",
+  "name": "Underground escape \u5730\u5e95\u9003\u751f",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "dongxujuan",
+  "release_date": "2022/01/14",
+  "required_age": 0,
+  "tags": {
+    "3D": 153,
+    "3D Vision": 145,
+    "Action RTS": 203,
+    "Action-Adventure": 169,
+    "Animation & Modeling": 193,
+    "Battle Royale": 179,
+    "Choose Your Own Adventure": 206,
+    "Exploration": 210,
+    "FPS": 195,
+    "Horror": 123,
+    "Immersive Sim": 199,
+    "Parkour": 189,
+    "Puzzle": 191,
+    "PvE": 186,
+    "RPG": 177,
+    "Strategy": 182,
+    "Tactical RPG": 215,
+    "Underground": 127,
+    "VR": 136,
+    "Walking Simulator": 173
+  },
+  "type": "game"
 }

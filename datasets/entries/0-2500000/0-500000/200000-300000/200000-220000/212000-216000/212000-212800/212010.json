@@ -1,215 +1,253 @@
 {
-  "appid": 212010,
-  "name": "Galaxy on Fire 2 Full HD",
-  "developer": "Fishlabs Entertainment GmbH",
-  "publisher": "bitComposer Games",
-  "tags": {
-    "Space": 246,
-    "Third-Person Shooter": 232,
-    "Exploration": 227,
-    "3D Fighter": 226,
-    "Shooter": 222,
-    "Space Sim": 218,
-    "Arcade": 214,
-    "Action-Adventure": 211,
-    "3D": 210,
-    "3D Vision": 204,
-    "Linear": 200,
-    "Historical": 192,
-    "Flight": 190,
-    "Third Person": 183,
-    "Action": 175,
-    "Sci-fi": 164,
-    "Simulation": 164,
-    "Atmospheric": 156,
-    "Adventure": 150,
-    "Singleplayer": 149
+  "Average Playtime - 2 Weeks": {
+    "app_id": 212010,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 74
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 212010,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 74
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 7,
+    "2022-12-10": 5,
+    "2022-12-13": 13,
+    "2022-12-15": 8,
+    "2022-12-18": 10,
+    "2022-12-21": 9,
+    "2022-12-22": 6
+  },
+  "Completion": 32.20000076293945,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 212010,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 74
+  },
+  "Median Playtime - Forever": {
+    "app_id": 212010,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 74
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 212010,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1418,
-  "negative": 461,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 5,
-  "languages": "English, French, German, Italian, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Spain, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/08/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/212010/header.jpg?t=1447355835",
+  "consensus_genre": "Action",
+  "developer": "Fishlabs Entertainment GmbH",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 7,
-  "Completion": 32.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/212010/header.jpg?t=1447355835",
+  "initialprice": "799",
+  "languages": "English, French, German, Italian, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Spain, Traditional Chinese",
+  "name": "Galaxy on Fire 2 Full HD",
+  "negative": 461,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1418,
+  "price": "799",
+  "publisher": "bitComposer Games",
+  "release_date": "2012/08/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 210,
+    "3D Fighter": 226,
+    "3D Vision": 204,
+    "Action": 175,
+    "Action-Adventure": 211,
+    "Adventure": 150,
+    "Arcade": 214,
+    "Atmospheric": 156,
+    "Exploration": 227,
+    "Flight": 190,
+    "Historical": 192,
+    "Linear": 200,
+    "Sci-fi": 164,
+    "Shooter": 222,
+    "Simulation": 164,
+    "Singleplayer": 149,
+    "Space": 246,
+    "Space Sim": 218,
+    "Third Person": 183,
+    "Third-Person Shooter": 232
+  },
+  "type": "game"
 }

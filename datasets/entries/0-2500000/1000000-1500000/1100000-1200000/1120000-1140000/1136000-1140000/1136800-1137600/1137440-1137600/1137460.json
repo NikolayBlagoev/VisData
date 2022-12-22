@@ -1,214 +1,252 @@
 {
-  "appid": 1137460,
-  "name": "ALTF4",
-  "developer": "PUMPKIM",
-  "publisher": "PUMPKIM",
-  "tags": {
-    "Singleplayer": 209,
-    "3D": 192,
-    "Runner": 190,
-    "Physics": 182,
-    "Survival": 178,
-    "Medieval": 175,
-    "3D Platformer": 174,
-    "Third Person": 171,
-    "Action": 165,
-    "Platformer": 160,
-    "Casual": 142,
-    "Rogue-like": 131,
-    "Arcade": 128,
-    "Action Roguelike": 125,
-    "Exploration": 123,
-    "Cartoony": 115,
-    "Colorful": 114,
-    "Adventure": 104,
-    "Mystery": 102,
-    "Psychological Horror": 94
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1137460,
+    "average_2weeks": 0,
+    "average_forever": 174,
+    "median_2weeks": 0,
+    "median_forever": 128
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1137460,
+    "average_2weeks": 0,
+    "average_forever": 174,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "CCU Histogram": {
+    "2022-12-08": 44,
+    "2022-12-09": 41,
+    "2022-12-10": 52,
+    "2022-12-13": 46,
+    "2022-12-15": 68,
+    "2022-12-18": 54,
+    "2022-12-21": 48,
+    "2022-12-22": 57
+  },
+  "Completion": 36.20000076293945,
+  "Down 30 Days": 29,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1137460,
+    "average_2weeks": 0,
+    "average_forever": 174,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1137460,
+    "average_2weeks": 0,
+    "average_forever": 174,
+    "median_2weeks": 0,
+    "median_forever": 128
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 84,
+  "User Score": -1,
+  "appid": 1137460,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 7348,
-  "negative": 1672,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 39,
-  "languages": "English, Spanish - Spain, Russian, Simplified Chinese, Korean, French, German, Japanese, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1137460/header.jpg?t=1640166693",
+  "consensus_genre": "Action",
+  "developer": "PUMPKIM",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 84,
-  "Down 30 Days": 29,
-  "Completion": 36.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1137460/header.jpg?t=1640166693",
+  "initialprice": "299",
+  "languages": "English, Spanish - Spain, Russian, Simplified Chinese, Korean, French, German, Japanese, Traditional Chinese, Turkish",
+  "name": "ALTF4",
+  "negative": 1672,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7348,
+  "price": "299",
+  "publisher": "PUMPKIM",
+  "release_date": "2021/11/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 192,
+    "3D Platformer": 174,
+    "Action": 165,
+    "Action Roguelike": 125,
+    "Adventure": 104,
+    "Arcade": 128,
+    "Cartoony": 115,
+    "Casual": 142,
+    "Colorful": 114,
+    "Exploration": 123,
+    "Medieval": 175,
+    "Mystery": 102,
+    "Physics": 182,
+    "Platformer": 160,
+    "Psychological Horror": 94,
+    "Rogue-like": 131,
+    "Runner": 190,
+    "Singleplayer": 209,
+    "Survival": 178,
+    "Third Person": 171
+  },
+  "type": "game"
 }

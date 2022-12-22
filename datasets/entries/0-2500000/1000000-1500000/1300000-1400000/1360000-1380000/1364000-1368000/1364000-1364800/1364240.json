@@ -1,31 +1,56 @@
 {
-  "appid": 1364240,
-  "name": "FarRock Dodgeball",
-  "developer": "Side B Gaming",
-  "publisher": "Side B Gaming",
-  "tags": {
-    "Sports": 364,
-    "RPG": 349,
-    "Arcade": 337,
-    "Cartoon": 333,
-    "Exploration": 322,
-    "Retro": 312,
-    "Colorful": 305,
-    "Cute": 297,
-    "Character Customization": 288,
-    "Anime": 278,
-    "Beat 'em up": 267,
-    "Action Roguelike": 254,
-    "2.5D": 243,
-    "Side Scroller": 230,
-    "Old School": 215,
-    "2D": 213,
-    "Isometric": 195,
-    "Comedy": 178,
-    "Fantasy": 159,
-    "Funny": 139
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1364240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1364240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1364240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1364240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1364240,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,39 +60,52 @@
     "Shared/Split Screen Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/09/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364240/header.jpg?t=1632456092",
+  "consensus_genre": "Sports",
+  "developer": "Side B Gaming",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364240/header.jpg?t=1632456092",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "FarRock Dodgeball",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Side B Gaming",
+  "release_date": "2021/09/23",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 243,
+    "2D": 213,
+    "Action Roguelike": 254,
+    "Anime": 278,
+    "Arcade": 337,
+    "Beat 'em up": 267,
+    "Cartoon": 333,
+    "Character Customization": 288,
+    "Colorful": 305,
+    "Comedy": 178,
+    "Cute": 297,
+    "Exploration": 322,
+    "Fantasy": 159,
+    "Funny": 139,
+    "Isometric": 195,
+    "Old School": 215,
+    "RPG": 349,
+    "Retro": 312,
+    "Side Scroller": 230,
+    "Sports": 364
+  },
+  "type": "game"
 }

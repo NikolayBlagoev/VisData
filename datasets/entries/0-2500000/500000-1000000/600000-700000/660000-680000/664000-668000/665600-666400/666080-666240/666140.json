@@ -1,31 +1,201 @@
 {
-  "appid": 666140,
-  "name": "My Time At Portia",
-  "developer": "Pathea Games",
-  "publisher": "Team17",
-  "tags": {
-    "RPG": 690,
-    "Life Sim": 678,
-    "Open World": 658,
-    "Farming Sim": 648,
-    "Crafting": 626,
-    "Simulation": 608,
-    "Casual": 519,
-    "Adventure": 470,
-    "Singleplayer": 442,
-    "Agriculture": 420,
-    "Building": 402,
-    "Sandbox": 362,
-    "Indie": 351,
-    "Relaxing": 288,
-    "Mining": 282,
-    "Exploration": 246,
-    "Survival": 181,
-    "Cartoony": 156,
-    "Post-apocalyptic": 112,
-    "Female Protagonist": 104
+  "Average Playtime - 2 Weeks": {
+    "app_id": 666140,
+    "average_2weeks": 0,
+    "average_forever": 1588,
+    "median_2weeks": 0,
+    "median_forever": 590
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 666140,
+    "average_2weeks": 0,
+    "average_forever": 1588,
+    "median_2weeks": 0,
+    "median_forever": 590
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1439,
+    "2022-12-09": 1098,
+    "2022-12-10": 1079,
+    "2022-12-13": 1269,
+    "2022-12-15": 1016,
+    "2022-12-18": 1092,
+    "2022-12-21": 1135,
+    "2022-12-22": 1129
+  },
+  "Completion": 34.0,
+  "Down 30 Days": 23,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 666140,
+    "average_2weeks": 0,
+    "average_forever": 1588,
+    "median_2weeks": 0,
+    "median_forever": 590
+  },
+  "Median Playtime - Forever": {
+    "app_id": 666140,
+    "average_2weeks": 0,
+    "average_forever": 1588,
+    "median_2weeks": 0,
+    "median_forever": 590
+  },
+  "Meta Score": "73",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 189,
+  "User Score": -1,
+  "appid": 666140,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,22 +206,10 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 35666,
-  "negative": 2853,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 1140,
-  "languages": "English, Simplified Chinese, French, German, Traditional Chinese, Italian, Spanish - Spain, Japanese, Korean, Russian, Turkish, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2019/01/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/666140/header.jpg?t=1656057573",
+  "consensus_genre": "RPG",
+  "developer": "Pathea Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -59,163 +217,43 @@
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "73",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 189,
-  "Down 30 Days": 23,
-  "Completion": 34.0,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/666140/header.jpg?t=1656057573",
+  "initialprice": "2999",
+  "languages": "English, Simplified Chinese, French, German, Traditional Chinese, Italian, Spanish - Spain, Japanese, Korean, Russian, Turkish, Portuguese - Brazil",
+  "name": "My Time At Portia",
+  "negative": 2853,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 35666,
+  "price": "2999",
+  "publisher": "Team17",
+  "release_date": "2019/01/15",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 470,
+    "Agriculture": 420,
+    "Building": 402,
+    "Cartoony": 156,
+    "Casual": 519,
+    "Crafting": 626,
+    "Exploration": 246,
+    "Farming Sim": 648,
+    "Female Protagonist": 104,
+    "Indie": 351,
+    "Life Sim": 678,
+    "Mining": 282,
+    "Open World": 658,
+    "Post-apocalyptic": 112,
+    "RPG": 690,
+    "Relaxing": 288,
+    "Sandbox": 362,
+    "Simulation": 608,
+    "Singleplayer": 442,
+    "Survival": 181
+  },
+  "type": "game"
 }

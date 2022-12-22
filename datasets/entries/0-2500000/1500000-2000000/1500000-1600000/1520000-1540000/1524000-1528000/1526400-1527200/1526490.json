@@ -1,31 +1,201 @@
 {
-  "appid": 1526490,
-  "name": "Fear Surrounds",
-  "developer": "SaltyEgg Studio",
-  "publisher": "Yooreka Studio",
-  "tags": {
-    "Multiplayer": 344,
-    "Horror": 327,
-    "Online Co-Op": 306,
-    "Social Deduction": 298,
-    "Survival": 289,
-    "Funny": 278,
-    "Casual": 274,
-    "Co-op": 266,
-    "RPG": 265,
-    "Mystery": 234,
-    "Battle Royale": 217,
-    "Psychological Horror": 215,
-    "3D": 203,
-    "First-Person": 185,
-    "Tactical RPG": 178,
-    "MOBA": 160,
-    "PvP": 150,
-    "Detective": 139,
-    "MMORPG": 111,
-    "Board Game": 84
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1526490,
+    "average_2weeks": 0,
+    "average_forever": 3799,
+    "median_2weeks": 0,
+    "median_forever": 1392
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1526490,
+    "average_2weeks": 0,
+    "average_forever": 3799,
+    "median_2weeks": 0,
+    "median_forever": 1392
+  },
+  "CCU Histogram": {
+    "2022-12-08": 994,
+    "2022-12-09": 885,
+    "2022-12-10": 885,
+    "2022-12-13": 691,
+    "2022-12-15": 862,
+    "2022-12-18": 751,
+    "2022-12-21": 764,
+    "2022-12-22": 812
+  },
+  "Completion": -1,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1526490,
+    "average_2weeks": 0,
+    "average_forever": 3799,
+    "median_2weeks": 0,
+    "median_forever": 1392
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1526490,
+    "average_2weeks": 0,
+    "average_forever": 3799,
+    "median_2weeks": 0,
+    "median_forever": 1392
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 24,
+  "User Score": -1,
+  "appid": 1526490,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,184 +204,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 8606,
-  "negative": 1279,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 966,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1526490/header.jpg?t=1645063941",
+  "consensus_genre": "Casual",
+  "developer": "SaltyEgg Studio",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 24,
-  "Down 30 Days": 12,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1526490/header.jpg?t=1645063941",
+  "initialprice": "799",
+  "languages": "English, Simplified Chinese",
+  "name": "Fear Surrounds",
+  "negative": 1279,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 8606,
+  "price": "799",
+  "publisher": "Yooreka Studio",
+  "release_date": "2021/10/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 203,
+    "Battle Royale": 217,
+    "Board Game": 84,
+    "Casual": 274,
+    "Co-op": 266,
+    "Detective": 139,
+    "First-Person": 185,
+    "Funny": 278,
+    "Horror": 327,
+    "MMORPG": 111,
+    "MOBA": 160,
+    "Multiplayer": 344,
+    "Mystery": 234,
+    "Online Co-Op": 306,
+    "Psychological Horror": 215,
+    "PvP": 150,
+    "RPG": 265,
+    "Social Deduction": 298,
+    "Survival": 289,
+    "Tactical RPG": 178
+  },
+  "type": "game"
 }

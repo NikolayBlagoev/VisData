@@ -1,63 +1,101 @@
 {
-  "appid": 1676060,
-  "name": "Beta Escape",
-  "developer": "Guillaume Lamontagne",
-  "publisher": "Guillaume Lamontagne",
-  "tags": {
-    "Adventure": 64,
-    "Puzzle": 50,
-    "Hidden Object": 39,
-    "First-Person": 38,
-    "Logic": 35,
-    "Comedy": 29,
-    "Mystery": 27,
-    "Co-op": 25,
-    "Online Co-Op": 23,
-    "Indie": 21,
-    "Local Co-Op": 21,
-    "Singleplayer": 19,
-    "Multiplayer": 17,
-    "Puzzle-Platformer": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1676060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1676060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1676060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1676060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1676060,
   "categories": [
     "Multi-player",
     "Single-player",
     "Co-op",
     "LAN Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1676060/header.jpg?t=1631797710",
+  "consensus_genre": "Adventure",
+  "developer": "Guillaume Lamontagne",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1676060/header.jpg?t=1631797710",
+  "initialprice": "199",
+  "languages": "English, French",
+  "name": "Beta Escape",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Guillaume Lamontagne",
+  "release_date": "2021/09/16",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 64,
+    "Co-op": 25,
+    "Comedy": 29,
+    "First-Person": 38,
+    "Hidden Object": 39,
+    "Indie": 21,
+    "Local Co-Op": 21,
+    "Logic": 35,
+    "Multiplayer": 17,
+    "Mystery": 27,
+    "Online Co-Op": 23,
+    "Puzzle": 50,
+    "Puzzle-Platformer": 15,
+    "Singleplayer": 19
+  },
+  "type": "game"
 }

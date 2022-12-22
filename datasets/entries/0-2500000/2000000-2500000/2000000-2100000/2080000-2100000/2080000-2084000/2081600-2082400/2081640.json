@@ -1,84 +1,122 @@
 {
-  "appid": 2081640,
-  "name": "The Voices Games 3d Collection",
-  "developer": "The Voices Games",
-  "publisher": "The Voices Games",
-  "tags": {
-    "Action": 214,
-    "Adventure": 208,
-    "Platformer": 184,
-    "Shooter": 179,
-    "2D Platformer": 173,
-    "3D Platformer": 163,
-    "Third-Person Shooter": 156,
-    "Twin Stick Shooter": 148,
-    "3D": 140,
-    "Third Person": 131,
-    "Horror": 120,
-    "Sci-fi": 118,
-    "Space": 105,
-    "Superhero": 91,
-    "Controller": 76,
-    "Female Protagonist": 60,
-    "Linear": 43,
-    "Score Attack": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2081640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2081640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 37.79999923706055,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2081640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2081640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2081640,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2081640/header.jpg?t=1663320388",
+  "consensus_genre": "Action",
+  "developer": "The Voices Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": 37.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2081640/header.jpg?t=1663320388",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "The Voices Games 3d Collection",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "99",
+  "publisher": "The Voices Games",
+  "release_date": "2022/09/16",
+  "required_age": 0,
+  "tags": {
+    "2D Platformer": 173,
+    "3D": 140,
+    "3D Platformer": 163,
+    "Action": 214,
+    "Adventure": 208,
+    "Controller": 76,
+    "Female Protagonist": 60,
+    "Horror": 120,
+    "Indie": 21,
+    "Linear": 43,
+    "Platformer": 184,
+    "Sci-fi": 118,
+    "Score Attack": 27,
+    "Shooter": 179,
+    "Singleplayer": 25,
+    "Space": 105,
+    "Superhero": 91,
+    "Third Person": 131,
+    "Third-Person Shooter": 156,
+    "Twin Stick Shooter": 148
+  },
+  "type": "game"
 }

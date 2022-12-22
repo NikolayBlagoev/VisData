@@ -1,79 +1,117 @@
 {
-  "appid": 1834580,
-  "name": "From Heaven To Earth",
-  "developer": "EpiXR Games UG",
-  "publisher": "EpiXR Games UG",
-  "tags": {
-    "3D Platformer": 195,
-    "Platformer": 188,
-    "First-Person": 185,
-    "Difficult": 179,
-    "Stylized": 173,
-    "Colorful": 163,
-    "Action": 160,
-    "Philosophical": 157,
-    "Casual": 151,
-    "Singleplayer": 148,
-    "Exploration": 120,
-    "Puzzle-Platformer": 118,
-    "3D": 105,
-    "Atmospheric": 91,
-    "Surreal": 76,
-    "Linear": 60,
-    "Simulation": 44,
-    "Narration": 43,
-    "Walking Simulator": 26,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1834580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1834580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 51.400001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1834580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1834580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 18,
+  "User Score": -1,
+  "appid": 1834580,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 18,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1834580/header.jpg?t=1645185731",
+  "consensus_genre": "Action",
+  "developer": "EpiXR Games UG",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 18,
-  "Down 30 Days": 0,
-  "Completion": 51.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1834580/header.jpg?t=1645185731",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "From Heaven To Earth",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 18,
+  "price": "999",
+  "publisher": "EpiXR Games UG",
+  "release_date": "2022/02/18",
+  "required_age": 0,
+  "tags": {
+    "3D": 105,
+    "3D Platformer": 195,
+    "Action": 160,
+    "Atmospheric": 91,
+    "Casual": 151,
+    "Colorful": 163,
+    "Difficult": 179,
+    "Exploration": 120,
+    "First-Person": 185,
+    "Indie": 21,
+    "Linear": 60,
+    "Narration": 43,
+    "Philosophical": 157,
+    "Platformer": 188,
+    "Puzzle-Platformer": 118,
+    "Simulation": 44,
+    "Singleplayer": 148,
+    "Stylized": 173,
+    "Surreal": 76,
+    "Walking Simulator": 26
+  },
+  "type": "game"
 }

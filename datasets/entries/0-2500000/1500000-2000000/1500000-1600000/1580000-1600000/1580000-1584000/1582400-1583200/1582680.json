@@ -1,31 +1,201 @@
 {
-  "appid": 1582680,
-  "name": "Trolley Problem, Inc.",
-  "developer": "Read Graves",
-  "publisher": "Yogscast Games",
-  "tags": {
-    "Choices Matter": 380,
-    "Indie": 375,
-    "Dark Humor": 372,
-    "Casual": 365,
-    "Life Sim": 365,
-    "Simulation": 359,
-    "Minimalist": 349,
-    "Immersive Sim": 343,
-    "Text-Based": 341,
-    "Artificial Intelligence": 335,
-    "Comedy": 331,
-    "Capitalism": 330,
-    "Education": 330,
-    "Philosophical": 325,
-    "Funny": 324,
-    "Singleplayer": 316,
-    "Satire": 310,
-    "Surreal": 298,
-    "Underground": 292,
-    "Co-op": 287
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1582680,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 22
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1582680,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 22
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 4,
+    "2022-12-10": 5,
+    "2022-12-13": 3,
+    "2022-12-15": 3,
+    "2022-12-18": 2,
+    "2022-12-21": 4,
+    "2022-12-22": 2
+  },
+  "Completion": 86.5,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1582680,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 22
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1582680,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 22
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 44,
+  "User Score": -1,
+  "appid": 1582680,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,184 +206,52 @@
     "Full controller support",
     "Shared/Split Screen Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 447,
-  "negative": 225,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
   "ccu": 5,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Arabic, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1582680/header.jpg?t=1659611129",
+  "consensus_genre": "Indie",
+  "developer": "Read Graves",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 44,
-  "Down 30 Days": 8,
-  "Completion": 86.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1582680/header.jpg?t=1659611129",
+  "initialprice": "1099",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Arabic, Portuguese - Brazil",
+  "name": "Trolley Problem, Inc.",
+  "negative": 225,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 447,
+  "price": "1099",
+  "publisher": "Yogscast Games",
+  "release_date": "2022/04/21",
+  "required_age": 0,
+  "tags": {
+    "Artificial Intelligence": 335,
+    "Capitalism": 330,
+    "Casual": 365,
+    "Choices Matter": 380,
+    "Co-op": 287,
+    "Comedy": 331,
+    "Dark Humor": 372,
+    "Education": 330,
+    "Funny": 324,
+    "Immersive Sim": 343,
+    "Indie": 375,
+    "Life Sim": 365,
+    "Minimalist": 349,
+    "Philosophical": 325,
+    "Satire": 310,
+    "Simulation": 359,
+    "Singleplayer": 316,
+    "Surreal": 298,
+    "Text-Based": 341,
+    "Underground": 292
+  },
+  "type": "game"
 }

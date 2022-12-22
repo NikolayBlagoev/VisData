@@ -1,80 +1,118 @@
 {
-  "appid": 2005390,
-  "name": "Paper Flight - Super Speed Dash",
-  "developer": "EpiXR Games UG",
-  "publisher": "EpiXR Games UG",
-  "tags": {
-    "Simulation": 204,
-    "Flight": 194,
-    "Relaxing": 188,
-    "Collectathon": 179,
-    "Realistic": 173,
-    "Retro": 163,
-    "Family Friendly": 156,
-    "3D": 148,
-    "Action": 140,
-    "Third Person": 140,
-    "Casual": 138,
-    "Controller": 131,
-    "Arcade": 105,
-    "Walking Simulator": 91,
-    "Exploration": 76,
-    "Old School": 60,
-    "Physics": 43,
-    "Singleplayer": 27,
-    "Combat": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2005390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2005390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 21.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2005390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2005390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 11,
+  "User Score": -1,
+  "appid": 2005390,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 11,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2005390/header.jpg?t=1662722321",
+  "consensus_genre": "Simulation",
+  "developer": "EpiXR Games UG",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 11,
-  "Down 30 Days": 0,
-  "Completion": 21.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2005390/header.jpg?t=1662722321",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Paper Flight - Super Speed Dash",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 11,
+  "price": "999",
+  "publisher": "EpiXR Games UG",
+  "release_date": "2022/09/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 148,
+    "Action": 140,
+    "Arcade": 105,
+    "Casual": 138,
+    "Collectathon": 179,
+    "Combat": 25,
+    "Controller": 131,
+    "Exploration": 76,
+    "Family Friendly": 156,
+    "Flight": 194,
+    "Indie": 21,
+    "Old School": 60,
+    "Physics": 43,
+    "Realistic": 173,
+    "Relaxing": 188,
+    "Retro": 163,
+    "Simulation": 204,
+    "Singleplayer": 27,
+    "Third Person": 140,
+    "Walking Simulator": 91
+  },
+  "type": "game"
 }

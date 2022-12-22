@@ -1,214 +1,252 @@
 {
-  "appid": 865610,
-  "name": "Backbone",
-  "developer": "Eggnut",
-  "publisher": "Raw Fury",
-  "tags": {
-    "Pixel Graphics": 463,
-    "Story Rich": 451,
-    "Casual": 442,
-    "Detective": 441,
-    "Point & Click": 436,
-    "Singleplayer": 436,
-    "Mystery": 422,
-    "2.5D": 417,
-    "Adventure": 410,
-    "Noir": 410,
-    "Dystopian ": 407,
-    "Retro": 402,
-    "Cinematic": 398,
-    "Atmospheric": 390,
-    "Indie": 390,
-    "Linear": 386,
-    "Visual Novel": 385,
-    "Interactive Fiction": 382,
-    "Exploration": 381,
-    "RPG": 368
+  "Average Playtime - 2 Weeks": {
+    "app_id": 865610,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 369
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 865610,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 369
+  },
+  "CCU Histogram": {
+    "2022-12-08": 11,
+    "2022-12-09": 13,
+    "2022-12-10": 12,
+    "2022-12-13": 11,
+    "2022-12-15": 11,
+    "2022-12-18": 13,
+    "2022-12-21": 8,
+    "2022-12-22": 13
+  },
+  "Completion": 48.70000076293945,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 865610,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 369
+  },
+  "Median Playtime - Forever": {
+    "app_id": 865610,
+    "average_2weeks": 0,
+    "average_forever": 301,
+    "median_2weeks": 0,
+    "median_forever": 369
+  },
+  "Meta Score": "72",
+  "Rating": "ESRB M",
+  "Up 30 Days": 29,
+  "User Score": -1,
+  "appid": 865610,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 967,
-  "negative": 569,
-  "price": "1249",
-  "initialprice": "2499",
-  "discount": "50",
   "ccu": 16,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/06/8",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg?t=1662045980",
+  "consensus_genre": "Adventure",
+  "developer": "Eggnut",
+  "discount": "50",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "72",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 29,
-  "Down 30 Days": 13,
-  "Completion": 48.70000076293945,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg?t=1662045980",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Backbone",
+  "negative": 569,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 967,
+  "price": "1249",
+  "publisher": "Raw Fury",
+  "release_date": "2021/06/8",
+  "required_age": "15",
+  "tags": {
+    "2.5D": 417,
+    "Adventure": 410,
+    "Atmospheric": 390,
+    "Casual": 442,
+    "Cinematic": 398,
+    "Detective": 441,
+    "Dystopian ": 407,
+    "Exploration": 381,
+    "Indie": 390,
+    "Interactive Fiction": 382,
+    "Linear": 386,
+    "Mystery": 422,
+    "Noir": 410,
+    "Pixel Graphics": 463,
+    "Point & Click": 436,
+    "RPG": 368,
+    "Retro": 402,
+    "Singleplayer": 436,
+    "Story Rich": 451,
+    "Visual Novel": 385
+  },
+  "type": "game"
 }

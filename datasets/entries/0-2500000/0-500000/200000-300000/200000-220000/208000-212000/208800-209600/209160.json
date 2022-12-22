@@ -1,31 +1,201 @@
 {
-  "appid": 209160,
-  "name": "Call of Duty: Ghosts",
-  "developer": "Infinity Ward",
-  "publisher": "Activision",
-  "tags": {
-    "Dog": 2798,
-    "FPS": 1548,
-    "Action": 1213,
-    "Multiplayer": 886,
-    "Shooter": 780,
-    "First-Person": 540,
-    "Military": 347,
-    "Singleplayer": 333,
-    "War": 229,
-    "Co-op": 203,
-    "Online Co-Op": 164,
-    "America": 134,
-    "Linear": 108,
-    "Fast-Paced": 103,
-    "Hacking": 87,
-    "Futuristic": 59,
-    "Survival Horror": 58,
-    "Tactical": 58,
-    "Team-Based": 53,
-    "Competitive": 48
+  "Average Playtime - 2 Weeks": {
+    "app_id": 209160,
+    "average_2weeks": 0,
+    "average_forever": 367,
+    "median_2weeks": 0,
+    "median_forever": 243
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 209160,
+    "average_2weeks": 0,
+    "average_forever": 367,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "CCU Histogram": {
+    "2022-12-08": 83,
+    "2022-12-09": 106,
+    "2022-12-10": 90,
+    "2022-12-13": 123,
+    "2022-12-15": 72,
+    "2022-12-18": 81,
+    "2022-12-21": 86,
+    "2022-12-22": 77
+  },
+  "Completion": 54.70000076293945,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 209160,
+    "average_2weeks": 0,
+    "average_forever": 367,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "Median Playtime - Forever": {
+    "app_id": 209160,
+    "average_2weeks": 0,
+    "average_forever": 367,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 57,
+  "User Score": -1,
+  "appid": 209160,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,182 +206,50 @@
     "Full controller support",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 17294,
-  "negative": 10795,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 147,
-  "languages": "English, French, German, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/03/25",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/209160/header.jpg?t=1654830036",
+  "consensus_genre": "Action",
+  "developer": "Infinity Ward",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 57,
-  "Down 30 Days": 9,
-  "Completion": 54.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/209160/header.jpg?t=1654830036",
+  "initialprice": "5999",
+  "languages": "English, French, German, Italian, Spanish - Spain",
+  "name": "Call of Duty: Ghosts",
+  "negative": 10795,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 17294,
+  "price": "5999",
+  "publisher": "Activision",
+  "release_date": "2014/03/25",
+  "required_age": "15",
+  "tags": {
+    "Action": 1213,
+    "America": 134,
+    "Co-op": 203,
+    "Competitive": 48,
+    "Dog": 2798,
+    "FPS": 1548,
+    "Fast-Paced": 103,
+    "First-Person": 540,
+    "Futuristic": 59,
+    "Hacking": 87,
+    "Linear": 108,
+    "Military": 347,
+    "Multiplayer": 886,
+    "Online Co-Op": 164,
+    "Shooter": 780,
+    "Singleplayer": 333,
+    "Survival Horror": 58,
+    "Tactical": 58,
+    "Team-Based": 53,
+    "War": 229
+  },
+  "type": "game"
 }

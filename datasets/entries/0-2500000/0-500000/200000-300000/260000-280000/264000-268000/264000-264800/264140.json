@@ -1,215 +1,253 @@
 {
-  "appid": 264140,
-  "name": "Pixel Piracy",
-  "developer": "Vitali Kirpu",
-  "publisher": "",
-  "tags": {
-    "Pirates": 410,
-    "Action Roguelike": 406,
-    "Naval Combat": 405,
-    "Pixel Graphics": 347,
-    "Indie": 315,
-    "RPG": 275,
-    "Sandbox": 241,
-    "2D": 227,
-    "Open World": 209,
-    "Rogue-like": 204,
-    "Simulation": 183,
-    "Adventure": 171,
-    "Singleplayer": 157,
-    "Action": 107,
-    "Side Scroller": 102,
-    "Building": 101,
-    "Rogue-lite": 86,
-    "Strategy": 85,
-    "Survival": 81,
-    "Crafting": 37
+  "Average Playtime - 2 Weeks": {
+    "app_id": 264140,
+    "average_2weeks": 0,
+    "average_forever": 431,
+    "median_2weeks": 0,
+    "median_forever": 274
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 264140,
+    "average_2weeks": 0,
+    "average_forever": 431,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 9,
+    "2022-12-10": 13,
+    "2022-12-13": 11,
+    "2022-12-15": 9,
+    "2022-12-18": 10,
+    "2022-12-21": 7,
+    "2022-12-22": 10
+  },
+  "Completion": 43.64999961853027,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 264140,
+    "average_2weeks": 0,
+    "average_forever": 431,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "Median Playtime - Forever": {
+    "app_id": 264140,
+    "average_2weeks": 0,
+    "average_forever": 431,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 264140,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 4431,
-  "negative": 2514,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 9,
-  "languages": "English, French, German, Spanish - Spain, Finnish, Italian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/07/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/264140/header.jpg?t=1535987883",
+  "consensus_genre": "Indie",
+  "developer": "Vitali Kirpu",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 2,
-  "Completion": 43.64999961853027,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/264140/header.jpg?t=1535987883",
+  "initialprice": "999",
+  "languages": "English, French, German, Spanish - Spain, Finnish, Italian",
+  "name": "Pixel Piracy",
+  "negative": 2514,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 4431,
+  "price": "999",
+  "publisher": "",
+  "release_date": "2014/07/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 227,
+    "Action": 107,
+    "Action Roguelike": 406,
+    "Adventure": 171,
+    "Building": 101,
+    "Crafting": 37,
+    "Indie": 315,
+    "Naval Combat": 405,
+    "Open World": 209,
+    "Pirates": 410,
+    "Pixel Graphics": 347,
+    "RPG": 275,
+    "Rogue-like": 204,
+    "Rogue-lite": 86,
+    "Sandbox": 241,
+    "Side Scroller": 102,
+    "Simulation": 183,
+    "Singleplayer": 157,
+    "Strategy": 85,
+    "Survival": 81
+  },
+  "type": "game"
 }

@@ -1,31 +1,56 @@
 {
-  "appid": 1671440,
-  "name": "Clich\u00e9 Adventure",
-  "developer": "Taylor Robinson",
-  "publisher": "Taylor Robinson",
-  "tags": {
-    "Action-Adventure": 235,
-    "Open World": 228,
-    "Singleplayer": 225,
-    "Local Co-Op": 221,
-    "PvP": 217,
-    "Exploration": 209,
-    "Dungeon Crawler": 203,
-    "Hack and Slash": 199,
-    "2D": 195,
-    "Pixel Graphics": 188,
-    "Top-Down": 186,
-    "1980s": 181,
-    "Dragons": 180,
-    "Family Friendly": 169,
-    "Fantasy": 158,
-    "Funny": 150,
-    "Magic": 144,
-    "Adventure": 135,
-    "Old School": 133,
-    "Action": 106
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1671440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1671440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1671440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1671440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1671440,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,39 +62,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/08/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1671440/header.jpg?t=1631150483",
+  "consensus_genre": "Adventure",
+  "developer": "Taylor Robinson",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1671440/header.jpg?t=1631150483",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Clich\u00e9 Adventure",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "299",
+  "publisher": "Taylor Robinson",
+  "release_date": "2021/08/2",
+  "required_age": 0,
+  "tags": {
+    "1980s": 181,
+    "2D": 195,
+    "Action": 106,
+    "Action-Adventure": 235,
+    "Adventure": 135,
+    "Dragons": 180,
+    "Dungeon Crawler": 203,
+    "Exploration": 209,
+    "Family Friendly": 169,
+    "Fantasy": 158,
+    "Funny": 150,
+    "Hack and Slash": 199,
+    "Local Co-Op": 221,
+    "Magic": 144,
+    "Old School": 133,
+    "Open World": 228,
+    "Pixel Graphics": 188,
+    "PvP": 217,
+    "Singleplayer": 225,
+    "Top-Down": 186
+  },
+  "type": "game"
 }

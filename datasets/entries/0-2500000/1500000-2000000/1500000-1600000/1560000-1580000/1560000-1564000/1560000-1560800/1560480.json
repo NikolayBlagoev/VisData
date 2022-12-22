@@ -1,31 +1,56 @@
 {
-  "appid": 1560480,
-  "name": "Huckleberry Fields Forever",
-  "developer": "Enoznal LLC",
-  "publisher": "Enoznal LLC",
-  "tags": {
-    "Early Access": 337,
-    "Indie": 306,
-    "Platformer": 296,
-    "Procedural Generation": 291,
-    "2D Platformer": 282,
-    "Action-Adventure": 275,
-    "Open World": 266,
-    "Mystery": 259,
-    "Detective": 250,
-    "2D": 241,
-    "Controller": 231,
-    "Action": 229,
-    "Story Rich": 220,
-    "Cartoony": 197,
-    "Adventure": 185,
-    "Family Friendly": 183,
-    "Investigation": 181,
-    "Cartoon": 148,
-    "4 Player Local": 130,
-    "Co-op": 112
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1560480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1560480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 23.799999237060547,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1560480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1560480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1560480,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,40 +65,53 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/02/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1560480/header.jpg?t=1645516882",
+  "consensus_genre": "Early Access",
+  "developer": "Enoznal LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 23.799999237060547,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1560480/header.jpg?t=1645516882",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Huckleberry Fields Forever",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1999",
+  "publisher": "Enoznal LLC",
+  "release_date": "2022/02/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 241,
+    "2D Platformer": 282,
+    "4 Player Local": 130,
+    "Action": 229,
+    "Action-Adventure": 275,
+    "Adventure": 185,
+    "Cartoon": 148,
+    "Cartoony": 197,
+    "Co-op": 112,
+    "Controller": 231,
+    "Detective": 250,
+    "Early Access": 337,
+    "Family Friendly": 183,
+    "Indie": 306,
+    "Investigation": 181,
+    "Mystery": 259,
+    "Open World": 266,
+    "Platformer": 296,
+    "Procedural Generation": 291,
+    "Story Rich": 220
+  },
+  "type": "game"
 }

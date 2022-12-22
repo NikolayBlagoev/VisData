@@ -1,31 +1,56 @@
 {
-  "appid": 1760510,
-  "name": "FAWE: Enchanted Forest",
-  "developer": "Town Portal",
-  "publisher": "Town Portal",
-  "tags": {
-    "Board Game": 252,
-    "Card Game": 248,
-    "Multiplayer": 242,
-    "Card Battler": 237,
-    "PvP": 231,
-    "Magic": 221,
-    "Mystery": 214,
-    "Family Friendly": 206,
-    "Fantasy": 198,
-    "Atmospheric": 187,
-    "Stylized": 177,
-    "Nature": 167,
-    "2D": 154,
-    "Combat": 151,
-    "Tabletop": 136,
-    "Turn-Based Combat": 120,
-    "Team-Based": 103,
-    "Artificial Intelligence": 84,
-    "Tutorial": 66,
-    "Casual": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1760510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1760510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1760510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1760510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1760510,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,37 +58,50 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/10/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1760510/header.jpg?t=1650610374",
+  "consensus_genre": "",
+  "developer": "Town Portal",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1760510/header.jpg?t=1650610374",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "FAWE: Enchanted Forest",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "Town Portal",
+  "release_date": "2021/10/12",
+  "required_age": 0,
+  "tags": {
+    "2D": 154,
+    "Artificial Intelligence": 84,
+    "Atmospheric": 187,
+    "Board Game": 252,
+    "Card Battler": 237,
+    "Card Game": 248,
+    "Casual": 46,
+    "Combat": 151,
+    "Family Friendly": 206,
+    "Fantasy": 198,
+    "Magic": 221,
+    "Multiplayer": 242,
+    "Mystery": 214,
+    "Nature": 167,
+    "PvP": 231,
+    "Stylized": 177,
+    "Tabletop": 136,
+    "Team-Based": 103,
+    "Turn-Based Combat": 120,
+    "Tutorial": 66
+  },
+  "type": "game"
 }

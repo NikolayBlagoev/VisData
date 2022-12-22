@@ -1,31 +1,201 @@
 {
-  "appid": 403640,
-  "name": "Dishonored 2",
-  "developer": "Arkane Studios",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "Stealth": 1262,
-    "First-Person": 921,
-    "Action": 877,
-    "Assassin": 824,
-    "Singleplayer": 777,
-    "Steampunk": 765,
-    "Atmospheric": 687,
-    "Story Rich": 683,
-    "Female Protagonist": 569,
-    "Magic": 559,
-    "Parkour": 548,
-    "Supernatural": 496,
-    "Open World": 419,
-    "Adventure": 406,
-    "Exploration": 341,
-    "Great Soundtrack": 324,
-    "Gore": 322,
-    "Immersive Sim": 286,
-    "Heist": 274,
-    "Dystopian ": 261
+  "Average Playtime - 2 Weeks": {
+    "app_id": 403640,
+    "average_2weeks": 106,
+    "average_forever": 925,
+    "median_2weeks": 203,
+    "median_forever": 584
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 403640,
+    "average_2weeks": 106,
+    "average_forever": 925,
+    "median_2weeks": 203,
+    "median_forever": 584
+  },
+  "CCU Histogram": {
+    "2022-12-08": 909,
+    "2022-12-09": 789,
+    "2022-12-10": 843,
+    "2022-12-13": 1127,
+    "2022-12-15": 802,
+    "2022-12-18": 749,
+    "2022-12-21": 757,
+    "2022-12-22": 692
+  },
+  "Completion": 43.20000076293945,
+  "Down 30 Days": 19,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 403640,
+    "average_2weeks": 106,
+    "average_forever": 925,
+    "median_2weeks": 203,
+    "median_forever": 584
+  },
+  "Median Playtime - Forever": {
+    "app_id": 403640,
+    "average_2weeks": 106,
+    "average_forever": 925,
+    "median_2weeks": 203,
+    "median_forever": 584
+  },
+  "Meta Score": "86",
+  "Rating": "ESRB M",
+  "Up 30 Days": 342,
+  "User Score": -1,
+  "appid": 403640,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -35,182 +205,50 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 44680,
-  "negative": 6098,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 1176,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/11/11",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/403640/header.jpg?t=1661872003",
+  "consensus_genre": "Action",
+  "developer": "Arkane Studios",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "86",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 342,
-  "Down 30 Days": 19,
-  "Completion": 43.20000076293945,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/403640/header.jpg?t=1661872003",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese",
+  "name": "Dishonored 2",
+  "negative": 6098,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 44680,
+  "price": "2999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2016/11/11",
+  "required_age": "15",
+  "tags": {
+    "Action": 877,
+    "Adventure": 406,
+    "Assassin": 824,
+    "Atmospheric": 687,
+    "Dystopian ": 261,
+    "Exploration": 341,
+    "Female Protagonist": 569,
+    "First-Person": 921,
+    "Gore": 322,
+    "Great Soundtrack": 324,
+    "Heist": 274,
+    "Immersive Sim": 286,
+    "Magic": 559,
+    "Open World": 419,
+    "Parkour": 548,
+    "Singleplayer": 777,
+    "Stealth": 1262,
+    "Steampunk": 765,
+    "Story Rich": 683,
+    "Supernatural": 496
+  },
+  "type": "game"
 }

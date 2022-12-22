@@ -1,31 +1,201 @@
 {
-  "appid": 601840,
-  "name": "Griftlands",
-  "developer": "Klei Entertainment",
-  "publisher": "Klei Entertainment",
-  "tags": {
-    "Card Battler": 259,
-    "Rogue-lite": 255,
-    "Deckbuilding": 242,
-    "RPG": 237,
-    "Choices Matter": 232,
-    "Turn-Based": 220,
-    "Story Rich": 218,
-    "Card Game": 214,
-    "Strategy": 201,
-    "Dark Humor": 200,
-    "Rogue-like": 196,
-    "Turn-Based Combat": 179,
-    "2D": 176,
-    "Comic Book": 172,
-    "Choose Your Own Adventure": 159,
-    "Multiple Endings": 153,
-    "Singleplayer": 149,
-    "Hand-drawn": 142,
-    "Sci-fi": 140,
-    "Atmospheric": 137
+  "Average Playtime - 2 Weeks": {
+    "app_id": 601840,
+    "average_2weeks": 0,
+    "average_forever": 629,
+    "median_2weeks": 0,
+    "median_forever": 476
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 601840,
+    "average_2weeks": 0,
+    "average_forever": 629,
+    "median_2weeks": 0,
+    "median_forever": 476
+  },
+  "CCU Histogram": {
+    "2022-12-08": 221,
+    "2022-12-09": 139,
+    "2022-12-10": 146,
+    "2022-12-13": 143,
+    "2022-12-15": 114,
+    "2022-12-18": 111,
+    "2022-12-21": 125,
+    "2022-12-22": 131
+  },
+  "Completion": 3.299999952316284,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 601840,
+    "average_2weeks": 0,
+    "average_forever": 629,
+    "median_2weeks": 0,
+    "median_forever": 476
+  },
+  "Median Playtime - Forever": {
+    "app_id": 601840,
+    "average_2weeks": 0,
+    "average_forever": 629,
+    "median_2weeks": 0,
+    "median_forever": 476
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 67,
+  "User Score": -1,
+  "appid": 601840,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,182 +203,50 @@
     "Steam Workshop",
     "Remote Play on Tablet"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 11657,
-  "negative": 621,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 142,
-  "languages": "English, Simplified Chinese, Traditional Chinese, French, German, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/06/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/601840/header.jpg?t=1637088352",
+  "consensus_genre": "",
+  "developer": "Klei Entertainment",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 67,
-  "Down 30 Days": 8,
-  "Completion": 3.299999952316284,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/601840/header.jpg?t=1637088352",
+  "initialprice": "1999",
+  "languages": "English, Simplified Chinese, Traditional Chinese, French, German, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Spanish - Spain",
+  "name": "Griftlands",
+  "negative": 621,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 11657,
+  "price": "1999",
+  "publisher": "Klei Entertainment",
+  "release_date": "2021/06/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 176,
+    "Atmospheric": 137,
+    "Card Battler": 259,
+    "Card Game": 214,
+    "Choices Matter": 232,
+    "Choose Your Own Adventure": 159,
+    "Comic Book": 172,
+    "Dark Humor": 200,
+    "Deckbuilding": 242,
+    "Hand-drawn": 142,
+    "Multiple Endings": 153,
+    "RPG": 237,
+    "Rogue-like": 196,
+    "Rogue-lite": 255,
+    "Sci-fi": 140,
+    "Singleplayer": 149,
+    "Story Rich": 218,
+    "Strategy": 201,
+    "Turn-Based": 220,
+    "Turn-Based Combat": 179
+  },
+  "type": "game"
 }

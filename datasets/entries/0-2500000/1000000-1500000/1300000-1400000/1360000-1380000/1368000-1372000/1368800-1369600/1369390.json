@@ -1,54 +1,92 @@
 {
-  "appid": 1369390,
-  "name": "Tome Rush",
-  "developer": "JC Tinkers",
-  "publisher": "JC Tinkers",
-  "tags": {
-    "Strategy": 51,
-    "Card Game": 47,
-    "Management": 40,
-    "Auto Battler": 37,
-    "Deckbuilding": 35,
-    "Minimalist": 25,
-    "2D": 23,
-    "Turn-Based Tactics": 21,
-    "Singleplayer": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1369390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1369390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/10/5",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1369390/header.jpg?t=1601916266",
-  "genre": [
-    "Strategy"
-  ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1369390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1369390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1369390,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Strategy",
+  "developer": "JC Tinkers",
+  "discount": "0",
+  "genre": [
+    "Strategy"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1369390/header.jpg?t=1601916266",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Tome Rush",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "JC Tinkers",
+  "release_date": "2020/10/5",
+  "required_age": 0,
+  "tags": {
+    "2D": 23,
+    "Auto Battler": 37,
+    "Card Game": 47,
+    "Deckbuilding": 35,
+    "Management": 40,
+    "Minimalist": 25,
+    "Singleplayer": 19,
+    "Strategy": 51,
+    "Turn-Based Tactics": 21
+  },
+  "type": "game"
 }

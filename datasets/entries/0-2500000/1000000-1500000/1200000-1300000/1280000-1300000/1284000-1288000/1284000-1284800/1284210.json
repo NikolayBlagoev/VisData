@@ -1,31 +1,201 @@
 {
-  "appid": 1284210,
-  "name": "Guild Wars 2",
-  "developer": "ArenaNet\u00ae",
-  "publisher": "NCSOFT",
-  "tags": {
-    "MMORPG": 285,
-    "Adventure": 274,
-    "RPG": 260,
-    "Fantasy": 213,
-    "3D": 195,
-    "Character Customization": 194,
-    "Third Person": 192,
-    "PvP": 190,
-    "Atmospheric": 179,
-    "Strategy": 168,
-    "Massively Multiplayer": 153,
-    "Class-Based": 150,
-    "Combat": 147,
-    "Free to Play": 130,
-    "Crafting": 125,
-    "Multiplayer": 112,
-    "Online Co-Op": 83,
-    "Story Rich": 59,
-    "Deckbuilding": 44,
-    "Singleplayer": 44
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1284210,
+    "average_2weeks": 28,
+    "average_forever": 154,
+    "median_2weeks": 28,
+    "median_forever": 81
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1284210,
+    "average_2weeks": 28,
+    "average_forever": 154,
+    "median_2weeks": 28,
+    "median_forever": 81
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3395,
+    "2022-12-09": 3478,
+    "2022-12-10": 3624,
+    "2022-12-13": 4441,
+    "2022-12-15": 3497,
+    "2022-12-18": 3302,
+    "2022-12-21": 3518,
+    "2022-12-22": 3121
+  },
+  "Completion": -1,
+  "Down 30 Days": 82,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 5,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 7,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 208
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 7,
+      "recommendations_up": 245
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 169
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 100
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 9,
+      "recommendations_up": 104
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 93
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1284210,
+    "average_2weeks": 28,
+    "average_forever": 154,
+    "median_2weeks": 28,
+    "median_forever": 81
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1284210,
+    "average_2weeks": 28,
+    "average_forever": 154,
+    "median_2weeks": 28,
+    "median_forever": 81
+  },
+  "Meta Score": "90",
+  "Rating": "ESRB T",
+  "Up 30 Days": 1448,
+  "User Score": -1,
+  "appid": 1284210,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -35,185 +205,53 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4080,
-  "negative": 575,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 4799,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284210/header.jpg?t=1662078090",
+  "consensus_genre": "Adventure",
+  "developer": "ArenaNet\u00ae",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Free to Play",
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "90",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 17,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 11,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 13,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 21,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 208,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 245,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 169,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 102,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 100,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 104,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 93,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 82,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    }
-  ],
-  "Up 30 Days": 1448,
-  "Down 30 Days": 82,
-  "Completion": -1,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284210/header.jpg?t=1662078090",
+  "initialprice": "0",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "Guild Wars 2",
+  "negative": 575,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4080,
+  "price": "0",
+  "publisher": "NCSOFT",
+  "release_date": "2022/08/23",
+  "required_age": 0,
+  "tags": {
+    "3D": 195,
+    "Adventure": 274,
+    "Atmospheric": 179,
+    "Character Customization": 194,
+    "Class-Based": 150,
+    "Combat": 147,
+    "Crafting": 125,
+    "Deckbuilding": 44,
+    "Fantasy": 213,
+    "Free to Play": 130,
+    "MMORPG": 285,
+    "Massively Multiplayer": 153,
+    "Multiplayer": 112,
+    "Online Co-Op": 83,
+    "PvP": 190,
+    "RPG": 260,
+    "Singleplayer": 44,
+    "Story Rich": 59,
+    "Strategy": 168,
+    "Third Person": 192
+  },
+  "type": "game"
 }

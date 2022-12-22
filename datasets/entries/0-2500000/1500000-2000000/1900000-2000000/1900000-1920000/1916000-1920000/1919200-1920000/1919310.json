@@ -1,104 +1,142 @@
 {
-  "appid": 1919310,
-  "name": "Jasper Vice: Legends Untold",
-  "developer": "Soltorch Games",
-  "publisher": "Soltorch Games",
-  "tags": {
-    "Adventure": 72,
-    "Fantasy": 46,
-    "Flight": 43,
-    "Colorful": 40,
-    "Exploration": 37,
-    "Lore-Rich": 31,
-    "Action-Adventure": 29,
-    "3D": 27,
-    "Cinematic": 25,
-    "Stylized": 23,
-    "Indie": 21,
-    "Third Person": 21,
-    "Story Rich": 19,
-    "Controller": 17,
-    "Linear": 15,
-    "Singleplayer": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1919310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1919310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 23.299999237060547,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1919310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1919310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1919310,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1919310/header.jpg?t=1659618924",
+  "consensus_genre": "Adventure",
+  "developer": "Soltorch Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": 23.299999237060547,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1919310/header.jpg?t=1659618924",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Jasper Vice: Legends Untold",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "999",
+  "publisher": "Soltorch Games",
+  "release_date": "2022/08/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 27,
+    "Action-Adventure": 29,
+    "Adventure": 72,
+    "Cinematic": 25,
+    "Colorful": 40,
+    "Controller": 17,
+    "Exploration": 37,
+    "Fantasy": 46,
+    "Flight": 43,
+    "Indie": 21,
+    "Linear": 15,
+    "Lore-Rich": 31,
+    "Singleplayer": 13,
+    "Story Rich": 19,
+    "Stylized": 23,
+    "Third Person": 21
+  },
+  "type": "game"
 }

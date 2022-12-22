@@ -1,31 +1,201 @@
 {
-  "appid": 531510,
-  "name": "Just Shapes & Beats",
-  "developer": "Berzerk Studio",
-  "publisher": "Berzerk Studio",
-  "tags": {
-    "Rhythm": 332,
-    "Great Soundtrack": 308,
-    "Music": 297,
-    "Bullet Hell": 267,
-    "Difficult": 251,
-    "Multiplayer": 203,
-    "2D": 200,
-    "Indie": 198,
-    "Action": 177,
-    "Co-op": 157,
-    "Singleplayer": 143,
-    "Local Multiplayer": 132,
-    "Local Co-Op": 109,
-    "Online Co-Op": 106,
-    "4 Player Local": 92,
-    "Fast-Paced": 91,
-    "Story Rich": 89,
-    "Colorful": 75,
-    "Funny": 56,
-    "Strategy": 38
+  "Average Playtime - 2 Weeks": {
+    "app_id": 531510,
+    "average_2weeks": 2,
+    "average_forever": 238,
+    "median_2weeks": 2,
+    "median_forever": 211
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 531510,
+    "average_2weeks": 2,
+    "average_forever": 238,
+    "median_2weeks": 2,
+    "median_forever": 211
+  },
+  "CCU Histogram": {
+    "2022-12-08": 77,
+    "2022-12-09": 65,
+    "2022-12-10": 108,
+    "2022-12-13": 96,
+    "2022-12-15": 85,
+    "2022-12-18": 105,
+    "2022-12-21": 105,
+    "2022-12-22": 104
+  },
+  "Completion": 56.0,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 531510,
+    "average_2weeks": 2,
+    "average_forever": 238,
+    "median_2weeks": 2,
+    "median_forever": 211
+  },
+  "Median Playtime - Forever": {
+    "app_id": 531510,
+    "average_2weeks": 2,
+    "average_forever": 238,
+    "median_2weeks": 2,
+    "median_forever": 211
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 181,
+  "User Score": -1,
+  "appid": 531510,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,183 +215,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 15183,
-  "negative": 345,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 78,
-  "languages": "English, French, Japanese, Korean, German, Russian, Simplified Chinese, Traditional Chinese, Italian, Spanish - Spain, Spanish - Latin America, Polish, Portuguese - Portugal, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/05/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/531510/header.jpg?t=1667222059",
+  "consensus_genre": "Indie",
+  "developer": "Berzerk Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 181,
-  "Down 30 Days": 5,
-  "Completion": 56.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/531510/header.jpg?t=1667222059",
+  "initialprice": "1999",
+  "languages": "English, French, Japanese, Korean, German, Russian, Simplified Chinese, Traditional Chinese, Italian, Spanish - Spain, Spanish - Latin America, Polish, Portuguese - Portugal, Portuguese - Brazil",
+  "name": "Just Shapes & Beats",
+  "negative": 345,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 15183,
+  "price": "1999",
+  "publisher": "Berzerk Studio",
+  "release_date": "2018/05/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 200,
+    "4 Player Local": 92,
+    "Action": 177,
+    "Bullet Hell": 267,
+    "Co-op": 157,
+    "Colorful": 75,
+    "Difficult": 251,
+    "Fast-Paced": 91,
+    "Funny": 56,
+    "Great Soundtrack": 308,
+    "Indie": 198,
+    "Local Co-Op": 109,
+    "Local Multiplayer": 132,
+    "Multiplayer": 203,
+    "Music": 297,
+    "Online Co-Op": 106,
+    "Rhythm": 332,
+    "Singleplayer": 143,
+    "Story Rich": 89,
+    "Strategy": 38
+  },
+  "type": "game"
 }

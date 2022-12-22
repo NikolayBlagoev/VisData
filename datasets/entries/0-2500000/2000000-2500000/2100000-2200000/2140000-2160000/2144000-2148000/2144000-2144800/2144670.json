@@ -1,69 +1,107 @@
 {
-  "appid": 2144670,
-  "name": "Llama the Farm Drama",
-  "developer": "Mert G\u00fcrz\u00fcmar",
-  "publisher": "Mert G\u00fcrz\u00fcmar",
-  "tags": {
-    "Precision Platformer": 108,
-    "Colorful": 102,
-    "Funny": 98,
-    "Pixel Graphics": 93,
-    "Memes": 89,
-    "Relaxing": 83,
-    "Arcade": 80,
-    "Casual": 78,
-    "Adventure": 76,
-    "Action": 73,
-    "Cozy": 71,
-    "2D Platformer": 69,
-    "Singleplayer": 67,
-    "Puzzle-Platformer": 65,
-    "Platformer": 63,
-    "2D": 61,
-    "Cartoony": 59,
-    "Family Friendly": 57,
-    "Fast-Paced": 55,
-    "Female Protagonist": 53
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2144670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2144670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2144670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2144670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2144670,
   "categories": [
     "Single-player",
     "Steam Leaderboards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2144670/header.jpg?t=1666430975",
+  "consensus_genre": "Casual",
+  "developer": "Mert G\u00fcrz\u00fcmar",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2144670/header.jpg?t=1666430975",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Llama the Farm Drama",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Mert G\u00fcrz\u00fcmar",
+  "release_date": "2022/10/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 61,
+    "2D Platformer": 69,
+    "Action": 73,
+    "Adventure": 76,
+    "Arcade": 80,
+    "Cartoony": 59,
+    "Casual": 78,
+    "Colorful": 102,
+    "Cozy": 71,
+    "Family Friendly": 57,
+    "Fast-Paced": 55,
+    "Female Protagonist": 53,
+    "Funny": 98,
+    "Memes": 89,
+    "Pixel Graphics": 93,
+    "Platformer": 63,
+    "Precision Platformer": 108,
+    "Puzzle-Platformer": 65,
+    "Relaxing": 83,
+    "Singleplayer": 67
+  },
+  "type": "game"
 }

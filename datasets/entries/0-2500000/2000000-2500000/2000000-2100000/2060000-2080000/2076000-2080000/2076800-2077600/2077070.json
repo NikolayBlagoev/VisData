@@ -1,29 +1,56 @@
 {
-  "appid": 2077070,
-  "name": "Shufflepoker",
-  "developer": "Florian Reneau",
-  "publisher": "Florian Reneau",
-  "tags": {
-    "Card Battler": 53,
-    "Auto Battler": 46,
-    "PvE": 44,
-    "Casual": 42,
-    "PvP": 41,
-    "Card Game": 38,
-    "Tabletop": 32,
-    "First-Person": 30,
-    "3D": 28,
-    "Relaxing": 26,
-    "Turn-Based Combat": 24,
-    "Indie": 21,
-    "Simulation": 21,
-    "Colorful": 20,
-    "Fantasy": 18,
-    "Medieval": 16,
-    "Singleplayer": 14,
-    "Multiplayer": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2077070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2077070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 29.25,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2077070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2077070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2077070,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,39 +60,50 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2077070/header.jpg?t=1667059757",
+  "consensus_genre": "Casual",
+  "developer": "Florian Reneau",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 29.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2077070/header.jpg?t=1667059757",
+  "initialprice": "299",
+  "languages": "English, French",
+  "name": "Shufflepoker",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "299",
+  "publisher": "Florian Reneau",
+  "release_date": "2022/08/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 28,
+    "Auto Battler": 46,
+    "Card Battler": 53,
+    "Card Game": 38,
+    "Casual": 42,
+    "Colorful": 20,
+    "Fantasy": 18,
+    "First-Person": 30,
+    "Indie": 21,
+    "Medieval": 16,
+    "Multiplayer": 12,
+    "PvE": 44,
+    "PvP": 41,
+    "Relaxing": 26,
+    "Simulation": 21,
+    "Singleplayer": 14,
+    "Tabletop": 32,
+    "Turn-Based Combat": 24
+  },
+  "type": "game"
 }

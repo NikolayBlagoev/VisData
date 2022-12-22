@@ -1,67 +1,105 @@
 {
-  "appid": 1355070,
-  "name": "Aenaon",
-  "developer": "Kostas Batsakoutsas, Vasilis Vogkas",
-  "publisher": "Dimitris Christodoulou",
-  "tags": {
-    "Early Access": 304,
-    "VR": 276,
-    "Education": 268,
-    "Mythology": 264,
-    "Historical": 259,
-    "Philosophical": 253,
-    "Family Friendly": 243,
-    "Funny": 236,
-    "Action-Adventure": 227,
-    "Political": 219,
-    "Casual": 209,
-    "Atmospheric": 199,
-    "Puzzle-Platformer": 188,
-    "Exploration": 175,
-    "6DOF": 172,
-    "Walking Simulator": 158,
-    "Adventure": 145,
-    "Collectathon": 142,
-    "Beautiful": 107,
-    "First-Person": 88,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1355070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1355070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 14.199999809265137,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1355070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1355070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1355070,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1355070/header.jpg?t=1595957660",
+  "consensus_genre": "Early Access",
+  "developer": "Kostas Batsakoutsas, Vasilis Vogkas",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 14.199999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1355070/header.jpg?t=1595957660",
+  "initialprice": "1399",
+  "languages": "English",
+  "name": "Aenaon",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1399",
+  "publisher": "Dimitris Christodoulou",
+  "release_date": "2020/07/26",
+  "required_age": 0,
+  "tags": {
+    "6DOF": 172,
+    "Action-Adventure": 227,
+    "Adventure": 145,
+    "Atmospheric": 199,
+    "Beautiful": 107,
+    "Casual": 209,
+    "Collectathon": 142,
+    "Early Access": 304,
+    "Education": 268,
+    "Exploration": 175,
+    "Family Friendly": 243,
+    "First-Person": 88,
+    "Funny": 236,
+    "Historical": 259,
+    "Mythology": 264,
+    "Philosophical": 253,
+    "Political": 219,
+    "Puzzle-Platformer": 188,
+    "VR": 276,
+    "VR Only": 1,
+    "Walking Simulator": 158
+  },
+  "type": "game"
 }

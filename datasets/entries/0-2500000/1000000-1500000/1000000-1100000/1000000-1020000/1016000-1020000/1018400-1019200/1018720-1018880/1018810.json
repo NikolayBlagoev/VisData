@@ -1,70 +1,108 @@
 {
-  "appid": 1018810,
-  "name": "Drumpfy Walls",
-  "developer": "Hotbox Garage",
-  "publisher": "Hotbox Garage",
-  "tags": {
-    "Action": 21,
-    "Casual": 21,
-    "Indie": 21,
-    "Violent": 21,
-    "Sports": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1018810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1018810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 70.6500015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1018810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1018810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1018810,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/04/19",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1018810/header.jpg?t=1556686937",
+  "consensus_genre": "Action",
+  "developer": "Hotbox Garage",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Sports"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 70.6500015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1018810/header.jpg?t=1556686937",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Drumpfy Walls",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "499",
+  "publisher": "Hotbox Garage",
+  "release_date": "2019/04/19",
+  "required_age": "18",
+  "tags": {
+    "Action": 21,
+    "Casual": 21,
+    "Indie": 21,
+    "Sports": 20,
+    "Violent": 21
+  },
+  "type": "game"
 }

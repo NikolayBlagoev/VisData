@@ -1,65 +1,103 @@
 {
-  "appid": 1568450,
-  "name": "Search for the Titanic",
-  "developer": "Capstone Software",
-  "publisher": "Ziggurat",
-  "tags": {
-    "Exploration": 195,
-    "Underwater": 189,
-    "Investigation": 184,
-    "Submarine": 180,
-    "Management": 174,
-    "Naval": 163,
-    "Strategy": 160,
-    "Resource Management": 156,
-    "Historical": 149,
-    "Pixel Graphics": 131,
-    "Realistic": 120,
-    "Time Management": 117,
-    "Simulation": 112,
-    "Science": 105,
-    "Colorful": 76,
-    "1980s": 62,
-    "Retro": 45,
-    "Mystery": 27,
-    "Singleplayer": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1568450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1568450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1568450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1568450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1568450,
   "categories": [
     "Single-player"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1568450/header.jpg?t=1617360140",
+  "consensus_genre": "Strategy",
+  "developer": "Capstone Software",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1568450/header.jpg?t=1617360140",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Search for the Titanic",
+  "negative": 0,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Ziggurat",
+  "release_date": "2021/04/2",
+  "required_age": 0,
+  "tags": {
+    "1980s": 62,
+    "Colorful": 76,
+    "Exploration": 195,
+    "Historical": 149,
+    "Investigation": 184,
+    "Management": 174,
+    "Mystery": 27,
+    "Naval": 163,
+    "Pixel Graphics": 131,
+    "Realistic": 120,
+    "Resource Management": 156,
+    "Retro": 45,
+    "Science": 105,
+    "Simulation": 112,
+    "Singleplayer": 26,
+    "Strategy": 160,
+    "Submarine": 180,
+    "Time Management": 117,
+    "Underwater": 189
+  },
+  "type": "game"
 }

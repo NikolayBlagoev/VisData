@@ -1,215 +1,253 @@
 {
-  "appid": 1755350,
-  "name": "BBQ Simulator: The Squad",
-  "developer": "CubeCube Sports Ltd.",
-  "publisher": "CubeCube Sports Ltd.",
-  "tags": {
-    "Simulation": 330,
-    "Life Sim": 325,
-    "Funny": 321,
-    "Cooking": 320,
-    "Casual": 310,
-    "Resource Management": 299,
-    "Multiplayer": 296,
-    "3D": 282,
-    "Physics": 266,
-    "Sandbox": 256,
-    "Realistic": 245,
-    "First-Person": 236,
-    "Online Co-Op": 232,
-    "Comedy": 208,
-    "Exploration": 208,
-    "Character Customization": 190,
-    "Family Friendly": 173,
-    "Memes": 154,
-    "Controller": 135,
-    "Singleplayer": 115
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1755350,
+    "average_2weeks": 0,
+    "average_forever": 59,
+    "median_2weeks": 0,
+    "median_forever": 59
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1755350,
+    "average_2weeks": 0,
+    "average_forever": 59,
+    "median_2weeks": 0,
+    "median_forever": 59
+  },
+  "CCU Histogram": {
+    "2022-12-08": 14,
+    "2022-12-09": 22,
+    "2022-12-10": 16,
+    "2022-12-13": 27,
+    "2022-12-15": 11,
+    "2022-12-18": 10,
+    "2022-12-21": 5,
+    "2022-12-22": 8
+  },
+  "Completion": 49.0,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1755350,
+    "average_2weeks": 0,
+    "average_forever": 59,
+    "median_2weeks": 0,
+    "median_forever": 59
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1755350,
+    "average_2weeks": 0,
+    "average_forever": 59,
+    "median_2weeks": 0,
+    "median_forever": 59
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 150,
+  "User Score": -1,
+  "appid": 1755350,
   "categories": [
     "Multi-player",
     "Single-player",
     "Co-op",
     "Online Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 410,
-  "negative": 88,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 9,
-  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Japanese, Russian, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1755350/header.jpg?t=1653468038",
+  "consensus_genre": "Simulation",
+  "developer": "CubeCube Sports Ltd.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 32,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 39,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 150,
-  "Down 30 Days": 11,
-  "Completion": 49.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1755350/header.jpg?t=1653468038",
+  "initialprice": "299",
+  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Japanese, Russian, Turkish",
+  "name": "BBQ Simulator: The Squad",
+  "negative": 88,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 410,
+  "price": "299",
+  "publisher": "CubeCube Sports Ltd.",
+  "release_date": "2022/05/25",
+  "required_age": 0,
+  "tags": {
+    "3D": 282,
+    "Casual": 310,
+    "Character Customization": 190,
+    "Comedy": 208,
+    "Controller": 135,
+    "Cooking": 320,
+    "Exploration": 208,
+    "Family Friendly": 173,
+    "First-Person": 236,
+    "Funny": 321,
+    "Life Sim": 325,
+    "Memes": 154,
+    "Multiplayer": 296,
+    "Online Co-Op": 232,
+    "Physics": 266,
+    "Realistic": 245,
+    "Resource Management": 299,
+    "Sandbox": 256,
+    "Simulation": 330,
+    "Singleplayer": 115
+  },
+  "type": "game"
 }

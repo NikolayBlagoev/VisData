@@ -1,62 +1,100 @@
 {
-  "appid": 1343510,
-  "name": "Karakia Shooter",
-  "developer": "John Caruso, Diante Clark",
-  "publisher": "John Caruso",
-  "tags": {
-    "Action": 180,
-    "Bullet Hell": 155,
-    "Arcade": 150,
-    "Shooter": 145,
-    "2D": 139,
-    "Top-Down Shooter": 129,
-    "Pixel Graphics": 123,
-    "Retro": 115,
-    "Space": 107,
-    "Sci-fi": 97,
-    "1990's": 95,
-    "Singleplayer": 83,
-    "Combat": 70,
-    "Top-Down": 56,
-    "Cartoony": 41,
-    "War": 27,
-    "Robots": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1343510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1343510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/06/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1343510/header.jpg?t=1593525707",
-  "genre": [
-    "Action"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 49.94999885559082,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1343510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1343510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 49.94999885559082,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1343510,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
+  "developer": "John Caruso, Diante Clark",
+  "discount": "0",
+  "genre": [
+    "Action"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1343510/header.jpg?t=1593525707",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Karakia Shooter",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "John Caruso",
+  "release_date": "2020/06/30",
+  "required_age": 0,
+  "tags": {
+    "1990's": 95,
+    "2D": 139,
+    "Action": 180,
+    "Arcade": 150,
+    "Bullet Hell": 155,
+    "Cartoony": 41,
+    "Combat": 70,
+    "Pixel Graphics": 123,
+    "Retro": 115,
+    "Robots": 25,
+    "Sci-fi": 97,
+    "Shooter": 145,
+    "Singleplayer": 83,
+    "Space": 107,
+    "Top-Down": 56,
+    "Top-Down Shooter": 129,
+    "War": 27
+  },
+  "type": "game"
 }

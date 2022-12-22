@@ -1,215 +1,253 @@
 {
-  "appid": 1104330,
-  "name": "Founders' Fortune",
-  "developer": "Dionic Software",
-  "publisher": "Dionic Software",
-  "tags": {
-    "Colony Sim": 104,
-    "Base-Building": 73,
-    "City Builder": 68,
-    "Simulation": 62,
-    "Building": 59,
-    "Strategy": 59,
-    "Survival": 50,
-    "Indie": 49,
-    "Sandbox": 47,
-    "Management": 40,
-    "Character Customization": 35,
-    "Resource Management": 33,
-    "Economy": 28,
-    "Crafting": 24,
-    "Medieval": 23,
-    "Cartoony": 16,
-    "Colorful": 14,
-    "Procedural Generation": 14,
-    "Family Friendly": 12,
-    "Cute": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1104330,
+    "average_2weeks": 0,
+    "average_forever": 1227,
+    "median_2weeks": 0,
+    "median_forever": 1837
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1104330,
+    "average_2weeks": 0,
+    "average_forever": 1227,
+    "median_2weeks": 0,
+    "median_forever": 1837
+  },
+  "CCU Histogram": {
+    "2022-12-08": 30,
+    "2022-12-09": 33,
+    "2022-12-10": 30,
+    "2022-12-13": 46,
+    "2022-12-15": 45,
+    "2022-12-18": 52,
+    "2022-12-21": 40,
+    "2022-12-22": 31
+  },
+  "Completion": 28.65000057220459,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1104330,
+    "average_2weeks": 0,
+    "average_forever": 1227,
+    "median_2weeks": 0,
+    "median_forever": 1837
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1104330,
+    "average_2weeks": 0,
+    "average_forever": 1227,
+    "median_2weeks": 0,
+    "median_forever": 1837
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 13,
+  "User Score": -1,
+  "appid": 1104330,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1432,
-  "negative": 277,
-  "price": "1099",
-  "initialprice": "2199",
-  "discount": "50",
   "ccu": 30,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Portugal, Turkish, Russian, Ukrainian, Dutch, Korean, Simplified Chinese, Italian, Czech, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/12/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1104330/header.jpg?t=1633554617",
+  "consensus_genre": "Simulation",
+  "developer": "Dionic Software",
+  "discount": "50",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 13,
-  "Down 30 Days": 3,
-  "Completion": 28.65000057220459,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1104330/header.jpg?t=1633554617",
+  "initialprice": "2199",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Portugal, Turkish, Russian, Ukrainian, Dutch, Korean, Simplified Chinese, Italian, Czech, Japanese",
+  "name": "Founders' Fortune",
+  "negative": 277,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1432,
+  "price": "1099",
+  "publisher": "Dionic Software",
+  "release_date": "2020/12/18",
+  "required_age": 0,
+  "tags": {
+    "Base-Building": 73,
+    "Building": 59,
+    "Cartoony": 16,
+    "Character Customization": 35,
+    "City Builder": 68,
+    "Colony Sim": 104,
+    "Colorful": 14,
+    "Crafting": 24,
+    "Cute": 10,
+    "Economy": 28,
+    "Family Friendly": 12,
+    "Indie": 49,
+    "Management": 40,
+    "Medieval": 23,
+    "Procedural Generation": 14,
+    "Resource Management": 33,
+    "Sandbox": 47,
+    "Simulation": 62,
+    "Strategy": 59,
+    "Survival": 50
+  },
+  "type": "game"
 }

@@ -1,108 +1,146 @@
 {
-  "appid": 1704490,
-  "name": "Inferno",
-  "developer": "Blue Vertex",
-  "publisher": "Blue Vertex",
-  "tags": {
-    "Puzzle": 252,
-    "Sokoban": 246,
-    "Puzzle-Platformer": 242,
-    "3D Platformer": 237,
-    "Voxel": 231,
-    "Isometric": 221,
-    "Dark": 214,
-    "Dark Fantasy": 206,
-    "Atmospheric": 197,
-    "Top-Down": 187,
-    "Adventure": 186,
-    "Grid-Based Movement": 177,
-    "3D": 153,
-    "Faith": 148,
-    "Logic": 136,
-    "Lore-Rich": 120,
-    "Medieval": 103,
-    "Story Rich": 85,
-    "Singleplayer": 66,
-    "Philosophical": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1704490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1704490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 55.25,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1704490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1704490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1704490,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1704490/header.jpg?t=1651246420",
+  "consensus_genre": "Adventure",
+  "developer": "Blue Vertex",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 55.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1704490/header.jpg?t=1651246420",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Inferno",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "699",
+  "publisher": "Blue Vertex",
+  "release_date": "2022/04/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 153,
+    "3D Platformer": 237,
+    "Adventure": 186,
+    "Atmospheric": 197,
+    "Dark": 214,
+    "Dark Fantasy": 206,
+    "Faith": 148,
+    "Grid-Based Movement": 177,
+    "Isometric": 221,
+    "Logic": 136,
+    "Lore-Rich": 120,
+    "Medieval": 103,
+    "Philosophical": 46,
+    "Puzzle": 252,
+    "Puzzle-Platformer": 242,
+    "Singleplayer": 66,
+    "Sokoban": 246,
+    "Story Rich": 85,
+    "Top-Down": 187,
+    "Voxel": 231
+  },
+  "type": "game"
 }

@@ -1,68 +1,106 @@
 {
-  "appid": 2065010,
-  "name": "I Was Wrong",
-  "developer": "Unshaken Games",
-  "publisher": "Unshaken Games",
-  "tags": {
-    "Exploration": 185,
-    "Solitaire": 179,
-    "Hidden Object": 175,
-    "Puzzle": 173,
-    "Perma Death": 170,
-    "Action-Adventure": 163,
-    "3D": 161,
-    "First-Person": 159,
-    "Open World": 157,
-    "Nonlinear": 149,
-    "Casual": 144,
-    "Action": 141,
-    "Abstract": 138,
-    "Colorful": 134,
-    "Minimalist": 127,
-    "Stylized": 120,
-    "Dystopian ": 115,
-    "Sci-fi": 110,
-    "Thriller": 105,
-    "Science": 101
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2065010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2065010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 59.05000114440918,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2065010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2065010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2065010,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065010/header.jpg?t=1663198587",
+  "consensus_genre": "Casual",
+  "developer": "Unshaken Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 59.05000114440918,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065010/header.jpg?t=1663198587",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "I Was Wrong",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "Unshaken Games",
+  "release_date": "2022/08/26",
+  "required_age": 0,
+  "tags": {
+    "3D": 161,
+    "Abstract": 138,
+    "Action": 141,
+    "Action-Adventure": 163,
+    "Casual": 144,
+    "Colorful": 134,
+    "Dystopian ": 115,
+    "Exploration": 185,
+    "First-Person": 159,
+    "Hidden Object": 175,
+    "Minimalist": 127,
+    "Nonlinear": 149,
+    "Open World": 157,
+    "Perma Death": 170,
+    "Puzzle": 173,
+    "Sci-fi": 110,
+    "Science": 101,
+    "Solitaire": 179,
+    "Stylized": 120,
+    "Thriller": 105
+  },
+  "type": "game"
 }

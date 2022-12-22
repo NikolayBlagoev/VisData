@@ -1,52 +1,210 @@
 {
-  "appid": 1132760,
-  "name": "Dwerve",
-  "developer": "Half Human Games",
-  "publisher": "Half Human Games, Electronic Sheep Games",
-  "tags": {
-    "Action-Adventure": 148,
-    "Tower Defense": 142,
-    "Dungeon Crawler": 137,
-    "RPG": 137,
-    "Pixel Graphics": 136,
-    "Story Rich": 132,
-    "Action RPG": 124,
-    "Tactical RPG": 120,
-    "Strategy RPG": 117,
-    "Action": 107,
-    "CRPG": 106,
-    "Adventure": 104,
-    "Tactical": 103,
-    "Strategy": 95,
-    "Hack and Slash": 91,
-    "Fantasy": 87,
-    "Real Time Tactics": 77,
-    "Difficult": 74,
-    "Indie": 69,
-    "Retro": 65
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1132760,
+    "average_2weeks": 0,
+    "average_forever": 247,
+    "median_2weeks": 0,
+    "median_forever": 247
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1132760,
+    "average_2weeks": 0,
+    "average_forever": 247,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 3,
+    "2022-12-10": 4,
+    "2022-12-13": 4,
+    "2022-12-15": 2,
+    "2022-12-18": 4,
+    "2022-12-21": 4,
+    "2022-12-22": 4
+  },
+  "Completion": 68.0999984741211,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1132760,
+    "average_2weeks": 0,
+    "average_forever": 247,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1132760,
+    "average_2weeks": 0,
+    "average_forever": 247,
+    "median_2weeks": 0,
+    "median_forever": 247
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 19,
+  "User Score": -1,
+  "appid": 1132760,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 354,
-  "negative": 118,
-  "price": "1699",
-  "initialprice": "1999",
-  "discount": "15",
   "ccu": 7,
-  "languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/05/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1132760/header.jpg?t=1667542827",
+  "consensus_genre": "RPG",
+  "developer": "Half Human Games",
+  "discount": "15",
   "genre": [
     "Action",
     "Adventure",
@@ -54,163 +212,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 19,
-  "Down 30 Days": 2,
-  "Completion": 68.0999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1132760/header.jpg?t=1667542827",
+  "initialprice": "1999",
+  "languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Traditional Chinese",
+  "name": "Dwerve",
+  "negative": 118,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 354,
+  "price": "1699",
+  "publisher": "Half Human Games, Electronic Sheep Games",
+  "release_date": "2022/05/31",
+  "required_age": 0,
+  "tags": {
+    "Action": 107,
+    "Action RPG": 124,
+    "Action-Adventure": 148,
+    "Adventure": 104,
+    "CRPG": 106,
+    "Difficult": 74,
+    "Dungeon Crawler": 137,
+    "Fantasy": 87,
+    "Hack and Slash": 91,
+    "Indie": 69,
+    "Pixel Graphics": 136,
+    "RPG": 137,
+    "Real Time Tactics": 77,
+    "Retro": 65,
+    "Story Rich": 132,
+    "Strategy": 95,
+    "Strategy RPG": 117,
+    "Tactical": 103,
+    "Tactical RPG": 120,
+    "Tower Defense": 142
+  },
+  "type": "game"
 }

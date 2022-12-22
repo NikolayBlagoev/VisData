@@ -1,94 +1,132 @@
 {
-  "appid": 1545040,
-  "name": "Jump/Die/Live",
-  "developer": "AngelRDev",
-  "publisher": "AngleRDev",
-  "tags": {
-    "Casual": 71,
-    "Point & Click": 43,
-    "Platformer": 42,
-    "Puzzle": 39,
-    "2D Platformer": 37,
-    "Precision Platformer": 30,
-    "Puzzle-Platformer": 28,
-    "2D": 27,
-    "Minimalist": 24,
-    "Retro": 22,
-    "Old School": 20,
-    "Quick-Time Events": 18,
-    "Time Manipulation": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1545040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Simplified Chinese, Traditional Chinese, Korean, Danish, Spanish - Latin America, Finnish, Greek, Dutch, Hungarian, Japanese, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Arabic",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1545040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/06/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1545040/header.jpg?t=1624470987",
-  "genre": [
-    "Casual"
-  ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1545040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1545040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1545040,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Casual",
+  "developer": "AngelRDev",
+  "discount": "0",
+  "genre": [
+    "Casual"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1545040/header.jpg?t=1624470987",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Simplified Chinese, Traditional Chinese, Korean, Danish, Spanish - Latin America, Finnish, Greek, Dutch, Hungarian, Japanese, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Arabic",
+  "name": "Jump/Die/Live",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "499",
+  "publisher": "AngleRDev",
+  "release_date": "2021/06/23",
+  "required_age": 0,
+  "tags": {
+    "2D": 27,
+    "2D Platformer": 37,
+    "Casual": 71,
+    "Minimalist": 24,
+    "Old School": 20,
+    "Platformer": 42,
+    "Point & Click": 43,
+    "Precision Platformer": 30,
+    "Puzzle": 39,
+    "Puzzle-Platformer": 28,
+    "Quick-Time Events": 18,
+    "Retro": 22,
+    "Singleplayer": 14,
+    "Time Manipulation": 16
+  },
+  "type": "game"
 }

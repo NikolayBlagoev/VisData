@@ -1,50 +1,208 @@
 {
-  "appid": 1362420,
-  "name": "Siege Survival: Gloria Victis Prologue",
-  "developer": "Black Eye Games, FishTankStudio",
-  "publisher": "Ravenscourt",
-  "tags": {
-    "Resource Management": 393,
-    "Free to Play": 371,
-    "Strategy": 367,
-    "Time Management": 350,
-    "Choices Matter": 338,
-    "Simulation": 337,
-    "Singleplayer": 332,
-    "Economy": 331,
-    "Survival": 326,
-    "Strategy RPG": 319,
-    "Medieval": 316,
-    "Isometric": 309,
-    "Casual": 304,
-    "Base-Building": 296,
-    "Historical": 292,
-    "Realistic": 292,
-    "Management": 270,
-    "Crafting": 259,
-    "RPG": 253,
-    "Stealth": 245
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1362420,
+    "average_2weeks": 0,
+    "average_forever": 100,
+    "median_2weeks": 0,
+    "median_forever": 105
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1362420,
+    "average_2weeks": 0,
+    "average_forever": 100,
+    "median_2weeks": 0,
+    "median_forever": 105
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 2,
+    "2022-12-10": 2,
+    "2022-12-13": 2,
+    "2022-12-15": 1,
+    "2022-12-18": 2,
+    "2022-12-21": 3,
+    "2022-12-22": 1
+  },
+  "Completion": 70.5,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1362420,
+    "average_2weeks": 0,
+    "average_forever": 100,
+    "median_2weeks": 0,
+    "median_forever": 105
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1362420,
+    "average_2weeks": 0,
+    "average_forever": 100,
+    "median_2weeks": 0,
+    "median_forever": 105
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1362420,
   "categories": [
     "Single-player"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 812,
-  "negative": 109,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, Simplified Chinese, Polish, Russian, Turkish, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/08/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1362420/header.jpg?t=1634032481",
+  "consensus_genre": "Free to Play",
+  "developer": "Black Eye Games, FishTankStudio",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -54,163 +212,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": 70.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1362420/header.jpg?t=1634032481",
+  "initialprice": "0",
+  "languages": "English, Simplified Chinese, Polish, Russian, Turkish, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Traditional Chinese",
+  "name": "Siege Survival: Gloria Victis Prologue",
+  "negative": 109,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 812,
+  "price": "0",
+  "publisher": "Ravenscourt",
+  "release_date": "2020/08/19",
+  "required_age": 0,
+  "tags": {
+    "Base-Building": 296,
+    "Casual": 304,
+    "Choices Matter": 338,
+    "Crafting": 259,
+    "Economy": 331,
+    "Free to Play": 371,
+    "Historical": 292,
+    "Isometric": 309,
+    "Management": 270,
+    "Medieval": 316,
+    "RPG": 253,
+    "Realistic": 292,
+    "Resource Management": 393,
+    "Simulation": 337,
+    "Singleplayer": 332,
+    "Stealth": 245,
+    "Strategy": 367,
+    "Strategy RPG": 319,
+    "Survival": 326,
+    "Time Management": 350
+  },
+  "type": "game"
 }

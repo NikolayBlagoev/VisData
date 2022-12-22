@@ -1,212 +1,250 @@
 {
-  "appid": 261030,
-  "name": "The Walking Dead: Season Two",
-  "developer": "Telltale Games",
-  "publisher": "Skybound Games",
-  "tags": {
-    "Zombies": 1338,
-    "Adventure": 1007,
-    "Story Rich": 877,
-    "Episodic": 698,
-    "Point & Click": 681,
-    "Singleplayer": 642,
-    "Female Protagonist": 521,
-    "Drama": 506,
-    "Atmospheric": 481,
-    "Choices Matter": 471,
-    "Horror": 442,
-    "Choose Your Own Adventure": 437,
-    "Comic Book": 397,
-    "Emotional": 364,
-    "Mature": 326,
-    "Survival": 312,
-    "Cinematic": 287,
-    "Post-apocalyptic": 287,
-    "Action": 199,
-    "Quick-Time Events": 187
+  "Average Playtime - 2 Weeks": {
+    "app_id": 261030,
+    "average_2weeks": 611,
+    "average_forever": 610,
+    "median_2weeks": 611,
+    "median_forever": 568
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 261030,
+    "average_2weeks": 611,
+    "average_forever": 610,
+    "median_2weeks": 611,
+    "median_forever": 568
+  },
+  "CCU Histogram": {
+    "2022-12-08": 90,
+    "2022-12-09": 110,
+    "2022-12-10": 109,
+    "2022-12-13": 118,
+    "2022-12-15": 76,
+    "2022-12-18": 69,
+    "2022-12-21": 86,
+    "2022-12-22": 77
+  },
+  "Completion": 81.79999923706055,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 261030,
+    "average_2weeks": 611,
+    "average_forever": 610,
+    "median_2weeks": 611,
+    "median_forever": 568
+  },
+  "Median Playtime - Forever": {
+    "app_id": 261030,
+    "average_2weeks": 611,
+    "average_forever": 610,
+    "median_2weeks": 611,
+    "median_forever": 568
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 96,
+  "User Score": -1,
+  "appid": 261030,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 25317,
-  "negative": 1028,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 59,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2013/12/17",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/261030/header.jpg?t=1612901674",
+  "consensus_genre": "Adventure",
+  "developer": "Telltale Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 96,
-  "Down 30 Days": 2,
-  "Completion": 81.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/261030/header.jpg?t=1612901674",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "The Walking Dead: Season Two",
+  "negative": 1028,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 25317,
+  "price": "1499",
+  "publisher": "Skybound Games",
+  "release_date": "2013/12/17",
+  "required_age": "18",
+  "tags": {
+    "Action": 199,
+    "Adventure": 1007,
+    "Atmospheric": 481,
+    "Choices Matter": 471,
+    "Choose Your Own Adventure": 437,
+    "Cinematic": 287,
+    "Comic Book": 397,
+    "Drama": 506,
+    "Emotional": 364,
+    "Episodic": 698,
+    "Female Protagonist": 521,
+    "Horror": 442,
+    "Mature": 326,
+    "Point & Click": 681,
+    "Post-apocalyptic": 287,
+    "Quick-Time Events": 187,
+    "Singleplayer": 642,
+    "Story Rich": 877,
+    "Survival": 312,
+    "Zombies": 1338
+  },
+  "type": "game"
 }

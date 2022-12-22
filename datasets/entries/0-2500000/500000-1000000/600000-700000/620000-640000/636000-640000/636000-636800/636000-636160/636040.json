@@ -1,31 +1,201 @@
 {
-  "appid": 636040,
-  "name": "Pixel Worlds: MMO Sandbox",
-  "developer": "Kukouri Mobile Entertainment",
-  "publisher": "Kukouri Mobile Entertainment",
-  "tags": {
-    "Free to Play": 253,
-    "Massively Multiplayer": 151,
-    "Pixel Graphics": 151,
-    "Sandbox": 151,
-    "Adventure": 148,
-    "Multiplayer": 130,
-    "Indie": 101,
-    "2D": 94,
-    "Platformer": 56,
-    "Crafting": 55,
-    "Open World": 43,
-    "Action": 42,
-    "MMORPG": 38,
-    "Co-op": 37,
-    "Funny": 37,
-    "Family Friendly": 27,
-    "Building": 17,
-    "Singleplayer": 13,
-    "Controller": 11,
-    "Nudity": 6
+  "Average Playtime - 2 Weeks": {
+    "app_id": 636040,
+    "average_2weeks": 507,
+    "average_forever": 8515,
+    "median_2weeks": 507,
+    "median_forever": 73
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 636040,
+    "average_2weeks": 507,
+    "average_forever": 8515,
+    "median_2weeks": 507,
+    "median_forever": 73
+  },
+  "CCU Histogram": {
+    "2022-12-08": 475,
+    "2022-12-09": 460,
+    "2022-12-10": 449,
+    "2022-12-13": 469,
+    "2022-12-15": 429,
+    "2022-12-18": 420,
+    "2022-12-21": 371,
+    "2022-12-22": 389
+  },
+  "Completion": -1,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 636040,
+    "average_2weeks": 507,
+    "average_forever": 8515,
+    "median_2weeks": 507,
+    "median_forever": 73
+  },
+  "Median Playtime - Forever": {
+    "app_id": 636040,
+    "average_2weeks": 507,
+    "average_forever": 8515,
+    "median_2weeks": 507,
+    "median_forever": 73
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 61,
+  "User Score": -1,
+  "appid": 636040,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -37,185 +207,53 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 3911,
-  "negative": 1311,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 516,
-  "languages": "English, Finnish, Polish, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2017/06/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/636040/header.jpg?t=1607517047",
+  "consensus_genre": "Free to Play",
+  "developer": "Kukouri Mobile Entertainment",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Free to Play",
     "Indie",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 61,
-  "Down 30 Days": 14,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/636040/header.jpg?t=1607517047",
+  "initialprice": "0",
+  "languages": "English, Finnish, Polish, Swedish",
+  "name": "Pixel Worlds: MMO Sandbox",
+  "negative": 1311,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3911,
+  "price": "0",
+  "publisher": "Kukouri Mobile Entertainment",
+  "release_date": "2017/06/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 94,
+    "Action": 42,
+    "Adventure": 148,
+    "Building": 17,
+    "Co-op": 37,
+    "Controller": 11,
+    "Crafting": 55,
+    "Family Friendly": 27,
+    "Free to Play": 253,
+    "Funny": 37,
+    "Indie": 101,
+    "MMORPG": 38,
+    "Massively Multiplayer": 151,
+    "Multiplayer": 130,
+    "Nudity": 6,
+    "Open World": 43,
+    "Pixel Graphics": 151,
+    "Platformer": 56,
+    "Sandbox": 151,
+    "Singleplayer": 13
+  },
+  "type": "game"
 }

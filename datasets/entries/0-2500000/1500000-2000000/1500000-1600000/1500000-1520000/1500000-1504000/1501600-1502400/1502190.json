@@ -1,31 +1,201 @@
 {
-  "appid": 1502190,
-  "name": "From Space",
-  "developer": "Triangle Studios",
-  "publisher": "Curve Games",
-  "tags": {
-    "Action": 294,
-    "Online Co-Op": 288,
-    "Co-op": 287,
-    "Multiplayer": 279,
-    "Adventure": 278,
-    "Top-Down Shooter": 277,
-    "Twin Stick Shooter": 273,
-    "Action-Adventure": 268,
-    "Top-Down": 268,
-    "Action RPG": 260,
-    "Shooter": 251,
-    "Looter Shooter": 246,
-    "Team-Based": 239,
-    "Family Friendly": 235,
-    "Atmospheric": 232,
-    "Sci-fi": 228,
-    "Funny": 227,
-    "Controller": 226,
-    "Indie": 223,
-    "Singleplayer": 221
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1502190,
+    "average_2weeks": 505,
+    "average_forever": 337,
+    "median_2weeks": 683,
+    "median_forever": 340
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1502190,
+    "average_2weeks": 505,
+    "average_forever": 337,
+    "median_2weeks": 683,
+    "median_forever": 340
+  },
+  "CCU Histogram": {
+    "2022-12-08": 119,
+    "2022-12-09": 41,
+    "2022-12-10": 80,
+    "2022-12-13": 65,
+    "2022-12-15": 202,
+    "2022-12-18": 136,
+    "2022-12-21": 128,
+    "2022-12-22": 275
+  },
+  "Completion": 72.35000228881836,
+  "Down 30 Days": 316,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 7,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 84,
+      "recommendations_up": 157
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 45,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 45,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 26,
+      "recommendations_up": 69
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 11,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 12,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 9,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 12,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 15,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 8,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 5,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 6,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1502190,
+    "average_2weeks": 505,
+    "average_forever": 337,
+    "median_2weeks": 683,
+    "median_forever": 340
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1502190,
+    "average_2weeks": 505,
+    "average_forever": 337,
+    "median_2weeks": 683,
+    "median_forever": 340
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 673,
+  "User Score": -1,
+  "appid": 1502190,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,183 +206,51 @@
     "Steam Trading Cards",
     "Online Co-op"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 418,
-  "negative": 242,
-  "price": "1199",
-  "initialprice": "1499",
-  "discount": "20",
   "ccu": 2237,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Korean, Polish, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/11/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1502190/header.jpg?t=1667564568",
+  "consensus_genre": "Action",
+  "developer": "Triangle Studios",
+  "discount": "20",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 29,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 157,
-      "recommendations_down": 84
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 65,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 37,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 69,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 70,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 16,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 13,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 15,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 50,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 673,
-  "Down 30 Days": 316,
-  "Completion": 72.35000228881836,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1502190/header.jpg?t=1667564568",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Korean, Polish, Traditional Chinese, Japanese",
+  "name": "From Space",
+  "negative": 242,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 418,
+  "price": "1199",
+  "publisher": "Curve Games",
+  "release_date": "2022/11/3",
+  "required_age": 0,
+  "tags": {
+    "Action": 294,
+    "Action RPG": 260,
+    "Action-Adventure": 268,
+    "Adventure": 278,
+    "Atmospheric": 232,
+    "Co-op": 287,
+    "Controller": 226,
+    "Family Friendly": 235,
+    "Funny": 227,
+    "Indie": 223,
+    "Looter Shooter": 246,
+    "Multiplayer": 279,
+    "Online Co-Op": 288,
+    "Sci-fi": 228,
+    "Shooter": 251,
+    "Singleplayer": 221,
+    "Team-Based": 239,
+    "Top-Down": 268,
+    "Top-Down Shooter": 277,
+    "Twin Stick Shooter": 273
+  },
+  "type": "game"
 }

@@ -1,31 +1,56 @@
 {
-  "appid": 2059550,
-  "name": "Brain Syndrome VR",
-  "developer": "Derrick Davison",
-  "publisher": "Derrick Davison",
-  "tags": {
-    "Local Co-Op": 343,
-    "Bullet Hell": 338,
-    "VR": 335,
-    "FPS": 328,
-    "Arcade": 322,
-    "Local Multiplayer": 312,
-    "Cartoony": 305,
-    "Family Friendly": 298,
-    "First-Person": 288,
-    "3D Platformer": 278,
-    "1990's": 267,
-    "Aliens": 255,
-    "Military": 243,
-    "Pirates": 230,
-    "Robots": 215,
-    "Zombies": 214,
-    "Shooter": 196,
-    "Colorful": 179,
-    "Action": 159,
-    "Singleplayer": 159
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2059550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2059550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2059550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2059550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2059550,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,39 +59,52 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2059550/header.jpg?t=1666992449",
+  "consensus_genre": "Action",
+  "developer": "Derrick Davison",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2059550/header.jpg?t=1666992449",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Brain Syndrome VR",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Derrick Davison",
+  "release_date": "2022/10/28",
+  "required_age": 0,
+  "tags": {
+    "1990's": 267,
+    "3D Platformer": 278,
+    "Action": 159,
+    "Aliens": 255,
+    "Arcade": 322,
+    "Bullet Hell": 338,
+    "Cartoony": 305,
+    "Colorful": 179,
+    "FPS": 328,
+    "Family Friendly": 298,
+    "First-Person": 288,
+    "Local Co-Op": 343,
+    "Local Multiplayer": 312,
+    "Military": 243,
+    "Pirates": 230,
+    "Robots": 215,
+    "Shooter": 196,
+    "Singleplayer": 159,
+    "VR": 335,
+    "Zombies": 214
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1980530,
-  "name": "Kiwi Clicker - Juiced Up",
-  "developer": "Dimitri Kipper",
-  "publisher": "tobspr Games",
-  "tags": {
-    "Casual": 263,
-    "Indie": 259,
-    "Clicker": 255,
-    "Idler": 246,
-    "Collectathon": 231,
-    "Management": 221,
-    "Economy": 214,
-    "Strategy": 207,
-    "Building": 205,
-    "Funny": 197,
-    "Memes": 178,
-    "Simulation": 171,
-    "Life Sim": 165,
-    "Resource Management": 152,
-    "2D": 138,
-    "Comedy": 120,
-    "Colorful": 103,
-    "Touch-Friendly": 85,
-    "Cute": 68,
-    "Action": 66
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1980530,
+    "average_2weeks": 0,
+    "average_forever": 307,
+    "median_2weeks": 0,
+    "median_forever": 425
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1980530,
+    "average_2weeks": 0,
+    "average_forever": 307,
+    "median_2weeks": 0,
+    "median_forever": 425
+  },
+  "CCU Histogram": {
+    "2022-12-08": 221,
+    "2022-12-09": 198,
+    "2022-12-10": 198,
+    "2022-12-13": 203,
+    "2022-12-15": 181,
+    "2022-12-18": 152,
+    "2022-12-21": 167,
+    "2022-12-22": 118
+  },
+  "Completion": 65.45000076293945,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1980530,
+    "average_2weeks": 0,
+    "average_forever": 307,
+    "median_2weeks": 0,
+    "median_forever": 425
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1980530,
+    "average_2weeks": 0,
+    "average_forever": 307,
+    "median_2weeks": 0,
+    "median_forever": 425
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 129,
+  "User Score": -1,
+  "appid": 1980530,
   "categories": [
     "Single-player",
     "Stats",
@@ -33,22 +203,10 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 500,
-  "negative": 21,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 341,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1980530/header_alt_assets_0.jpg?t=1666792766",
+  "consensus_genre": "Casual",
+  "developer": "Dimitri Kipper",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -56,163 +214,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 129,
-  "Down 30 Days": 2,
-  "Completion": 65.45000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1980530/header_alt_assets_0.jpg?t=1666792766",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Kiwi Clicker - Juiced Up",
+  "negative": 21,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 500,
+  "price": "499",
+  "publisher": "tobspr Games",
+  "release_date": "2022/07/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 138,
+    "Action": 66,
+    "Building": 205,
+    "Casual": 263,
+    "Clicker": 255,
+    "Collectathon": 231,
+    "Colorful": 103,
+    "Comedy": 120,
+    "Cute": 68,
+    "Economy": 214,
+    "Funny": 197,
+    "Idler": 246,
+    "Indie": 259,
+    "Life Sim": 165,
+    "Management": 221,
+    "Memes": 178,
+    "Resource Management": 152,
+    "Simulation": 171,
+    "Strategy": 207,
+    "Touch-Friendly": 85
+  },
+  "type": "game"
 }

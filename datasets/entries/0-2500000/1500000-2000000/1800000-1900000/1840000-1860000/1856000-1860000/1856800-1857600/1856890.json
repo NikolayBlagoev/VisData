@@ -1,66 +1,104 @@
 {
-  "appid": 1856890,
-  "name": "Zhazari VR",
-  "developer": "Virtual Rabbit Studio",
-  "publisher": "Virtual Rabbit Studio",
-  "tags": {
-    "VR": 195,
-    "Adventure": 193,
-    "Arcade": 188,
-    "Combat": 184,
-    "Cinematic": 179,
-    "Hack and Slash": 163,
-    "Atmospheric": 156,
-    "Action": 151,
-    "Horror": 148,
-    "Dark Fantasy": 140,
-    "Medieval": 120,
-    "Beat 'em up": 118,
-    "3D": 105,
-    "Dark": 91,
-    "Demons": 76,
-    "Mystery": 60,
-    "Score Attack": 43,
-    "Singleplayer": 27,
-    "Action-Adventure": 25,
-    "Violent": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1856890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1856890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 41.599998474121094,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1856890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1856890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1856890,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1856890/header.jpg?t=1647446351",
+  "consensus_genre": "Adventure",
+  "developer": "Virtual Rabbit Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 41.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1856890/header.jpg?t=1647446351",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "Zhazari VR",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "2499",
+  "publisher": "Virtual Rabbit Studio",
+  "release_date": "2022/03/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 105,
+    "Action": 151,
+    "Action-Adventure": 25,
+    "Adventure": 193,
+    "Arcade": 188,
+    "Atmospheric": 156,
+    "Beat 'em up": 118,
+    "Cinematic": 179,
+    "Combat": 184,
+    "Dark": 91,
+    "Dark Fantasy": 140,
+    "Demons": 76,
+    "Hack and Slash": 163,
+    "Horror": 148,
+    "Medieval": 120,
+    "Mystery": 60,
+    "Score Attack": 43,
+    "Singleplayer": 27,
+    "VR": 195,
+    "Violent": 21
+  },
+  "type": "game"
 }

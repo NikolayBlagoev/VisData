@@ -1,31 +1,201 @@
 {
-  "appid": 233980,
-  "name": "UnEpic",
-  "developer": "@unepic_fran",
-  "publisher": "@unepic_fran",
-  "tags": {
-    "RPG": 408,
-    "Indie": 290,
-    "Metroidvania": 232,
-    "Platformer": 211,
-    "Action": 203,
-    "Comedy": 196,
-    "2D": 156,
-    "Exploration": 112,
-    "Fantasy": 109,
-    "Adventure": 97,
-    "Co-op": 91,
-    "Singleplayer": 89,
-    "Multiplayer": 78,
-    "Funny": 71,
-    "Side Scroller": 53,
-    "Pixel Graphics": 49,
-    "Retro": 46,
-    "Magic": 44,
-    "Epic": 38,
-    "Online Co-Op": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 233980,
+    "average_2weeks": 0,
+    "average_forever": 502,
+    "median_2weeks": 0,
+    "median_forever": 343
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 233980,
+    "average_2weeks": 0,
+    "average_forever": 502,
+    "median_2weeks": 0,
+    "median_forever": 343
+  },
+  "CCU Histogram": {
+    "2022-12-08": 26,
+    "2022-12-09": 22,
+    "2022-12-10": 27,
+    "2022-12-13": 28,
+    "2022-12-15": 39,
+    "2022-12-18": 34,
+    "2022-12-21": 24,
+    "2022-12-22": 22
+  },
+  "Completion": 39.29999923706055,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 233980,
+    "average_2weeks": 0,
+    "average_forever": 502,
+    "median_2weeks": 0,
+    "median_forever": 343
+  },
+  "Median Playtime - Forever": {
+    "app_id": 233980,
+    "average_2weeks": 0,
+    "average_forever": 502,
+    "median_2weeks": 0,
+    "median_forever": 343
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 22,
+  "User Score": -1,
+  "appid": 233980,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,184 +207,52 @@
     "Steam Trading Cards",
     "Remote Play on Tablet"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 6934,
-  "negative": 596,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 20,
-  "languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Traditional Chinese, Russian, Portuguese - Portugal, Polish, Hungarian, Czech, Portuguese - Brazil, Japanese, Dutch",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/07/25",
-  "required_age": "16",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/233980/header.jpg?t=1616401773",
+  "consensus_genre": "RPG",
+  "developer": "@unepic_fran",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 22,
-  "Down 30 Days": 6,
-  "Completion": 39.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/233980/header.jpg?t=1616401773",
+  "initialprice": "1299",
+  "languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Traditional Chinese, Russian, Portuguese - Portugal, Polish, Hungarian, Czech, Portuguese - Brazil, Japanese, Dutch",
+  "name": "UnEpic",
+  "negative": 596,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 6934,
+  "price": "1299",
+  "publisher": "@unepic_fran",
+  "release_date": "2014/07/25",
+  "required_age": "16",
+  "tags": {
+    "2D": 156,
+    "Action": 203,
+    "Adventure": 97,
+    "Co-op": 91,
+    "Comedy": 196,
+    "Epic": 38,
+    "Exploration": 112,
+    "Fantasy": 109,
+    "Funny": 71,
+    "Indie": 290,
+    "Magic": 44,
+    "Metroidvania": 232,
+    "Multiplayer": 78,
+    "Online Co-Op": 31,
+    "Pixel Graphics": 49,
+    "Platformer": 211,
+    "RPG": 408,
+    "Retro": 46,
+    "Side Scroller": 53,
+    "Singleplayer": 89
+  },
+  "type": "game"
 }

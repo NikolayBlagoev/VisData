@@ -1,13 +1,56 @@
 {
-  "appid": 836420,
-  "name": "Beginner'sGame",
-  "developer": "Vecpoly Game",
-  "publisher": "Vecpoly Game",
-  "tags": {
-    "Action": 31,
-    "Indie": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 836420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 836420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 43.400001525878906,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 836420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 836420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 836420,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -16,38 +59,33 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
   "ccu": 0,
-  "languages": "Japanese, English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/05/5",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/836420/header.jpg?t=1554035067",
+  "consensus_genre": "Action",
+  "developer": "Vecpoly Game",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 43.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/836420/header.jpg?t=1554035067",
+  "initialprice": "1099",
+  "languages": "Japanese, English",
+  "name": "Beginner'sGame",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1099",
+  "publisher": "Vecpoly Game",
+  "release_date": "2018/05/5",
+  "required_age": 0,
+  "tags": {
+    "Action": 31,
+    "Indie": 31
+  },
+  "type": "game"
 }

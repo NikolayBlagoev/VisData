@@ -1,54 +1,92 @@
 {
-  "appid": 1617200,
-  "name": "Santa Soccer",
-  "developer": "Halara Studios",
-  "publisher": "Halara Studios",
-  "tags": {
-    "Sports": 67,
-    "3D": 41,
-    "Colorful": 37,
-    "Third Person": 34,
-    "Comedy": 31,
-    "Golf": 24,
-    "Soccer": 24,
-    "Physics": 21,
-    "Singleplayer": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1617200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1617200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/05/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1617200/header.jpg?t=1621618153",
-  "genre": [
-    "Sports"
-  ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1617200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1617200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1617200,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Sports",
+  "developer": "Halara Studios",
+  "discount": "0",
+  "genre": [
+    "Sports"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1617200/header.jpg?t=1621618153",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Santa Soccer",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Halara Studios",
+  "release_date": "2021/05/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 41,
+    "Colorful": 37,
+    "Comedy": 31,
+    "Golf": 24,
+    "Physics": 21,
+    "Singleplayer": 19,
+    "Soccer": 24,
+    "Sports": 67,
+    "Third Person": 34
+  },
+  "type": "game"
 }

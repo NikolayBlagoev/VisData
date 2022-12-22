@@ -1,51 +1,209 @@
 {
-  "appid": 1863750,
-  "name": "\u6302\u673a\u795e\u8bdd",
-  "developer": "\u6478\u9c7c\u732b\u5de5\u4f5c\u5ba4",
-  "publisher": "\u6478\u9c7c\u732b\u5de5\u4f5c\u5ba4",
-  "tags": {
-    "Idler": 172,
-    "Casual": 166,
-    "Word Game": 163,
-    "Loot": 160,
-    "Strategy": 157,
-    "Clicker": 151,
-    "Text-Based": 149,
-    "Turn-Based Tactics": 144,
-    "Turn-Based Strategy": 139,
-    "RPG": 137,
-    "Character Customization": 131,
-    "Mythology": 124,
-    "Rogue-lite": 119,
-    "Rogue-like": 105,
-    "Indie": 95,
-    "Procedural Generation": 90,
-    "Comedy": 88,
-    "Funny": 76,
-    "Relaxing": 64,
-    "Early Access": 50
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1863750,
+    "average_2weeks": 0,
+    "average_forever": 2785,
+    "median_2weeks": 0,
+    "median_forever": 4173
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1863750,
+    "average_2weeks": 0,
+    "average_forever": 2785,
+    "median_2weeks": 0,
+    "median_forever": 4173
+  },
+  "CCU Histogram": {
+    "2022-12-08": 227,
+    "2022-12-09": 222,
+    "2022-12-10": 222,
+    "2022-12-13": 208,
+    "2022-12-15": 198,
+    "2022-12-18": 188,
+    "2022-12-21": 199,
+    "2022-12-22": 203
+  },
+  "Completion": 17.700000762939453,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1863750,
+    "average_2weeks": 0,
+    "average_forever": 2785,
+    "median_2weeks": 0,
+    "median_forever": 4173
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1863750,
+    "average_2weeks": 0,
+    "average_forever": 2785,
+    "median_2weeks": 0,
+    "median_forever": 4173
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 71,
+  "User Score": -1,
+  "appid": 1863750,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1122,
-  "negative": 91,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 165,
-  "languages": "Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1863750/header.jpg?t=1663939852",
+  "consensus_genre": "Casual",
+  "developer": "\u6478\u9c7c\u732b\u5de5\u4f5c\u5ba4",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -53,163 +211,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 71,
-  "Down 30 Days": 2,
-  "Completion": 17.700000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1863750/header.jpg?t=1663939852",
+  "initialprice": "199",
+  "languages": "Simplified Chinese",
+  "name": "\u6302\u673a\u795e\u8bdd",
+  "negative": 91,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1122,
+  "price": "199",
+  "publisher": "\u6478\u9c7c\u732b\u5de5\u4f5c\u5ba4",
+  "release_date": "2022/02/6",
+  "required_age": 0,
+  "tags": {
+    "Casual": 166,
+    "Character Customization": 131,
+    "Clicker": 151,
+    "Comedy": 88,
+    "Early Access": 50,
+    "Funny": 76,
+    "Idler": 172,
+    "Indie": 95,
+    "Loot": 160,
+    "Mythology": 124,
+    "Procedural Generation": 90,
+    "RPG": 137,
+    "Relaxing": 64,
+    "Rogue-like": 105,
+    "Rogue-lite": 119,
+    "Strategy": 157,
+    "Text-Based": 149,
+    "Turn-Based Strategy": 139,
+    "Turn-Based Tactics": 144,
+    "Word Game": 163
+  },
+  "type": "game"
 }

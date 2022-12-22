@@ -1,212 +1,250 @@
 {
-  "appid": 221640,
-  "name": "Super Hexagon",
-  "developer": "Terry Cavanagh",
-  "publisher": "Terry Cavanagh",
-  "tags": {
-    "Difficult": 1086,
-    "Great Soundtrack": 776,
-    "Indie": 760,
-    "Fast-Paced": 556,
-    "Arcade": 518,
-    "Addictive": 488,
-    "Rhythm": 454,
-    "Singleplayer": 318,
-    "Action": 227,
-    "Minimalist": 224,
-    "Score Attack": 223,
-    "Music": 208,
-    "2D": 194,
-    "Psychedelic": 153,
-    "Colorful": 145,
-    "Casual": 111,
-    "Replay Value": 94,
-    "Controller": 52,
-    "Puzzle": 44,
-    "Soundtrack": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 221640,
+    "average_2weeks": 0,
+    "average_forever": 159,
+    "median_2weeks": 0,
+    "median_forever": 82
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 221640,
+    "average_2weeks": 0,
+    "average_forever": 159,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "CCU Histogram": {
+    "2022-12-08": 23,
+    "2022-12-09": 24,
+    "2022-12-10": 20,
+    "2022-12-13": 24,
+    "2022-12-15": 16,
+    "2022-12-18": 23,
+    "2022-12-21": 19,
+    "2022-12-22": 25
+  },
+  "Completion": 44.599998474121094,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 221640,
+    "average_2weeks": 0,
+    "average_forever": 159,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "Median Playtime - Forever": {
+    "app_id": 221640,
+    "average_2weeks": 0,
+    "average_forever": 159,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 58,
+  "User Score": -1,
+  "appid": 221640,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 22658,
-  "negative": 751,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 17,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2012/11/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221640/header.jpg?t=1653925774",
+  "consensus_genre": "Indie",
+  "developer": "Terry Cavanagh",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 58,
-  "Down 30 Days": 4,
-  "Completion": 44.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221640/header.jpg?t=1653925774",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Super Hexagon",
+  "negative": 751,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 22658,
+  "price": "299",
+  "publisher": "Terry Cavanagh",
+  "release_date": "2012/11/27",
+  "required_age": 0,
+  "tags": {
+    "2D": 194,
+    "Action": 227,
+    "Addictive": 488,
+    "Arcade": 518,
+    "Casual": 111,
+    "Colorful": 145,
+    "Controller": 52,
+    "Difficult": 1086,
+    "Fast-Paced": 556,
+    "Great Soundtrack": 776,
+    "Indie": 760,
+    "Minimalist": 224,
+    "Music": 208,
+    "Psychedelic": 153,
+    "Puzzle": 44,
+    "Replay Value": 94,
+    "Rhythm": 454,
+    "Score Attack": 223,
+    "Singleplayer": 318,
+    "Soundtrack": 25
+  },
+  "type": "game"
 }

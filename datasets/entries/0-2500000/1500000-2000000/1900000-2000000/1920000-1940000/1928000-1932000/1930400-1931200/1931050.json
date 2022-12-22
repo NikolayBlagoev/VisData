@@ -1,70 +1,108 @@
 {
-  "appid": 1931050,
-  "name": "CyberScope",
-  "developer": "Jacob Irwin",
-  "publisher": "Hades Digital",
-  "tags": {
-    "FPS": 213,
-    "Puzzle-Platformer": 206,
-    "Puzzle": 202,
-    "Shooter": 198,
-    "3D": 192,
-    "First-Person": 182,
-    "Action": 178,
-    "Cyberpunk": 175,
-    "Linear": 166,
-    "Colorful": 149,
-    "Stylized": 139,
-    "Sci-fi": 127,
-    "Level Editor": 124,
-    "Artificial Intelligence": 111,
-    "Atmospheric": 96,
-    "Building": 80,
-    "Physics": 63,
-    "Futuristic": 45,
-    "Combat": 28,
-    "Singleplayer": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1931050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1931050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/04/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1931050/header.jpg?t=1655325727",
-  "genre": [
-    "Action"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1931050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1931050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1931050,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
+  "developer": "Jacob Irwin",
+  "discount": "0",
+  "genre": [
+    "Action"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1931050/header.jpg?t=1655325727",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "CyberScope",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "199",
+  "publisher": "Hades Digital",
+  "release_date": "2022/04/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 192,
+    "Action": 178,
+    "Artificial Intelligence": 111,
+    "Atmospheric": 96,
+    "Building": 80,
+    "Colorful": 149,
+    "Combat": 28,
+    "Cyberpunk": 175,
+    "FPS": 213,
+    "First-Person": 182,
+    "Futuristic": 45,
+    "Level Editor": 124,
+    "Linear": 166,
+    "Physics": 63,
+    "Puzzle": 202,
+    "Puzzle-Platformer": 206,
+    "Sci-fi": 127,
+    "Shooter": 198,
+    "Singleplayer": 26,
+    "Stylized": 139
+  },
+  "type": "game"
 }

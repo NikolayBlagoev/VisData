@@ -1,68 +1,106 @@
 {
-  "appid": 1578070,
-  "name": "Fish Feast",
-  "developer": "Aigi Studios",
-  "publisher": "Aigi Studios",
-  "tags": {
-    "Casual": 428,
-    "Funny": 401,
-    "Colorful": 398,
-    "Cute": 395,
-    "Exploration": 391,
-    "Cartoon": 386,
-    "Relaxing": 383,
-    "Nature": 378,
-    "Fishing": 371,
-    "Action-Adventure": 365,
-    "2D": 358,
-    "Hack and Slash": 357,
-    "Cartoony": 355,
-    "Minimalist": 353,
-    "Family Friendly": 340,
-    "Atmospheric": 331,
-    "Top-Down": 328,
-    "Snow": 322,
-    "Comic Book": 317,
-    "Character Customization": 306
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1578070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1578070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1578070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1578070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1578070,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1578070/header.jpg?t=1617952111",
+  "consensus_genre": "Casual",
+  "developer": "Aigi Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1578070/header.jpg?t=1617952111",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Fish Feast",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Aigi Studios",
+  "release_date": "2021/04/9",
+  "required_age": 0,
+  "tags": {
+    "2D": 358,
+    "Action-Adventure": 365,
+    "Atmospheric": 331,
+    "Cartoon": 386,
+    "Cartoony": 355,
+    "Casual": 428,
+    "Character Customization": 306,
+    "Colorful": 398,
+    "Comic Book": 317,
+    "Cute": 395,
+    "Exploration": 391,
+    "Family Friendly": 340,
+    "Fishing": 371,
+    "Funny": 401,
+    "Hack and Slash": 357,
+    "Minimalist": 353,
+    "Nature": 378,
+    "Relaxing": 383,
+    "Snow": 322,
+    "Top-Down": 328
+  },
+  "type": "game"
 }

@@ -1,56 +1,94 @@
 {
-  "appid": 1847440,
-  "name": "FREEZEFRAME",
-  "developer": "RoomsForRockets",
-  "publisher": "RoomsForRockets",
-  "tags": {
-    "Adventure": 47,
-    "Puzzle": 41,
-    "3D Platformer": 38,
-    "3D": 35,
-    "First-Person": 33,
-    "Comedy": 26,
-    "Modern": 24,
-    "Indie": 21,
-    "Parkour": 21,
-    "Linear": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1847440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1847440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/12/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1847440/header.jpg?t=1640592302",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1847440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1847440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1847440,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Indie",
+  "developer": "RoomsForRockets",
+  "discount": "0",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1847440/header.jpg?t=1640592302",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "FREEZEFRAME",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "RoomsForRockets",
+  "release_date": "2021/12/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 35,
+    "3D Platformer": 38,
+    "Adventure": 47,
+    "Comedy": 26,
+    "First-Person": 33,
+    "Indie": 21,
+    "Linear": 20,
+    "Modern": 24,
+    "Parkour": 21,
+    "Puzzle": 41,
+    "Singleplayer": 18
+  },
+  "type": "game"
 }

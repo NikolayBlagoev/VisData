@@ -1,214 +1,252 @@
 {
-  "appid": 1570010,
-  "name": "FAR: Changing Tides",
-  "developer": "Okomotive",
-  "publisher": "Frontier Foundry",
-  "tags": {
-    "Action-Adventure": 202,
-    "Atmospheric": 199,
-    "Puzzle-Platformer": 196,
-    "Post-apocalyptic": 192,
-    "2.5D": 190,
-    "Platformer": 175,
-    "Adventure": 168,
-    "Puzzle": 166,
-    "Stylized": 155,
-    "Action": 147,
-    "Hand-drawn": 141,
-    "Emotional": 124,
-    "Relaxing": 112,
-    "Underwater": 100,
-    "Controller": 79,
-    "Linear": 66,
-    "Singleplayer": 52,
-    "Mystery": 33,
-    "Soundtrack": 31,
-    "Exploration": 6
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1570010,
+    "average_2weeks": 0,
+    "average_forever": 199,
+    "median_2weeks": 0,
+    "median_forever": 210
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1570010,
+    "average_2weeks": 0,
+    "average_forever": 199,
+    "median_2weeks": 0,
+    "median_forever": 210
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5,
+    "2022-12-09": 27,
+    "2022-12-10": 27,
+    "2022-12-13": 18,
+    "2022-12-15": 12,
+    "2022-12-18": 15,
+    "2022-12-21": 19,
+    "2022-12-22": 19
+  },
+  "Completion": 58.099998474121094,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1570010,
+    "average_2weeks": 0,
+    "average_forever": 199,
+    "median_2weeks": 0,
+    "median_forever": 210
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1570010,
+    "average_2weeks": 0,
+    "average_forever": 199,
+    "median_2weeks": 0,
+    "median_forever": 210
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 203,
+  "User Score": -1,
+  "appid": 1570010,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1704,
-  "negative": 125,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 33,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1570010/header.jpg?t=1654873912",
+  "consensus_genre": "Adventure",
+  "developer": "Okomotive",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 46,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 26,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 203,
-  "Down 30 Days": 9,
-  "Completion": 58.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1570010/header.jpg?t=1654873912",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Ukrainian",
+  "name": "FAR: Changing Tides",
+  "negative": 125,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1704,
+  "price": "1999",
+  "publisher": "Frontier Foundry",
+  "release_date": "2022/03/1",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 190,
+    "Action": 147,
+    "Action-Adventure": 202,
+    "Adventure": 168,
+    "Atmospheric": 199,
+    "Controller": 79,
+    "Emotional": 124,
+    "Exploration": 6,
+    "Hand-drawn": 141,
+    "Linear": 66,
+    "Mystery": 33,
+    "Platformer": 175,
+    "Post-apocalyptic": 192,
+    "Puzzle": 166,
+    "Puzzle-Platformer": 196,
+    "Relaxing": 112,
+    "Singleplayer": 52,
+    "Soundtrack": 31,
+    "Stylized": 155,
+    "Underwater": 100
+  },
+  "type": "game"
 }

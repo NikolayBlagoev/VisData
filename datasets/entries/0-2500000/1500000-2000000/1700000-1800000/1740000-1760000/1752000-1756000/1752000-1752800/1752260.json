@@ -1,31 +1,96 @@
 {
-  "appid": 1752260,
-  "name": "Mythic",
-  "developer": "Abyssal Studios LLC",
-  "publisher": "Abyssal Studios LLC",
-  "tags": {
-    "Action Roguelike": 199,
-    "Massively Multiplayer": 192,
-    "Dungeon Crawler": 189,
-    "Rogue-lite": 187,
-    "MMORPG": 183,
-    "Pixel Graphics": 177,
-    "Procedural Generation": 175,
-    "Multiplayer": 173,
-    "Exploration": 171,
-    "Open World": 169,
-    "Hack and Slash": 167,
-    "Online Co-Op": 163,
-    "Rogue-like": 158,
-    "Retro": 154,
-    "RPG": 151,
-    "PvE": 142,
-    "Bullet Hell": 134,
-    "Action-Adventure": 121,
-    "2D": 111,
-    "Female Protagonist": 109
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1752260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1752260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 20,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 5,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 6,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 4,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1752260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1752260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 24,
+  "User Score": -1,
+  "appid": 1752260,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -33,22 +98,10 @@
     "Cross-Platform Multiplayer",
     "Online Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 32,
-  "negative": 20,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1752260/header.jpg?t=1664486591",
+  "consensus_genre": "Massively Multiplayer",
+  "developer": "Abyssal Studios LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -56,58 +109,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Massively Multiplayer",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 17,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 24,
-  "Down 30 Days": 20,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1752260/header.jpg?t=1664486591",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Mythic",
+  "negative": 20,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 32,
+  "price": "1499",
+  "publisher": "Abyssal Studios LLC",
+  "release_date": "2022/09/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 111,
+    "Action Roguelike": 199,
+    "Action-Adventure": 121,
+    "Bullet Hell": 134,
+    "Dungeon Crawler": 189,
+    "Exploration": 171,
+    "Female Protagonist": 109,
+    "Hack and Slash": 167,
+    "MMORPG": 183,
+    "Massively Multiplayer": 192,
+    "Multiplayer": 173,
+    "Online Co-Op": 163,
+    "Open World": 169,
+    "Pixel Graphics": 177,
+    "Procedural Generation": 175,
+    "PvE": 142,
+    "RPG": 151,
+    "Retro": 154,
+    "Rogue-like": 158,
+    "Rogue-lite": 187
+  },
+  "type": "game"
 }

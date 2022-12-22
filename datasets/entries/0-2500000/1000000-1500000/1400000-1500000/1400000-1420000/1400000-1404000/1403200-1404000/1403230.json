@@ -1,89 +1,127 @@
 {
-  "appid": 1403230,
-  "name": "Penny RPG: Shadows of the Lost - A Blood City Tale",
-  "developer": "OMC Games",
-  "publisher": "OMC Games",
-  "tags": {
-    "Early Access": 237,
-    "RPG": 215,
-    "JRPG": 188,
-    "Singleplayer": 184,
-    "Turn-Based Combat": 179,
-    "Adventure": 175,
-    "2D": 173,
-    "Cyberpunk": 163,
-    "Investigation": 148,
-    "Noir": 141,
-    "Top-Down": 132,
-    "Story Rich": 120,
-    "Dark Fantasy": 118,
-    "Minimalist": 105,
-    "Stylized": 91,
-    "Atmospheric": 76,
-    "Dark": 60,
-    "Sci-fi": 43,
-    "Conversation": 27,
-    "Gun Customization": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1403230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1403230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1403230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1403230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1403230,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/12/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1403230/header.jpg?t=1652549027",
+  "consensus_genre": "Early Access",
+  "developer": "OMC Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1403230/header.jpg?t=1652549027",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Penny RPG: Shadows of the Lost - A Blood City Tale",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "1199",
+  "publisher": "OMC Games",
+  "release_date": "2020/12/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 173,
+    "Adventure": 175,
+    "Atmospheric": 76,
+    "Conversation": 27,
+    "Cyberpunk": 163,
+    "Dark": 60,
+    "Dark Fantasy": 118,
+    "Early Access": 237,
+    "Gun Customization": 25,
+    "Investigation": 148,
+    "JRPG": 188,
+    "Minimalist": 105,
+    "Noir": 141,
+    "RPG": 215,
+    "Sci-fi": 43,
+    "Singleplayer": 184,
+    "Story Rich": 120,
+    "Stylized": 91,
+    "Top-Down": 132,
+    "Turn-Based Combat": 179
+  },
+  "type": "game"
 }

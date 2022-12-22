@@ -1,31 +1,201 @@
 {
-  "appid": 1328660,
-  "name": "Need for Speed Hot Pursuit Remastered",
-  "developer": "Stellar Entertainment Limited",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Racing": 167,
-    "Combat Racing": 150,
-    "Driving": 149,
-    "Open World": 143,
-    "Competitive": 139,
-    "Vehicular Combat": 125,
-    "Multiplayer": 120,
-    "Action": 118,
-    "Action-Adventure": 114,
-    "Crime": 100,
-    "Realistic": 99,
-    "Transportation": 87,
-    "Cinematic": 85,
-    "Co-op": 82,
-    "Destruction": 82,
-    "Singleplayer": 75,
-    "Replay Value": 61,
-    "Third Person": 52,
-    "Game Development": 48,
-    "Classic": 33
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1328660,
+    "average_2weeks": 281,
+    "average_forever": 525,
+    "median_2weeks": 281,
+    "median_forever": 591
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1328660,
+    "average_2weeks": 281,
+    "average_forever": 525,
+    "median_2weeks": 281,
+    "median_forever": 591
+  },
+  "CCU Histogram": {
+    "2022-12-08": 412,
+    "2022-12-09": 369,
+    "2022-12-10": 305,
+    "2022-12-13": 244,
+    "2022-12-15": 287,
+    "2022-12-18": 266,
+    "2022-12-21": 236,
+    "2022-12-22": 249
+  },
+  "Completion": 37.599998474121094,
+  "Down 30 Days": 56,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 5,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 7,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 5,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 30
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1328660,
+    "average_2weeks": 281,
+    "average_forever": 525,
+    "median_2weeks": 281,
+    "median_forever": 591
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1328660,
+    "average_2weeks": 281,
+    "average_forever": 525,
+    "median_2weeks": 281,
+    "median_forever": 591
+  },
+  "Meta Score": "74",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 341,
+  "User Score": -1,
+  "appid": 1328660,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,183 +204,51 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 4021,
-  "negative": 1021,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 123,
-  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Polish, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1328660/header.jpg?t=1667318486",
+  "consensus_genre": "Racing",
+  "developer": "Stellar Entertainment Limited",
+  "discount": "0",
   "genre": [
     "Action",
     "Racing"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "74",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 24,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 30,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 21,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 35,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 48,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 41,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 27,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 30,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 341,
-  "Down 30 Days": 56,
-  "Completion": 37.599998474121094,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1328660/header.jpg?t=1667318486",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Polish, Russian, Traditional Chinese",
+  "name": "Need for Speed Hot Pursuit Remastered",
+  "negative": 1021,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4021,
+  "price": "2999",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/11/6",
+  "required_age": 0,
+  "tags": {
+    "Action": 118,
+    "Action-Adventure": 114,
+    "Cinematic": 85,
+    "Classic": 33,
+    "Co-op": 82,
+    "Combat Racing": 150,
+    "Competitive": 139,
+    "Crime": 100,
+    "Destruction": 82,
+    "Driving": 149,
+    "Game Development": 48,
+    "Multiplayer": 120,
+    "Open World": 143,
+    "Racing": 167,
+    "Realistic": 99,
+    "Replay Value": 61,
+    "Singleplayer": 75,
+    "Third Person": 52,
+    "Transportation": 87,
+    "Vehicular Combat": 125
+  },
+  "type": "game"
 }

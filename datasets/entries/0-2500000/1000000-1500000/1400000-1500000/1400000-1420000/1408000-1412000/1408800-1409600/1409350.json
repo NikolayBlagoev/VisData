@@ -1,67 +1,105 @@
 {
-  "appid": 1409350,
-  "name": "Brushlings Pale Moon",
-  "developer": "Benjamin Boese, Zephyrus Mckinnon, David Clark",
-  "publisher": "Soka Game Design",
-  "tags": {
-    "Collectathon": 586,
-    "Relaxing": 580,
-    "Female Protagonist": 554,
-    "Hand-drawn": 515,
-    "Magic": 472,
-    "Colorful": 426,
-    "Exploration": 420,
-    "3D Platformer": 414,
-    "Hidden Object": 404,
-    "Arcade": 403,
-    "RPG": 402,
-    "Action-Adventure": 398,
-    "3D": 389,
-    "Third Person": 377,
-    "Open World": 369,
-    "Controller": 363,
-    "Casual": 358,
-    "Anime": 355,
-    "Cartoony": 351,
-    "Stylized": 340
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1409350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1409350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 35.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1409350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1409350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1409350,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/5",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1409350/header.jpg?t=1653749574",
+  "consensus_genre": "Casual",
+  "developer": "Benjamin Boese, Zephyrus Mckinnon, David Clark",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 35.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1409350/header.jpg?t=1653749574",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Brushlings Pale Moon",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "Soka Game Design",
+  "release_date": "2022/01/5",
+  "required_age": 0,
+  "tags": {
+    "3D": 389,
+    "3D Platformer": 414,
+    "Action-Adventure": 398,
+    "Anime": 355,
+    "Arcade": 403,
+    "Cartoony": 351,
+    "Casual": 358,
+    "Collectathon": 586,
+    "Colorful": 426,
+    "Controller": 363,
+    "Exploration": 420,
+    "Female Protagonist": 554,
+    "Hand-drawn": 515,
+    "Hidden Object": 404,
+    "Magic": 472,
+    "Open World": 369,
+    "RPG": 402,
+    "Relaxing": 580,
+    "Stylized": 340,
+    "Third Person": 377
+  },
+  "type": "game"
 }

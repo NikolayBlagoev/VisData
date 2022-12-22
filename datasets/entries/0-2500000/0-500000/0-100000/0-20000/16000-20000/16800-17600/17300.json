@@ -1,210 +1,248 @@
 {
-  "appid": 17300,
-  "name": "Crysis",
-  "developer": "Crytek",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "FPS": 546,
-    "Action": 465,
-    "Sci-fi": 325,
-    "Singleplayer": 258,
-    "Shooter": 252,
-    "Stealth": 238,
-    "Open World": 224,
-    "Aliens": 206,
-    "First-Person": 203,
-    "Benchmark": 178,
-    "Multiplayer": 149,
-    "Futuristic": 129,
-    "Adventure": 99,
-    "Atmospheric": 98,
-    "Story Rich": 98,
-    "Classic": 86,
-    "Destruction": 76,
-    "Sandbox": 67,
-    "Great Soundtrack": 64,
-    "Moddable": 37
+  "Average Playtime - 2 Weeks": {
+    "app_id": 17300,
+    "average_2weeks": 0,
+    "average_forever": 463,
+    "median_2weeks": 0,
+    "median_forever": 223
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 9996,
-  "negative": 2551,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
-  "ccu": 29,
-  "languages": "English, French, German, Spanish - Spain, Italian, Czech, Polish, Russian, Hungarian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 17300,
+    "average_2weeks": 0,
+    "average_forever": 463,
+    "median_2weeks": 0,
+    "median_forever": 223
   },
-  "release_date": "2008/09/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/17300/header.jpg?t=1634068265",
-  "genre": [
-    "Action"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": "91",
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 24,
+    "2022-12-09": 23,
+    "2022-12-10": 28,
+    "2022-12-13": 18,
+    "2022-12-15": 29,
+    "2022-12-18": 31,
+    "2022-12-21": 28,
+    "2022-12-22": 27
+  },
+  "Completion": -1,
+  "Down 30 Days": 11,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 1
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 1
     },
     {
       "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 3
     },
     {
       "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 1
     },
     {
       "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 2
+      "recommendations_down": 2,
+      "recommendations_up": 1
     },
     {
       "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 2
+      "recommendations_down": 2,
+      "recommendations_up": 2
     },
     {
       "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 2
     },
     {
       "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 2
+      "recommendations_down": 2,
+      "recommendations_up": 3
     },
     {
       "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 3
     },
     {
       "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 6
     },
     {
       "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 4
     },
     {
       "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 4
     },
     {
       "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 3
     },
     {
       "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 2
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 17300,
+    "average_2weeks": 0,
+    "average_forever": 463,
+    "median_2weeks": 0,
+    "median_forever": 223
+  },
+  "Median Playtime - Forever": {
+    "app_id": 17300,
+    "average_2weeks": 0,
+    "average_forever": 463,
+    "median_2weeks": 0,
+    "median_forever": 223
+  },
+  "Meta Score": "91",
+  "Rating": "ESRB M",
   "Up 30 Days": 48,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "User Score": -1,
+  "appid": 17300,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 29,
+  "consensus_genre": "Action",
+  "developer": "Crytek",
+  "discount": "0",
+  "genre": [
+    "Action"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/17300/header.jpg?t=1634068265",
+  "initialprice": "2999",
+  "languages": "English, French, German, Spanish - Spain, Italian, Czech, Polish, Russian, Hungarian",
+  "name": "Crysis",
+  "negative": 2551,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9996,
+  "price": "2999",
+  "publisher": "Electronic Arts",
+  "release_date": "2008/09/17",
+  "required_age": 0,
+  "tags": {
+    "Action": 465,
+    "Adventure": 99,
+    "Aliens": 206,
+    "Atmospheric": 98,
+    "Benchmark": 178,
+    "Classic": 86,
+    "Destruction": 76,
+    "FPS": 546,
+    "First-Person": 203,
+    "Futuristic": 129,
+    "Great Soundtrack": 64,
+    "Moddable": 37,
+    "Multiplayer": 149,
+    "Open World": 224,
+    "Sandbox": 67,
+    "Sci-fi": 325,
+    "Shooter": 252,
+    "Singleplayer": 258,
+    "Stealth": 238,
+    "Story Rich": 98
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1238860,
-  "name": "Battlefield 4",
-  "developer": "DICE",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Multiplayer": 226,
-    "FPS": 203,
-    "Shooter": 180,
-    "Military": 168,
-    "Singleplayer": 155,
-    "War": 154,
-    "Action": 152,
-    "First-Person": 131,
-    "PvP": 115,
-    "Violent": 77,
-    "Co-op": 72,
-    "Destruction": 70,
-    "Massively Multiplayer": 68,
-    "Controller": 47,
-    "Tactical": 40,
-    "Open World": 30,
-    "Online Co-Op": 29,
-    "Story Rich": 23,
-    "Strategy": 22,
-    "Great Soundtrack": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1238860,
+    "average_2weeks": 227,
+    "average_forever": 1427,
+    "median_2weeks": 372,
+    "median_forever": 548
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1238860,
+    "average_2weeks": 227,
+    "average_forever": 1427,
+    "median_2weeks": 372,
+    "median_forever": 548
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2570,
+    "2022-12-09": 2754,
+    "2022-12-10": 2686,
+    "2022-12-13": 2950,
+    "2022-12-15": 2425,
+    "2022-12-18": 2192,
+    "2022-12-21": 1739,
+    "2022-12-22": 1949
+  },
+  "Completion": 21.949999809265137,
+  "Down 30 Days": 113,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 5,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 9,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 11,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 13,
+      "recommendations_up": 94
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 11,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 12,
+      "recommendations_up": 67
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 8,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 4,
+      "recommendations_up": 23
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1238860,
+    "average_2weeks": 227,
+    "average_forever": 1427,
+    "median_2weeks": 372,
+    "median_forever": 548
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1238860,
+    "average_2weeks": 227,
+    "average_forever": 1427,
+    "median_2weeks": 372,
+    "median_forever": 548
+  },
+  "Meta Score": "81",
+  "Rating": "ESRB M",
+  "Up 30 Days": 878,
+  "User Score": -1,
+  "appid": 1238860,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,182 +205,50 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 41014,
-  "negative": 6145,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 1467,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/11",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238860/header.jpg?t=1641312061",
+  "consensus_genre": "Action",
+  "developer": "DICE",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "81",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 15,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 25,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 20,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 26,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 75,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 57,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 58,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 94,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 97,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 67,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 77,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 23,
-      "recommendations_down": 4
-    }
-  ],
-  "Up 30 Days": 878,
-  "Down 30 Days": 113,
-  "Completion": 21.949999809265137,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238860/header.jpg?t=1641312061",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese",
+  "name": "Battlefield 4",
+  "negative": 6145,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 41014,
+  "price": "3999",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/06/11",
+  "required_age": "15",
+  "tags": {
+    "Action": 152,
+    "Co-op": 72,
+    "Controller": 47,
+    "Destruction": 70,
+    "FPS": 203,
+    "First-Person": 131,
+    "Great Soundtrack": 19,
+    "Massively Multiplayer": 68,
+    "Military": 168,
+    "Multiplayer": 226,
+    "Online Co-Op": 29,
+    "Open World": 30,
+    "PvP": 115,
+    "Shooter": 180,
+    "Singleplayer": 155,
+    "Story Rich": 23,
+    "Strategy": 22,
+    "Tactical": 40,
+    "Violent": 77,
+    "War": 154
+  },
+  "type": "game"
 }

@@ -1,31 +1,56 @@
 {
-  "appid": 1890810,
-  "name": "A Tale of Synapse : The Chaos Theories",
-  "developer": "Souris Lab",
-  "publisher": "Souris Lab",
-  "tags": {
-    "Adventure": 293,
-    "Casual": 288,
-    "Puzzle": 264,
-    "2D Fighter": 258,
-    "Platformer": 253,
-    "Creature Collector": 243,
-    "2D Platformer": 237,
-    "2D": 228,
-    "Colorful": 219,
-    "Education": 209,
-    "Relaxing": 199,
-    "Logic": 189,
-    "Magic": 175,
-    "Mystery": 173,
-    "Nature": 158,
-    "Science": 142,
-    "Physics": 125,
-    "Combat": 107,
-    "Controller": 88,
-    "Linear": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1890810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1890810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1890810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1890810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1890810,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,39 +60,52 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "1799",
-  "initialprice": "1799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/02/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1890810/header.jpg?t=1654001081",
+  "consensus_genre": "Adventure",
+  "developer": "Souris Lab",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1890810/header.jpg?t=1654001081",
+  "initialprice": "1799",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "A Tale of Synapse : The Chaos Theories",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "1799",
+  "publisher": "Souris Lab",
+  "release_date": "2022/02/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 228,
+    "2D Fighter": 258,
+    "2D Platformer": 237,
+    "Adventure": 293,
+    "Casual": 288,
+    "Colorful": 219,
+    "Combat": 107,
+    "Controller": 88,
+    "Creature Collector": 243,
+    "Education": 209,
+    "Linear": 68,
+    "Logic": 189,
+    "Magic": 175,
+    "Mystery": 173,
+    "Nature": 158,
+    "Physics": 125,
+    "Platformer": 253,
+    "Puzzle": 264,
+    "Relaxing": 199,
+    "Science": 142
+  },
+  "type": "game"
 }

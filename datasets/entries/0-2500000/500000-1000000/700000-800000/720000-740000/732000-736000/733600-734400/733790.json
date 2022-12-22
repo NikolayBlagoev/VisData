@@ -1,214 +1,252 @@
 {
-  "appid": 733790,
-  "name": "Not Tonight",
-  "developer": "PanicBarn",
-  "publisher": "No More Robots",
-  "tags": {
-    "Simulation": 102,
-    "Life Sim": 96,
-    "Pixel Graphics": 75,
-    "RPG": 74,
-    "Political": 73,
-    "Alternate History": 60,
-    "Dystopian ": 57,
-    "Politics": 52,
-    "Indie": 32,
-    "Singleplayer": 29,
-    "2D": 28,
-    "Adventure": 28,
-    "Great Soundtrack": 28,
-    "Story Rich": 22,
-    "Multiple Endings": 21,
-    "Difficult": 15,
-    "Replay Value": 15,
-    "Retro": 15,
-    "Addictive": 14,
-    "Casual": 8
+  "Average Playtime - 2 Weeks": {
+    "app_id": 733790,
+    "average_2weeks": 0,
+    "average_forever": 378,
+    "median_2weeks": 0,
+    "median_forever": 293
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 733790,
+    "average_2weeks": 0,
+    "average_forever": 378,
+    "median_2weeks": 0,
+    "median_forever": 293
+  },
+  "CCU Histogram": {
+    "2022-12-08": 24,
+    "2022-12-09": 20,
+    "2022-12-10": 14,
+    "2022-12-13": 15,
+    "2022-12-15": 10,
+    "2022-12-18": 17,
+    "2022-12-21": 11,
+    "2022-12-22": 9
+  },
+  "Completion": 35.29999923706055,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 733790,
+    "average_2weeks": 0,
+    "average_forever": 378,
+    "median_2weeks": 0,
+    "median_forever": 293
+  },
+  "Median Playtime - Forever": {
+    "app_id": 733790,
+    "average_2weeks": 0,
+    "average_forever": 378,
+    "median_2weeks": 0,
+    "median_forever": 293
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 16,
+  "User Score": -1,
+  "appid": 733790,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1568,
-  "negative": 286,
-  "price": "499",
-  "initialprice": "1999",
-  "discount": "75",
   "ccu": 39,
-  "languages": "English, Simplified Chinese, Spanish - Spain, French, Japanese, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/08/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/733790/header.jpg?t=1666955872",
+  "consensus_genre": "Simulation",
+  "developer": "PanicBarn",
+  "discount": "75",
   "genre": [
     "Adventure",
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 16,
-  "Down 30 Days": 4,
-  "Completion": 35.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/733790/header.jpg?t=1666955872",
+  "initialprice": "1999",
+  "languages": "English, Simplified Chinese, Spanish - Spain, French, Japanese, German",
+  "name": "Not Tonight",
+  "negative": 286,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1568,
+  "price": "499",
+  "publisher": "No More Robots",
+  "release_date": "2018/08/17",
+  "required_age": 0,
+  "tags": {
+    "2D": 28,
+    "Addictive": 14,
+    "Adventure": 28,
+    "Alternate History": 60,
+    "Casual": 8,
+    "Difficult": 15,
+    "Dystopian ": 57,
+    "Great Soundtrack": 28,
+    "Indie": 32,
+    "Life Sim": 96,
+    "Multiple Endings": 21,
+    "Pixel Graphics": 75,
+    "Political": 73,
+    "Politics": 52,
+    "RPG": 74,
+    "Replay Value": 15,
+    "Retro": 15,
+    "Simulation": 102,
+    "Singleplayer": 29,
+    "Story Rich": 22
+  },
+  "type": "game"
 }

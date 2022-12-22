@@ -1,94 +1,132 @@
 {
-  "appid": 1678930,
-  "name": "Ultimo Soccer UDC",
-  "developer": "Ultimo Games",
-  "publisher": "Ultimo Games",
-  "tags": {
-    "Sports": 58,
-    "Soccer": 53,
-    "Arcade": 45,
-    "Football": 45,
-    "Runner": 40,
-    "Simulation": 31,
-    "Family Friendly": 29,
-    "2D": 28,
-    "Pixel Graphics": 26,
-    "Top-Down": 23,
-    "Action": 22,
-    "Casual": 21,
-    "Indie": 21,
-    "Old School": 21,
-    "Retro": 19,
-    "Controller": 17,
-    "Score Attack": 15,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1678930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1678930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 70.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1678930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1678930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1678930,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678930/header.jpg?t=1626253637",
+  "consensus_genre": "Sports",
+  "developer": "Ultimo Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 70.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1678930/header.jpg?t=1626253637",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Ultimo Soccer UDC",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "399",
+  "publisher": "Ultimo Games",
+  "release_date": "2021/07/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 28,
+    "Action": 22,
+    "Arcade": 45,
+    "Casual": 21,
+    "Controller": 17,
+    "Family Friendly": 29,
+    "Football": 45,
+    "Indie": 21,
+    "Old School": 21,
+    "Pixel Graphics": 26,
+    "Retro": 19,
+    "Runner": 40,
+    "Score Attack": 15,
+    "Simulation": 31,
+    "Singleplayer": 14,
+    "Soccer": 53,
+    "Sports": 58,
+    "Top-Down": 23
+  },
+  "type": "game"
 }

@@ -1,30 +1,56 @@
 {
-  "appid": 2125190,
-  "name": "Bowling Hills",
-  "developer": "Frozen Pizza Studios",
-  "publisher": "Frozen Pizza Studios",
-  "tags": {
-    "Casual": 93,
-    "Sports": 86,
-    "Multiplayer": 82,
-    "Simulation": 82,
-    "Bowling": 80,
-    "Physics": 76,
-    "Strategy": 73,
-    "Funny": 69,
-    "Family Friendly": 68,
-    "Colorful": 65,
-    "Difficult": 63,
-    "Singleplayer": 60,
-    "Local Multiplayer": 58,
-    "Indie": 56,
-    "Party Game": 52,
-    "Party": 50,
-    "3D": 48,
-    "Early Access": 47,
-    "PvP": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2125190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2125190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 66.60000228881836,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2125190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2125190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2125190,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,22 +60,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2125190/header.jpg?t=1664395211",
+  "consensus_genre": "Casual",
+  "developer": "Frozen Pizza Studios",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -58,18 +72,42 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 66.60000228881836,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2125190/header.jpg?t=1664395211",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Bowling Hills",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Frozen Pizza Studios",
+  "release_date": "2022/09/28",
+  "required_age": 0,
+  "tags": {
+    "3D": 48,
+    "Bowling": 80,
+    "Casual": 93,
+    "Colorful": 65,
+    "Difficult": 63,
+    "Early Access": 47,
+    "Family Friendly": 68,
+    "Funny": 69,
+    "Indie": 56,
+    "Local Multiplayer": 58,
+    "Multiplayer": 82,
+    "Party": 50,
+    "Party Game": 52,
+    "Physics": 76,
+    "PvP": 27,
+    "Simulation": 82,
+    "Singleplayer": 60,
+    "Sports": 86,
+    "Strategy": 73
+  },
+  "type": "game"
 }

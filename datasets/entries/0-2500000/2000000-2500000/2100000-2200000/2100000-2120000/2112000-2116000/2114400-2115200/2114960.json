@@ -1,51 +1,64 @@
 {
-  "appid": 2114960,
-  "name": "Built Different",
-  "developer": "JelloGames",
-  "publisher": "JelloGames",
-  "tags": {
-    "3D Platformer": 145,
-    "Story Rich": 139,
-    "Singleplayer": 136,
-    "Runner": 131,
-    "Platformer": 127,
-    "Physics": 120,
-    "Rogue-like": 117,
-    "3D": 113,
-    "Adventure": 109,
-    "Artificial Intelligence": 103,
-    "Action": 92,
-    "Third Person": 82,
-    "Action Roguelike": 74,
-    "Casual": 69,
-    "Exploration": 67,
-    "Cartoon": 65,
-    "Cartoony": 63,
-    "Colorful": 61,
-    "Dystopian ": 58,
-    "Controller": 56
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2114960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2114960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2114960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2114960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2114960,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Simplified Chinese, Swedish, Turkish, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2114960/header.jpg?t=1663599704",
+  "consensus_genre": "Adventure",
+  "developer": "JelloGames",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,18 +66,43 @@
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2114960/header.jpg?t=1663599704",
+  "initialprice": "799",
+  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Simplified Chinese, Swedish, Turkish, Ukrainian",
+  "name": "Built Different",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "799",
+  "publisher": "JelloGames",
+  "release_date": "2022/09/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 113,
+    "3D Platformer": 145,
+    "Action": 92,
+    "Action Roguelike": 74,
+    "Adventure": 109,
+    "Artificial Intelligence": 103,
+    "Cartoon": 65,
+    "Cartoony": 63,
+    "Casual": 69,
+    "Colorful": 61,
+    "Controller": 56,
+    "Dystopian ": 58,
+    "Exploration": 67,
+    "Physics": 120,
+    "Platformer": 127,
+    "Rogue-like": 117,
+    "Runner": 131,
+    "Singleplayer": 136,
+    "Story Rich": 139,
+    "Third Person": 82
+  },
+  "type": "game"
 }

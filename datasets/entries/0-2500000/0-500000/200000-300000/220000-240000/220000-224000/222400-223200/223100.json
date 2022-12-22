@@ -1,31 +1,201 @@
 {
-  "appid": 223100,
-  "name": "Homefront: The Revolution",
-  "developer": "Dambuster Studios",
-  "publisher": "Deep Silver",
-  "tags": {
-    "Action": 274,
-    "FPS": 230,
-    "Open World": 223,
-    "Multiplayer": 193,
-    "Shooter": 186,
-    "Co-op": 159,
-    "First-Person": 134,
-    "War": 134,
-    "Singleplayer": 130,
-    "Online Co-Op": 128,
-    "Stealth": 117,
-    "Adventure": 99,
-    "Military": 93,
-    "Survival": 87,
-    "Atmospheric": 73,
-    "Dystopian ": 71,
-    "Crafting": 66,
-    "Futuristic": 62,
-    "Story Rich": 61,
-    "Violent": 49
+  "Average Playtime - 2 Weeks": {
+    "app_id": 223100,
+    "average_2weeks": 0,
+    "average_forever": 2582,
+    "median_2weeks": 0,
+    "median_forever": 568
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 223100,
+    "average_2weeks": 0,
+    "average_forever": 2582,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "CCU Histogram": {
+    "2022-12-08": 59,
+    "2022-12-09": 59,
+    "2022-12-10": 54,
+    "2022-12-13": 57,
+    "2022-12-15": 86,
+    "2022-12-18": 90,
+    "2022-12-21": 92,
+    "2022-12-22": 82
+  },
+  "Completion": 81.0,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 223100,
+    "average_2weeks": 0,
+    "average_forever": 2582,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "Median Playtime - Forever": {
+    "app_id": 223100,
+    "average_2weeks": 0,
+    "average_forever": 2582,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 44,
+  "User Score": -1,
+  "appid": 223100,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,183 +207,51 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 8823,
-  "negative": 6078,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 45,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Polish, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/05/19",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/223100/header.jpg?t=1614763860",
+  "consensus_genre": "Action",
+  "developer": "Dambuster Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 44,
-  "Down 30 Days": 16,
-  "Completion": 81.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/223100/header.jpg?t=1614763860",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Polish, Portuguese - Brazil, Russian",
+  "name": "Homefront: The Revolution",
+  "negative": 6078,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 8823,
+  "price": "1999",
+  "publisher": "Deep Silver",
+  "release_date": "2016/05/19",
+  "required_age": "15",
+  "tags": {
+    "Action": 274,
+    "Adventure": 99,
+    "Atmospheric": 73,
+    "Co-op": 159,
+    "Crafting": 66,
+    "Dystopian ": 71,
+    "FPS": 230,
+    "First-Person": 134,
+    "Futuristic": 62,
+    "Military": 93,
+    "Multiplayer": 193,
+    "Online Co-Op": 128,
+    "Open World": 223,
+    "Shooter": 186,
+    "Singleplayer": 130,
+    "Stealth": 117,
+    "Story Rich": 61,
+    "Survival": 87,
+    "Violent": 49,
+    "War": 134
+  },
+  "type": "game"
 }

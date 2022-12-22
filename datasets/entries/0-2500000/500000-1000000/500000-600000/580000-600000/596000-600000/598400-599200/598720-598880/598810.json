@@ -1,31 +1,201 @@
 {
-  "appid": 598810,
-  "name": "Carcassonne - Tiles & Tactics",
-  "developer": "Artefacts",
-  "publisher": "Twin Sails Interactive",
-  "tags": {
-    "Board Game": 156,
-    "Strategy": 146,
-    "Casual": 138,
-    "Multiplayer": 137,
-    "Tabletop": 136,
-    "Turn-Based": 124,
-    "Turn-Based Strategy": 120,
-    "Family Friendly": 116,
-    "Puzzle": 112,
-    "Medieval": 111,
-    "Addictive": 110,
-    "Singleplayer": 103,
-    "Local Multiplayer": 100,
-    "3D": 85,
-    "Top-Down": 83,
-    "Puzzle-Platformer": 81,
-    "Atmospheric": 79,
-    "PvP": 78,
-    "Turn-Based Tactics": 69,
-    "Replay Value": 63
+  "Average Playtime - 2 Weeks": {
+    "app_id": 598810,
+    "average_2weeks": 0,
+    "average_forever": 120,
+    "median_2weeks": 0,
+    "median_forever": 199
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 598810,
+    "average_2weeks": 0,
+    "average_forever": 120,
+    "median_2weeks": 0,
+    "median_forever": 199
+  },
+  "CCU Histogram": {
+    "2022-12-08": 123,
+    "2022-12-09": 160,
+    "2022-12-10": 156,
+    "2022-12-13": 139,
+    "2022-12-15": 126,
+    "2022-12-18": 164,
+    "2022-12-21": 119,
+    "2022-12-22": 151
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 598810,
+    "average_2weeks": 0,
+    "average_forever": 120,
+    "median_2weeks": 0,
+    "median_forever": 199
+  },
+  "Median Playtime - Forever": {
+    "app_id": 598810,
+    "average_2weeks": 0,
+    "average_forever": 120,
+    "median_2weeks": 0,
+    "median_forever": 199
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 17,
+  "User Score": -1,
+  "appid": 598810,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,183 +210,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1529,
-  "negative": 288,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 139,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/11/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/598810/header.jpg?t=1660751636",
+  "consensus_genre": "Strategy",
+  "developer": "Artefacts",
+  "discount": "0",
   "genre": [
     "Casual",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 17,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/598810/header.jpg?t=1660751636",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Carcassonne - Tiles & Tactics",
+  "negative": 288,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1529,
+  "price": "999",
+  "publisher": "Twin Sails Interactive",
+  "release_date": "2017/11/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 85,
+    "Addictive": 110,
+    "Atmospheric": 79,
+    "Board Game": 156,
+    "Casual": 138,
+    "Family Friendly": 116,
+    "Local Multiplayer": 100,
+    "Medieval": 111,
+    "Multiplayer": 137,
+    "Puzzle": 112,
+    "Puzzle-Platformer": 81,
+    "PvP": 78,
+    "Replay Value": 63,
+    "Singleplayer": 103,
+    "Strategy": 146,
+    "Tabletop": 136,
+    "Top-Down": 83,
+    "Turn-Based": 124,
+    "Turn-Based Strategy": 120,
+    "Turn-Based Tactics": 69
+  },
+  "type": "game"
 }

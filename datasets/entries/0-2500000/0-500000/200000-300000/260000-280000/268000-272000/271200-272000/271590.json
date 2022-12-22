@@ -1,31 +1,201 @@
 {
-  "appid": 271590,
-  "name": "Grand Theft Auto V",
-  "developer": "Rockstar North",
-  "publisher": "Rockstar Games",
-  "tags": {
-    "Open World": 30472,
-    "Action": 22214,
-    "Multiplayer": 20363,
-    "Crime": 18090,
-    "Automobile Sim": 18058,
-    "Third Person": 17743,
-    "First-Person": 17440,
-    "Shooter": 13948,
-    "Mature": 13112,
-    "Adventure": 12884,
-    "Singleplayer": 11619,
-    "Third-Person Shooter": 11314,
-    "Racing": 10916,
-    "Co-op": 9598,
-    "Atmospheric": 9472,
-    "Sandbox": 9391,
-    "Funny": 8792,
-    "Great Soundtrack": 8241,
-    "Comedy": 8065,
-    "Moddable": 6078
+  "Average Playtime - 2 Weeks": {
+    "app_id": 271590,
+    "average_2weeks": 768,
+    "average_forever": 13561,
+    "median_2weeks": 138,
+    "median_forever": 5556
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 271590,
+    "average_2weeks": 768,
+    "average_forever": 13561,
+    "median_2weeks": 138,
+    "median_forever": 5556
+  },
+  "CCU Histogram": {
+    "2022-12-08": 153968,
+    "2022-12-09": 126773,
+    "2022-12-10": 124372,
+    "2022-12-13": 151312,
+    "2022-12-15": 130191,
+    "2022-12-18": 134504,
+    "2022-12-21": 129575,
+    "2022-12-22": 134506
+  },
+  "Completion": 28.299999237060547,
+  "Down 30 Days": 1218,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 30,
+      "recommendations_up": 430
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 39,
+      "recommendations_up": 417
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 32,
+      "recommendations_up": 464
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 50,
+      "recommendations_up": 531
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 45,
+      "recommendations_up": 526
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 34,
+      "recommendations_up": 355
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 33,
+      "recommendations_up": 398
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 36,
+      "recommendations_up": 362
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 28,
+      "recommendations_up": 379
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 33,
+      "recommendations_up": 403
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 49,
+      "recommendations_up": 513
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 40,
+      "recommendations_up": 506
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 39,
+      "recommendations_up": 366
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 43,
+      "recommendations_up": 361
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 27,
+      "recommendations_up": 343
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 27,
+      "recommendations_up": 393
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 37,
+      "recommendations_up": 425
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 33,
+      "recommendations_up": 507
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 44,
+      "recommendations_up": 504
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 36,
+      "recommendations_up": 361
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 31,
+      "recommendations_up": 438
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 51,
+      "recommendations_up": 660
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 53,
+      "recommendations_up": 637
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 50,
+      "recommendations_up": 701
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 67,
+      "recommendations_up": 818
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 73,
+      "recommendations_up": 863
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 56,
+      "recommendations_up": 716
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 59,
+      "recommendations_up": 682
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 43,
+      "recommendations_up": 606
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 271590,
+    "average_2weeks": 768,
+    "average_forever": 13561,
+    "median_2weeks": 138,
+    "median_forever": 5556
+  },
+  "Median Playtime - Forever": {
+    "app_id": 271590,
+    "average_2weeks": 768,
+    "average_forever": 13561,
+    "median_2weeks": 138,
+    "median_forever": 5556
+  },
+  "Meta Score": "96",
+  "Rating": "ESRB M",
+  "Up 30 Days": 14665,
+  "User Score": -1,
+  "appid": 271590,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,183 +209,51 @@
     "Remote Play on TV",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 1229265,
-  "negative": 213379,
-  "price": "2998",
-  "initialprice": "2998",
-  "discount": "0",
   "ccu": 140671,
-  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese, Simplified Chinese, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/04/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1667343890",
+  "consensus_genre": "Action",
+  "developer": "Rockstar North",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "96",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 430,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 417,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 464,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 531,
-      "recommendations_down": 50
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 526,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 355,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 398,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 362,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 379,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 403,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 513,
-      "recommendations_down": 49
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 506,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 366,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 361,
-      "recommendations_down": 43
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 343,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 393,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 425,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 507,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 504,
-      "recommendations_down": 44
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 361,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 438,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 660,
-      "recommendations_down": 51
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 637,
-      "recommendations_down": 53
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 701,
-      "recommendations_down": 50
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 818,
-      "recommendations_down": 67
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 863,
-      "recommendations_down": 73
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 716,
-      "recommendations_down": 56
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 682,
-      "recommendations_down": 59
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 606,
-      "recommendations_down": 43
-    }
-  ],
-  "Up 30 Days": 14665,
-  "Down 30 Days": 1218,
-  "Completion": 28.299999237060547,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1667343890",
+  "initialprice": "2998",
+  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese, Simplified Chinese, Spanish - Latin America",
+  "name": "Grand Theft Auto V",
+  "negative": 213379,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1229265,
+  "price": "2998",
+  "publisher": "Rockstar Games",
+  "release_date": "2015/04/13",
+  "required_age": 0,
+  "tags": {
+    "Action": 22214,
+    "Adventure": 12884,
+    "Atmospheric": 9472,
+    "Automobile Sim": 18058,
+    "Co-op": 9598,
+    "Comedy": 8065,
+    "Crime": 18090,
+    "First-Person": 17440,
+    "Funny": 8792,
+    "Great Soundtrack": 8241,
+    "Mature": 13112,
+    "Moddable": 6078,
+    "Multiplayer": 20363,
+    "Open World": 30472,
+    "Racing": 10916,
+    "Sandbox": 9391,
+    "Shooter": 13948,
+    "Singleplayer": 11619,
+    "Third Person": 17743,
+    "Third-Person Shooter": 11314
+  },
+  "type": "game"
 }

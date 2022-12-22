@@ -1,214 +1,252 @@
 {
-  "appid": 1546860,
-  "name": "Saiko no sutoka",
-  "developer": "Habupain",
-  "publisher": "Habupain",
-  "tags": {
-    "Horror": 243,
-    "First-Person": 227,
-    "Anime": 217,
-    "Artificial Intelligence": 206,
-    "Cute": 203,
-    "3D": 188,
-    "Psychological Horror": 187,
-    "Choose Your Own Adventure": 181,
-    "Action-Adventure": 175,
-    "Action": 167,
-    "Simulation": 150,
-    "Atmospheric": 114,
-    "Cartoony": 114,
-    "Psychological": 97,
-    "Adventure": 93,
-    "Survival Horror": 93,
-    "Singleplayer": 74,
-    "Cartoon": 52,
-    "Violent": 52,
-    "Casual": 33
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1546860,
+    "average_2weeks": 0,
+    "average_forever": 134,
+    "median_2weeks": 0,
+    "median_forever": 176
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1546860,
+    "average_2weeks": 0,
+    "average_forever": 134,
+    "median_2weeks": 0,
+    "median_forever": 176
+  },
+  "CCU Histogram": {
+    "2022-12-08": 20,
+    "2022-12-09": 14,
+    "2022-12-10": 22,
+    "2022-12-13": 16,
+    "2022-12-15": 18,
+    "2022-12-18": 20,
+    "2022-12-21": 19,
+    "2022-12-22": 15
+  },
+  "Completion": 58.400001525878906,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1546860,
+    "average_2weeks": 0,
+    "average_forever": 134,
+    "median_2weeks": 0,
+    "median_forever": 176
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1546860,
+    "average_2weeks": 0,
+    "average_forever": 134,
+    "median_2weeks": 0,
+    "median_forever": 176
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 69,
+  "User Score": -1,
+  "appid": 1546860,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2014,
-  "negative": 98,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 23,
-  "languages": "English, Japanese, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Traditional Chinese, Turkish, French, Italian, Polish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/03/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546860/header.jpg?t=1618314653",
+  "consensus_genre": "Action",
+  "developer": "Habupain",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 69,
-  "Down 30 Days": 4,
-  "Completion": 58.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546860/header.jpg?t=1618314653",
+  "initialprice": "499",
+  "languages": "English, Japanese, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Traditional Chinese, Turkish, French, Italian, Polish",
+  "name": "Saiko no sutoka",
+  "negative": 98,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2014,
+  "price": "499",
+  "publisher": "Habupain",
+  "release_date": "2021/03/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 188,
+    "Action": 167,
+    "Action-Adventure": 175,
+    "Adventure": 93,
+    "Anime": 217,
+    "Artificial Intelligence": 206,
+    "Atmospheric": 114,
+    "Cartoon": 52,
+    "Cartoony": 114,
+    "Casual": 33,
+    "Choose Your Own Adventure": 181,
+    "Cute": 203,
+    "First-Person": 227,
+    "Horror": 243,
+    "Psychological": 97,
+    "Psychological Horror": 187,
+    "Simulation": 150,
+    "Singleplayer": 74,
+    "Survival Horror": 93,
+    "Violent": 52
+  },
+  "type": "game"
 }

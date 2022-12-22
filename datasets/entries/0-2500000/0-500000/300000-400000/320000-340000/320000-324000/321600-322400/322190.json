@@ -1,31 +1,201 @@
 {
-  "appid": 322190,
-  "name": "SteamWorld Heist",
-  "developer": "Image & Form Games",
-  "publisher": "Image & Form Games",
-  "tags": {
-    "Strategy": 169,
-    "Turn-Based": 144,
-    "Indie": 137,
-    "RPG": 134,
-    "Steampunk": 131,
-    "Action": 122,
-    "Adventure": 120,
-    "2D": 79,
-    "Female Protagonist": 68,
-    "Turn-Based Tactics": 60,
-    "Singleplayer": 58,
-    "Great Soundtrack": 54,
-    "Robots": 54,
-    "Turn-Based Combat": 41,
-    "Sci-fi": 39,
-    "Heist": 35,
-    "Turn-Based Strategy": 30,
-    "Comedy": 20,
-    "Atmospheric": 14,
-    "Touch-Friendly": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 322190,
+    "average_2weeks": 427,
+    "average_forever": 391,
+    "median_2weeks": 427,
+    "median_forever": 203
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 322190,
+    "average_2weeks": 427,
+    "average_forever": 391,
+    "median_2weeks": 427,
+    "median_forever": 203
+  },
+  "CCU Histogram": {
+    "2022-12-08": 20,
+    "2022-12-09": 20,
+    "2022-12-10": 13,
+    "2022-12-13": 44,
+    "2022-12-15": 36,
+    "2022-12-18": 51,
+    "2022-12-21": 28,
+    "2022-12-22": 26
+  },
+  "Completion": 75.19999694824219,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 322190,
+    "average_2weeks": 427,
+    "average_forever": 391,
+    "median_2weeks": 427,
+    "median_forever": 203
+  },
+  "Median Playtime - Forever": {
+    "app_id": 322190,
+    "average_2weeks": 427,
+    "average_forever": 391,
+    "median_2weeks": 427,
+    "median_forever": 203
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 20,
+  "User Score": -1,
+  "appid": 322190,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,22 +204,10 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4361,
-  "negative": 260,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 20,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/06/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/322190/header.jpg?t=1646137429",
+  "consensus_genre": "Strategy",
+  "developer": "Image & Form Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -57,163 +215,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 20,
-  "Down 30 Days": 4,
-  "Completion": 75.19999694824219,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/322190/header.jpg?t=1646137429",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
+  "name": "SteamWorld Heist",
+  "negative": 260,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 4361,
+  "price": "1499",
+  "publisher": "Image & Form Games",
+  "release_date": "2016/06/7",
+  "required_age": 0,
+  "tags": {
+    "2D": 79,
+    "Action": 122,
+    "Adventure": 120,
+    "Atmospheric": 14,
+    "Comedy": 20,
+    "Female Protagonist": 68,
+    "Great Soundtrack": 54,
+    "Heist": 35,
+    "Indie": 137,
+    "RPG": 134,
+    "Robots": 54,
+    "Sci-fi": 39,
+    "Singleplayer": 58,
+    "Steampunk": 131,
+    "Strategy": 169,
+    "Touch-Friendly": 12,
+    "Turn-Based": 144,
+    "Turn-Based Combat": 41,
+    "Turn-Based Strategy": 30,
+    "Turn-Based Tactics": 60
+  },
+  "type": "game"
 }

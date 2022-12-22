@@ -1,75 +1,113 @@
 {
-  "appid": 1714200,
-  "name": "\u30d1\u30ba\u30eb\u30cf\u30e0\u30b9\u30bf\u30fc \uff5e\u5730\u7403\u5192\u967a\u8a18\uff5e",
-  "developer": "orange",
-  "publisher": "orange",
-  "tags": {
-    "Puzzle": 48,
-    "Casual": 42,
-    "Side Scroller": 41,
-    "Puzzle-Platformer": 38,
-    "Match 3": 35,
-    "2D": 33,
-    "Cute": 26,
-    "Relaxing": 24,
-    "Action": 21,
-    "Colorful": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1714200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1714200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 79.5,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1714200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1714200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1714200,
   "categories": [
     "Single-player",
     "Stats",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/08/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1714200/header.jpg?t=1630041235",
+  "consensus_genre": "Casual",
+  "developer": "orange",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 79.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1714200/header.jpg?t=1630041235",
+  "initialprice": "699",
+  "languages": "English, Japanese",
+  "name": "\u30d1\u30ba\u30eb\u30cf\u30e0\u30b9\u30bf\u30fc \uff5e\u5730\u7403\u5192\u967a\u8a18\uff5e",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "699",
+  "publisher": "orange",
+  "release_date": "2021/08/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 33,
+    "Action": 21,
+    "Casual": 42,
+    "Colorful": 20,
+    "Cute": 26,
+    "Match 3": 35,
+    "Puzzle": 48,
+    "Puzzle-Platformer": 38,
+    "Relaxing": 24,
+    "Side Scroller": 41,
+    "Singleplayer": 18
+  },
+  "type": "game"
 }

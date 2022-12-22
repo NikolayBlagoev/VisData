@@ -1,52 +1,210 @@
 {
-  "appid": 812040,
-  "name": "Shortest Trip to Earth",
-  "developer": "Interactive Fate",
-  "publisher": "Iceberg Interactive",
-  "tags": {
-    "Rogue-lite": 265,
-    "Space": 261,
-    "Strategy": 256,
-    "Survival": 250,
-    "Sci-fi": 246,
-    "Exploration": 239,
-    "Resource Management": 238,
-    "Difficult": 232,
-    "Action Roguelike": 222,
-    "Rogue-like": 215,
-    "Spaceships": 213,
-    "Choices Matter": 198,
-    "Simulation": 196,
-    "Tactical": 186,
-    "Adventure": 182,
-    "Aliens": 175,
-    "Singleplayer": 172,
-    "Replay Value": 168,
-    "Space Sim": 168,
-    "2D": 166
+  "Average Playtime - 2 Weeks": {
+    "app_id": 812040,
+    "average_2weeks": 0,
+    "average_forever": 593,
+    "median_2weeks": 0,
+    "median_forever": 841
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 812040,
+    "average_2weeks": 0,
+    "average_forever": 593,
+    "median_2weeks": 0,
+    "median_forever": 841
+  },
+  "CCU Histogram": {
+    "2022-12-08": 11,
+    "2022-12-09": 17,
+    "2022-12-10": 17,
+    "2022-12-13": 14,
+    "2022-12-15": 12,
+    "2022-12-18": 13,
+    "2022-12-21": 12,
+    "2022-12-22": 12
+  },
+  "Completion": 29.449999809265137,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 812040,
+    "average_2weeks": 0,
+    "average_forever": 593,
+    "median_2weeks": 0,
+    "median_forever": 841
+  },
+  "Median Playtime - Forever": {
+    "app_id": 812040,
+    "average_2weeks": 0,
+    "average_forever": 593,
+    "median_2weeks": 0,
+    "median_forever": 841
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 812040,
   "categories": [
     "Single-player",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 991,
-  "negative": 285,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 7,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2019/08/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/812040/header.jpg?t=1625219435",
+  "consensus_genre": "Strategy",
+  "developer": "Interactive Fate",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -54,163 +212,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": 29.449999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/812040/header.jpg?t=1625219435",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "Shortest Trip to Earth",
+  "negative": 285,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 991,
+  "price": "2499",
+  "publisher": "Iceberg Interactive",
+  "release_date": "2019/08/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 166,
+    "Action Roguelike": 222,
+    "Adventure": 182,
+    "Aliens": 175,
+    "Choices Matter": 198,
+    "Difficult": 232,
+    "Exploration": 239,
+    "Replay Value": 168,
+    "Resource Management": 238,
+    "Rogue-like": 215,
+    "Rogue-lite": 265,
+    "Sci-fi": 246,
+    "Simulation": 196,
+    "Singleplayer": 172,
+    "Space": 261,
+    "Space Sim": 168,
+    "Spaceships": 213,
+    "Strategy": 256,
+    "Survival": 250,
+    "Tactical": 186
+  },
+  "type": "game"
 }

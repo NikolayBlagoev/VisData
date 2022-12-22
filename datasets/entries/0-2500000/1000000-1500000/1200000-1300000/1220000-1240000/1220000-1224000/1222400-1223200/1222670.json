@@ -1,215 +1,253 @@
 {
-  "appid": 1222670,
-  "name": "The Sims 4",
-  "developer": "Maxis",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Free to Play": 907,
-    "Sandbox": 791,
-    "Immersive Sim": 789,
-    "Building": 778,
-    "Romance": 771,
-    "Life Sim": 763,
-    "Character Customization": 735,
-    "Dating Sim": 732,
-    "Sexual Content": 728,
-    "Cute": 714,
-    "Funny": 707,
-    "Relaxing": 707,
-    "Simulation": 696,
-    "Casual": 694,
-    "Singleplayer": 681,
-    "Cartoony": 678,
-    "Family Friendly": 676,
-    "Realistic": 676,
-    "Adventure": 665,
-    "Fantasy": 664
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1222670,
+    "average_2weeks": 830,
+    "average_forever": 1245,
+    "median_2weeks": 94,
+    "median_forever": 279
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1222670,
+    "average_2weeks": 830,
+    "average_forever": 1245,
+    "median_2weeks": 94,
+    "median_forever": 279
+  },
+  "CCU Histogram": {
+    "2022-12-08": 30320,
+    "2022-12-09": 30144,
+    "2022-12-10": 30119,
+    "2022-12-13": 38254,
+    "2022-12-15": 29644,
+    "2022-12-18": 32158,
+    "2022-12-21": 34753,
+    "2022-12-22": 33457
+  },
+  "Completion": -1,
+  "Down 30 Days": 758,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 50,
+      "recommendations_up": 263
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 42,
+      "recommendations_up": 230
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 32,
+      "recommendations_up": 166
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 25,
+      "recommendations_up": 161
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 28,
+      "recommendations_up": 194
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 34,
+      "recommendations_up": 197
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 21,
+      "recommendations_up": 150
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 19,
+      "recommendations_up": 159
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 24,
+      "recommendations_up": 110
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 16,
+      "recommendations_up": 112
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 33,
+      "recommendations_up": 121
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 32,
+      "recommendations_up": 163
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 31,
+      "recommendations_up": 162
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 33,
+      "recommendations_up": 126
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 24,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 14,
+      "recommendations_up": 133
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 17,
+      "recommendations_up": 91
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 17,
+      "recommendations_up": 128
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 24,
+      "recommendations_up": 150
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 14,
+      "recommendations_up": 148
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 20,
+      "recommendations_up": 115
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 20,
+      "recommendations_up": 231
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 29,
+      "recommendations_up": 451
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 29,
+      "recommendations_up": 253
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 29,
+      "recommendations_up": 264
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 23,
+      "recommendations_up": 276
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 30,
+      "recommendations_up": 246
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 17,
+      "recommendations_up": 182
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 24,
+      "recommendations_up": 153
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 7,
+      "recommendations_up": 45
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1222670,
+    "average_2weeks": 830,
+    "average_forever": 1245,
+    "median_2weeks": 94,
+    "median_forever": 279
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1222670,
+    "average_2weeks": 830,
+    "average_forever": 1245,
+    "median_2weeks": 94,
+    "median_forever": 279
+  },
+  "Meta Score": "70",
+  "Rating": "ESRB T",
+  "Up 30 Days": 5297,
+  "User Score": -1,
+  "appid": 1222670,
   "categories": [
     "Single-player",
     "Steam Trading Cards",
     "Remote Play on Tablet"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 62629,
-  "negative": 9604,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 55459,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Swedish, Finnish, Traditional Chinese, Simplified Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1668103304",
+  "consensus_genre": "Free to Play",
+  "developer": "Maxis",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Free to Play",
     "Simulation"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": "70",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 263,
-      "recommendations_down": 50
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 230,
-      "recommendations_down": 42
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 166,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 161,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 194,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 197,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 150,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 159,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 110,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 112,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 121,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 163,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 162,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 126,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 117,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 133,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 91,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 128,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 150,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 148,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 115,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 231,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 451,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 253,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 264,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 276,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 246,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 182,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 153,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 45,
-      "recommendations_down": 7
-    }
-  ],
-  "Up 30 Days": 5297,
-  "Down 30 Days": 758,
-  "Completion": -1,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1668103304",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Danish, Dutch, Japanese, Norwegian, Polish, Portuguese - Brazil, Russian, Swedish, Finnish, Traditional Chinese, Simplified Chinese, Korean",
+  "name": "The Sims 4",
+  "negative": 9604,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 62629,
+  "price": "0",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/06/18",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 665,
+    "Building": 778,
+    "Cartoony": 678,
+    "Casual": 694,
+    "Character Customization": 735,
+    "Cute": 714,
+    "Dating Sim": 732,
+    "Family Friendly": 676,
+    "Fantasy": 664,
+    "Free to Play": 907,
+    "Funny": 707,
+    "Immersive Sim": 789,
+    "Life Sim": 763,
+    "Realistic": 676,
+    "Relaxing": 707,
+    "Romance": 771,
+    "Sandbox": 791,
+    "Sexual Content": 728,
+    "Simulation": 696,
+    "Singleplayer": 681
+  },
+  "type": "game"
 }

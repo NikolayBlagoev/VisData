@@ -1,31 +1,201 @@
 {
-  "appid": 71340,
-  "name": "Sonic Generations Collection",
-  "developer": "Devil's Details",
-  "publisher": "SEGA",
-  "tags": {
-    "Platformer": 475,
-    "Great Soundtrack": 382,
-    "Action": 363,
-    "Fast-Paced": 324,
-    "3D Platformer": 304,
-    "Singleplayer": 224,
-    "2D": 214,
-    "Moddable": 208,
-    "Adventure": 197,
-    "Family Friendly": 165,
-    "Classic": 161,
-    "Colorful": 155,
-    "Retro": 154,
-    "Time Travel": 146,
-    "3D": 134,
-    "Controller": 133,
-    "Third Person": 122,
-    "Replay Value": 106,
-    "3D Vision": 89,
-    "Funny": 80
+  "Average Playtime - 2 Weeks": {
+    "app_id": 71340,
+    "average_2weeks": 303,
+    "average_forever": 295,
+    "median_2weeks": 455,
+    "median_forever": 88
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 71340,
+    "average_2weeks": 303,
+    "average_forever": 295,
+    "median_2weeks": 455,
+    "median_forever": 88
+  },
+  "CCU Histogram": {
+    "2022-12-08": 176,
+    "2022-12-09": 148,
+    "2022-12-10": 155,
+    "2022-12-13": 162,
+    "2022-12-15": 130,
+    "2022-12-18": 186,
+    "2022-12-21": 153,
+    "2022-12-22": 174
+  },
+  "Completion": 64.70000076293945,
+  "Down 30 Days": 17,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 71340,
+    "average_2weeks": 303,
+    "average_forever": 295,
+    "median_2weeks": 455,
+    "median_forever": 88
+  },
+  "Median Playtime - Forever": {
+    "app_id": 71340,
+    "average_2weeks": 303,
+    "average_forever": 295,
+    "median_2weeks": 455,
+    "median_forever": 88
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 307,
+  "User Score": -1,
+  "appid": 71340,
   "categories": [
     "Single-player",
     "Stats",
@@ -37,182 +207,50 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 18092,
-  "negative": 1359,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 222,
-  "languages": "English, French, German, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/11/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/71340/header.jpg?t=1663007714",
+  "consensus_genre": "Action",
+  "developer": "Devil's Details",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 22,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 307,
-  "Down 30 Days": 17,
-  "Completion": 64.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/71340/header.jpg?t=1663007714",
+  "initialprice": "1999",
+  "languages": "English, French, German, Italian, Spanish - Spain",
+  "name": "Sonic Generations Collection",
+  "negative": 1359,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 18092,
+  "price": "1999",
+  "publisher": "SEGA",
+  "release_date": "2011/11/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 214,
+    "3D": 134,
+    "3D Platformer": 304,
+    "3D Vision": 89,
+    "Action": 363,
+    "Adventure": 197,
+    "Classic": 161,
+    "Colorful": 155,
+    "Controller": 133,
+    "Family Friendly": 165,
+    "Fast-Paced": 324,
+    "Funny": 80,
+    "Great Soundtrack": 382,
+    "Moddable": 208,
+    "Platformer": 475,
+    "Replay Value": 106,
+    "Retro": 154,
+    "Singleplayer": 224,
+    "Third Person": 122,
+    "Time Travel": 146
+  },
+  "type": "game"
 }

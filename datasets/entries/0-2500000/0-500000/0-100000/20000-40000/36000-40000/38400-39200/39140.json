@@ -1,31 +1,201 @@
 {
-  "appid": 39140,
-  "name": "FINAL FANTASY VII",
-  "developer": "Square Enix",
-  "publisher": "Square Enix",
-  "tags": {
-    "JRPG": 1148,
-    "RPG": 856,
-    "Classic": 669,
-    "Turn-Based": 524,
-    "Story Rich": 501,
-    "Singleplayer": 483,
-    "Great Soundtrack": 470,
-    "Fantasy": 380,
-    "Retro": 200,
-    "Adventure": 157,
-    "Party-Based RPG": 135,
-    "Epic": 133,
-    "Open World": 130,
-    "Sci-fi": 129,
-    "Cyberpunk": 118,
-    "Atmospheric": 115,
-    "Exploration": 102,
-    "Dystopian ": 98,
-    "1990's": 85,
-    "Strategy": 79
+  "Average Playtime - 2 Weeks": {
+    "app_id": 39140,
+    "average_2weeks": 1,
+    "average_forever": 1104,
+    "median_2weeks": 1,
+    "median_forever": 221
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 39140,
+    "average_2weeks": 1,
+    "average_forever": 1104,
+    "median_2weeks": 1,
+    "median_forever": 221
+  },
+  "CCU Histogram": {
+    "2022-12-08": 274,
+    "2022-12-09": 273,
+    "2022-12-10": 289,
+    "2022-12-13": 417,
+    "2022-12-15": 323,
+    "2022-12-18": 339,
+    "2022-12-21": 435,
+    "2022-12-22": 418
+  },
+  "Completion": 67.24999809265137,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 39140,
+    "average_2weeks": 1,
+    "average_forever": 1104,
+    "median_2weeks": 1,
+    "median_forever": 221
+  },
+  "Median Playtime - Forever": {
+    "app_id": 39140,
+    "average_2weeks": 1,
+    "average_forever": 1104,
+    "median_2weeks": 1,
+    "median_forever": 221
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 122,
+  "User Score": -1,
+  "appid": 39140,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,182 +203,50 @@
     "Remote Play on Phone",
     "Remote Play on Tablet"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 20754,
-  "negative": 1565,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 365,
-  "languages": "English, German, French, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2013/07/4",
-  "required_age": "8",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/39140/header.jpg?t=1655449322",
+  "consensus_genre": "RPG",
+  "developer": "Square Enix",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 122,
-  "Down 30 Days": 6,
-  "Completion": 67.24999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/39140/header.jpg?t=1655449322",
+  "initialprice": "1199",
+  "languages": "English, German, French, Spanish - Spain",
+  "name": "FINAL FANTASY VII",
+  "negative": 1565,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 20754,
+  "price": "1199",
+  "publisher": "Square Enix",
+  "release_date": "2013/07/4",
+  "required_age": "8",
+  "tags": {
+    "1990's": 85,
+    "Adventure": 157,
+    "Atmospheric": 115,
+    "Classic": 669,
+    "Cyberpunk": 118,
+    "Dystopian ": 98,
+    "Epic": 133,
+    "Exploration": 102,
+    "Fantasy": 380,
+    "Great Soundtrack": 470,
+    "JRPG": 1148,
+    "Open World": 130,
+    "Party-Based RPG": 135,
+    "RPG": 856,
+    "Retro": 200,
+    "Sci-fi": 129,
+    "Singleplayer": 483,
+    "Story Rich": 501,
+    "Strategy": 79,
+    "Turn-Based": 524
+  },
+  "type": "game"
 }

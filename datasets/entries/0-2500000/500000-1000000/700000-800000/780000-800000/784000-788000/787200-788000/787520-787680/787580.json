@@ -1,30 +1,56 @@
 {
-  "appid": 787580,
-  "name": "10 Pin Bowling (VR Support)",
-  "developer": "CBGameDev",
-  "publisher": "CBGameDev",
-  "tags": {
-    "Simulation": 195,
-    "Sports": 191,
-    "e-sports": 165,
-    "Sandbox": 161,
-    "First-Person": 155,
-    "Realistic": 145,
-    "VR": 140,
-    "Bowling": 130,
-    "PvP": 122,
-    "Artificial Intelligence": 112,
-    "Controller": 102,
-    "Co-op": 100,
-    "Local Co-Op": 87,
-    "Local Multiplayer": 73,
-    "Multiplayer": 58,
-    "Singleplayer": 42,
-    "4 Player Local": 27,
-    "Online Co-Op": 25,
-    "Early Access": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 787580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 787580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 52.95000076293945,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 787580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 787580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 787580,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,39 +61,51 @@
     "Shared/Split Screen Co-op",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/787580/header.jpg?t=1649357804",
+  "consensus_genre": "Simulation",
+  "developer": "CBGameDev",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Sports",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 52.95000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/787580/header.jpg?t=1649357804",
+  "initialprice": "1099",
+  "languages": "English",
+  "name": "10 Pin Bowling (VR Support)",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1099",
+  "publisher": "CBGameDev",
+  "release_date": "2021/05/28",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 27,
+    "Artificial Intelligence": 112,
+    "Bowling": 130,
+    "Co-op": 100,
+    "Controller": 102,
+    "Early Access": 21,
+    "First-Person": 155,
+    "Local Co-Op": 87,
+    "Local Multiplayer": 73,
+    "Multiplayer": 58,
+    "Online Co-Op": 25,
+    "PvP": 122,
+    "Realistic": 145,
+    "Sandbox": 161,
+    "Simulation": 195,
+    "Singleplayer": 42,
+    "Sports": 191,
+    "VR": 140,
+    "e-sports": 165
+  },
+  "type": "game"
 }

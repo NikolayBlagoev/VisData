@@ -1,31 +1,201 @@
 {
-  "appid": 401680,
-  "name": "POSTAL Redux",
-  "developer": "Running With Scissors",
-  "publisher": "Running With Scissors",
-  "tags": {
-    "Online Co-Op": 659,
-    "Multiplayer": 656,
-    "Singleplayer": 636,
-    "Co-op Campaign": 592,
-    "Gore": 589,
-    "Violent": 556,
-    "Co-op": 540,
-    "Top-Down": 478,
-    "Fast-Paced": 475,
-    "Pixel Graphics": 451,
-    "Dark Humor": 446,
-    "Horror": 444,
-    "Dark Comedy": 429,
-    "Top-Down Shooter": 429,
-    "Psychological Horror": 425,
-    "Isometric": 415,
-    "Surreal": 411,
-    "Action": 408,
-    "Twin Stick Shooter": 393,
-    "Shooter": 382
+  "Average Playtime - 2 Weeks": {
+    "app_id": 401680,
+    "average_2weeks": 0,
+    "average_forever": 248,
+    "median_2weeks": 0,
+    "median_forever": 201
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 401680,
+    "average_2weeks": 0,
+    "average_forever": 248,
+    "median_2weeks": 0,
+    "median_forever": 201
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4,
+    "2022-12-09": 12,
+    "2022-12-10": 21,
+    "2022-12-13": 27,
+    "2022-12-15": 21,
+    "2022-12-18": 40,
+    "2022-12-21": 29,
+    "2022-12-22": 50
+  },
+  "Completion": 70.54999923706055,
+  "Down 30 Days": 20,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 401680,
+    "average_2weeks": 0,
+    "average_forever": 248,
+    "median_2weeks": 0,
+    "median_forever": 201
+  },
+  "Median Playtime - Forever": {
+    "app_id": 401680,
+    "average_2weeks": 0,
+    "average_forever": 248,
+    "median_2weeks": 0,
+    "median_forever": 201
+  },
+  "Meta Score": "54",
+  "Rating": "ESRB M",
+  "Up 30 Days": 199,
+  "User Score": -1,
+  "appid": 401680,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,183 +209,51 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3149,
-  "negative": 262,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 13,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2016/05/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/401680/header.jpg?t=1667233248",
+  "consensus_genre": "Action",
+  "developer": "Running With Scissors",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "54",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 199,
-  "Down 30 Days": 20,
-  "Completion": 70.54999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/401680/header.jpg?t=1667233248",
+  "initialprice": "899",
+  "languages": "English, Simplified Chinese",
+  "name": "POSTAL Redux",
+  "negative": 262,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3149,
+  "price": "899",
+  "publisher": "Running With Scissors",
+  "release_date": "2016/05/20",
+  "required_age": 0,
+  "tags": {
+    "Action": 408,
+    "Co-op": 540,
+    "Co-op Campaign": 592,
+    "Dark Comedy": 429,
+    "Dark Humor": 446,
+    "Fast-Paced": 475,
+    "Gore": 589,
+    "Horror": 444,
+    "Isometric": 415,
+    "Multiplayer": 656,
+    "Online Co-Op": 659,
+    "Pixel Graphics": 451,
+    "Psychological Horror": 425,
+    "Shooter": 382,
+    "Singleplayer": 636,
+    "Surreal": 411,
+    "Top-Down": 478,
+    "Top-Down Shooter": 429,
+    "Twin Stick Shooter": 393,
+    "Violent": 556
+  },
+  "type": "game"
 }

@@ -1,56 +1,94 @@
 {
-  "appid": 1729340,
-  "name": "Midnight School Walk \u771f\u591c\u4e2d\u5b66\u5712\u3055\u3093\u307d",
-  "developer": "Hautecouture Inc.",
-  "publisher": "Hautecouture Inc.",
-  "tags": {
-    "Adventure": 66,
-    "Visual Novel": 40,
-    "Choose Your Own Adventure": 37,
-    "2D": 34,
-    "Cute": 31,
-    "Horror": 25,
-    "Controller": 23,
-    "Multiple Endings": 21,
-    "Singleplayer": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1729340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1729340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 77.55000305175781,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1729340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1729340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1729340,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1729340/header.jpg?t=1660217867",
+  "consensus_genre": "Adventure",
+  "developer": "Hautecouture Inc.",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 77.55000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1729340/header.jpg?t=1660217867",
+  "initialprice": "1499",
+  "languages": "English, Japanese",
+  "name": "Midnight School Walk \u771f\u591c\u4e2d\u5b66\u5712\u3055\u3093\u307d",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "Hautecouture Inc.",
+  "release_date": "2022/08/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 34,
+    "Adventure": 66,
+    "Choose Your Own Adventure": 37,
+    "Controller": 23,
+    "Cute": 31,
+    "Horror": 25,
+    "Multiple Endings": 21,
+    "Singleplayer": 19,
+    "Visual Novel": 40
+  },
+  "type": "game"
 }

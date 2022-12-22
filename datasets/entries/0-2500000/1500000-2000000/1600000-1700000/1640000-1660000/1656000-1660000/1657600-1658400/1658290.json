@@ -1,215 +1,253 @@
 {
-  "appid": 1658290,
-  "name": "Eiyuden Chronicle: Rising",
-  "developer": "NatsumeAtari",
-  "publisher": "505 Games ",
-  "tags": {
-    "Adventure": 150,
-    "RPG": 145,
-    "Action RPG": 142,
-    "JRPG": 138,
-    "Action-Adventure": 137,
-    "2.5D": 125,
-    "Dungeon Crawler": 125,
-    "Action": 121,
-    "Pixel Graphics": 116,
-    "Indie": 113,
-    "Singleplayer": 112,
-    "Story Rich": 112,
-    "Casual": 99,
-    "Arcade": 96,
-    "Side Scroller": 90,
-    "City Builder": 87,
-    "Exploration": 86,
-    "Anime": 71,
-    "2D": 60,
-    "Building": 50
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1658290,
+    "average_2weeks": 0,
+    "average_forever": 403,
+    "median_2weeks": 0,
+    "median_forever": 403
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1658290,
+    "average_2weeks": 0,
+    "average_forever": 403,
+    "median_2weeks": 0,
+    "median_forever": 403
+  },
+  "CCU Histogram": {
+    "2022-12-08": 12,
+    "2022-12-09": 20,
+    "2022-12-10": 28,
+    "2022-12-13": 13,
+    "2022-12-15": 13,
+    "2022-12-18": 10,
+    "2022-12-21": 9,
+    "2022-12-22": 8
+  },
+  "Completion": 62.0,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1658290,
+    "average_2weeks": 0,
+    "average_forever": 403,
+    "median_2weeks": 0,
+    "median_forever": 403
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1658290,
+    "average_2weeks": 0,
+    "average_forever": 403,
+    "median_2weeks": 0,
+    "median_forever": 403
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 56,
+  "User Score": -1,
+  "appid": 1658290,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 815,
-  "negative": 108,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 22,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1658290/header.jpg?t=1663264169",
+  "consensus_genre": "Adventure",
+  "developer": "NatsumeAtari",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 56,
-  "Down 30 Days": 2,
-  "Completion": 62.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1658290/header.jpg?t=1663264169",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Eiyuden Chronicle: Rising",
+  "negative": 108,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 815,
+  "price": "1499",
+  "publisher": "505 Games ",
+  "release_date": "2022/05/10",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 125,
+    "2D": 60,
+    "Action": 121,
+    "Action RPG": 142,
+    "Action-Adventure": 137,
+    "Adventure": 150,
+    "Anime": 71,
+    "Arcade": 96,
+    "Building": 50,
+    "Casual": 99,
+    "City Builder": 87,
+    "Dungeon Crawler": 125,
+    "Exploration": 86,
+    "Indie": 113,
+    "JRPG": 138,
+    "Pixel Graphics": 116,
+    "RPG": 145,
+    "Side Scroller": 90,
+    "Singleplayer": 112,
+    "Story Rich": 112
+  },
+  "type": "game"
 }

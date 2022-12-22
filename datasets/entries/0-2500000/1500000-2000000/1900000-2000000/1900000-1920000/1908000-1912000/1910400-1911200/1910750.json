@@ -1,27 +1,61 @@
 {
-  "appid": 1910750,
-  "name": "TIME TO HUNT",
-  "developer": "Wuhan NetCiao Technology Co., Ltd",
-  "publisher": "Wuhan NetCiao Technology Co., Ltd",
-  "tags": {
-    "Battle Royale": 50,
-    "Action": 45,
-    "MOBA": 44,
-    "Pirates": 41,
-    "Real Time Tactics": 38,
-    "Online Co-Op": 35,
-    "Combat": 29,
-    "PvP": 27,
-    "Medieval": 23,
-    "3D": 21,
-    "Adventure": 21,
-    "Gore": 21,
-    "Violent": 21,
-    "Tactical": 19,
-    "Strategy": 17,
-    "Multiplayer": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1910750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1910750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 3,
+    "2022-12-10": 3,
+    "2022-12-13": 3,
+    "2022-12-15": 3,
+    "2022-12-18": 3,
+    "2022-12-21": 3,
+    "2022-12-22": 3
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1910750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1910750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 1910750,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -30,43 +64,47 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 5,
-  "negative": 4,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1910750/header.jpg?t=1652392814",
+  "consensus_genre": "Action",
+  "developer": "Wuhan NetCiao Technology Co., Ltd",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1910750/header.jpg?t=1652392814",
+  "initialprice": "0",
+  "languages": "English, Simplified Chinese",
+  "name": "TIME TO HUNT",
+  "negative": 4,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5,
+  "price": "0",
+  "publisher": "Wuhan NetCiao Technology Co., Ltd",
+  "release_date": "2022/05/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 21,
+    "Action": 45,
+    "Adventure": 21,
+    "Battle Royale": 50,
+    "Combat": 29,
+    "Gore": 21,
+    "MOBA": 44,
+    "Medieval": 23,
+    "Multiplayer": 15,
+    "Online Co-Op": 35,
+    "Pirates": 41,
+    "PvP": 27,
+    "Real Time Tactics": 38,
+    "Strategy": 17,
+    "Tactical": 19,
+    "Violent": 21
+  },
+  "type": "game"
 }

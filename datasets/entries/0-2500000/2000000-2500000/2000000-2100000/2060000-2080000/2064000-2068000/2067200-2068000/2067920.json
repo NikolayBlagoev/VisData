@@ -1,31 +1,201 @@
 {
-  "appid": 2067920,
-  "name": "Rogue : Genesia",
-  "developer": "Huard Ouadi",
-  "publisher": "iolaCorp Studio",
-  "tags": {
-    "Early Access": 160,
-    "Action Roguelike": 145,
-    "Bullet Hell": 145,
-    "RPG": 144,
-    "Rogue-lite": 142,
-    "Action": 139,
-    "Pixel Graphics": 128,
-    "Twin Stick Shooter": 123,
-    "Strategy": 114,
-    "Choices Matter": 110,
-    "3D": 107,
-    "Arcade": 104,
-    "Top-Down": 93,
-    "Controller": 85,
-    "Fantasy": 81,
-    "Casual": 71,
-    "Magic": 68,
-    "Dark Fantasy": 64,
-    "Combat": 52,
-    "Survival": 41
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2067920,
+    "average_2weeks": 378,
+    "average_forever": 769,
+    "median_2weeks": 534,
+    "median_forever": 783
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2067920,
+    "average_2weeks": 378,
+    "average_forever": 769,
+    "median_2weeks": 534,
+    "median_forever": 783
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1244,
+    "2022-12-09": 1051,
+    "2022-12-10": 1092,
+    "2022-12-13": 829,
+    "2022-12-15": 939,
+    "2022-12-18": 716,
+    "2022-12-21": 571,
+    "2022-12-22": 558
+  },
+  "Completion": 66.5999984741211,
+  "Down 30 Days": 60,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 6,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 67
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 176
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 4,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2067920,
+    "average_2weeks": 378,
+    "average_forever": 769,
+    "median_2weeks": 534,
+    "median_forever": 783
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2067920,
+    "average_2weeks": 378,
+    "average_forever": 769,
+    "median_2weeks": 534,
+    "median_forever": 783
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 912,
+  "User Score": -1,
+  "appid": 2067920,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,22 +203,10 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2469,
-  "negative": 179,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 1477,
-  "languages": "English, French, Simplified Chinese, German, Korean, Portuguese - Portugal",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2067920/header.jpg?t=1667841160",
+  "consensus_genre": "Early Access",
+  "developer": "Huard Ouadi",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -56,163 +214,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 12,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 26,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 35,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 34,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 67,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 176,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 70,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 52,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 56,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 49,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 30,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 912,
-  "Down 30 Days": 60,
-  "Completion": 66.5999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2067920/header.jpg?t=1667841160",
+  "initialprice": "299",
+  "languages": "English, French, Simplified Chinese, German, Korean, Portuguese - Portugal",
+  "name": "Rogue : Genesia",
+  "negative": 179,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2469,
+  "price": "299",
+  "publisher": "iolaCorp Studio",
+  "release_date": "2022/09/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 107,
+    "Action": 139,
+    "Action Roguelike": 145,
+    "Arcade": 104,
+    "Bullet Hell": 145,
+    "Casual": 71,
+    "Choices Matter": 110,
+    "Combat": 52,
+    "Controller": 85,
+    "Dark Fantasy": 64,
+    "Early Access": 160,
+    "Fantasy": 81,
+    "Magic": 68,
+    "Pixel Graphics": 128,
+    "RPG": 144,
+    "Rogue-lite": 142,
+    "Strategy": 114,
+    "Survival": 41,
+    "Top-Down": 93,
+    "Twin Stick Shooter": 123
+  },
+  "type": "game"
 }

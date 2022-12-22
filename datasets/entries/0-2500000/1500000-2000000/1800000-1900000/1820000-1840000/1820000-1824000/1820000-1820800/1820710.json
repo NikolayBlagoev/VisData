@@ -1,63 +1,101 @@
 {
-  "appid": 1820710,
-  "name": "VR Dodgeball Trainer",
-  "developer": "Grounded",
-  "publisher": "Clique Games",
-  "tags": {
-    "Sports": 72,
-    "Simulation": 66,
-    "VR": 44,
-    "Arcade": 40,
-    "Immersive Sim": 36,
-    "Combat": 31,
-    "Physics": 29,
-    "3D": 27,
-    "Cartoon": 25,
-    "First-Person": 23,
-    "America": 21,
-    "Indie": 21,
-    "Bullet Time": 19,
-    "Linear": 17,
-    "Singleplayer": 15,
-    "Sandbox": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1820710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1820710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1820710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1820710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1820710,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1820710/header.jpg?t=1651331766",
+  "consensus_genre": "Sports",
+  "developer": "Grounded",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1820710/header.jpg?t=1651331766",
+  "initialprice": "799",
+  "languages": "English",
+  "name": "VR Dodgeball Trainer",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "799",
+  "publisher": "Clique Games",
+  "release_date": "2022/04/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 27,
+    "America": 21,
+    "Arcade": 40,
+    "Bullet Time": 19,
+    "Cartoon": 25,
+    "Combat": 31,
+    "First-Person": 23,
+    "Immersive Sim": 36,
+    "Indie": 21,
+    "Linear": 17,
+    "Physics": 29,
+    "Sandbox": 13,
+    "Simulation": 66,
+    "Singleplayer": 15,
+    "Sports": 72,
+    "VR": 44
+  },
+  "type": "game"
 }

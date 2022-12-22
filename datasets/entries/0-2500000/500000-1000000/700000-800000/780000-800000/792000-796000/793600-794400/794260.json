@@ -1,31 +1,201 @@
 {
-  "appid": 794260,
-  "name": "Outward Definitive Edition",
-  "developer": "Nine Dots Studio",
-  "publisher": "Prime Matter",
-  "tags": {
-    "RPG": 616,
-    "Open World": 504,
-    "Survival": 359,
-    "Co-op": 333,
-    "Online Co-Op": 292,
-    "Fantasy": 239,
-    "Souls-like": 239,
-    "Adventure": 231,
-    "Local Co-Op": 221,
-    "Split Screen": 215,
-    "Exploration": 189,
-    "Singleplayer": 175,
-    "Multiplayer": 164,
-    "Third Person": 155,
-    "Difficult": 143,
-    "Atmospheric": 128,
-    "Resource Management": 114,
-    "Realistic": 95,
-    "Violent": 93,
-    "Moddable": 83
+  "Average Playtime - 2 Weeks": {
+    "app_id": 794260,
+    "average_2weeks": 60,
+    "average_forever": 1187,
+    "median_2weeks": 66,
+    "median_forever": 353
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 794260,
+    "average_2weeks": 60,
+    "average_forever": 1187,
+    "median_2weeks": 66,
+    "median_forever": 353
+  },
+  "CCU Histogram": {
+    "2022-12-08": 682,
+    "2022-12-09": 558,
+    "2022-12-10": 538,
+    "2022-12-13": 729,
+    "2022-12-15": 516,
+    "2022-12-18": 447,
+    "2022-12-21": 527,
+    "2022-12-22": 456
+  },
+  "Completion": 41.79999923706055,
+  "Down 30 Days": 87,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 5,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 7,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 9,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 8,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 9,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 5,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 6,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 6,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 794260,
+    "average_2weeks": 60,
+    "average_forever": 1187,
+    "median_2weeks": 66,
+    "median_forever": 353
+  },
+  "Median Playtime - Forever": {
+    "app_id": 794260,
+    "average_2weeks": 60,
+    "average_forever": 1187,
+    "median_2weeks": 66,
+    "median_forever": 353
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 163,
+  "User Score": -1,
+  "appid": 794260,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,182 +209,50 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 15634,
-  "negative": 5520,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 617,
-  "languages": "English, French, German, Spanish - Spain, Italian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794260/header.jpg?t=1658847876",
+  "consensus_genre": "RPG",
+  "developer": "Nine Dots Studio",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 12,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 163,
-  "Down 30 Days": 87,
-  "Completion": 41.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/794260/header.jpg?t=1658847876",
+  "initialprice": "3999",
+  "languages": "English, French, German, Spanish - Spain, Italian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
+  "name": "Outward Definitive Edition",
+  "negative": 5520,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 15634,
+  "price": "3999",
+  "publisher": "Prime Matter",
+  "release_date": "2022/05/17",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 231,
+    "Atmospheric": 128,
+    "Co-op": 333,
+    "Difficult": 143,
+    "Exploration": 189,
+    "Fantasy": 239,
+    "Local Co-Op": 221,
+    "Moddable": 83,
+    "Multiplayer": 164,
+    "Online Co-Op": 292,
+    "Open World": 504,
+    "RPG": 616,
+    "Realistic": 95,
+    "Resource Management": 114,
+    "Singleplayer": 175,
+    "Souls-like": 239,
+    "Split Screen": 215,
+    "Survival": 359,
+    "Third Person": 155,
+    "Violent": 93
+  },
+  "type": "game"
 }

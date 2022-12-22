@@ -1,69 +1,107 @@
 {
-  "appid": 1704130,
-  "name": "Mithos",
-  "developer": "Taishoo",
-  "publisher": "Taishoo",
-  "tags": {
-    "Souls-like": 93,
-    "Action": 87,
-    "RPG": 84,
-    "Adventure": 80,
-    "2D": 79,
-    "Top-Down": 72,
-    "Open World": 70,
-    "Linear": 68,
-    "Atmospheric": 66,
-    "Action RPG": 63,
-    "Rogue-like": 63,
-    "Story Rich": 60,
-    "Anime": 58,
-    "Pixel Graphics": 56,
-    "Dark Fantasy": 54,
-    "Fantasy": 52,
-    "Dark": 50,
-    "Singleplayer": 48,
-    "Indie": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1704130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1704130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1704130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1704130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1704130,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/08/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1704130/header.jpg?t=1628265661",
+  "consensus_genre": "Action",
+  "developer": "Taishoo",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 100.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1704130/header.jpg?t=1628265661",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Mithos",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "599",
+  "publisher": "Taishoo",
+  "release_date": "2021/08/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 79,
+    "Action": 87,
+    "Action RPG": 63,
+    "Adventure": 80,
+    "Anime": 58,
+    "Atmospheric": 66,
+    "Dark": 50,
+    "Dark Fantasy": 54,
+    "Fantasy": 52,
+    "Indie": 46,
+    "Linear": 68,
+    "Open World": 70,
+    "Pixel Graphics": 56,
+    "RPG": 84,
+    "Rogue-like": 63,
+    "Singleplayer": 48,
+    "Souls-like": 93,
+    "Story Rich": 60,
+    "Top-Down": 72
+  },
+  "type": "game"
 }

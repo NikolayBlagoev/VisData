@@ -1,67 +1,105 @@
 {
-  "appid": 1933330,
-  "name": "Tales from the Crossing: The Captain's Chair",
-  "developer": "RifRaf Games",
-  "publisher": "RifRaf Games",
-  "tags": {
-    "Adventure": 440,
-    "Casual": 434,
-    "Point & Click": 409,
-    "Puzzle": 405,
-    "Exploration": 399,
-    "3D": 389,
-    "Colorful": 382,
-    "Stylized": 374,
-    "Third Person": 365,
-    "Aliens": 355,
-    "Mystery": 344,
-    "Comedy": 332,
-    "Singleplayer": 319,
-    "Funny": 306,
-    "Space": 292,
-    "Sci-fi": 276,
-    "Futuristic": 274,
-    "Episodic": 256,
-    "Narrative": 237,
-    "Lore-Rich": 217
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1933330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1933330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1933330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1933330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1933330,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1933330/header.jpg?t=1651075566",
+  "consensus_genre": "Adventure",
+  "developer": "RifRaf Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1933330/header.jpg?t=1651075566",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Tales from the Crossing: The Captain's Chair",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "RifRaf Games",
+  "release_date": "2022/04/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 389,
+    "Adventure": 440,
+    "Aliens": 355,
+    "Casual": 434,
+    "Colorful": 382,
+    "Comedy": 332,
+    "Episodic": 256,
+    "Exploration": 399,
+    "Funny": 306,
+    "Futuristic": 274,
+    "Lore-Rich": 217,
+    "Mystery": 344,
+    "Narrative": 237,
+    "Point & Click": 409,
+    "Puzzle": 405,
+    "Sci-fi": 276,
+    "Singleplayer": 319,
+    "Space": 292,
+    "Stylized": 374,
+    "Third Person": 365
+  },
+  "type": "game"
 }

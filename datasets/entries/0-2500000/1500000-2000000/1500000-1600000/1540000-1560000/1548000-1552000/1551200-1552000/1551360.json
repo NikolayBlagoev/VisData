@@ -1,31 +1,201 @@
 {
-  "appid": 1551360,
-  "name": "Forza Horizon 5",
-  "developer": "Playground Games",
-  "publisher": "Xbox Game Studios",
-  "tags": {
-    "Racing": 589,
-    "Open World": 466,
-    "Driving": 448,
-    "Multiplayer": 391,
-    "Automobile Sim": 379,
-    "Adventure": 348,
-    "Simulation": 336,
-    "Realistic": 324,
-    "Exploration": 288,
-    "Arcade": 277,
-    "First-Person": 250,
-    "Atmospheric": 225,
-    "Sports": 212,
-    "PvP": 197,
-    "Co-op": 190,
-    "Online Co-Op": 184,
-    "Singleplayer": 159,
-    "Beautiful": 148,
-    "Action": 123,
-    "Third Person": 95
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1551360,
+    "average_2weeks": 276,
+    "average_forever": 3630,
+    "median_2weeks": 95,
+    "median_forever": 2046
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1551360,
+    "average_2weeks": 276,
+    "average_forever": 3630,
+    "median_2weeks": 95,
+    "median_forever": 2046
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9197,
+    "2022-12-09": 13176,
+    "2022-12-10": 11675,
+    "2022-12-13": 9902,
+    "2022-12-15": 8847,
+    "2022-12-18": 9835,
+    "2022-12-21": 8065,
+    "2022-12-22": 8551
+  },
+  "Completion": 58.75,
+  "Down 30 Days": 444,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 7,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 6,
+      "recommendations_up": 92
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 13,
+      "recommendations_up": 90
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 20,
+      "recommendations_up": 83
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 5,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 9,
+      "recommendations_up": 119
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 17,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 16,
+      "recommendations_up": 87
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 16,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 14,
+      "recommendations_up": 101
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 17,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 22,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 12,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 8,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 14,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 20,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 13,
+      "recommendations_up": 96
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 20,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 24,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 12,
+      "recommendations_up": 215
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 18,
+      "recommendations_up": 372
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 14,
+      "recommendations_up": 283
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 7,
+      "recommendations_up": 247
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 30,
+      "recommendations_up": 240
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 27,
+      "recommendations_up": 247
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 22,
+      "recommendations_up": 211
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 21,
+      "recommendations_up": 190
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 20,
+      "recommendations_up": 109
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1551360,
+    "average_2weeks": 276,
+    "average_forever": 3630,
+    "median_2weeks": 95,
+    "median_forever": 2046
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1551360,
+    "average_2weeks": 276,
+    "average_forever": 3630,
+    "median_2weeks": 95,
+    "median_forever": 2046
+  },
+  "Meta Score": "91",
+  "Rating": "ESRB E",
+  "Up 30 Days": 3627,
+  "User Score": -1,
+  "appid": 1551360,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,22 +209,10 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 81044,
-  "negative": 11318,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 7923,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg?t=1668017884",
+  "consensus_genre": "Racing",
+  "developer": "Playground Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -62,163 +220,43 @@
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "91",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 62,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 92,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 90,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 83,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 47,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 119,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 108,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 87,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 70,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 101,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 97,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 62,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 62,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 61,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 62,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 72,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 96,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 76,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 66,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 215,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 372,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 283,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 247,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 240,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 247,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 211,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 190,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 109,
-      "recommendations_down": 20
-    }
-  ],
-  "Up 30 Days": 3627,
-  "Down 30 Days": 444,
-  "Completion": 58.75,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg?t=1668017884",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish",
+  "name": "Forza Horizon 5",
+  "negative": 11318,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 81044,
+  "price": "5999",
+  "publisher": "Xbox Game Studios",
+  "release_date": "2021/11/8",
+  "required_age": 0,
+  "tags": {
+    "Action": 123,
+    "Adventure": 348,
+    "Arcade": 277,
+    "Atmospheric": 225,
+    "Automobile Sim": 379,
+    "Beautiful": 148,
+    "Co-op": 190,
+    "Driving": 448,
+    "Exploration": 288,
+    "First-Person": 250,
+    "Multiplayer": 391,
+    "Online Co-Op": 184,
+    "Open World": 466,
+    "PvP": 197,
+    "Racing": 589,
+    "Realistic": 324,
+    "Simulation": 336,
+    "Singleplayer": 159,
+    "Sports": 212,
+    "Third Person": 95
+  },
+  "type": "game"
 }

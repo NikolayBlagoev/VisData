@@ -1,31 +1,201 @@
 {
-  "appid": 268500,
-  "name": "XCOM 2",
-  "developer": "Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)",
-  "publisher": "2K, Feral Interactive (Mac), Feral Interactive (Linux)",
-  "tags": {
-    "Strategy": 1723,
-    "Turn-Based": 1525,
-    "Turn-Based Strategy": 1288,
-    "Tactical": 1270,
-    "Turn-Based Tactics": 1043,
-    "Aliens": 960,
-    "Sci-fi": 910,
-    "Character Customization": 828,
-    "Singleplayer": 680,
-    "Difficult": 588,
-    "Multiplayer": 552,
-    "RPG": 477,
-    "Moddable": 440,
-    "Perma Death": 416,
-    "Futuristic": 392,
-    "Action": 376,
-    "Atmospheric": 362,
-    "Great Soundtrack": 248,
-    "Co-op": 135,
-    "Open World": 76
+  "Average Playtime - 2 Weeks": {
+    "app_id": 268500,
+    "average_2weeks": 249,
+    "average_forever": 3624,
+    "median_2weeks": 312,
+    "median_forever": 1230
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 268500,
+    "average_2weeks": 249,
+    "average_forever": 3624,
+    "median_2weeks": 312,
+    "median_forever": 1230
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4427,
+    "2022-12-09": 4351,
+    "2022-12-10": 4659,
+    "2022-12-13": 6085,
+    "2022-12-15": 4585,
+    "2022-12-18": 4688,
+    "2022-12-21": 4895,
+    "2022-12-22": 4567
+  },
+  "Completion": 59.0,
+  "Down 30 Days": 76,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 6,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 7,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 6,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 6,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 4,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 268500,
+    "average_2weeks": 249,
+    "average_forever": 3624,
+    "median_2weeks": 312,
+    "median_forever": 1230
+  },
+  "Median Playtime - Forever": {
+    "app_id": 268500,
+    "average_2weeks": 249,
+    "average_forever": 3624,
+    "median_2weeks": 312,
+    "median_forever": 1230
+  },
+  "Meta Score": "88",
+  "Rating": "ESRB T",
+  "Up 30 Days": 472,
+  "User Score": -1,
+  "appid": 268500,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,182 +204,50 @@
     "Steam Workshop",
     "Remote Play on Tablet"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 69776,
-  "negative": 13393,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 5766,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2016/02/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg?t=1646157374",
+  "consensus_genre": "Strategy",
+  "developer": "Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "88",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 11,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 18,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 36,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 28,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 472,
-  "Down 30 Days": 76,
-  "Completion": 59.0,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg?t=1646157374",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "XCOM 2",
+  "negative": 13393,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 69776,
+  "price": "5999",
+  "publisher": "2K, Feral Interactive (Mac), Feral Interactive (Linux)",
+  "release_date": "2016/02/4",
+  "required_age": 0,
+  "tags": {
+    "Action": 376,
+    "Aliens": 960,
+    "Atmospheric": 362,
+    "Character Customization": 828,
+    "Co-op": 135,
+    "Difficult": 588,
+    "Futuristic": 392,
+    "Great Soundtrack": 248,
+    "Moddable": 440,
+    "Multiplayer": 552,
+    "Open World": 76,
+    "Perma Death": 416,
+    "RPG": 477,
+    "Sci-fi": 910,
+    "Singleplayer": 680,
+    "Strategy": 1723,
+    "Tactical": 1270,
+    "Turn-Based": 1525,
+    "Turn-Based Strategy": 1288,
+    "Turn-Based Tactics": 1043
+  },
+  "type": "game"
 }

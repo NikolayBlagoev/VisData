@@ -1,31 +1,201 @@
 {
-  "appid": 1061180,
-  "name": "Crumble",
-  "developer": "BRUTE FORCE",
-  "publisher": "BRUTE FORCE",
-  "tags": {
-    "3D Platformer": 121,
-    "Platformer": 114,
-    "Indie": 111,
-    "Action": 106,
-    "Adventure": 103,
-    "Physics": 97,
-    "Parkour": 96,
-    "Destruction": 91,
-    "Cute": 90,
-    "Funny": 84,
-    "4 Player Local": 79,
-    "Casual": 75,
-    "Local Co-Op": 68,
-    "Singleplayer": 63,
-    "Split Screen": 60,
-    "Co-op": 58,
-    "Party Game": 56,
-    "Exploration": 53,
-    "Multiplayer": 52,
-    "Local Multiplayer": 51
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1061180,
+    "average_2weeks": 0,
+    "average_forever": 4,
+    "median_2weeks": 0,
+    "median_forever": 4
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1061180,
+    "average_2weeks": 0,
+    "average_forever": 4,
+    "median_2weeks": 0,
+    "median_forever": 4
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 7,
+    "2022-12-10": 4,
+    "2022-12-13": 4,
+    "2022-12-15": 6,
+    "2022-12-18": 7,
+    "2022-12-21": 3,
+    "2022-12-22": 4
+  },
+  "Completion": 79.5,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1061180,
+    "average_2weeks": 0,
+    "average_forever": 4,
+    "median_2weeks": 0,
+    "median_forever": 4
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1061180,
+    "average_2weeks": 0,
+    "average_forever": 4,
+    "median_2weeks": 0,
+    "median_forever": 4
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 1061180,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,185 +211,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 491,
-  "negative": 48,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/12/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1061180/header.jpg?t=1652766496",
+  "consensus_genre": "Indie",
+  "developer": "BRUTE FORCE",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 2,
-  "Completion": 79.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1061180/header.jpg?t=1652766496",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese",
+  "name": "Crumble",
+  "negative": 48,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 491,
+  "price": "1499",
+  "publisher": "BRUTE FORCE",
+  "release_date": "2020/12/4",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 121,
+    "4 Player Local": 79,
+    "Action": 106,
+    "Adventure": 103,
+    "Casual": 75,
+    "Co-op": 58,
+    "Cute": 90,
+    "Destruction": 91,
+    "Exploration": 53,
+    "Funny": 84,
+    "Indie": 111,
+    "Local Co-Op": 68,
+    "Local Multiplayer": 51,
+    "Multiplayer": 52,
+    "Parkour": 96,
+    "Party Game": 56,
+    "Physics": 97,
+    "Platformer": 114,
+    "Singleplayer": 63,
+    "Split Screen": 60
+  },
+  "type": "game"
 }

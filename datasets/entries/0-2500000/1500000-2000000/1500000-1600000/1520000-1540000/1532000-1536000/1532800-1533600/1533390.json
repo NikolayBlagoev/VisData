@@ -1,32 +1,201 @@
 {
-  "appid": 1533390,
-  "name": "Gorilla Tag",
-  "developer": "Another Axiom",
-  "publisher": "Another Axiom",
-  "tags": {
-    "Psychological Horror": 484,
-    "VR": 412,
-    "Multiplayer": 364,
-    "Free to Play": 363,
-    "Parkour": 360,
-    "Horror": 290,
-    "First-Person": 262,
-    "Funny": 240,
-    "3D": 225,
-    "3D Platformer": 224,
-    "Action": 222,
-    "Survival Horror": 219,
-    "PvP": 211,
-    "Platformer": 210,
-    "Early Access": 190,
-    "Sexual Content": 190,
-    "Casual": 174,
-    "Physics": 151,
-    "Nature": 147,
-    "6DOF": 137,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1533390,
+    "average_2weeks": 19,
+    "average_forever": 177,
+    "median_2weeks": 19,
+    "median_forever": 36
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1533390,
+    "average_2weeks": 19,
+    "average_forever": 177,
+    "median_2weeks": 19,
+    "median_forever": 36
+  },
+  "CCU Histogram": {
+    "2022-12-08": 534,
+    "2022-12-09": 688,
+    "2022-12-10": 713,
+    "2022-12-13": 671,
+    "2022-12-15": 453,
+    "2022-12-18": 580,
+    "2022-12-21": 581,
+    "2022-12-22": 481
+  },
+  "Completion": -1,
+  "Down 30 Days": 69,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 5,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 7,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1533390,
+    "average_2weeks": 19,
+    "average_forever": 177,
+    "median_2weeks": 19,
+    "median_forever": 36
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1533390,
+    "average_2weeks": 19,
+    "average_forever": 177,
+    "median_2weeks": 19,
+    "median_forever": 36
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 673,
+  "User Score": -1,
+  "appid": 1533390,
   "categories": [
     "Multi-player",
     "Cross-Platform Multiplayer",
@@ -34,185 +203,54 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 19107,
-  "negative": 1355,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 524,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1533390/header.jpg?t=1665006418",
+  "consensus_genre": "Free to Play",
+  "developer": "Another Axiom",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Free to Play",
     "Early Access"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 29,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 34,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 32,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 27,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 29,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 28,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 37,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 32,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 46,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 46,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 673,
-  "Down 30 Days": 69,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1533390/header.jpg?t=1665006418",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Gorilla Tag",
+  "negative": 1355,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 19107,
+  "price": "0",
+  "publisher": "Another Axiom",
+  "release_date": "2021/02/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 225,
+    "3D Platformer": 224,
+    "6DOF": 137,
+    "Action": 222,
+    "Casual": 174,
+    "Early Access": 190,
+    "First-Person": 262,
+    "Free to Play": 363,
+    "Funny": 240,
+    "Horror": 290,
+    "Multiplayer": 364,
+    "Nature": 147,
+    "Parkour": 360,
+    "Physics": 151,
+    "Platformer": 210,
+    "Psychological Horror": 484,
+    "PvP": 211,
+    "Sexual Content": 190,
+    "Survival Horror": 219,
+    "VR": 412,
+    "VR Only": 1
+  },
+  "type": "game"
 }

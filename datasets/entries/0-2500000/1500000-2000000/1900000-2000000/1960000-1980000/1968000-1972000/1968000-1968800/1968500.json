@@ -1,31 +1,76 @@
 {
-  "appid": 1968500,
-  "name": "Super Asqr",
-  "developer": "Creamative",
-  "publisher": "Creamative",
-  "tags": {
-    "Early Access": 364,
-    "Casual": 330,
-    "Action": 325,
-    "Arcade": 320,
-    "Fast-Paced": 314,
-    "Racing": 309,
-    "Minimalist": 299,
-    "2D": 282,
-    "Arena Shooter": 274,
-    "Combat Racing": 265,
-    "Side Scroller": 255,
-    "Twin Stick Shooter": 244,
-    "Abstract": 233,
-    "Top-Down": 221,
-    "Fantasy": 207,
-    "Futuristic": 205,
-    "Modern": 189,
-    "Retro": 172,
-    "Steampunk": 154,
-    "PvP": 135
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1968500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1968500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 57.25,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1968500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1968500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1968500,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,22 +78,10 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1968500/header.jpg?t=1660198579",
+  "consensus_genre": "Early Access",
+  "developer": "Creamative",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -56,38 +89,43 @@
     "Racing",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 57.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1968500/header.jpg?t=1660198579",
+  "initialprice": "299",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Turkish",
+  "name": "Super Asqr",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Creamative",
+  "release_date": "2022/08/10",
+  "required_age": 0,
+  "tags": {
+    "2D": 282,
+    "Abstract": 233,
+    "Action": 325,
+    "Arcade": 320,
+    "Arena Shooter": 274,
+    "Casual": 330,
+    "Combat Racing": 265,
+    "Early Access": 364,
+    "Fantasy": 207,
+    "Fast-Paced": 314,
+    "Futuristic": 205,
+    "Minimalist": 299,
+    "Modern": 189,
+    "PvP": 135,
+    "Racing": 309,
+    "Retro": 172,
+    "Side Scroller": 255,
+    "Steampunk": 154,
+    "Top-Down": 221,
+    "Twin Stick Shooter": 244
+  },
+  "type": "game"
 }

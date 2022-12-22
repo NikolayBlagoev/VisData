@@ -1,109 +1,147 @@
 {
-  "appid": 1968300,
-  "name": "Ambushed",
-  "developer": "Rainy K Games",
-  "publisher": "Rainy K Games",
-  "tags": {
-    "Early Access": 405,
-    "Horror": 368,
-    "Online Co-Op": 362,
-    "Psychological Horror": 358,
-    "Survival Horror": 353,
-    "First-Person": 347,
-    "Thriller": 337,
-    "Demons": 330,
-    "Puzzle": 322,
-    "Dark Fantasy": 313,
-    "Mystery": 303,
-    "Nature": 292,
-    "Casual": 280,
-    "Exploration": 268,
-    "Action": 255,
-    "Hidden Object": 240,
-    "Time Management": 238,
-    "3D": 221,
-    "Realistic": 203,
-    "Stylized": 184
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1968300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1968300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 1,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1968300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1968300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1968300,
   "categories": [
     "Multi-player",
     "Single-player",
     "Co-op",
     "Online Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 2,
-  "price": "629",
-  "initialprice": "699",
-  "discount": "10",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/11/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1968300/header.jpg?t=1667551401",
+  "consensus_genre": "Early Access",
+  "developer": "Rainy K Games",
+  "discount": "10",
   "genre": [
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1968300/header.jpg?t=1667551401",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Ambushed",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "629",
+  "publisher": "Rainy K Games",
+  "release_date": "2022/11/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 221,
+    "Action": 255,
+    "Casual": 280,
+    "Dark Fantasy": 313,
+    "Demons": 330,
+    "Early Access": 405,
+    "Exploration": 268,
+    "First-Person": 347,
+    "Hidden Object": 240,
+    "Horror": 368,
+    "Mystery": 303,
+    "Nature": 292,
+    "Online Co-Op": 362,
+    "Psychological Horror": 358,
+    "Puzzle": 322,
+    "Realistic": 203,
+    "Stylized": 184,
+    "Survival Horror": 353,
+    "Thriller": 337,
+    "Time Management": 238
+  },
+  "type": "game"
 }

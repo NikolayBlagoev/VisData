@@ -1,214 +1,252 @@
 {
-  "appid": 1853200,
-  "name": "TYRONE vs COPS",
-  "developer": "Team SNEED",
-  "publisher": "Team SNEED",
-  "tags": {
-    "America": 227,
-    "Action": 221,
-    "Memes": 214,
-    "Dark Comedy": 206,
-    "Satire": 192,
-    "Dark Humor": 189,
-    "Comedy": 174,
-    "Arcade": 167,
-    "Short": 157,
-    "Parody ": 151,
-    "Third-Person Shooter": 140,
-    "Funny": 127,
-    "Shooter": 127,
-    "3D": 96,
-    "Third Person": 79,
-    "Combat": 62,
-    "Singleplayer": 47,
-    "Hero Shooter": 33,
-    "God Game": 31,
-    "Sexual Content": 28
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1853200,
+    "average_2weeks": 15,
+    "average_forever": 41,
+    "median_2weeks": 15,
+    "median_forever": 55
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1853200,
+    "average_2weeks": 15,
+    "average_forever": 41,
+    "median_2weeks": 15,
+    "median_forever": 55
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5,
+    "2022-12-09": 7,
+    "2022-12-10": 7,
+    "2022-12-13": 11,
+    "2022-12-15": 9,
+    "2022-12-18": 7,
+    "2022-12-21": 4,
+    "2022-12-22": 3
+  },
+  "Completion": 47.70000076293945,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1853200,
+    "average_2weeks": 15,
+    "average_forever": 41,
+    "median_2weeks": 15,
+    "median_forever": 55
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1853200,
+    "average_2weeks": 15,
+    "average_forever": 41,
+    "median_2weeks": 15,
+    "median_forever": 55
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 204,
+  "User Score": -1,
+  "appid": 1853200,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1092,
-  "negative": 51,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 12,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/02/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1853200/header.jpg?t=1650806064",
+  "consensus_genre": "Action",
+  "developer": "Team SNEED",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 38,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 42,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 204,
-  "Down 30 Days": 9,
-  "Completion": 47.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1853200/header.jpg?t=1650806064",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "TYRONE vs COPS",
+  "negative": 51,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1092,
+  "price": "99",
+  "publisher": "Team SNEED",
+  "release_date": "2022/02/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 96,
+    "Action": 221,
+    "America": 227,
+    "Arcade": 167,
+    "Combat": 62,
+    "Comedy": 174,
+    "Dark Comedy": 206,
+    "Dark Humor": 189,
+    "Funny": 127,
+    "God Game": 31,
+    "Hero Shooter": 33,
+    "Memes": 214,
+    "Parody ": 151,
+    "Satire": 192,
+    "Sexual Content": 28,
+    "Shooter": 127,
+    "Short": 157,
+    "Singleplayer": 47,
+    "Third Person": 79,
+    "Third-Person Shooter": 140
+  },
+  "type": "game"
 }

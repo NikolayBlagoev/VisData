@@ -1,21 +1,98 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1692850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 1692850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1692850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1692850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
   "appid": 1692850,
-  "name": "Historic Fighters",
+  "categories": [
+    "Multi-player",
+    "Single-player",
+    "Online PvP",
+    "PvP"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
   "developer": "QVIK GAMEZ",
+  "discount": "0",
+  "genre": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1692850/header.jpg?t=1649354873",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Historic Fighters",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
   "publisher": "QVIK GAMEZ",
+  "release_date": "2021/07/30",
+  "required_age": 0,
   "tags": {
-    "Action": 490,
-    "Casual": 486,
-    "Strategy": 481,
     "2D": 477,
     "2D Fighter": 454,
-    "Turn-Based Strategy": 445,
-    "Hack and Slash": 437,
-    "Wargame": 429,
+    "Action": 490,
     "Cartoony": 421,
+    "Casual": 486,
     "Colorful": 411,
     "Dark Fantasy": 400,
     "Fantasy": 388,
+    "Hack and Slash": 437,
     "Historical": 375,
     "Magic": 361,
     "Medieval": 347,
@@ -23,49 +100,10 @@
     "Mythology": 315,
     "Ninja": 313,
     "Pirates": 294,
-    "Relaxing": 274
+    "Relaxing": 274,
+    "Strategy": 481,
+    "Turn-Based Strategy": 445,
+    "Wargame": 429
   },
-  "type": "game",
-  "categories": [
-    "Multi-player",
-    "Single-player",
-    "Online PvP",
-    "PvP"
-  ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1692850/header.jpg?t=1649354873",
-  "genre": [
-    "Action",
-    "Casual",
-    "Indie",
-    "Strategy"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "type": "game"
 }

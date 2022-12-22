@@ -1,31 +1,201 @@
 {
-  "appid": 418370,
-  "name": "Resident Evil 7 Biohazard",
-  "developer": "CAPCOM Co., Ltd.",
-  "publisher": "CAPCOM Co., Ltd.",
-  "tags": {
-    "Horror": 1134,
-    "Survival Horror": 857,
-    "First-Person": 731,
-    "Singleplayer": 618,
-    "Atmospheric": 588,
-    "Zombies": 560,
-    "Gore": 557,
-    "Psychological Horror": 523,
-    "Action": 478,
-    "Violent": 439,
-    "Survival": 396,
-    "Adventure": 391,
-    "Puzzle": 376,
-    "Story Rich": 376,
-    "FPS": 297,
-    "Multiplayer": 281,
-    "VR": 277,
-    "Exploration": 265,
-    "Shooter": 251,
-    "Classic": 143
+  "Average Playtime - 2 Weeks": {
+    "app_id": 418370,
+    "average_2weeks": 450,
+    "average_forever": 740,
+    "median_2weeks": 555,
+    "median_forever": 571
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 418370,
+    "average_2weeks": 450,
+    "average_forever": 740,
+    "median_2weeks": 555,
+    "median_forever": 571
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1014,
+    "2022-12-09": 694,
+    "2022-12-10": 637,
+    "2022-12-13": 1172,
+    "2022-12-15": 819,
+    "2022-12-18": 764,
+    "2022-12-21": 597,
+    "2022-12-22": 616
+  },
+  "Completion": 59.20000076293945,
+  "Down 30 Days": 38,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 418370,
+    "average_2weeks": 450,
+    "average_forever": 740,
+    "median_2weeks": 555,
+    "median_forever": 571
+  },
+  "Median Playtime - Forever": {
+    "app_id": 418370,
+    "average_2weeks": 450,
+    "average_forever": 740,
+    "median_2weeks": 555,
+    "median_forever": 571
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB M",
+  "Up 30 Days": 740,
+  "User Score": -1,
+  "appid": 418370,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,183 +203,51 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 60998,
-  "negative": 3346,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 1237,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Arabic, Korean, Russian, Simplified Chinese, Traditional Chinese, Polish, Thai",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/01/23",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/418370/header.jpg?t=1656996016",
+  "consensus_genre": "Action",
+  "developer": "CAPCOM Co., Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 29,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 19,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 20,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 41,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 36,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 49,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 44,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 34,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 26,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 740,
-  "Down 30 Days": 38,
-  "Completion": 59.20000076293945,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/418370/header.jpg?t=1656996016",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Arabic, Korean, Russian, Simplified Chinese, Traditional Chinese, Polish, Thai",
+  "name": "Resident Evil 7 Biohazard",
+  "negative": 3346,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 60998,
+  "price": "1999",
+  "publisher": "CAPCOM Co., Ltd.",
+  "release_date": "2017/01/23",
+  "required_age": "18",
+  "tags": {
+    "Action": 478,
+    "Adventure": 391,
+    "Atmospheric": 588,
+    "Classic": 143,
+    "Exploration": 265,
+    "FPS": 297,
+    "First-Person": 731,
+    "Gore": 557,
+    "Horror": 1134,
+    "Multiplayer": 281,
+    "Psychological Horror": 523,
+    "Puzzle": 376,
+    "Shooter": 251,
+    "Singleplayer": 618,
+    "Story Rich": 376,
+    "Survival": 396,
+    "Survival Horror": 857,
+    "VR": 277,
+    "Violent": 439,
+    "Zombies": 560
+  },
+  "type": "game"
 }

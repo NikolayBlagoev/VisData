@@ -1,211 +1,249 @@
 {
-  "appid": 47790,
-  "name": "Medal of Honor",
-  "developer": "Electronic Arts",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "FPS": 268,
-    "Action": 223,
-    "Shooter": 187,
-    "Military": 160,
-    "Multiplayer": 154,
-    "Singleplayer": 154,
-    "First-Person": 128,
-    "War": 109,
-    "Modern": 80,
-    "Co-op": 50,
-    "Realistic": 48,
-    "America": 40,
-    "Linear": 36,
-    "Mature": 36,
-    "Stealth": 33,
-    "Controller": 32,
-    "Open World": 15,
-    "Atmospheric": 12,
-    "Story Rich": 10,
-    "VR": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 47790,
+    "average_2weeks": 1,
+    "average_forever": 230,
+    "median_2weeks": 1,
+    "median_forever": 98
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 47790,
+    "average_2weeks": 1,
+    "average_forever": 230,
+    "median_2weeks": 1,
+    "median_forever": 98
+  },
+  "CCU Histogram": {
+    "2022-12-08": 44,
+    "2022-12-09": 40,
+    "2022-12-10": 38,
+    "2022-12-13": 35,
+    "2022-12-15": 31,
+    "2022-12-18": 35,
+    "2022-12-21": 30,
+    "2022-12-22": 46
+  },
+  "Completion": -1,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 47790,
+    "average_2weeks": 1,
+    "average_forever": 230,
+    "median_2weeks": 1,
+    "median_forever": 98
+  },
+  "Median Playtime - Forever": {
+    "app_id": 47790,
+    "average_2weeks": 1,
+    "average_forever": 230,
+    "median_2weeks": 1,
+    "median_forever": 98
+  },
+  "Meta Score": "72",
+  "Rating": "ESRB M",
+  "Up 30 Days": 25,
+  "User Score": -1,
+  "appid": 47790,
   "categories": [
     "Multi-player",
     "Single-player"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 5643,
-  "negative": 2050,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 50,
-  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2010/10/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/47790/header.jpg?t=1615244654",
+  "consensus_genre": "Action",
+  "developer": "Electronic Arts",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "72",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 25,
-  "Down 30 Days": 10,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/47790/header.jpg?t=1615244654",
+  "initialprice": "1999",
+  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Traditional Chinese",
+  "name": "Medal of Honor",
+  "negative": 2050,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5643,
+  "price": "1999",
+  "publisher": "Electronic Arts",
+  "release_date": "2010/10/12",
+  "required_age": 0,
+  "tags": {
+    "Action": 223,
+    "America": 40,
+    "Atmospheric": 12,
+    "Co-op": 50,
+    "Controller": 32,
+    "FPS": 268,
+    "First-Person": 128,
+    "Linear": 36,
+    "Mature": 36,
+    "Military": 160,
+    "Modern": 80,
+    "Multiplayer": 154,
+    "Open World": 15,
+    "Realistic": 48,
+    "Shooter": 187,
+    "Singleplayer": 154,
+    "Stealth": 33,
+    "Story Rich": 10,
+    "VR": 7,
+    "War": 109
+  },
+  "type": "game"
 }

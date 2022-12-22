@@ -1,51 +1,209 @@
 {
-  "appid": 1645820,
-  "name": "SurrounDead",
-  "developer": "PlaySurrounDead",
-  "publisher": "PlaySurrounDead",
-  "tags": {
-    "Open World": 166,
-    "Survival": 156,
-    "Zombies": 146,
-    "Post-apocalyptic": 137,
-    "Exploration": 113,
-    "Singleplayer": 109,
-    "Shooter": 104,
-    "Third Person": 89,
-    "Early Access": 79,
-    "Indie": 73,
-    "RPG": 73,
-    "Loot": 69,
-    "First-Person": 64,
-    "Adventure": 62,
-    "Action": 61,
-    "PvE": 41,
-    "Third-Person Shooter": 39,
-    "Base-Building": 15,
-    "Open World Survival Craft": 7,
-    "Online Co-Op": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1645820,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 443
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1645820,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 443
+  },
+  "CCU Histogram": {
+    "2022-12-08": 58,
+    "2022-12-09": 61,
+    "2022-12-10": 65,
+    "2022-12-13": 61,
+    "2022-12-15": 55,
+    "2022-12-18": 60,
+    "2022-12-21": 9,
+    "2022-12-22": 68
+  },
+  "Completion": -1,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1645820,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 443
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1645820,
+    "average_2weeks": 0,
+    "average_forever": 275,
+    "median_2weeks": 0,
+    "median_forever": 443
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 214,
+  "User Score": -1,
+  "appid": 1645820,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1310,
-  "negative": 156,
-  "price": "1599",
-  "initialprice": "1599",
-  "discount": "0",
   "ccu": 199,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/06/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1645820/header.jpg?t=1665352191",
+  "consensus_genre": "Early Access",
+  "developer": "PlaySurrounDead",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,163 +211,43 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 31,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 214,
-  "Down 30 Days": 16,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1645820/header.jpg?t=1665352191",
+  "initialprice": "1599",
+  "languages": "English",
+  "name": "SurrounDead",
+  "negative": 156,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1310,
+  "price": "1599",
+  "publisher": "PlaySurrounDead",
+  "release_date": "2022/06/24",
+  "required_age": 0,
+  "tags": {
+    "Action": 61,
+    "Adventure": 62,
+    "Base-Building": 15,
+    "Early Access": 79,
+    "Exploration": 113,
+    "First-Person": 64,
+    "Indie": 73,
+    "Loot": 69,
+    "Online Co-Op": 5,
+    "Open World": 166,
+    "Open World Survival Craft": 7,
+    "Post-apocalyptic": 137,
+    "PvE": 41,
+    "RPG": 73,
+    "Shooter": 104,
+    "Singleplayer": 109,
+    "Survival": 156,
+    "Third Person": 89,
+    "Third-Person Shooter": 39,
+    "Zombies": 146
+  },
+  "type": "game"
 }

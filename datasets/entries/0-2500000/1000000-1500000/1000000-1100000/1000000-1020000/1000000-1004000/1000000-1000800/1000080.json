@@ -1,31 +1,201 @@
 {
-  "appid": 1000080,
-  "name": "Zengeon",
-  "developer": "IndieLeague Studio",
-  "publisher": "2P Games",
-  "tags": {
-    "Action": 138,
-    "Indie": 128,
-    "RPG": 121,
-    "Adventure": 115,
-    "Action Roguelike": 111,
-    "Anime": 84,
-    "Action RPG": 77,
-    "Rogue-lite": 67,
-    "Multiplayer": 62,
-    "Hack and Slash": 57,
-    "Rogue-like": 53,
-    "Linear": 51,
-    "Singleplayer": 46,
-    "Early Access": 38,
-    "Online Co-Op": 38,
-    "Female Protagonist": 36,
-    "Co-op": 34,
-    "Sexual Content": 33,
-    "Casual": 31,
-    "JRPG": 30
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1000080,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 338
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1000080,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 338
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5,
+    "2022-12-09": 4,
+    "2022-12-10": 3,
+    "2022-12-13": 2,
+    "2022-12-15": 3,
+    "2022-12-18": 2,
+    "2022-12-21": 1,
+    "2022-12-22": 2
+  },
+  "Completion": 94.4000015258789,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1000080,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 338
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1000080,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 338
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1000080,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,185 +203,53 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1018,
-  "negative": 462,
-  "price": "799",
-  "initialprice": "1999",
-  "discount": "60",
   "ccu": 3,
-  "languages": "Simplified Chinese, English, Traditional Chinese, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2019/06/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1000080/header.jpg?t=1667062553",
+  "consensus_genre": "Action",
+  "developer": "IndieLeague Studio",
+  "discount": "60",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": 94.4000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1000080/header.jpg?t=1667062553",
+  "initialprice": "1999",
+  "languages": "Simplified Chinese, English, Traditional Chinese, Japanese, Korean",
+  "name": "Zengeon",
+  "negative": 462,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1018,
+  "price": "799",
+  "publisher": "2P Games",
+  "release_date": "2019/06/24",
+  "required_age": 0,
+  "tags": {
+    "Action": 138,
+    "Action RPG": 77,
+    "Action Roguelike": 111,
+    "Adventure": 115,
+    "Anime": 84,
+    "Casual": 31,
+    "Co-op": 34,
+    "Early Access": 38,
+    "Female Protagonist": 36,
+    "Hack and Slash": 57,
+    "Indie": 128,
+    "JRPG": 30,
+    "Linear": 51,
+    "Multiplayer": 62,
+    "Online Co-Op": 38,
+    "RPG": 121,
+    "Rogue-like": 53,
+    "Rogue-lite": 67,
+    "Sexual Content": 33,
+    "Singleplayer": 46
+  },
+  "type": "game"
 }

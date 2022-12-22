@@ -1,25 +1,106 @@
 {
-  "appid": 2066030,
-  "name": "The Grizzled: Armistice Digital",
-  "developer": "CMON",
-  "publisher": "CMON",
-  "tags": {
-    "Co-op Campaign": 51,
-    "Card Game": 45,
-    "World War I": 42,
-    "Casual": 41,
-    "Tabletop": 38,
-    "Co-op": 36,
-    "Strategy": 29,
-    "Singleplayer": 27,
-    "Multiplayer": 25,
-    "Online Co-Op": 24,
-    "Indie": 22,
-    "Board Game": 20,
-    "War": 18,
-    "2D": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2066030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2066030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": 51.599998474121094,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2066030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2066030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 2066030,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -29,88 +110,45 @@
     "Cross-Platform Multiplayer",
     "Online Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/10/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066030/header.jpg?t=1665115695",
+  "consensus_genre": "Casual",
+  "developer": "CMON",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 1,
-  "Completion": 51.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2066030/header.jpg?t=1665115695",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "The Grizzled: Armistice Digital",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "699",
+  "publisher": "CMON",
+  "release_date": "2022/10/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 15,
+    "Board Game": 20,
+    "Card Game": 45,
+    "Casual": 41,
+    "Co-op": 36,
+    "Co-op Campaign": 51,
+    "Indie": 22,
+    "Multiplayer": 25,
+    "Online Co-Op": 24,
+    "Singleplayer": 27,
+    "Strategy": 29,
+    "Tabletop": 38,
+    "War": 18,
+    "World War I": 42
+  },
+  "type": "game"
 }

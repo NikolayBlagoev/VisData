@@ -1,213 +1,251 @@
 {
-  "appid": 1238040,
-  "name": "Dragon Age II: Ultimate Edition",
-  "developer": "BioWare",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "RPG": 180,
-    "Adventure": 130,
-    "Action": 128,
-    "Fantasy": 118,
-    "Singleplayer": 95,
-    "Combat": 84,
-    "Action RPG": 61,
-    "Third Person": 56,
-    "Sexual Content": 55,
-    "Tactical RPG": 52,
-    "Violent": 44,
-    "Character Customization": 42,
-    "Gore": 41,
-    "Story Rich": 41,
-    "Choices Matter": 38,
-    "Romance": 27,
-    "Female Protagonist": 22,
-    "Open World": 22,
-    "Dark Fantasy": 21,
-    "LGBTQ+": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1238040,
+    "average_2weeks": 1397,
+    "average_forever": 625,
+    "median_2weeks": 1397,
+    "median_forever": 1036
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1238040,
+    "average_2weeks": 1397,
+    "average_forever": 625,
+    "median_2weeks": 1397,
+    "median_forever": 1036
+  },
+  "CCU Histogram": {
+    "2022-12-08": 245,
+    "2022-12-09": 210,
+    "2022-12-10": 274,
+    "2022-12-13": 304,
+    "2022-12-15": 253,
+    "2022-12-18": 271,
+    "2022-12-21": 238,
+    "2022-12-22": 266
+  },
+  "Completion": -1,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1238040,
+    "average_2weeks": 1397,
+    "average_forever": 625,
+    "median_2weeks": 1397,
+    "median_forever": 1036
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1238040,
+    "average_2weeks": 1397,
+    "average_forever": 625,
+    "median_2weeks": 1397,
+    "median_forever": 1036
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 69,
+  "User Score": -1,
+  "appid": 1238040,
   "categories": [
     "Single-player",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 2424,
-  "negative": 543,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 196,
-  "languages": "English, French, Italian, German, Polish, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/4",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238040/header.jpg?t=1655211267",
+  "consensus_genre": "RPG",
+  "developer": "BioWare",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 69,
-  "Down 30 Days": 5,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238040/header.jpg?t=1655211267",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Polish, Portuguese - Brazil, Russian",
+  "name": "Dragon Age II: Ultimate Edition",
+  "negative": 543,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2424,
+  "price": "2999",
+  "publisher": "Electronic Arts",
+  "release_date": "2020/06/4",
+  "required_age": "15",
+  "tags": {
+    "Action": 128,
+    "Action RPG": 61,
+    "Adventure": 130,
+    "Character Customization": 42,
+    "Choices Matter": 38,
+    "Combat": 84,
+    "Dark Fantasy": 21,
+    "Fantasy": 118,
+    "Female Protagonist": 22,
+    "Gore": 41,
+    "LGBTQ+": 14,
+    "Open World": 22,
+    "RPG": 180,
+    "Romance": 27,
+    "Sexual Content": 55,
+    "Singleplayer": 95,
+    "Story Rich": 41,
+    "Tactical RPG": 52,
+    "Third Person": 56,
+    "Violent": 44
+  },
+  "type": "game"
 }

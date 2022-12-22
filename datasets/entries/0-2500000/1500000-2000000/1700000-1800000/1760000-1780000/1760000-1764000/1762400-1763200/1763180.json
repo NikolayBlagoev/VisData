@@ -1,86 +1,124 @@
 {
-  "appid": 1763180,
-  "name": "Wormatozoa",
-  "developer": "distributive",
-  "publisher": "distributive",
-  "tags": {
-    "Platformer": 194,
-    "Indie": 193,
-    "Difficult": 188,
-    "Arcade": 184,
-    "2D": 179,
-    "Cartoony": 163,
-    "Colorful": 156,
-    "Singleplayer": 148,
-    "Puzzle": 140,
-    "Precision Platformer": 131,
-    "Puzzle-Platformer": 120,
-    "2D Platformer": 118,
-    "Surreal": 105,
-    "Action": 96,
-    "Linear": 91,
-    "Cartoon": 60,
-    "Dark Humor": 43,
-    "Retro": 27,
-    "Sci-fi": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1763180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1763180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 1,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 26.600000381469727,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1763180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1763180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1763180,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/08/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1763180/header.jpg?t=1664794230",
+  "consensus_genre": "Indie",
+  "developer": "distributive",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 26.600000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1763180/header.jpg?t=1664794230",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Wormatozoa",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "699",
+  "publisher": "distributive",
+  "release_date": "2022/08/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 179,
+    "2D Platformer": 118,
+    "Action": 96,
+    "Arcade": 184,
+    "Cartoon": 60,
+    "Cartoony": 163,
+    "Colorful": 156,
+    "Dark Humor": 43,
+    "Difficult": 188,
+    "Indie": 193,
+    "Linear": 91,
+    "Platformer": 194,
+    "Precision Platformer": 131,
+    "Puzzle": 140,
+    "Puzzle-Platformer": 120,
+    "Retro": 27,
+    "Sci-fi": 25,
+    "Singleplayer": 148,
+    "Surreal": 105
+  },
+  "type": "game"
 }

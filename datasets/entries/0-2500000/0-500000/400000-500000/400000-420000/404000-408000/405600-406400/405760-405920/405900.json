@@ -1,31 +1,201 @@
 {
-  "appid": 405900,
-  "name": "Disgaea PC",
-  "developer": "Nippon Ichi Software, Inc.",
-  "publisher": "NIS America, Inc.",
-  "tags": {
-    "Strategy RPG": 187,
-    "JRPG": 171,
-    "Anime": 168,
-    "Turn-Based": 161,
-    "RPG": 157,
-    "Comedy": 113,
-    "Turn-Based Strategy": 105,
-    "Turn-Based Tactics": 99,
-    "Tactical RPG": 96,
-    "Funny": 83,
-    "Tactical": 80,
-    "Strategy": 77,
-    "Singleplayer": 70,
-    "Great Soundtrack": 50,
-    "Replay Value": 41,
-    "Demons": 40,
-    "Pixel Graphics": 38,
-    "2D": 37,
-    "Story Rich": 25,
-    "Cute": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 405900,
+    "average_2weeks": 100,
+    "average_forever": 1033,
+    "median_2weeks": 100,
+    "median_forever": 267
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 405900,
+    "average_2weeks": 100,
+    "average_forever": 1033,
+    "median_2weeks": 100,
+    "median_forever": 267
+  },
+  "CCU Histogram": {
+    "2022-12-08": 68,
+    "2022-12-09": 64,
+    "2022-12-10": 55,
+    "2022-12-13": 69,
+    "2022-12-15": 55,
+    "2022-12-18": 45,
+    "2022-12-21": 60,
+    "2022-12-22": 64
+  },
+  "Completion": 31.80000114440918,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 405900,
+    "average_2weeks": 100,
+    "average_forever": 1033,
+    "median_2weeks": 100,
+    "median_forever": 267
+  },
+  "Median Playtime - Forever": {
+    "app_id": 405900,
+    "average_2weeks": 100,
+    "average_forever": 1033,
+    "median_2weeks": 100,
+    "median_forever": 267
+  },
+  "Meta Score": "74",
+  "Rating": "ESRB T",
+  "Up 30 Days": 23,
+  "User Score": -1,
+  "appid": 405900,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,182 +203,50 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 3521,
-  "negative": 483,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 110,
-  "languages": "English, Japanese, Korean, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/02/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/405900/header.jpg?t=1644004571",
+  "consensus_genre": "RPG",
+  "developer": "Nippon Ichi Software, Inc.",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "74",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 23,
-  "Down 30 Days": 8,
-  "Completion": 31.80000114440918,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/405900/header.jpg?t=1644004571",
+  "initialprice": "1999",
+  "languages": "English, Japanese, Korean, Traditional Chinese",
+  "name": "Disgaea PC",
+  "negative": 483,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3521,
+  "price": "1999",
+  "publisher": "NIS America, Inc.",
+  "release_date": "2016/02/24",
+  "required_age": 0,
+  "tags": {
+    "2D": 37,
+    "Anime": 168,
+    "Comedy": 113,
+    "Cute": 22,
+    "Demons": 40,
+    "Funny": 83,
+    "Great Soundtrack": 50,
+    "JRPG": 171,
+    "Pixel Graphics": 38,
+    "RPG": 157,
+    "Replay Value": 41,
+    "Singleplayer": 70,
+    "Story Rich": 25,
+    "Strategy": 77,
+    "Strategy RPG": 187,
+    "Tactical": 80,
+    "Tactical RPG": 96,
+    "Turn-Based": 161,
+    "Turn-Based Strategy": 105,
+    "Turn-Based Tactics": 99
+  },
+  "type": "game"
 }

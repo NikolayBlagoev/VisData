@@ -1,69 +1,107 @@
 {
-  "appid": 1815660,
-  "name": "Dungeons Of Honor",
-  "developer": "Ice Charge Productions",
-  "publisher": "Ice Charge Productions",
-  "tags": {
-    "Action": 199,
-    "Singleplayer": 194,
-    "3D": 188,
-    "Hack and Slash": 185,
-    "Medieval": 173,
-    "Alternate History": 163,
-    "RPG": 159,
-    "First-Person": 157,
-    "Casual": 151,
-    "Action RPG": 147,
-    "Historical": 120,
-    "Sci-fi": 118,
-    "Fantasy": 106,
-    "Survival": 91,
-    "Combat": 76,
-    "PvE": 60,
-    "Military": 43,
-    "Post-apocalyptic": 27,
-    "Online Co-Op": 25,
-    "Early Access": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1815660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1815660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 95.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1815660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1815660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1815660,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1815660/header.jpg?t=1644055154",
+  "consensus_genre": "Action",
+  "developer": "Ice Charge Productions",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 95.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1815660/header.jpg?t=1644055154",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Dungeons Of Honor",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "Ice Charge Productions",
+  "release_date": "2021/11/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 188,
+    "Action": 199,
+    "Action RPG": 147,
+    "Alternate History": 163,
+    "Casual": 151,
+    "Combat": 76,
+    "Early Access": 22,
+    "Fantasy": 106,
+    "First-Person": 157,
+    "Hack and Slash": 185,
+    "Historical": 120,
+    "Medieval": 173,
+    "Military": 43,
+    "Online Co-Op": 25,
+    "Post-apocalyptic": 27,
+    "PvE": 60,
+    "RPG": 159,
+    "Sci-fi": 118,
+    "Singleplayer": 194,
+    "Survival": 91
+  },
+  "type": "game"
 }

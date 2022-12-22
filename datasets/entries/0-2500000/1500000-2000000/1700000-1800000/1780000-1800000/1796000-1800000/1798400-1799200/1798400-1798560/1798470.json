@@ -1,67 +1,105 @@
 {
-  "appid": 1798470,
-  "name": "Toy Kingdom 3",
-  "developer": "MoonRift Entertainment, Leonice Brown-Young Jr",
-  "publisher": "MoonRift Entertainment",
-  "tags": {
-    "Arena Shooter": 369,
-    "FPS": 363,
-    "Rogue-lite": 358,
-    "Creature Collector": 353,
-    "PvE": 347,
-    "Strategy": 342,
-    "Shooter": 337,
-    "Strategy RPG": 329,
-    "3D": 313,
-    "First-Person": 303,
-    "Dinosaurs": 292,
-    "Funny": 280,
-    "Choices Matter": 268,
-    "Action": 258,
-    "Deckbuilding": 255,
-    "Team-Based": 240,
-    "Cartoony": 221,
-    "Family Friendly": 203,
-    "Fantasy": 184,
-    "Magic": 164
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1798470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1798470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1798470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1798470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1798470,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1798470/header.jpg?t=1638021683",
+  "consensus_genre": "Strategy",
+  "developer": "MoonRift Entertainment, Leonice Brown-Young Jr",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1798470/header.jpg?t=1638021683",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Toy Kingdom 3",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "699",
+  "publisher": "MoonRift Entertainment",
+  "release_date": "2021/11/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 313,
+    "Action": 258,
+    "Arena Shooter": 369,
+    "Cartoony": 221,
+    "Choices Matter": 268,
+    "Creature Collector": 353,
+    "Deckbuilding": 255,
+    "Dinosaurs": 292,
+    "FPS": 363,
+    "Family Friendly": 203,
+    "Fantasy": 184,
+    "First-Person": 303,
+    "Funny": 280,
+    "Magic": 164,
+    "PvE": 347,
+    "Rogue-lite": 358,
+    "Shooter": 337,
+    "Strategy": 342,
+    "Strategy RPG": 329,
+    "Team-Based": 240
+  },
+  "type": "game"
 }

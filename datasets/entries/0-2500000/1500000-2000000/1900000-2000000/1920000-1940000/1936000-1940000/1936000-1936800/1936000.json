@@ -1,99 +1,137 @@
 {
-  "appid": 1936000,
-  "name": "The Infernal Return",
-  "developer": "Knifish Games",
-  "publisher": "Knifish Studio, Angel Star Studios",
-  "tags": {
-    "Exploration": 222,
-    "3D Platformer": 216,
-    "Dungeon Crawler": 213,
-    "Hidden Object": 210,
-    "Sandbox": 207,
-    "RPG": 201,
-    "Puzzle": 199,
-    "Strategy RPG": 195,
-    "3D": 190,
-    "First-Person": 182,
-    "Third Person": 175,
-    "Underground": 167,
-    "Dragons": 155,
-    "Story Rich": 147,
-    "Conversation": 140,
-    "Controller": 129,
-    "Linear": 121,
-    "Zombies": 118,
-    "Action": 110,
-    "Adventure": 108
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1936000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1936000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1936000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1936000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1936000,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1936000/header.jpg?t=1665850343",
+  "consensus_genre": "RPG",
+  "developer": "Knifish Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1936000/header.jpg?t=1665850343",
+  "initialprice": "599",
+  "languages": "English, Simplified Chinese, Traditional Chinese",
+  "name": "The Infernal Return",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "599",
+  "publisher": "Knifish Studio, Angel Star Studios",
+  "release_date": "2022/09/10",
+  "required_age": 0,
+  "tags": {
+    "3D": 190,
+    "3D Platformer": 216,
+    "Action": 110,
+    "Adventure": 108,
+    "Controller": 129,
+    "Conversation": 140,
+    "Dragons": 155,
+    "Dungeon Crawler": 213,
+    "Exploration": 222,
+    "First-Person": 182,
+    "Hidden Object": 210,
+    "Linear": 121,
+    "Puzzle": 199,
+    "RPG": 201,
+    "Sandbox": 207,
+    "Story Rich": 147,
+    "Strategy RPG": 195,
+    "Third Person": 175,
+    "Underground": 167,
+    "Zombies": 118
+  },
+  "type": "game"
 }

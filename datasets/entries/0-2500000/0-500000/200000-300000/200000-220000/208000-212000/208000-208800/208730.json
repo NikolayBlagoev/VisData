@@ -1,212 +1,250 @@
 {
-  "appid": 208730,
-  "name": "Game of Thrones",
-  "developer": "Cyanide Studios",
-  "publisher": "",
-  "tags": {
-    "RPG": 183,
-    "Fantasy": 107,
-    "Action": 98,
-    "Story Rich": 74,
-    "Third Person": 72,
-    "Choices Matter": 66,
-    "Medieval": 63,
-    "Singleplayer": 59,
-    "Adventure": 48,
-    "Based On A Novel": 24,
-    "Open World": 19,
-    "Character Customization": 16,
-    "Controller": 15,
-    "Action RPG": 14,
-    "Multiple Endings": 14,
-    "Nudity": 12,
-    "Dark Fantasy": 9,
-    "Mature": 6
+  "Average Playtime - 2 Weeks": {
+    "app_id": 208730,
+    "average_2weeks": 0,
+    "average_forever": 165,
+    "median_2weeks": 0,
+    "median_forever": 58
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 208730,
+    "average_2weeks": 0,
+    "average_forever": 165,
+    "median_2weeks": 0,
+    "median_forever": 58
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 6,
+    "2022-12-10": 8,
+    "2022-12-13": 7,
+    "2022-12-15": 4,
+    "2022-12-18": 7,
+    "2022-12-21": 3,
+    "2022-12-22": 5
+  },
+  "Completion": 26.600000381469727,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 208730,
+    "average_2weeks": 0,
+    "average_forever": 165,
+    "median_2weeks": 0,
+    "median_forever": 58
+  },
+  "Median Playtime - Forever": {
+    "app_id": 208730,
+    "average_2weeks": 0,
+    "average_forever": 165,
+    "median_2weeks": 0,
+    "median_forever": 58
+  },
+  "Meta Score": "58",
+  "Rating": "ESRB M",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 208730,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support",
     "Remote Play on TV"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1574,
-  "negative": 627,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 10,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/06/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/208730/header.jpg?t=1562029560",
+  "consensus_genre": "RPG",
+  "developer": "Cyanide Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "58",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 3,
-  "Completion": 26.600000381469727,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/208730/header.jpg?t=1562029560",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "Game of Thrones",
+  "negative": 627,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1574,
+  "price": "1499",
+  "publisher": "",
+  "release_date": "2012/06/7",
+  "required_age": 0,
+  "tags": {
+    "Action": 98,
+    "Action RPG": 14,
+    "Adventure": 48,
+    "Based On A Novel": 24,
+    "Character Customization": 16,
+    "Choices Matter": 66,
+    "Controller": 15,
+    "Dark Fantasy": 9,
+    "Fantasy": 107,
+    "Mature": 6,
+    "Medieval": 63,
+    "Multiple Endings": 14,
+    "Nudity": 12,
+    "Open World": 19,
+    "RPG": 183,
+    "Singleplayer": 59,
+    "Story Rich": 74,
+    "Third Person": 72
+  },
+  "type": "game"
 }

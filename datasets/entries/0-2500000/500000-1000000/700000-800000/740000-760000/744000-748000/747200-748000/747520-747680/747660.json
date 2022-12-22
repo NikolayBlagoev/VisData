@@ -1,214 +1,252 @@
 {
-  "appid": 747660,
-  "name": "Five Nights at Freddy's: Security Breach",
-  "developer": "Steel Wool Studios",
-  "publisher": "ScottGames",
-  "tags": {
-    "Horror": 1116,
-    "Survival Horror": 969,
-    "Singleplayer": 945,
-    "Robots": 944,
-    "Stealth": 881,
-    "Exploration": 818,
-    "Multiple Endings": 816,
-    "First-Person": 807,
-    "3D": 682,
-    "Action": 624,
-    "Adventure": 603,
-    "Indie": 591,
-    "Artificial Intelligence": 551,
-    "Story Rich": 533,
-    "Thriller": 500,
-    "Action-Adventure": 441,
-    "Colorful": 417,
-    "Family Friendly": 324,
-    "Cartoony": 291,
-    "Atmospheric": 160
+  "Average Playtime - 2 Weeks": {
+    "app_id": 747660,
+    "average_2weeks": 13,
+    "average_forever": 928,
+    "median_2weeks": 13,
+    "median_forever": 1086
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 747660,
+    "average_2weeks": 13,
+    "average_forever": 928,
+    "median_2weeks": 13,
+    "median_forever": 1086
+  },
+  "CCU Histogram": {
+    "2022-12-08": 254,
+    "2022-12-09": 247,
+    "2022-12-10": 269,
+    "2022-12-13": 307,
+    "2022-12-15": 278,
+    "2022-12-18": 321,
+    "2022-12-21": 329,
+    "2022-12-22": 378
+  },
+  "Completion": 74.04999923706055,
+  "Down 30 Days": 128,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 7,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 7,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 5,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 7,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 7,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 4,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 7,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 7,
+      "recommendations_up": 153
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 11,
+      "recommendations_up": 241
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 10,
+      "recommendations_up": 147
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 115
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 122
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 96
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 747660,
+    "average_2weeks": 13,
+    "average_forever": 928,
+    "median_2weeks": 13,
+    "median_forever": 1086
+  },
+  "Median Playtime - Forever": {
+    "app_id": 747660,
+    "average_2weeks": 13,
+    "average_forever": 928,
+    "median_2weeks": 13,
+    "median_forever": 1086
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1598,
+  "User Score": -1,
+  "appid": 747660,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 33496,
-  "negative": 6318,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 374,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/747660/header.jpg?t=1666886782",
+  "consensus_genre": "Action",
+  "developer": "Steel Wool Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 41,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 28,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 41,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 30,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 24,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 26,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 33,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 26,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 33,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 27,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 31,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 28,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 28,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 36,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 153,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 241,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 147,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 115,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 122,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 96,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 63,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 52,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1598,
-  "Down 30 Days": 128,
-  "Completion": 74.04999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/747660/header.jpg?t=1666886782",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+  "name": "Five Nights at Freddy's: Security Breach",
+  "negative": 6318,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 33496,
+  "price": "3999",
+  "publisher": "ScottGames",
+  "release_date": "2021/12/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 682,
+    "Action": 624,
+    "Action-Adventure": 441,
+    "Adventure": 603,
+    "Artificial Intelligence": 551,
+    "Atmospheric": 160,
+    "Cartoony": 291,
+    "Colorful": 417,
+    "Exploration": 818,
+    "Family Friendly": 324,
+    "First-Person": 807,
+    "Horror": 1116,
+    "Indie": 591,
+    "Multiple Endings": 816,
+    "Robots": 944,
+    "Singleplayer": 945,
+    "Stealth": 881,
+    "Story Rich": 533,
+    "Survival Horror": 969,
+    "Thriller": 500
+  },
+  "type": "game"
 }

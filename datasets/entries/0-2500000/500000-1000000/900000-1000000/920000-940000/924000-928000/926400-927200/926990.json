@@ -1,31 +1,201 @@
 {
-  "appid": 926990,
-  "name": "WolfQuest: Anniversary Edition",
-  "developer": "eduweb",
-  "publisher": "eduweb",
-  "tags": {
-    "Early Access": 304,
-    "Life Sim": 276,
-    "Survival": 262,
-    "Co-op": 261,
-    "Multiplayer": 260,
-    "Open World": 257,
-    "PvE": 245,
-    "Online Co-Op": 241,
-    "RPG": 237,
-    "Nature": 225,
-    "Realistic": 168,
-    "Education": 164,
-    "Hunting": 162,
-    "Action": 161,
-    "Exploration": 157,
-    "Singleplayer": 154,
-    "Action RPG": 149,
-    "Simulation": 146,
-    "Immersive Sim": 139,
-    "Action-Adventure": 138
+  "Average Playtime - 2 Weeks": {
+    "app_id": 926990,
+    "average_2weeks": 0,
+    "average_forever": 875,
+    "median_2weeks": 0,
+    "median_forever": 1715
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 926990,
+    "average_2weeks": 0,
+    "average_forever": 875,
+    "median_2weeks": 0,
+    "median_forever": 1715
+  },
+  "CCU Histogram": {
+    "2022-12-08": 169,
+    "2022-12-09": 240,
+    "2022-12-10": 230,
+    "2022-12-13": 235,
+    "2022-12-15": 196,
+    "2022-12-18": 660,
+    "2022-12-21": 475,
+    "2022-12-22": 428
+  },
+  "Completion": 18.200000762939453,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 926990,
+    "average_2weeks": 0,
+    "average_forever": 875,
+    "median_2weeks": 0,
+    "median_forever": 1715
+  },
+  "Median Playtime - Forever": {
+    "app_id": 926990,
+    "average_2weeks": 0,
+    "average_forever": 875,
+    "median_2weeks": 0,
+    "median_forever": 1715
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 116,
+  "User Score": -1,
+  "appid": 926990,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,185 +204,53 @@
     "Full controller support",
     "Online Co-op"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 4746,
-  "negative": 145,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 240,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2019/07/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/926990/header.jpg?t=1657483655",
+  "consensus_genre": "Early Access",
+  "developer": "eduweb",
+  "discount": "0",
   "genre": [
     "Action",
     "RPG",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 116,
-  "Down 30 Days": 6,
-  "Completion": 18.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/926990/header.jpg?t=1657483655",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "WolfQuest: Anniversary Edition",
+  "negative": 145,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 4746,
+  "price": "1999",
+  "publisher": "eduweb",
+  "release_date": "2019/07/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 161,
+    "Action RPG": 149,
+    "Action-Adventure": 138,
+    "Co-op": 261,
+    "Early Access": 304,
+    "Education": 164,
+    "Exploration": 157,
+    "Hunting": 162,
+    "Immersive Sim": 139,
+    "Life Sim": 276,
+    "Multiplayer": 260,
+    "Nature": 225,
+    "Online Co-Op": 241,
+    "Open World": 257,
+    "PvE": 245,
+    "RPG": 237,
+    "Realistic": 168,
+    "Simulation": 146,
+    "Singleplayer": 154,
+    "Survival": 262
+  },
+  "type": "game"
 }

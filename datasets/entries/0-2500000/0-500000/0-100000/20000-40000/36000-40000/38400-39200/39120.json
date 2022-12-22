@@ -1,31 +1,201 @@
 {
-  "appid": 39120,
-  "name": "RIFT",
-  "developer": "gamigo US Inc.",
-  "publisher": "gamigo US Inc.",
-  "tags": {
-    "Free to Play": 913,
-    "MMORPG": 678,
-    "Massively Multiplayer": 482,
-    "RPG": 481,
-    "Fantasy": 340,
-    "Multiplayer": 295,
-    "Open World": 285,
-    "Adventure": 192,
-    "Action": 161,
-    "Co-op": 147,
-    "Character Customization": 145,
-    "PvP": 111,
-    "Online Co-Op": 106,
-    "Magic": 101,
-    "Crafting": 79,
-    "Survival": 76,
-    "Singleplayer": 69,
-    "Strategy": 65,
-    "First-Person": 43,
-    "FPS": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 39120,
+    "average_2weeks": 0,
+    "average_forever": 3406,
+    "median_2weeks": 0,
+    "median_forever": 278
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 39120,
+    "average_2weeks": 0,
+    "average_forever": 3406,
+    "median_2weeks": 0,
+    "median_forever": 278
+  },
+  "CCU Histogram": {
+    "2022-12-08": 161,
+    "2022-12-09": 173,
+    "2022-12-10": 173,
+    "2022-12-13": 145,
+    "2022-12-15": 160,
+    "2022-12-18": 185,
+    "2022-12-21": 158,
+    "2022-12-22": 173
+  },
+  "Completion": -1,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 39120,
+    "average_2weeks": 0,
+    "average_forever": 3406,
+    "median_2weeks": 0,
+    "median_forever": 278
+  },
+  "Median Playtime - Forever": {
+    "app_id": 39120,
+    "average_2weeks": 0,
+    "average_forever": 3406,
+    "median_2weeks": 0,
+    "median_forever": 278
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 18,
+  "User Score": -1,
+  "appid": 39120,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -36,184 +206,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 7944,
-  "negative": 2692,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 168,
-  "languages": "English, French, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/03/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/39120/header.jpg?t=1643298514",
+  "consensus_genre": "Free to Play",
+  "developer": "gamigo US Inc.",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 18,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/39120/header.jpg?t=1643298514",
+  "initialprice": "0",
+  "languages": "English, French, German",
+  "name": "RIFT",
+  "negative": 2692,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7944,
+  "price": "0",
+  "publisher": "gamigo US Inc.",
+  "release_date": "2011/03/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 161,
+    "Adventure": 192,
+    "Character Customization": 145,
+    "Co-op": 147,
+    "Crafting": 79,
+    "FPS": 26,
+    "Fantasy": 340,
+    "First-Person": 43,
+    "Free to Play": 913,
+    "MMORPG": 678,
+    "Magic": 101,
+    "Massively Multiplayer": 482,
+    "Multiplayer": 295,
+    "Online Co-Op": 106,
+    "Open World": 285,
+    "PvP": 111,
+    "RPG": 481,
+    "Singleplayer": 69,
+    "Strategy": 65,
+    "Survival": 76
+  },
+  "type": "game"
 }

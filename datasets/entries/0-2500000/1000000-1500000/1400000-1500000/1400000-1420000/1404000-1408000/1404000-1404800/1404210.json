@@ -1,31 +1,201 @@
 {
-  "appid": 1404210,
-  "name": "Red Dead Online",
-  "developer": "Rockstar Games",
-  "publisher": "Rockstar Games",
-  "tags": {
-    "Open World": 160,
-    "Multiplayer": 157,
-    "Action": 155,
-    "Western": 147,
-    "Adventure": 145,
-    "Horses": 118,
-    "Shooter": 113,
-    "Realistic": 102,
-    "Online Co-Op": 99,
-    "Third-Person Shooter": 97,
-    "PvP": 79,
-    "Character Customization": 57,
-    "Story Rich": 50,
-    "Singleplayer": 46,
-    "MMORPG": 38,
-    "Co-op": 37,
-    "Controller": 35,
-    "First-Person": 35,
-    "Violent": 34,
-    "Gore": 32
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1404210,
+    "average_2weeks": 200,
+    "average_forever": 2754,
+    "median_2weeks": 203,
+    "median_forever": 1082
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1404210,
+    "average_2weeks": 200,
+    "average_forever": 2754,
+    "median_2weeks": 203,
+    "median_forever": 1082
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2216,
+    "2022-12-09": 2452,
+    "2022-12-10": 2482,
+    "2022-12-13": 3333,
+    "2022-12-15": 2535,
+    "2022-12-18": 2775,
+    "2022-12-21": 3021,
+    "2022-12-22": 2758
+  },
+  "Completion": -1,
+  "Down 30 Days": 105,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 9,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 4,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 5,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 6,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 25
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1404210,
+    "average_2weeks": 200,
+    "average_forever": 2754,
+    "median_2weeks": 203,
+    "median_forever": 1082
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1404210,
+    "average_2weeks": 200,
+    "average_forever": 2754,
+    "median_2weeks": 203,
+    "median_forever": 1082
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 756,
+  "User Score": -1,
+  "appid": 1404210,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -38,183 +208,51 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 41587,
-  "negative": 7759,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 2814,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1404210/header.jpg?t=1656615218",
+  "consensus_genre": "Action",
+  "developer": "Rockstar Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 32,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 20,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 28,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 15,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 21,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 34,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 29,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 22,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 23,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 48,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 64,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 42,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 32,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 53,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 36,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 28,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 25,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 756,
-  "Down 30 Days": 105,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1404210/header.jpg?t=1656615218",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Red Dead Online",
+  "negative": 7759,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 41587,
+  "price": "1999",
+  "publisher": "Rockstar Games",
+  "release_date": "2020/12/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 155,
+    "Adventure": 145,
+    "Character Customization": 57,
+    "Co-op": 37,
+    "Controller": 35,
+    "First-Person": 35,
+    "Gore": 32,
+    "Horses": 118,
+    "MMORPG": 38,
+    "Multiplayer": 157,
+    "Online Co-Op": 99,
+    "Open World": 160,
+    "PvP": 79,
+    "Realistic": 102,
+    "Shooter": 113,
+    "Singleplayer": 46,
+    "Story Rich": 50,
+    "Third-Person Shooter": 97,
+    "Violent": 34,
+    "Western": 147
+  },
+  "type": "game"
 }

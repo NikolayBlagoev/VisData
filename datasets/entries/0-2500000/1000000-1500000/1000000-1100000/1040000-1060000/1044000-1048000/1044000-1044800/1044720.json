@@ -1,213 +1,251 @@
 {
-  "appid": 1044720,
-  "name": "Farthest Frontier",
-  "developer": "Crate Entertainment",
-  "publisher": "Crate Entertainment",
-  "tags": {
-    "Early Access": 524,
-    "City Builder": 476,
-    "Survival": 457,
-    "Colony Sim": 418,
-    "Strategy": 394,
-    "Building": 364,
-    "Simulation": 347,
-    "Military": 344,
-    "Sandbox": 328,
-    "Singleplayer": 326,
-    "RTS": 307,
-    "Resource Management": 307,
-    "Management": 299,
-    "Realistic": 297,
-    "Old School": 294,
-    "Open World Survival Craft": 287,
-    "Immersive Sim": 286,
-    "3D": 285,
-    "Alternate History": 276,
-    "4X": 271
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1044720,
+    "average_2weeks": 550,
+    "average_forever": 1329,
+    "median_2weeks": 550,
+    "median_forever": 1146
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1044720,
+    "average_2weeks": 550,
+    "average_forever": 1329,
+    "median_2weeks": 550,
+    "median_forever": 1146
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2410,
+    "2022-12-09": 2315,
+    "2022-12-10": 2303,
+    "2022-12-13": 2051,
+    "2022-12-15": 1861,
+    "2022-12-18": 1901,
+    "2022-12-21": 1756,
+    "2022-12-22": 1689
+  },
+  "Completion": -1,
+  "Down 30 Days": 112,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 5,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 8,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 5,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 7,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 7,
+      "recommendations_up": 81
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 152
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 8,
+      "recommendations_up": 67
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1044720,
+    "average_2weeks": 550,
+    "average_forever": 1329,
+    "median_2weeks": 550,
+    "median_forever": 1146
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1044720,
+    "average_2weeks": 550,
+    "average_forever": 1329,
+    "median_2weeks": 550,
+    "median_forever": 1146
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 961,
+  "User Score": -1,
+  "appid": 1044720,
   "categories": [
     "Single-player"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 7374,
-  "negative": 1279,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 2353,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1044720/header.jpg?t=1660235278",
+  "consensus_genre": "Early Access",
+  "developer": "Crate Entertainment",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 13,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 24,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 17,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 20,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 81,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 152,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 97,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 62,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 75,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 72,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 67,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 48,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 961,
-  "Down 30 Days": 112,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1044720/header.jpg?t=1660235278",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Japanese",
+  "name": "Farthest Frontier",
+  "negative": 1279,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7374,
+  "price": "2999",
+  "publisher": "Crate Entertainment",
+  "release_date": "2022/08/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 285,
+    "4X": 271,
+    "Alternate History": 276,
+    "Building": 364,
+    "City Builder": 476,
+    "Colony Sim": 418,
+    "Early Access": 524,
+    "Immersive Sim": 286,
+    "Management": 299,
+    "Military": 344,
+    "Old School": 294,
+    "Open World Survival Craft": 287,
+    "RTS": 307,
+    "Realistic": 297,
+    "Resource Management": 307,
+    "Sandbox": 328,
+    "Simulation": 347,
+    "Singleplayer": 326,
+    "Strategy": 394,
+    "Survival": 457
+  },
+  "type": "game"
 }

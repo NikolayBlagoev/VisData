@@ -1,31 +1,201 @@
 {
-  "appid": 1511780,
-  "name": "Last Call BBS",
-  "developer": "Zachtronics",
-  "publisher": "Zachtronics",
-  "tags": {
-    "Puzzle": 215,
-    "Automation": 207,
-    "Retro": 205,
-    "1990's": 201,
-    "Solitaire": 193,
-    "Sandbox": 182,
-    "Logic": 177,
-    "Pixel Graphics": 169,
-    "Building": 159,
-    "Mechs": 150,
-    "PvP": 137,
-    "Card Game": 126,
-    "Arcade": 125,
-    "Simulation": 119,
-    "2D": 112,
-    "Casual": 78,
-    "Old School": 63,
-    "Multiplayer": 45,
-    "Singleplayer": 29,
-    "Local Multiplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1511780,
+    "average_2weeks": 0,
+    "average_forever": 182,
+    "median_2weeks": 0,
+    "median_forever": 182
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1511780,
+    "average_2weeks": 0,
+    "average_forever": 182,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "CCU Histogram": {
+    "2022-12-08": 61,
+    "2022-12-09": 64,
+    "2022-12-10": 56,
+    "2022-12-13": 61,
+    "2022-12-15": 46,
+    "2022-12-18": 41,
+    "2022-12-21": 41,
+    "2022-12-22": 46
+  },
+  "Completion": 26.399999618530273,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1511780,
+    "average_2weeks": 0,
+    "average_forever": 182,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1511780,
+    "average_2weeks": 0,
+    "average_forever": 182,
+    "median_2weeks": 0,
+    "median_forever": 182
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 154,
+  "User Score": -1,
+  "appid": 1511780,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,183 +205,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 470,
-  "negative": 18,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 48,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/08/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1511780/header.jpg?t=1659547275",
+  "consensus_genre": "Simulation",
+  "developer": "Zachtronics",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 154,
-  "Down 30 Days": 0,
-  "Completion": 26.399999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1511780/header.jpg?t=1659547275",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Last Call BBS",
+  "negative": 18,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 470,
+  "price": "1999",
+  "publisher": "Zachtronics",
+  "release_date": "2022/08/3",
+  "required_age": 0,
+  "tags": {
+    "1990's": 201,
+    "2D": 112,
+    "Arcade": 125,
+    "Automation": 207,
+    "Building": 159,
+    "Card Game": 126,
+    "Casual": 78,
+    "Local Multiplayer": 25,
+    "Logic": 177,
+    "Mechs": 150,
+    "Multiplayer": 45,
+    "Old School": 63,
+    "Pixel Graphics": 169,
+    "Puzzle": 215,
+    "PvP": 137,
+    "Retro": 205,
+    "Sandbox": 182,
+    "Simulation": 119,
+    "Singleplayer": 29,
+    "Solitaire": 193
+  },
+  "type": "game"
 }

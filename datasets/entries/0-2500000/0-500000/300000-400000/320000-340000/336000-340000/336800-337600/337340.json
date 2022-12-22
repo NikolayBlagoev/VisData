@@ -1,215 +1,253 @@
 {
-  "appid": 337340,
-  "name": "Finding Paradise",
-  "developer": "Freebird Games",
-  "publisher": "Freebird Games",
-  "tags": {
-    "Story Rich": 286,
-    "Great Soundtrack": 226,
-    "Pixel Graphics": 172,
-    "RPGMaker": 164,
-    "Indie": 161,
-    "Singleplayer": 141,
-    "Adventure": 117,
-    "RPG": 104,
-    "Atmospheric": 102,
-    "Emotional": 100,
-    "Visual Novel": 64,
-    "2D": 60,
-    "Interactive Fiction": 49,
-    "Comedy": 34,
-    "Walking Simulator": 27,
-    "Funny": 25,
-    "Retro": 16,
-    "Female Protagonist": 15,
-    "Point & Click": 10,
-    "Horror": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 337340,
+    "average_2weeks": 0,
+    "average_forever": 220,
+    "median_2weeks": 0,
+    "median_forever": 224
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 337340,
+    "average_2weeks": 0,
+    "average_forever": 220,
+    "median_2weeks": 0,
+    "median_forever": 224
+  },
+  "CCU Histogram": {
+    "2022-12-08": 54,
+    "2022-12-09": 25,
+    "2022-12-10": 21,
+    "2022-12-13": 41,
+    "2022-12-15": 20,
+    "2022-12-18": 25,
+    "2022-12-21": 20,
+    "2022-12-22": 18
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 337340,
+    "average_2weeks": 0,
+    "average_forever": 220,
+    "median_2weeks": 0,
+    "median_forever": 224
+  },
+  "Median Playtime - Forever": {
+    "app_id": 337340,
+    "average_2weeks": 0,
+    "average_forever": 220,
+    "median_2weeks": 0,
+    "median_forever": 224
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 126,
+  "User Score": -1,
+  "appid": 337340,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 13881,
-  "negative": 300,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 23,
-  "languages": "English, Simplified Chinese, Polish, Ukrainian, Spanish - Spain, Korean, Italian, Portuguese - Brazil, Czech, Russian, German, Turkish, Hungarian, French, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2017/12/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/337340/header.jpg?t=1603658322",
+  "consensus_genre": "Indie",
+  "developer": "Freebird Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 126,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/337340/header.jpg?t=1603658322",
+  "initialprice": "999",
+  "languages": "English, Simplified Chinese, Polish, Ukrainian, Spanish - Spain, Korean, Italian, Portuguese - Brazil, Czech, Russian, German, Turkish, Hungarian, French, Spanish - Latin America",
+  "name": "Finding Paradise",
+  "negative": 300,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 13881,
+  "price": "999",
+  "publisher": "Freebird Games",
+  "release_date": "2017/12/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 60,
+    "Adventure": 117,
+    "Atmospheric": 102,
+    "Comedy": 34,
+    "Emotional": 100,
+    "Female Protagonist": 15,
+    "Funny": 25,
+    "Great Soundtrack": 226,
+    "Horror": 9,
+    "Indie": 161,
+    "Interactive Fiction": 49,
+    "Pixel Graphics": 172,
+    "Point & Click": 10,
+    "RPG": 104,
+    "RPGMaker": 164,
+    "Retro": 16,
+    "Singleplayer": 141,
+    "Story Rich": 286,
+    "Visual Novel": 64,
+    "Walking Simulator": 27
+  },
+  "type": "game"
 }

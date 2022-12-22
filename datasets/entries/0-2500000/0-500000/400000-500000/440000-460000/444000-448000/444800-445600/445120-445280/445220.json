@@ -1,31 +1,201 @@
 {
-  "appid": 445220,
-  "name": "Avorion",
-  "developer": "Boxelware",
-  "publisher": "Boxelware",
-  "tags": {
-    "Exploration": 424,
-    "Flight": 414,
-    "Building": 413,
-    "Choose Your Own Adventure": 412,
-    "Sandbox": 412,
-    "Space Sim": 409,
-    "PvE": 403,
-    "3D": 395,
-    "Third Person": 394,
-    "Open World": 393,
-    "Simulation": 380,
-    "Sci-fi": 378,
-    "Economy": 372,
-    "Space": 371,
-    "Voxel": 328,
-    "Spaceships": 313,
-    "Management": 308,
-    "Trading": 301,
-    "Vehicular Combat": 288,
-    "Action RPG": 287
+  "Average Playtime - 2 Weeks": {
+    "app_id": 445220,
+    "average_2weeks": 1702,
+    "average_forever": 2947,
+    "median_2weeks": 3036,
+    "median_forever": 1356
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 445220,
+    "average_2weeks": 1702,
+    "average_forever": 2947,
+    "median_2weeks": 3036,
+    "median_forever": 1356
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1128,
+    "2022-12-09": 1112,
+    "2022-12-10": 1149,
+    "2022-12-13": 1038,
+    "2022-12-15": 933,
+    "2022-12-18": 955,
+    "2022-12-21": 936,
+    "2022-12-22": 898
+  },
+  "Completion": 39.25,
+  "Down 30 Days": 18,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 445220,
+    "average_2weeks": 1702,
+    "average_forever": 2947,
+    "median_2weeks": 3036,
+    "median_forever": 1356
+  },
+  "Median Playtime - Forever": {
+    "app_id": 445220,
+    "average_2weeks": 1702,
+    "average_forever": 2947,
+    "median_2weeks": 3036,
+    "median_forever": 1356
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 88,
+  "User Score": -1,
+  "appid": 445220,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -42,184 +212,52 @@
     "LAN Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 9914,
-  "negative": 1038,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 838,
-  "languages": "English, German, Spanish - Spain, Russian, Simplified Chinese, Spanish - Latin America, French, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/03/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/445220/header.jpg?t=1659618105",
+  "consensus_genre": "Simulation",
+  "developer": "Boxelware",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 88,
-  "Down 30 Days": 18,
-  "Completion": 39.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/445220/header.jpg?t=1659618105",
+  "initialprice": "2499",
+  "languages": "English, German, Spanish - Spain, Russian, Simplified Chinese, Spanish - Latin America, French, Japanese",
+  "name": "Avorion",
+  "negative": 1038,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 9914,
+  "price": "2499",
+  "publisher": "Boxelware",
+  "release_date": "2020/03/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 395,
+    "Action RPG": 287,
+    "Building": 413,
+    "Choose Your Own Adventure": 412,
+    "Economy": 372,
+    "Exploration": 424,
+    "Flight": 414,
+    "Management": 308,
+    "Open World": 393,
+    "PvE": 403,
+    "Sandbox": 412,
+    "Sci-fi": 378,
+    "Simulation": 380,
+    "Space": 371,
+    "Space Sim": 409,
+    "Spaceships": 313,
+    "Third Person": 394,
+    "Trading": 301,
+    "Vehicular Combat": 288,
+    "Voxel": 328
+  },
+  "type": "game"
 }

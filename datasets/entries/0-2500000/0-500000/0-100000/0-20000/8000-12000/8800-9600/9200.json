@@ -1,31 +1,201 @@
 {
-  "appid": 9200,
-  "name": "RAGE",
-  "developer": "id Software",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "FPS": 577,
-    "Post-apocalyptic": 530,
-    "Action": 419,
-    "Open World": 317,
-    "Shooter": 301,
-    "Singleplayer": 218,
-    "First-Person": 204,
-    "Racing": 190,
-    "Co-op": 154,
-    "Multiplayer": 151,
-    "Sci-fi": 149,
-    "Atmospheric": 138,
-    "Gore": 137,
-    "Adventure": 129,
-    "RPG": 122,
-    "Horror": 91,
-    "Survival": 80,
-    "Crafting": 79,
-    "Linear": 69,
-    "Online Co-Op": 67
+  "Average Playtime - 2 Weeks": {
+    "app_id": 9200,
+    "average_2weeks": 0,
+    "average_forever": 690,
+    "median_2weeks": 0,
+    "median_forever": 312
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 9200,
+    "average_2weeks": 0,
+    "average_forever": 690,
+    "median_2weeks": 0,
+    "median_forever": 312
+  },
+  "CCU Histogram": {
+    "2022-12-08": 62,
+    "2022-12-09": 69,
+    "2022-12-10": 64,
+    "2022-12-13": 95,
+    "2022-12-15": 62,
+    "2022-12-18": 59,
+    "2022-12-21": 61,
+    "2022-12-22": 81
+  },
+  "Completion": 37.04999923706055,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 9200,
+    "average_2weeks": 0,
+    "average_forever": 690,
+    "median_2weeks": 0,
+    "median_forever": 312
+  },
+  "Median Playtime - Forever": {
+    "app_id": 9200,
+    "average_2weeks": 0,
+    "average_forever": 690,
+    "median_2weeks": 0,
+    "median_forever": 312
+  },
+  "Meta Score": "79",
+  "Rating": "ESRB M",
+  "Up 30 Days": 38,
+  "User Score": -1,
+  "appid": 9200,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,182 +203,50 @@
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 12391,
-  "negative": 3699,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 103,
-  "languages": "English, Czech, French, German, Italian, Japanese, Polish, Russian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/10/3",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/9200/header.jpg?t=1572025865",
+  "consensus_genre": "Action",
+  "developer": "id Software",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "79",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 38,
-  "Down 30 Days": 8,
-  "Completion": 37.04999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/9200/header.jpg?t=1572025865",
+  "initialprice": "999",
+  "languages": "English, Czech, French, German, Italian, Japanese, Polish, Russian, Spanish - Spain",
+  "name": "RAGE",
+  "negative": 3699,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12391,
+  "price": "999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2011/10/3",
+  "required_age": "15",
+  "tags": {
+    "Action": 419,
+    "Adventure": 129,
+    "Atmospheric": 138,
+    "Co-op": 154,
+    "Crafting": 79,
+    "FPS": 577,
+    "First-Person": 204,
+    "Gore": 137,
+    "Horror": 91,
+    "Linear": 69,
+    "Multiplayer": 151,
+    "Online Co-Op": 67,
+    "Open World": 317,
+    "Post-apocalyptic": 530,
+    "RPG": 122,
+    "Racing": 190,
+    "Sci-fi": 149,
+    "Shooter": 301,
+    "Singleplayer": 218,
+    "Survival": 80
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1088790,
-  "name": "Rebel Inc: Escalation",
-  "developer": "Ndemic Creations",
-  "publisher": "Ndemic Creations",
-  "tags": {
-    "Strategy": 138,
-    "Simulation": 122,
-    "Casual": 102,
-    "Indie": 92,
-    "Political Sim": 91,
-    "Military": 46,
-    "Political": 45,
-    "War": 43,
-    "Management": 35,
-    "Tactical": 33,
-    "Diplomacy": 29,
-    "Singleplayer": 28,
-    "RTS": 25,
-    "Realistic": 25,
-    "Real-Time with Pause": 24,
-    "Addictive": 21,
-    "Sandbox": 21,
-    "Great Soundtrack": 19,
-    "Replay Value": 19,
-    "Economy": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1088790,
+    "average_2weeks": 1,
+    "average_forever": 273,
+    "median_2weeks": 1,
+    "median_forever": 158
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1088790,
+    "average_2weeks": 1,
+    "average_forever": 273,
+    "median_2weeks": 1,
+    "median_forever": 158
+  },
+  "CCU Histogram": {
+    "2022-12-08": 137,
+    "2022-12-09": 124,
+    "2022-12-10": 117,
+    "2022-12-13": 113,
+    "2022-12-15": 103,
+    "2022-12-18": 96,
+    "2022-12-21": 85,
+    "2022-12-22": 106
+  },
+  "Completion": 29.299999237060547,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1088790,
+    "average_2weeks": 1,
+    "average_forever": 273,
+    "median_2weeks": 1,
+    "median_forever": 158
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1088790,
+    "average_2weeks": 1,
+    "average_forever": 273,
+    "median_2weeks": 1,
+    "median_forever": 158
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 59,
+  "User Score": -1,
+  "appid": 1088790,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,185 +210,53 @@
     "Steam Workshop",
     "Online Co-op"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 3728,
-  "negative": 745,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 41,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/10/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1088790/header.jpg?t=1663260504",
+  "consensus_genre": "Strategy",
+  "developer": "Ndemic Creations",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 59,
-  "Down 30 Days": 10,
-  "Completion": 29.299999237060547,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1088790/header.jpg?t=1663260504",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+  "name": "Rebel Inc: Escalation",
+  "negative": 745,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3728,
+  "price": "1499",
+  "publisher": "Ndemic Creations",
+  "release_date": "2021/10/13",
+  "required_age": 0,
+  "tags": {
+    "Addictive": 21,
+    "Casual": 102,
+    "Diplomacy": 29,
+    "Economy": 15,
+    "Great Soundtrack": 19,
+    "Indie": 92,
+    "Management": 35,
+    "Military": 46,
+    "Political": 45,
+    "Political Sim": 91,
+    "RTS": 25,
+    "Real-Time with Pause": 24,
+    "Realistic": 25,
+    "Replay Value": 19,
+    "Sandbox": 21,
+    "Simulation": 122,
+    "Singleplayer": 28,
+    "Strategy": 138,
+    "Tactical": 33,
+    "War": 43
+  },
+  "type": "game"
 }

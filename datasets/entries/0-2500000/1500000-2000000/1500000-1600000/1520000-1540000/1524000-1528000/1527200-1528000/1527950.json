@@ -1,52 +1,210 @@
 {
-  "appid": 1527950,
-  "name": "Wartales",
-  "developer": "Shiro Games",
-  "publisher": "Shiro Unlimited",
-  "tags": {
-    "RPG": 219,
-    "Open World": 197,
-    "Turn-Based Strategy": 172,
-    "Adventure": 138,
-    "Medieval": 125,
-    "Strategy": 111,
-    "Exploration": 100,
-    "Singleplayer": 98,
-    "Tactical RPG": 89,
-    "Early Access": 80,
-    "Turn-Based Combat": 72,
-    "Survival": 66,
-    "Indie": 61,
-    "Sandbox": 61,
-    "Story Rich": 56,
-    "Violent": 50,
-    "Turn-Based": 49,
-    "3D": 48,
-    "Fantasy": 47,
-    "Tactical": 44
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1527950,
+    "average_2weeks": 0,
+    "average_forever": 1970,
+    "median_2weeks": 0,
+    "median_forever": 999
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1527950,
+    "average_2weeks": 0,
+    "average_forever": 1970,
+    "median_2weeks": 0,
+    "median_forever": 999
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1441,
+    "2022-12-09": 1478,
+    "2022-12-10": 1453,
+    "2022-12-13": 1848,
+    "2022-12-15": 1295,
+    "2022-12-18": 1581,
+    "2022-12-21": 2246,
+    "2022-12-22": 2729
+  },
+  "Completion": 37.85000038146973,
+  "Down 30 Days": 40,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1527950,
+    "average_2weeks": 0,
+    "average_forever": 1970,
+    "median_2weeks": 0,
+    "median_forever": 999
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1527950,
+    "average_2weeks": 0,
+    "average_forever": 1970,
+    "median_2weeks": 0,
+    "median_forever": 999
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 287,
+  "User Score": -1,
+  "appid": 1527950,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 7264,
-  "negative": 703,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
   "ccu": 1691,
-  "languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header_alt_assets_0.jpg?t=1665583695",
+  "consensus_genre": "RPG",
+  "developer": "Shiro Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
@@ -54,163 +212,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 287,
-  "Down 30 Days": 40,
-  "Completion": 37.85000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header_alt_assets_0.jpg?t=1665583695",
+  "initialprice": "3499",
+  "languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Wartales",
+  "negative": 703,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7264,
+  "price": "3499",
+  "publisher": "Shiro Unlimited",
+  "release_date": "2021/12/1",
+  "required_age": 0,
+  "tags": {
+    "3D": 48,
+    "Adventure": 138,
+    "Early Access": 80,
+    "Exploration": 100,
+    "Fantasy": 47,
+    "Indie": 61,
+    "Medieval": 125,
+    "Open World": 197,
+    "RPG": 219,
+    "Sandbox": 61,
+    "Singleplayer": 98,
+    "Story Rich": 56,
+    "Strategy": 111,
+    "Survival": 66,
+    "Tactical": 44,
+    "Tactical RPG": 89,
+    "Turn-Based": 49,
+    "Turn-Based Combat": 72,
+    "Turn-Based Strategy": 172,
+    "Violent": 50
+  },
+  "type": "game"
 }

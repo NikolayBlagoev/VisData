@@ -1,212 +1,250 @@
 {
-  "appid": 330840,
-  "name": "Game of Thrones - A Telltale Games Series",
-  "developer": "Telltale Games",
-  "publisher": "Telltale Games",
-  "tags": {
-    "Story Rich": 343,
-    "Episodic": 293,
-    "Adventure": 249,
-    "Choices Matter": 216,
-    "Fantasy": 206,
-    "Point & Click": 183,
-    "Singleplayer": 172,
-    "Atmospheric": 159,
-    "Medieval": 119,
-    "Choose Your Own Adventure": 111,
-    "Interactive Fiction": 109,
-    "Based On A Novel": 103,
-    "Mature": 93,
-    "Nudity": 56,
-    "Gore": 51,
-    "Female Protagonist": 46,
-    "Dragons": 41,
-    "War": 34,
-    "Casual": 32,
-    "Third Person": 30
+  "Average Playtime - 2 Weeks": {
+    "app_id": 330840,
+    "average_2weeks": 0,
+    "average_forever": 823,
+    "median_2weeks": 0,
+    "median_forever": 895
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 330840,
+    "average_2weeks": 0,
+    "average_forever": 823,
+    "median_2weeks": 0,
+    "median_forever": 895
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 9,
+    "2022-12-10": 11,
+    "2022-12-13": 13,
+    "2022-12-15": 8,
+    "2022-12-18": 7,
+    "2022-12-21": 8,
+    "2022-12-22": 5
+  },
+  "Completion": 77.75,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 330840,
+    "average_2weeks": 0,
+    "average_forever": 823,
+    "median_2weeks": 0,
+    "median_forever": 895
+  },
+  "Median Playtime - Forever": {
+    "app_id": 330840,
+    "average_2weeks": 0,
+    "average_forever": 823,
+    "median_2weeks": 0,
+    "median_forever": 895
+  },
+  "Meta Score": "64",
+  "Rating": "ESRB M",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 330840,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 8002,
-  "negative": 2528,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 13,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2014/12/2",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/330840/header.jpg?t=1555446231",
+  "consensus_genre": "Adventure",
+  "developer": "Telltale Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "64",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 2,
-  "Completion": 77.75,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/330840/header.jpg?t=1555446231",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Game of Thrones - A Telltale Games Series",
+  "negative": 2528,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 8002,
+  "price": "0",
+  "publisher": "Telltale Games",
+  "release_date": "2014/12/2",
+  "required_age": "15",
+  "tags": {
+    "Adventure": 249,
+    "Atmospheric": 159,
+    "Based On A Novel": 103,
+    "Casual": 32,
+    "Choices Matter": 216,
+    "Choose Your Own Adventure": 111,
+    "Dragons": 41,
+    "Episodic": 293,
+    "Fantasy": 206,
+    "Female Protagonist": 46,
+    "Gore": 51,
+    "Interactive Fiction": 109,
+    "Mature": 93,
+    "Medieval": 119,
+    "Nudity": 56,
+    "Point & Click": 183,
+    "Singleplayer": 172,
+    "Story Rich": 343,
+    "Third Person": 30,
+    "War": 34
+  },
+  "type": "game"
 }

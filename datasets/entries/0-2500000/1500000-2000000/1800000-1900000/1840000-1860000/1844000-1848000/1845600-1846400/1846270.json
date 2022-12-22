@@ -1,65 +1,103 @@
 {
-  "appid": 1846270,
-  "name": "Re;quartz\u96f6\u5ea6",
-  "developer": "B-cluster",
-  "publisher": "B-cluster",
-  "tags": {
-    "Adventure": 294,
-    "Visual Novel": 268,
-    "Dating Sim": 264,
-    "2D Platformer": 259,
-    "Choose Your Own Adventure": 253,
-    "Text-Based": 243,
-    "Dark Fantasy": 236,
-    "Dystopian ": 228,
-    "Drama": 219,
-    "Fantasy": 209,
-    "Mystery": 199,
-    "Romance": 188,
-    "Faith": 174,
-    "Psychological": 173,
-    "Emotional": 158,
-    "Alternate History": 142,
-    "Crime": 125,
-    "Psychological Horror": 107,
-    "Atmospheric": 88,
-    "Story Rich": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1846270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English, Not supported, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1846270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/08/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1846270/header.jpg?t=1660307457",
-  "genre": [
-    "Adventure"
-  ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1846270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1846270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1846270,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Adventure",
+  "developer": "B-cluster",
+  "discount": "0",
+  "genre": [
+    "Adventure"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1846270/header.jpg?t=1660307457",
+  "initialprice": "3499",
+  "languages": "English, Not supported, Japanese",
+  "name": "Re;quartz\u96f6\u5ea6",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "3499",
+  "publisher": "B-cluster",
+  "release_date": "2022/08/12",
+  "required_age": 0,
+  "tags": {
+    "2D Platformer": 259,
+    "Adventure": 294,
+    "Alternate History": 142,
+    "Atmospheric": 88,
+    "Choose Your Own Adventure": 253,
+    "Crime": 125,
+    "Dark Fantasy": 236,
+    "Dating Sim": 264,
+    "Drama": 219,
+    "Dystopian ": 228,
+    "Emotional": 158,
+    "Faith": 174,
+    "Fantasy": 209,
+    "Mystery": 199,
+    "Psychological": 173,
+    "Psychological Horror": 107,
+    "Romance": 188,
+    "Story Rich": 68,
+    "Text-Based": 243,
+    "Visual Novel": 268
+  },
+  "type": "game"
 }

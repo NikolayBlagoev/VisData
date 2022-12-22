@@ -1,130 +1,168 @@
 {
-  "appid": 1887260,
-  "name": "Timberman VR - Halloween Party",
-  "developer": "GameFormatic S.A.",
-  "publisher": "PlayWay S.A.",
-  "tags": {
-    "VR": 94,
-    "Casual": 87,
-    "Arcade": 84,
-    "Action": 81,
-    "Score Attack": 78,
-    "Rhythm": 72,
-    "Fast-Paced": 70,
-    "FPS": 68,
-    "Singleplayer": 66,
-    "Sports": 64,
-    "Colorful": 62,
-    "Clicker": 60,
-    "3D": 58,
-    "Ninja": 56,
-    "Indie": 54,
-    "Difficult": 49,
-    "Funny": 47,
-    "Online Co-Op": 45,
-    "Cartoony": 43,
-    "Comedy": 41,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1887260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1887260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 89.79999923706055,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1887260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1887260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1887260,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 6,
-  "negative": 2,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1887260/header.jpg?t=1667898908",
+  "consensus_genre": "Casual",
+  "developer": "GameFormatic S.A.",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 3,
-  "Completion": 89.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1887260/header.jpg?t=1667898908",
+  "initialprice": "799",
+  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Traditional Chinese",
+  "name": "Timberman VR - Halloween Party",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6,
+  "price": "799",
+  "publisher": "PlayWay S.A.",
+  "release_date": "2022/08/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 58,
+    "Action": 81,
+    "Arcade": 84,
+    "Cartoony": 43,
+    "Casual": 87,
+    "Clicker": 60,
+    "Colorful": 62,
+    "Comedy": 41,
+    "Difficult": 49,
+    "FPS": 68,
+    "Fast-Paced": 70,
+    "Funny": 47,
+    "Indie": 54,
+    "Ninja": 56,
+    "Online Co-Op": 45,
+    "Rhythm": 72,
+    "Score Attack": 78,
+    "Singleplayer": 66,
+    "Sports": 64,
+    "VR": 94,
+    "VR Only": 1
+  },
+  "type": "game"
 }

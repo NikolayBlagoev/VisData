@@ -1,214 +1,252 @@
 {
-  "appid": 310080,
-  "name": "Hatoful Boyfriend",
-  "developer": "Mediatonic, Hato Moa",
-  "publisher": "Epic Games",
-  "tags": {
-    "Visual Novel": 431,
-    "Anime": 379,
-    "Dating Sim": 378,
-    "Female Protagonist": 345,
-    "Story Rich": 257,
-    "Comedy": 211,
-    "Otome": 204,
-    "Romance": 192,
-    "Multiple Endings": 183,
-    "Singleplayer": 144,
-    "Indie": 135,
-    "Simulation": 130,
-    "Funny": 108,
-    "Casual": 102,
-    "Great Soundtrack": 83,
-    "Parody ": 78,
-    "Memes": 69,
-    "Mystery": 62,
-    "Illuminati": 28,
-    "Adventure": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 310080,
+    "average_2weeks": 0,
+    "average_forever": 769,
+    "median_2weeks": 0,
+    "median_forever": 207
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 310080,
+    "average_2weeks": 0,
+    "average_forever": 769,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "CCU Histogram": {
+    "2022-12-08": 18,
+    "2022-12-09": 13,
+    "2022-12-10": 10,
+    "2022-12-13": 12,
+    "2022-12-15": 14,
+    "2022-12-18": 12,
+    "2022-12-21": 7,
+    "2022-12-22": 12
+  },
+  "Completion": 29.100000381469727,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 310080,
+    "average_2weeks": 0,
+    "average_forever": 769,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "Median Playtime - Forever": {
+    "app_id": 310080,
+    "average_2weeks": 0,
+    "average_forever": 769,
+    "median_2weeks": 0,
+    "median_forever": 207
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 28,
+  "User Score": -1,
+  "appid": 310080,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 6401,
-  "negative": 421,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 9,
-  "languages": "English, Japanese, French, Italian, German, Spanish - Spain, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/09/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310080/header.jpg?t=1646934291",
+  "consensus_genre": "Indie",
+  "developer": "Mediatonic, Hato Moa",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 28,
-  "Down 30 Days": 2,
-  "Completion": 29.100000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310080/header.jpg?t=1646934291",
+  "initialprice": "999",
+  "languages": "English, Japanese, French, Italian, German, Spanish - Spain, Russian",
+  "name": "Hatoful Boyfriend",
+  "negative": 421,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 6401,
+  "price": "999",
+  "publisher": "Epic Games",
+  "release_date": "2014/09/4",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 18,
+    "Anime": 379,
+    "Casual": 102,
+    "Comedy": 211,
+    "Dating Sim": 378,
+    "Female Protagonist": 345,
+    "Funny": 108,
+    "Great Soundtrack": 83,
+    "Illuminati": 28,
+    "Indie": 135,
+    "Memes": 69,
+    "Multiple Endings": 183,
+    "Mystery": 62,
+    "Otome": 204,
+    "Parody ": 78,
+    "Romance": 192,
+    "Simulation": 130,
+    "Singleplayer": 144,
+    "Story Rich": 257,
+    "Visual Novel": 431
+  },
+  "type": "game"
 }

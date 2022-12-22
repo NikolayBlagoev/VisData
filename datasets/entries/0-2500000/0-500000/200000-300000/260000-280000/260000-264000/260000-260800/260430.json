@@ -1,31 +1,201 @@
 {
-  "appid": 260430,
-  "name": "The Four Kings Casino and Slots",
-  "developer": "Digital Leisure Inc.",
-  "publisher": "Digital Leisure Inc.",
-  "tags": {
-    "Free to Play": 193,
-    "Card Game": 185,
-    "Gambling": 185,
-    "Simulation": 181,
-    "Casual": 177,
-    "Massively Multiplayer": 167,
-    "Multiplayer": 123,
-    "Character Customization": 104,
-    "Relaxing": 94,
-    "Replay Value": 85,
-    "Open World": 84,
-    "3D": 82,
-    "Indie": 82,
-    "Controller": 80,
-    "Third Person": 77,
-    "PvP": 76,
-    "PvE": 73,
-    "Gaming": 70,
-    "Early Access": 68,
-    "War": 38
+  "Average Playtime - 2 Weeks": {
+    "app_id": 260430,
+    "average_2weeks": 65,
+    "average_forever": 188,
+    "median_2weeks": 65,
+    "median_forever": 50
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 260430,
+    "average_2weeks": 65,
+    "average_forever": 188,
+    "median_2weeks": 65,
+    "median_forever": 50
+  },
+  "CCU Histogram": {
+    "2022-12-08": 44,
+    "2022-12-09": 51,
+    "2022-12-10": 57,
+    "2022-12-13": 58,
+    "2022-12-15": 51,
+    "2022-12-18": 57,
+    "2022-12-21": 71,
+    "2022-12-22": 60
+  },
+  "Completion": 7.700000047683716,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 260430,
+    "average_2weeks": 65,
+    "average_forever": 188,
+    "median_2weeks": 65,
+    "median_forever": 50
+  },
+  "Median Playtime - Forever": {
+    "app_id": 260430,
+    "average_2weeks": 65,
+    "average_forever": 188,
+    "median_2weeks": 65,
+    "median_forever": 50
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 6,
+  "User Score": -1,
+  "appid": 260430,
   "categories": [
     "Multi-player",
     "Valve Anti-Cheat enabled",
@@ -37,185 +207,53 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2431,
-  "negative": 1126,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 55,
-  "languages": "English, French, Italian, Russian, Swedish, Danish, Finnish, German, Greek",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2015/06/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/260430/header.jpg?t=1666987493",
+  "consensus_genre": "Free to Play",
+  "developer": "Digital Leisure Inc.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Free to Play",
     "Massively Multiplayer",
     "Simulation"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 6,
-  "Down 30 Days": 5,
-  "Completion": 7.700000047683716,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/260430/header.jpg?t=1666987493",
+  "initialprice": "0",
+  "languages": "English, French, Italian, Russian, Swedish, Danish, Finnish, German, Greek",
+  "name": "The Four Kings Casino and Slots",
+  "negative": 1126,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2431,
+  "price": "0",
+  "publisher": "Digital Leisure Inc.",
+  "release_date": "2015/06/1",
+  "required_age": 0,
+  "tags": {
+    "3D": 82,
+    "Card Game": 185,
+    "Casual": 177,
+    "Character Customization": 104,
+    "Controller": 80,
+    "Early Access": 68,
+    "Free to Play": 193,
+    "Gambling": 185,
+    "Gaming": 70,
+    "Indie": 82,
+    "Massively Multiplayer": 167,
+    "Multiplayer": 123,
+    "Open World": 84,
+    "PvE": 73,
+    "PvP": 76,
+    "Relaxing": 94,
+    "Replay Value": 85,
+    "Simulation": 181,
+    "Third Person": 77,
+    "War": 38
+  },
+  "type": "game"
 }

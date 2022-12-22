@@ -1,31 +1,201 @@
 {
-  "appid": 1337760,
-  "name": "Potion Permit",
-  "developer": "MassHive Media",
-  "publisher": " PQube",
-  "tags": {
-    "Singleplayer": 1029,
-    "Colorful": 987,
-    "JRPG": 963,
-    "Pixel Graphics": 706,
-    "Cozy": 704,
-    "Life Sim": 702,
-    "Adventure": 686,
-    "Dating Sim": 682,
-    "Crafting": 678,
-    "Wholesome": 677,
-    "Relaxing": 672,
-    "Fishing": 668,
-    "Casual": 660,
-    "Simulation": 657,
-    "Character Customization": 652,
-    "Action RPG": 650,
-    "RPG": 646,
-    "Action-Adventure": 645,
-    "2D": 640,
-    "Cute": 635
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1337760,
+    "average_2weeks": 0,
+    "average_forever": 739,
+    "median_2weeks": 0,
+    "median_forever": 763
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1337760,
+    "average_2weeks": 0,
+    "average_forever": 739,
+    "median_2weeks": 0,
+    "median_forever": 763
+  },
+  "CCU Histogram": {
+    "2022-12-08": 196,
+    "2022-12-09": 198,
+    "2022-12-10": 198,
+    "2022-12-13": 192,
+    "2022-12-15": 164,
+    "2022-12-18": 195,
+    "2022-12-21": 175,
+    "2022-12-22": 187
+  },
+  "Completion": 60.54999923706055,
+  "Down 30 Days": 30,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 60
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 4,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1337760,
+    "average_2weeks": 0,
+    "average_forever": 739,
+    "median_2weeks": 0,
+    "median_forever": 763
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1337760,
+    "average_2weeks": 0,
+    "average_forever": 739,
+    "median_2weeks": 0,
+    "median_forever": 763
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 329,
+  "User Score": -1,
+  "appid": 1337760,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,185 +203,53 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1294,
-  "negative": 429,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 347,
-  "languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/09/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337760/header.jpg?t=1664967386",
+  "consensus_genre": "Adventure",
+  "developer": "MassHive Media",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 43,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 60,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 33,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 23,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 329,
-  "Down 30 Days": 30,
-  "Completion": 60.54999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337760/header.jpg?t=1664967386",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Potion Permit",
+  "negative": 429,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1294,
+  "price": "1999",
+  "publisher": " PQube",
+  "release_date": "2022/09/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 640,
+    "Action RPG": 650,
+    "Action-Adventure": 645,
+    "Adventure": 686,
+    "Casual": 660,
+    "Character Customization": 652,
+    "Colorful": 987,
+    "Cozy": 704,
+    "Crafting": 678,
+    "Cute": 635,
+    "Dating Sim": 682,
+    "Fishing": 668,
+    "JRPG": 963,
+    "Life Sim": 702,
+    "Pixel Graphics": 706,
+    "RPG": 646,
+    "Relaxing": 672,
+    "Simulation": 657,
+    "Singleplayer": 1029,
+    "Wholesome": 677
+  },
+  "type": "game"
 }

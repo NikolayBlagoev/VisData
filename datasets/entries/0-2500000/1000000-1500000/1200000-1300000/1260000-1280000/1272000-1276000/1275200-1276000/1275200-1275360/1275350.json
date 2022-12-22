@@ -1,31 +1,201 @@
 {
-  "appid": 1275350,
-  "name": "Ninja Kiwi Archive",
-  "developer": "Ninja Kiwi",
-  "publisher": "Ninja Kiwi",
-  "tags": {
-    "Casual": 280,
-    "Arcade": 271,
-    "Strategy": 263,
-    "Tower Defense": 258,
-    "Action": 255,
-    "Singleplayer": 252,
-    "Online Co-Op": 231,
-    "Co-op": 229,
-    "Multiplayer": 228,
-    "Platformer": 220,
-    "Top-Down Shooter": 218,
-    "2D Platformer": 216,
-    "PvP": 213,
-    "2D": 179,
-    "Pixel Graphics": 157,
-    "Top-Down": 143,
-    "Cartoony": 129,
-    "Survival": 113,
-    "Fantasy": 107,
-    "Ninja": 94
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1275350,
+    "average_2weeks": 3,
+    "average_forever": 85,
+    "median_2weeks": 3,
+    "median_forever": 40
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1275350,
+    "average_2weeks": 3,
+    "average_forever": 85,
+    "median_2weeks": 3,
+    "median_forever": 40
+  },
+  "CCU Histogram": {
+    "2022-12-08": 278,
+    "2022-12-09": 310,
+    "2022-12-10": 281,
+    "2022-12-13": 355,
+    "2022-12-15": 278,
+    "2022-12-18": 266,
+    "2022-12-21": 298,
+    "2022-12-22": 262
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1275350,
+    "average_2weeks": 3,
+    "average_forever": 85,
+    "median_2weeks": 3,
+    "median_forever": 40
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1275350,
+    "average_2weeks": 3,
+    "average_forever": 85,
+    "median_2weeks": 3,
+    "median_forever": 40
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 65,
+  "User Score": -1,
+  "appid": 1275350,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,184 +205,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3522,
-  "negative": 247,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 323,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1275350/header.jpg?t=1667389437",
+  "consensus_genre": "Casual",
+  "developer": "Ninja Kiwi",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 65,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1275350/header.jpg?t=1667389437",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Ninja Kiwi Archive",
+  "negative": 247,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3522,
+  "price": "0",
+  "publisher": "Ninja Kiwi",
+  "release_date": "2020/07/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 179,
+    "2D Platformer": 216,
+    "Action": 255,
+    "Arcade": 271,
+    "Cartoony": 129,
+    "Casual": 280,
+    "Co-op": 229,
+    "Fantasy": 107,
+    "Multiplayer": 228,
+    "Ninja": 94,
+    "Online Co-Op": 231,
+    "Pixel Graphics": 157,
+    "Platformer": 220,
+    "PvP": 213,
+    "Singleplayer": 252,
+    "Strategy": 263,
+    "Survival": 113,
+    "Top-Down": 143,
+    "Top-Down Shooter": 218,
+    "Tower Defense": 258
+  },
+  "type": "game"
 }

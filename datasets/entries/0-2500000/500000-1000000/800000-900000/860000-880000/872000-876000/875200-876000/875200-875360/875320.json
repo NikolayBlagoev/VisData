@@ -1,51 +1,64 @@
 {
-  "appid": 875320,
-  "name": "Exo Racing",
-  "developer": "Angry Angel Games",
-  "publisher": "IceTorch Interactive",
-  "tags": {
-    "Racing": 93,
-    "Sports": 93,
-    "Action": 91,
-    "Automobile Sim": 90,
-    "Simulation": 73,
-    "Driving": 72,
-    "Fast-Paced": 71,
-    "Casual": 70,
-    "First-Person": 70,
-    "Indie": 70,
-    "Arcade": 51,
-    "Controller": 50,
-    "Difficult": 50,
-    "Realistic": 50,
-    "Replay Value": 50,
-    "Retro": 50,
-    "Gaming": 49,
-    "Singleplayer": 49,
-    "Adventure": 47,
-    "Early Access": 41
+  "Average Playtime - 2 Weeks": {
+    "app_id": 875320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 875320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 875320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 875320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 875320,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/10/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/875320/header.jpg?t=1569922622",
+  "consensus_genre": "Racing",
+  "developer": "Angry Angel Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -55,18 +68,43 @@
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/875320/header.jpg?t=1569922622",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Exo Racing",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "IceTorch Interactive",
+  "release_date": "2019/10/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 91,
+    "Adventure": 47,
+    "Arcade": 51,
+    "Automobile Sim": 90,
+    "Casual": 70,
+    "Controller": 50,
+    "Difficult": 50,
+    "Driving": 72,
+    "Early Access": 41,
+    "Fast-Paced": 71,
+    "First-Person": 70,
+    "Gaming": 49,
+    "Indie": 70,
+    "Racing": 93,
+    "Realistic": 50,
+    "Replay Value": 50,
+    "Retro": 50,
+    "Simulation": 73,
+    "Singleplayer": 49,
+    "Sports": 93
+  },
+  "type": "game"
 }

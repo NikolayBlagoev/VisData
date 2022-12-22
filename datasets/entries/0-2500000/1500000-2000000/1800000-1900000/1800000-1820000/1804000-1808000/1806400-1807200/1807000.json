@@ -1,69 +1,107 @@
 {
-  "appid": 1807000,
-  "name": "Yui Tui",
-  "developer": "Anamik Majumdar",
-  "publisher": "Anamik Majumdar",
-  "tags": {
-    "Action": 99,
-    "Casual": 93,
-    "Arcade": 89,
-    "Platformer": 86,
-    "2D Platformer": 84,
-    "Side Scroller": 77,
-    "2D": 75,
-    "Pixel Graphics": 71,
-    "Gore": 68,
-    "Indie": 65,
-    "Violent": 56,
-    "Old School": 35,
-    "Retro": 34,
-    "Singleplayer": 31,
-    "Action-Adventure": 28,
-    "Shooter": 28,
-    "Family Friendly": 25,
-    "Sci-fi": 23,
-    "Difficult": 21,
-    "Comedy": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1807000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1807000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 60.599998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1807000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1807000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1807000,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "59",
-  "initialprice": "99",
-  "discount": "40",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/12/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1807000/header.jpg?t=1638545386",
+  "consensus_genre": "Action",
+  "developer": "Anamik Majumdar",
+  "discount": "40",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 60.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1807000/header.jpg?t=1638545386",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Yui Tui",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "59",
+  "publisher": "Anamik Majumdar",
+  "release_date": "2021/12/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 75,
+    "2D Platformer": 84,
+    "Action": 99,
+    "Action-Adventure": 28,
+    "Arcade": 89,
+    "Casual": 93,
+    "Comedy": 19,
+    "Difficult": 21,
+    "Family Friendly": 25,
+    "Gore": 68,
+    "Indie": 65,
+    "Old School": 35,
+    "Pixel Graphics": 71,
+    "Platformer": 86,
+    "Retro": 34,
+    "Sci-fi": 23,
+    "Shooter": 28,
+    "Side Scroller": 77,
+    "Singleplayer": 31,
+    "Violent": 56
+  },
+  "type": "game"
 }

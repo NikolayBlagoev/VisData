@@ -1,31 +1,201 @@
 {
-  "appid": 597820,
-  "name": "BIOMUTANT",
-  "developer": "Experiment 101",
-  "publisher": "THQ Nordic",
-  "tags": {
-    "Open World": 330,
-    "Action": 243,
-    "RPG": 217,
-    "Singleplayer": 214,
-    "Adventure": 190,
-    "Post-apocalyptic": 153,
-    "Third Person": 148,
-    "Character Customization": 146,
-    "Hack and Slash": 138,
-    "Fantasy": 112,
-    "Atmospheric": 102,
-    "Action RPG": 92,
-    "Exploration": 90,
-    "Multiplayer": 74,
-    "Martial Arts": 72,
-    "Cute": 58,
-    "Story Rich": 50,
-    "Sci-fi": 46,
-    "Indie": 39,
-    "Crafting": 23
+  "Average Playtime - 2 Weeks": {
+    "app_id": 597820,
+    "average_2weeks": 17,
+    "average_forever": 761,
+    "median_2weeks": 32,
+    "median_forever": 400
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 597820,
+    "average_2weeks": 17,
+    "average_forever": 761,
+    "median_2weeks": 32,
+    "median_forever": 400
+  },
+  "CCU Histogram": {
+    "2022-12-08": 122,
+    "2022-12-09": 113,
+    "2022-12-10": 109,
+    "2022-12-13": 164,
+    "2022-12-15": 124,
+    "2022-12-18": 122,
+    "2022-12-21": 132,
+    "2022-12-22": 99
+  },
+  "Completion": 50.14999961853027,
+  "Down 30 Days": 21,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 597820,
+    "average_2weeks": 17,
+    "average_forever": 761,
+    "median_2weeks": 32,
+    "median_forever": 400
+  },
+  "Median Playtime - Forever": {
+    "app_id": 597820,
+    "average_2weeks": 17,
+    "average_forever": 761,
+    "median_2weeks": 32,
+    "median_forever": 400
+  },
+  "Meta Score": "66",
+  "Rating": "ESRB T",
+  "Up 30 Days": 54,
+  "User Score": -1,
+  "appid": 597820,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,183 +204,51 @@
     "Steam Trading Cards",
     "Remote Play on Tablet"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 11266,
-  "negative": 5520,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 146,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Polish, Russian, Simplified Chinese, Arabic, Hindi, Indonesian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597820/header.jpg?t=1664962616",
+  "consensus_genre": "Action",
+  "developer": "Experiment 101",
+  "discount": "0",
   "genre": [
     "Action",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "66",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 54,
-  "Down 30 Days": 21,
-  "Completion": 50.14999961853027,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/597820/header.jpg?t=1664962616",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Polish, Russian, Simplified Chinese, Arabic, Hindi, Indonesian",
+  "name": "BIOMUTANT",
+  "negative": 5520,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 11266,
+  "price": "3999",
+  "publisher": "THQ Nordic",
+  "release_date": "2021/05/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 243,
+    "Action RPG": 92,
+    "Adventure": 190,
+    "Atmospheric": 102,
+    "Character Customization": 146,
+    "Crafting": 23,
+    "Cute": 58,
+    "Exploration": 90,
+    "Fantasy": 112,
+    "Hack and Slash": 138,
+    "Indie": 39,
+    "Martial Arts": 72,
+    "Multiplayer": 74,
+    "Open World": 330,
+    "Post-apocalyptic": 153,
+    "RPG": 217,
+    "Sci-fi": 46,
+    "Singleplayer": 214,
+    "Story Rich": 50,
+    "Third Person": 148
+  },
+  "type": "game"
 }

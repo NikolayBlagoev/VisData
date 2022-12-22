@@ -1,31 +1,201 @@
 {
-  "appid": 1236300,
-  "name": "Resident Evil Re:Verse",
-  "developer": "CAPCOM Co., Ltd.",
-  "publisher": "CAPCOM Co., Ltd.",
-  "tags": {
-    "Action": 241,
-    "PvP": 236,
-    "Survival Horror": 231,
-    "Third-Person Shooter": 229,
-    "Horror": 228,
-    "Gore": 219,
-    "Violent": 216,
-    "Atmospheric": 212,
-    "Zombies": 210,
-    "Survival": 208,
-    "Dark": 206,
-    "Multiplayer": 206,
-    "Psychological Horror": 199,
-    "Co-op": 198,
-    "Adventure": 193,
-    "Singleplayer": 191,
-    "Sexual Content": 183,
-    "Third Person": 181,
-    "Free to Play": 177,
-    "First-Person": 172
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1236300,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 80
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1236300,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 80
+  },
+  "CCU Histogram": {
+    "2022-12-08": 43,
+    "2022-12-09": 45,
+    "2022-12-10": 59,
+    "2022-12-13": 57,
+    "2022-12-15": 77,
+    "2022-12-18": 42,
+    "2022-12-21": 48,
+    "2022-12-22": 61
+  },
+  "Completion": 35.25,
+  "Down 30 Days": 460,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 23,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 37,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 24,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 25,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 27,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 24,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 19,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 15,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 13,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 15,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 20,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 8,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 12,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 10,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 11,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 17,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 13,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 15,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 7,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 9,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 7,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 22,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 26,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 12,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 13,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 15,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 6,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1236300,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 80
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1236300,
+    "average_2weeks": 0,
+    "average_forever": 60,
+    "median_2weeks": 0,
+    "median_forever": 80
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 296,
+  "User Score": -1,
+  "appid": 1236300,
   "categories": [
     "Multi-player",
     "Steam Cloud",
@@ -34,182 +204,50 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 895,
-  "negative": 1360,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 161,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean, Arabic, Thai",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/27",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236300/header.jpg?t=1666922755",
+  "consensus_genre": "Action",
+  "developer": "CAPCOM Co., Ltd.",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 15,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 22,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 16,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 9,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 14,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 14,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 8,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 27,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 29,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 13,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 17,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 6
-    }
-  ],
-  "Up 30 Days": 296,
-  "Down 30 Days": 460,
-  "Completion": 35.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1236300/header.jpg?t=1666922755",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean, Arabic, Thai",
+  "name": "Resident Evil Re:Verse",
+  "negative": 1360,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 895,
+  "price": "3999",
+  "publisher": "CAPCOM Co., Ltd.",
+  "release_date": "2022/10/27",
+  "required_age": "15",
+  "tags": {
+    "Action": 241,
+    "Adventure": 193,
+    "Atmospheric": 212,
+    "Co-op": 198,
+    "Dark": 206,
+    "First-Person": 172,
+    "Free to Play": 177,
+    "Gore": 219,
+    "Horror": 228,
+    "Multiplayer": 206,
+    "Psychological Horror": 199,
+    "PvP": 236,
+    "Sexual Content": 183,
+    "Singleplayer": 191,
+    "Survival": 208,
+    "Survival Horror": 231,
+    "Third Person": 181,
+    "Third-Person Shooter": 229,
+    "Violent": 216,
+    "Zombies": 210
+  },
+  "type": "game"
 }

@@ -1,52 +1,75 @@
 {
-  "appid": 1575380,
-  "name": "In the Wild",
-  "developer": "Ben Montoya, Chris Cooper",
-  "publisher": "WeebMedia",
-  "tags": {
-    "Early Access": 378,
-    "Exploration": 343,
-    "Immersive Sim": 335,
-    "Sandbox": 333,
-    "Education": 329,
-    "Nature": 323,
-    "Underwater": 312,
-    "Artificial Intelligence": 304,
-    "PvE": 297,
-    "RPG": 297,
-    "Life Sim": 288,
-    "3D": 268,
-    "Cute": 255,
-    "Third Person": 244,
-    "Horses": 230,
-    "Casual": 216,
-    "Relaxing": 215,
-    "Open World": 213,
-    "Simulation": 197,
-    "Colorful": 159
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1575380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1575380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1575380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1575380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1575380,
   "categories": [
     "Single-player",
     "Stats",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1575380/header.jpg?t=1635836472",
+  "consensus_genre": "Early Access",
+  "developer": "Ben Montoya, Chris Cooper",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -55,28 +78,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 100.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1575380/header.jpg?t=1635836472",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "In the Wild",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "499",
+  "publisher": "WeebMedia",
+  "release_date": "2021/11/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 268,
+    "Artificial Intelligence": 304,
+    "Casual": 216,
+    "Colorful": 159,
+    "Cute": 255,
+    "Early Access": 378,
+    "Education": 329,
+    "Exploration": 343,
+    "Horses": 230,
+    "Immersive Sim": 335,
+    "Life Sim": 288,
+    "Nature": 323,
+    "Open World": 213,
+    "PvE": 297,
+    "RPG": 297,
+    "Relaxing": 215,
+    "Sandbox": 333,
+    "Simulation": 197,
+    "Third Person": 244,
+    "Underwater": 312
+  },
+  "type": "game"
 }

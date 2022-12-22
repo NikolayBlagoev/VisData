@@ -1,31 +1,201 @@
 {
-  "appid": 814370,
-  "name": "Monster Sanctuary",
-  "developer": "moi rai games",
-  "publisher": "Team17",
-  "tags": {
-    "Creature Collector": 333,
-    "Turn-Based Tactics": 296,
-    "Pixel Graphics": 289,
-    "Singleplayer": 288,
-    "Fantasy": 276,
-    "Exploration": 271,
-    "Adventure": 269,
-    "JRPG": 265,
-    "Metroidvania": 262,
-    "Turn-Based Combat": 251,
-    "RPG": 249,
-    "PvP": 248,
-    "Strategy": 241,
-    "2D": 235,
-    "Difficult": 225,
-    "Indie": 208,
-    "Story Rich": 203,
-    "Turn-Based": 193,
-    "Platformer": 179,
-    "Side Scroller": 171
+  "Average Playtime - 2 Weeks": {
+    "app_id": 814370,
+    "average_2weeks": 177,
+    "average_forever": 782,
+    "median_2weeks": 177,
+    "median_forever": 645
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 814370,
+    "average_2weeks": 177,
+    "average_forever": 782,
+    "median_2weeks": 177,
+    "median_forever": 645
+  },
+  "CCU Histogram": {
+    "2022-12-08": 276,
+    "2022-12-09": 253,
+    "2022-12-10": 225,
+    "2022-12-13": 233,
+    "2022-12-15": 300,
+    "2022-12-18": 286,
+    "2022-12-21": 377,
+    "2022-12-22": 367
+  },
+  "Completion": 59.400001525878906,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 814370,
+    "average_2weeks": 177,
+    "average_forever": 782,
+    "median_2weeks": 177,
+    "median_forever": 645
+  },
+  "Median Playtime - Forever": {
+    "app_id": 814370,
+    "average_2weeks": 177,
+    "average_forever": 782,
+    "median_2weeks": 177,
+    "median_forever": 645
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 110,
+  "User Score": -1,
+  "appid": 814370,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,22 +209,10 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 6739,
-  "negative": 564,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 171,
-  "languages": "English, French, German, Spanish - Spain, Russian, Italian, Simplified Chinese, Japanese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/12/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/814370/header.jpg?t=1660744282",
+  "consensus_genre": "Adventure",
+  "developer": "moi rai games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -62,163 +220,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 110,
-  "Down 30 Days": 7,
-  "Completion": 59.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/814370/header.jpg?t=1660744282",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Russian, Italian, Simplified Chinese, Japanese, Portuguese - Brazil",
+  "name": "Monster Sanctuary",
+  "negative": 564,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 6739,
+  "price": "1999",
+  "publisher": "Team17",
+  "release_date": "2020/12/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 235,
+    "Adventure": 269,
+    "Creature Collector": 333,
+    "Difficult": 225,
+    "Exploration": 271,
+    "Fantasy": 276,
+    "Indie": 208,
+    "JRPG": 265,
+    "Metroidvania": 262,
+    "Pixel Graphics": 289,
+    "Platformer": 179,
+    "PvP": 248,
+    "RPG": 249,
+    "Side Scroller": 171,
+    "Singleplayer": 288,
+    "Story Rich": 203,
+    "Strategy": 241,
+    "Turn-Based": 193,
+    "Turn-Based Combat": 251,
+    "Turn-Based Tactics": 296
+  },
+  "type": "game"
 }

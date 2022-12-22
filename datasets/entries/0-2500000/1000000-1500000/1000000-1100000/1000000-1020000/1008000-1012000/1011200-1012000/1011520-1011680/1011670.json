@@ -1,31 +1,201 @@
 {
-  "appid": 1011670,
-  "name": "Totally Reliable Delivery Service",
-  "developer": "We're Five Games",
-  "publisher": "tinyBuild",
-  "tags": {
-    "Action": 328,
-    "Casual": 287,
-    "Sandbox": 286,
-    "Physics": 283,
-    "Funny": 278,
-    "Co-op": 267,
-    "Open World": 257,
-    "Simulation": 250,
-    "3D": 248,
-    "Action-Adventure": 240,
-    "Local Multiplayer": 239,
-    "Third Person": 237,
-    "Adventure": 231,
-    "Split Screen": 227,
-    "Cute": 212,
-    "Colorful": 209,
-    "Comedy": 204,
-    "4 Player Local": 193,
-    "Local Co-Op": 189,
-    "Multiplayer": 184
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1011670,
+    "average_2weeks": 0,
+    "average_forever": 227,
+    "median_2weeks": 0,
+    "median_forever": 243
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1011670,
+    "average_2weeks": 0,
+    "average_forever": 227,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "CCU Histogram": {
+    "2022-12-08": 19,
+    "2022-12-09": 16,
+    "2022-12-10": 13,
+    "2022-12-13": 68,
+    "2022-12-15": 70,
+    "2022-12-18": 51,
+    "2022-12-21": 25,
+    "2022-12-22": 26
+  },
+  "Completion": 61.29999923706055,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1011670,
+    "average_2weeks": 0,
+    "average_forever": 227,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1011670,
+    "average_2weeks": 0,
+    "average_forever": 227,
+    "median_2weeks": 0,
+    "median_forever": 243
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 19,
+  "User Score": -1,
+  "appid": 1011670,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,22 +207,10 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 604,
-  "negative": 141,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 29,
-  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/04/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1011670/header.jpg?t=1631521123",
+  "consensus_genre": "Action",
+  "developer": "We're Five Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -61,163 +219,43 @@
     "Racing",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 19,
-  "Down 30 Days": 8,
-  "Completion": 61.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1011670/header.jpg?t=1631521123",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian",
+  "name": "Totally Reliable Delivery Service",
+  "negative": 141,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 604,
+  "price": "1499",
+  "publisher": "tinyBuild",
+  "release_date": "2021/04/1",
+  "required_age": 0,
+  "tags": {
+    "3D": 248,
+    "4 Player Local": 193,
+    "Action": 328,
+    "Action-Adventure": 240,
+    "Adventure": 231,
+    "Casual": 287,
+    "Co-op": 267,
+    "Colorful": 209,
+    "Comedy": 204,
+    "Cute": 212,
+    "Funny": 278,
+    "Local Co-Op": 189,
+    "Local Multiplayer": 239,
+    "Multiplayer": 184,
+    "Open World": 257,
+    "Physics": 283,
+    "Sandbox": 286,
+    "Simulation": 250,
+    "Split Screen": 227,
+    "Third Person": 237
+  },
+  "type": "game"
 }

@@ -1,51 +1,63 @@
 {
-  "appid": 1337070,
-  "name": "Matrix Blocks",
-  "developer": "NetDinamica",
-  "publisher": "NetDinamica",
-  "tags": {
-    "Casual": 334,
-    "Sports": 329,
-    "3D Platformer": 320,
-    "Rhythm": 305,
-    "Boxing": 298,
-    "Platformer": 288,
-    "Arcade": 282,
-    "3D": 274,
-    "Cyberpunk": 265,
-    "Procedural Generation": 255,
-    "Action": 254,
-    "Asymmetric VR": 243,
-    "Grand Strategy": 221,
-    "Pixel Graphics": 206,
-    "Combat Racing": 204,
-    "Stylized": 189,
-    "Colorful": 172,
-    "Fantasy": 153,
-    "Stealth": 134,
-    "Hex Grid": 114,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1337070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1337070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1337070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1337070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1337070,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337070/header.jpg?t=1621427601",
+  "consensus_genre": "Casual",
+  "developer": "NetDinamica",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -55,18 +67,44 @@
     "Sports",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337070/header.jpg?t=1621427601",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Matrix Blocks",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "NetDinamica",
+  "release_date": "2020/06/18",
+  "required_age": 0,
+  "tags": {
+    "3D": 274,
+    "3D Platformer": 320,
+    "Action": 254,
+    "Arcade": 282,
+    "Asymmetric VR": 243,
+    "Boxing": 298,
+    "Casual": 334,
+    "Colorful": 172,
+    "Combat Racing": 204,
+    "Cyberpunk": 265,
+    "Fantasy": 153,
+    "Grand Strategy": 221,
+    "Hex Grid": 114,
+    "Pixel Graphics": 206,
+    "Platformer": 288,
+    "Procedural Generation": 255,
+    "Rhythm": 305,
+    "Sports": 329,
+    "Stealth": 134,
+    "Stylized": 189,
+    "VR Only": 1
+  },
+  "type": "game"
 }

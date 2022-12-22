@@ -1,62 +1,100 @@
 {
-  "appid": 2065260,
-  "name": "Don't Touch Lava",
-  "developer": "Pixel Booty LLC",
-  "publisher": "Pixel Booty LLC",
-  "tags": {
-    "Platformer": 53,
-    "Precision Platformer": 47,
-    "Action": 44,
-    "Side Scroller": 44,
-    "Casual": 42,
-    "Runner": 41,
-    "2D": 38,
-    "Pixel Graphics": 32,
-    "1990's": 30,
-    "Old School": 28,
-    "Arcade": 26,
-    "Score Attack": 20,
-    "Physics": 18,
-    "Controller": 16,
-    "Singleplayer": 14,
-    "Family Friendly": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2065260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2065260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2065260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2065260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2065260,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065260/header.jpg?t=1662590147",
+  "consensus_genre": "Action",
+  "developer": "Pixel Booty LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2065260/header.jpg?t=1662590147",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Don't Touch Lava",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Pixel Booty LLC",
+  "release_date": "2022/09/1",
+  "required_age": 0,
+  "tags": {
+    "1990's": 30,
+    "2D": 38,
+    "Action": 44,
+    "Arcade": 26,
+    "Casual": 42,
+    "Controller": 16,
+    "Family Friendly": 12,
+    "Old School": 28,
+    "Physics": 18,
+    "Pixel Graphics": 32,
+    "Platformer": 53,
+    "Precision Platformer": 47,
+    "Runner": 41,
+    "Score Attack": 20,
+    "Side Scroller": 44,
+    "Singleplayer": 14
+  },
+  "type": "game"
 }

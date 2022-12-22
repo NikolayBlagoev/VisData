@@ -1,213 +1,251 @@
 {
-  "appid": 4570,
-  "name": "Warhammer 40,000: Dawn of War - Game of the Year Edition",
-  "developer": "Relic Entertainment",
-  "publisher": "SEGA",
-  "tags": {
-    "Strategy": 371,
-    "Warhammer 40K": 303,
-    "RTS": 297,
-    "Base-Building": 188,
-    "Sci-fi": 161,
-    "Multiplayer": 154,
-    "Real-Time": 126,
-    "Games Workshop": 124,
-    "Singleplayer": 114,
-    "Tactical": 114,
-    "War": 77,
-    "Classic": 65,
-    "Action": 60,
-    "Gore": 40,
-    "Fantasy": 29,
-    "Great Soundtrack": 28,
-    "Epic": 27,
-    "Futuristic": 26,
-    "Story Rich": 25,
-    "Dark": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 4570,
+    "average_2weeks": 15,
+    "average_forever": 431,
+    "median_2weeks": 27,
+    "median_forever": 185
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 4570,
+    "average_2weeks": 15,
+    "average_forever": 431,
+    "median_2weeks": 27,
+    "median_forever": 185
+  },
+  "CCU Histogram": {
+    "2022-12-08": 121,
+    "2022-12-09": 145,
+    "2022-12-10": 125,
+    "2022-12-13": 163,
+    "2022-12-15": 135,
+    "2022-12-18": 159,
+    "2022-12-21": 194,
+    "2022-12-22": 180
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 4570,
+    "average_2weeks": 15,
+    "average_forever": 431,
+    "median_2weeks": 27,
+    "median_forever": 185
+  },
+  "Median Playtime - Forever": {
+    "app_id": 4570,
+    "average_2weeks": 15,
+    "average_forever": 431,
+    "median_2weeks": 27,
+    "median_forever": 185
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 67,
+  "User Score": -1,
+  "appid": 4570,
   "categories": [
     "Multi-player",
     "Single-player",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 7669,
-  "negative": 396,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 180,
-  "languages": "English, French, German, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2007/08/7",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4570/header.jpg?t=1622581511",
+  "consensus_genre": "Strategy",
+  "developer": "Relic Entertainment",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 67,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4570/header.jpg?t=1622581511",
+  "initialprice": "1299",
+  "languages": "English, French, German, Italian, Spanish - Spain",
+  "name": "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+  "negative": 396,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7669,
+  "price": "1299",
+  "publisher": "SEGA",
+  "release_date": "2007/08/7",
+  "required_age": "15",
+  "tags": {
+    "Action": 60,
+    "Base-Building": 188,
+    "Classic": 65,
+    "Dark": 9,
+    "Epic": 27,
+    "Fantasy": 29,
+    "Futuristic": 26,
+    "Games Workshop": 124,
+    "Gore": 40,
+    "Great Soundtrack": 28,
+    "Multiplayer": 154,
+    "RTS": 297,
+    "Real-Time": 126,
+    "Sci-fi": 161,
+    "Singleplayer": 114,
+    "Story Rich": 25,
+    "Strategy": 371,
+    "Tactical": 114,
+    "War": 77,
+    "Warhammer 40K": 303
+  },
+  "type": "game"
 }

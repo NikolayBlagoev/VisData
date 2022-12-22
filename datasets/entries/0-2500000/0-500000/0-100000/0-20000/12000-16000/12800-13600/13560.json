@@ -1,205 +1,243 @@
 {
-  "appid": 13560,
-  "name": "Tom Clancy's Splinter Cell",
-  "developer": "Ubisoft",
-  "publisher": "Ubisoft",
-  "tags": {
-    "Stealth": 196,
-    "Action": 115,
-    "Third Person": 82,
-    "Singleplayer": 74,
-    "Classic": 71,
-    "Shooter": 31,
-    "Adventure": 29,
-    "Atmospheric": 29,
-    "Third-Person Shooter": 28,
-    "Multiplayer": 22,
-    "Difficult": 18,
-    "Controller": 13,
-    "Tactical": 11,
-    "Co-op": 7,
-    "Strategy": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 13560,
+    "average_2weeks": 0,
+    "average_forever": 138,
+    "median_2weeks": 0,
+    "median_forever": 171
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2006,
-  "negative": 292,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
-  "ccu": 12,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 13560,
+    "average_2weeks": 0,
+    "average_forever": 138,
+    "median_2weeks": 0,
+    "median_forever": 171
   },
-  "release_date": "2008/04/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/13560/header.jpg?t=1447351280",
-  "genre": [
-    "Action"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 42,
+    "2022-12-09": 36,
+    "2022-12-10": 40,
+    "2022-12-13": 30,
+    "2022-12-15": 26,
+    "2022-12-18": 27,
+    "2022-12-21": 17,
+    "2022-12-22": 16
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 1
     },
     {
       "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 13560,
+    "average_2weeks": 0,
+    "average_forever": 138,
+    "median_2weeks": 0,
+    "median_forever": 171
+  },
+  "Median Playtime - Forever": {
+    "app_id": 13560,
+    "average_2weeks": 0,
+    "average_forever": 138,
+    "median_2weeks": 0,
+    "median_forever": 171
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 23,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 13560,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 12,
+  "consensus_genre": "Action",
+  "developer": "Ubisoft",
+  "discount": "0",
+  "genre": [
+    "Action"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/13560/header.jpg?t=1447351280",
+  "initialprice": "999",
+  "languages": "English, French",
+  "name": "Tom Clancy's Splinter Cell",
+  "negative": 292,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2006,
+  "price": "999",
+  "publisher": "Ubisoft",
+  "release_date": "2008/04/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 115,
+    "Adventure": 29,
+    "Atmospheric": 29,
+    "Classic": 71,
+    "Co-op": 7,
+    "Controller": 13,
+    "Difficult": 18,
+    "Multiplayer": 22,
+    "Shooter": 31,
+    "Singleplayer": 74,
+    "Stealth": 196,
+    "Strategy": 7,
+    "Tactical": 11,
+    "Third Person": 82,
+    "Third-Person Shooter": 28
+  },
+  "type": "game"
 }

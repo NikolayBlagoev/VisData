@@ -1,67 +1,105 @@
 {
-  "appid": 1724180,
-  "name": "Caves Of Mars",
-  "developer": "Silkweb Games",
-  "publisher": "Silkweb Games",
-  "tags": {
-    "Mars": 104,
-    "Space": 98,
-    "Sci-fi": 96,
-    "Spaceships": 92,
-    "Aliens": 89,
-    "Shooter": 84,
-    "Adventure": 80,
-    "Action": 79,
-    "2D": 78,
-    "Retro": 75,
-    "Arcade": 74,
-    "2D Platformer": 71,
-    "Space Sim": 68,
-    "Futuristic": 67,
-    "Action-Adventure": 64,
-    "Action Roguelike": 62,
-    "Puzzle-Platformer": 60,
-    "Mystery Dungeon": 58,
-    "Exploration": 57,
-    "Fantasy": 55
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1724180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1724180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1724180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1724180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1724180,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1724180/header.jpg?t=1633105402",
+  "consensus_genre": "Adventure",
+  "developer": "Silkweb Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1724180/header.jpg?t=1633105402",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Caves Of Mars",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Silkweb Games",
+  "release_date": "2021/09/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 78,
+    "2D Platformer": 71,
+    "Action": 79,
+    "Action Roguelike": 62,
+    "Action-Adventure": 64,
+    "Adventure": 80,
+    "Aliens": 89,
+    "Arcade": 74,
+    "Exploration": 57,
+    "Fantasy": 55,
+    "Futuristic": 67,
+    "Mars": 104,
+    "Mystery Dungeon": 58,
+    "Puzzle-Platformer": 60,
+    "Retro": 75,
+    "Sci-fi": 96,
+    "Shooter": 84,
+    "Space": 98,
+    "Space Sim": 68,
+    "Spaceships": 92
+  },
+  "type": "game"
 }

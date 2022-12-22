@@ -1,213 +1,251 @@
 {
-  "appid": 207610,
-  "name": "The Walking Dead",
-  "developer": "Telltale Games",
-  "publisher": "Skybound Games",
-  "tags": {
-    "Zombies": 1754,
-    "Adventure": 1415,
-    "Story Rich": 1406,
-    "Point & Click": 1119,
-    "Episodic": 1079,
-    "Singleplayer": 970,
-    "Choices Matter": 866,
-    "Drama": 754,
-    "Horror": 735,
-    "Emotional": 676,
-    "Mature": 583,
-    "Atmospheric": 524,
-    "Choose Your Own Adventure": 487,
-    "Comic Book": 440,
-    "Post-apocalyptic": 435,
-    "Survival": 396,
-    "Quick-Time Events": 315,
-    "Gore": 291,
-    "Action": 277,
-    "Third Person": 246
+  "Average Playtime - 2 Weeks": {
+    "app_id": 207610,
+    "average_2weeks": 237,
+    "average_forever": 641,
+    "median_2weeks": 304,
+    "median_forever": 445
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 207610,
+    "average_2weeks": 237,
+    "average_forever": 641,
+    "median_2weeks": 304,
+    "median_forever": 445
+  },
+  "CCU Histogram": {
+    "2022-12-08": 190,
+    "2022-12-09": 201,
+    "2022-12-10": 187,
+    "2022-12-13": 263,
+    "2022-12-15": 164,
+    "2022-12-18": 193,
+    "2022-12-21": 212,
+    "2022-12-22": 196
+  },
+  "Completion": 48.79999923706055,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 207610,
+    "average_2weeks": 237,
+    "average_forever": 641,
+    "median_2weeks": 304,
+    "median_forever": 445
+  },
+  "Median Playtime - Forever": {
+    "app_id": 207610,
+    "average_2weeks": 237,
+    "average_forever": 641,
+    "median_2weeks": 304,
+    "median_forever": 445
+  },
+  "Meta Score": "38",
+  "Rating": "ESRB M",
+  "Up 30 Days": 336,
+  "User Score": -1,
+  "appid": 207610,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 57070,
-  "negative": 1748,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 178,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2012/04/24",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/207610/header.jpg?t=1612901774",
+  "consensus_genre": "Adventure",
+  "developer": "Telltale Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "38",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 25,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 336,
-  "Down 30 Days": 4,
-  "Completion": 48.79999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/207610/header.jpg?t=1612901774",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "The Walking Dead",
+  "negative": 1748,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 57070,
+  "price": "1499",
+  "publisher": "Skybound Games",
+  "release_date": "2012/04/24",
+  "required_age": "15",
+  "tags": {
+    "Action": 277,
+    "Adventure": 1415,
+    "Atmospheric": 524,
+    "Choices Matter": 866,
+    "Choose Your Own Adventure": 487,
+    "Comic Book": 440,
+    "Drama": 754,
+    "Emotional": 676,
+    "Episodic": 1079,
+    "Gore": 291,
+    "Horror": 735,
+    "Mature": 583,
+    "Point & Click": 1119,
+    "Post-apocalyptic": 435,
+    "Quick-Time Events": 315,
+    "Singleplayer": 970,
+    "Story Rich": 1406,
+    "Survival": 396,
+    "Third Person": 246,
+    "Zombies": 1754
+  },
+  "type": "game"
 }

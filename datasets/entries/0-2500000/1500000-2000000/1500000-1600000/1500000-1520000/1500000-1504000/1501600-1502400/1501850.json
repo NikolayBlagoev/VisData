@@ -1,31 +1,56 @@
 {
-  "appid": 1501850,
-  "name": "Love & Romance Interactive",
-  "developer": "marriedbook",
-  "publisher": "marriedbook",
-  "tags": {
-    "Early Access": 270,
-    "Simulation": 245,
-    "Co-op": 240,
-    "Life Sim": 235,
-    "Farming Sim": 229,
-    "Building": 221,
-    "Choose Your Own Adventure": 221,
-    "Adventure": 220,
-    "Crafting": 216,
-    "Multiple Endings": 216,
-    "Casual": 215,
-    "Local Co-Op": 205,
-    "Immersive Sim": 189,
-    "RPG": 186,
-    "2D": 178,
-    "Singleplayer": 176,
-    "2D Platformer": 172,
-    "Strategy": 169,
-    "PvP": 162,
-    "Story Rich": 160
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1501850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1501850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1501850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1501850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1501850,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,22 +59,10 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "5624",
-  "initialprice": "7499",
-  "discount": "25",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1501850/header.jpg?t=1666497753",
+  "consensus_genre": "Early Access",
+  "developer": "marriedbook",
+  "discount": "25",
   "genre": [
     "Adventure",
     "Casual",
@@ -58,18 +71,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1501850/header.jpg?t=1666497753",
+  "initialprice": "7499",
+  "languages": "English",
+  "name": "Love & Romance Interactive",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "5624",
+  "publisher": "marriedbook",
+  "release_date": "2021/11/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 178,
+    "2D Platformer": 172,
+    "Adventure": 220,
+    "Building": 221,
+    "Casual": 215,
+    "Choose Your Own Adventure": 221,
+    "Co-op": 240,
+    "Crafting": 216,
+    "Early Access": 270,
+    "Farming Sim": 229,
+    "Immersive Sim": 189,
+    "Life Sim": 235,
+    "Local Co-Op": 205,
+    "Multiple Endings": 216,
+    "PvP": 162,
+    "RPG": 186,
+    "Simulation": 245,
+    "Singleplayer": 176,
+    "Story Rich": 160,
+    "Strategy": 169
+  },
+  "type": "game"
 }

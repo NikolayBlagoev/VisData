@@ -1,64 +1,102 @@
 {
-  "appid": 2109660,
-  "name": "Beam Splitter",
-  "developer": "Andrew Hess",
-  "publisher": "Andrew Hess",
-  "tags": {
-    "Strategy": 61,
-    "Casual": 48,
-    "Arcade": 47,
-    "Relaxing": 38,
-    "Minimalist": 35,
-    "Puzzle": 33,
-    "2D": 25,
-    "Indie": 21,
-    "Logic": 21,
-    "Point & Click": 21,
-    "Management": 17,
-    "Singleplayer": 17
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2109660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2109660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2109660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2109660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2109660,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/08/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2109660/header.jpg?t=1661799636",
+  "consensus_genre": "Strategy",
+  "developer": "Andrew Hess",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2109660/header.jpg?t=1661799636",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Beam Splitter",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "299",
+  "publisher": "Andrew Hess",
+  "release_date": "2022/08/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 25,
+    "Arcade": 47,
+    "Casual": 48,
+    "Indie": 21,
+    "Logic": 21,
+    "Management": 17,
+    "Minimalist": 35,
+    "Point & Click": 21,
+    "Puzzle": 33,
+    "Relaxing": 38,
+    "Singleplayer": 17,
+    "Strategy": 61
+  },
+  "type": "game"
 }

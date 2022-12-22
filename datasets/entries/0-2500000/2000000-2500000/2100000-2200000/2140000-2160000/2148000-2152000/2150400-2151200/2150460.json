@@ -1,64 +1,102 @@
 {
-  "appid": 2150460,
-  "name": "Fisher's Qualm",
-  "developer": "Solder Spark Studios",
-  "publisher": "Solder Spark Studios",
-  "tags": {
-    "Casual": 67,
-    "Fishing": 41,
-    "Rogue-like": 37,
-    "2D": 35,
-    "Top-Down": 32,
-    "Creature Collector": 26,
-    "Relaxing": 24,
-    "Early Access": 22,
-    "Family Friendly": 22,
-    "Indie": 21,
-    "Character Customization": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2150460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2150460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2150460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2150460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2150460,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2150460/header.jpg?t=1664724514",
+  "consensus_genre": "Casual",
+  "developer": "Solder Spark Studios",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2150460/header.jpg?t=1664724514",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Fisher's Qualm",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "199",
+  "publisher": "Solder Spark Studios",
+  "release_date": "2022/10/2",
+  "required_age": 0,
+  "tags": {
+    "2D": 35,
+    "Casual": 67,
+    "Character Customization": 20,
+    "Creature Collector": 26,
+    "Early Access": 22,
+    "Family Friendly": 22,
+    "Fishing": 41,
+    "Indie": 21,
+    "Relaxing": 24,
+    "Rogue-like": 37,
+    "Singleplayer": 18,
+    "Top-Down": 32
+  },
+  "type": "game"
 }

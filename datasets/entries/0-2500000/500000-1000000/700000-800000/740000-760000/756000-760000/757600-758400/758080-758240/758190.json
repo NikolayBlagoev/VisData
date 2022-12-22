@@ -1,52 +1,210 @@
 {
-  "appid": 758190,
-  "name": "Dragon Cliff",
-  "developer": "Meta Interaction",
-  "publisher": "Meta Interaction",
-  "tags": {
-    "RPG": 246,
-    "Strategy": 162,
-    "Casual": 122,
-    "Loot": 122,
-    "Adventure": 119,
-    "Clicker": 116,
-    "Idler": 115,
-    "Pixel Graphics": 114,
-    "Indie": 100,
-    "Management": 98,
-    "Simulation": 97,
-    "Dungeon Crawler": 79,
-    "Turn-Based Combat": 56,
-    "Turn-Based": 38,
-    "Singleplayer": 37,
-    "2D": 36,
-    "Hack and Slash": 36,
-    "JRPG": 26,
-    "Fantasy": 24,
-    "Auto Battler": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 758190,
+    "average_2weeks": 1561,
+    "average_forever": 4379,
+    "median_2weeks": 1561,
+    "median_forever": 2518
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 758190,
+    "average_2weeks": 1561,
+    "average_forever": 4379,
+    "median_2weeks": 1561,
+    "median_forever": 2518
+  },
+  "CCU Histogram": {
+    "2022-12-08": 356,
+    "2022-12-09": 328,
+    "2022-12-10": 302,
+    "2022-12-13": 276,
+    "2022-12-15": 364,
+    "2022-12-18": 380,
+    "2022-12-21": 376,
+    "2022-12-22": 368
+  },
+  "Completion": 55.099998474121094,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 758190,
+    "average_2weeks": 1561,
+    "average_forever": 4379,
+    "median_2weeks": 1561,
+    "median_forever": 2518
+  },
+  "Median Playtime - Forever": {
+    "app_id": 758190,
+    "average_2weeks": 1561,
+    "average_forever": 4379,
+    "median_2weeks": 1561,
+    "median_forever": 2518
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 36,
+  "User Score": -1,
+  "appid": 758190,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 5775,
-  "negative": 647,
-  "price": "299",
-  "initialprice": "999",
-  "discount": "70",
   "ccu": 551,
-  "languages": "English, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/05/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/758190/header.jpg?t=1646649681",
+  "consensus_genre": "RPG",
+  "developer": "Meta Interaction",
+  "discount": "70",
   "genre": [
     "Adventure",
     "Casual",
@@ -55,163 +213,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 36,
-  "Down 30 Days": 4,
-  "Completion": 55.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/758190/header.jpg?t=1646649681",
+  "initialprice": "999",
+  "languages": "English, Simplified Chinese, Traditional Chinese",
+  "name": "Dragon Cliff",
+  "negative": 647,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5775,
+  "price": "299",
+  "publisher": "Meta Interaction",
+  "release_date": "2018/05/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 36,
+    "Adventure": 119,
+    "Auto Battler": 13,
+    "Casual": 122,
+    "Clicker": 116,
+    "Dungeon Crawler": 79,
+    "Fantasy": 24,
+    "Hack and Slash": 36,
+    "Idler": 115,
+    "Indie": 100,
+    "JRPG": 26,
+    "Loot": 122,
+    "Management": 98,
+    "Pixel Graphics": 114,
+    "RPG": 246,
+    "Simulation": 97,
+    "Singleplayer": 37,
+    "Strategy": 162,
+    "Turn-Based": 38,
+    "Turn-Based Combat": 56
+  },
+  "type": "game"
 }

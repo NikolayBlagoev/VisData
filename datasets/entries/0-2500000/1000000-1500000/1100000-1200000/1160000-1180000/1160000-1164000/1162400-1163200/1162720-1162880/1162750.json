@@ -1,216 +1,254 @@
 {
-  "appid": 1162750,
-  "name": "Songs of Syx",
-  "developer": "Gamatron AB",
-  "publisher": "Gamatron AB",
-  "tags": {
-    "Early Access": 391,
-    "City Builder": 355,
-    "Colony Sim": 344,
-    "Strategy": 337,
-    "Base-Building": 329,
-    "Singleplayer": 327,
-    "Grand Strategy": 321,
-    "Sandbox": 317,
-    "Building": 312,
-    "2D": 300,
-    "Top-Down": 296,
-    "Simulation": 287,
-    "Pixel Graphics": 282,
-    "Combat": 271,
-    "Moddable": 268,
-    "Survival": 264,
-    "Open World": 243,
-    "Medieval": 224,
-    "Fantasy": 221,
-    "Economy": 212
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1162750,
+    "average_2weeks": 0,
+    "average_forever": 1615,
+    "median_2weeks": 0,
+    "median_forever": 2123
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1162750,
+    "average_2weeks": 0,
+    "average_forever": 1615,
+    "median_2weeks": 0,
+    "median_forever": 2123
+  },
+  "CCU Histogram": {
+    "2022-12-08": 74,
+    "2022-12-09": 106,
+    "2022-12-10": 98,
+    "2022-12-13": 127,
+    "2022-12-15": 108,
+    "2022-12-18": 105,
+    "2022-12-21": 109,
+    "2022-12-22": 97
+  },
+  "Completion": 34.70000076293945,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1162750,
+    "average_2weeks": 0,
+    "average_forever": 1615,
+    "median_2weeks": 0,
+    "median_forever": 2123
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1162750,
+    "average_2weeks": 0,
+    "average_forever": 1615,
+    "median_2weeks": 0,
+    "median_forever": 2123
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 55,
+  "User Score": -1,
+  "appid": 1162750,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2040,
-  "negative": 63,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 123,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/09/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1162750/header.jpg?t=1667204386",
+  "consensus_genre": "Early Access",
+  "developer": "Gamatron AB",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 55,
-  "Down 30 Days": 4,
-  "Completion": 34.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1162750/header.jpg?t=1667204386",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "Songs of Syx",
+  "negative": 63,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2040,
+  "price": "2499",
+  "publisher": "Gamatron AB",
+  "release_date": "2020/09/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 300,
+    "Base-Building": 329,
+    "Building": 312,
+    "City Builder": 355,
+    "Colony Sim": 344,
+    "Combat": 271,
+    "Early Access": 391,
+    "Economy": 212,
+    "Fantasy": 221,
+    "Grand Strategy": 321,
+    "Medieval": 224,
+    "Moddable": 268,
+    "Open World": 243,
+    "Pixel Graphics": 282,
+    "Sandbox": 317,
+    "Simulation": 287,
+    "Singleplayer": 327,
+    "Strategy": 337,
+    "Survival": 264,
+    "Top-Down": 296
+  },
+  "type": "game"
 }

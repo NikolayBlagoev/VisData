@@ -1,55 +1,93 @@
 {
-  "appid": 1645990,
-  "name": "Church of the Midnight Sailor",
-  "developer": "Erik Meyer",
-  "publisher": "Erik Meyer",
-  "tags": {
-    "RPG": 95,
-    "Action RPG": 69,
-    "Exploration": 67,
-    "2D": 65,
-    "Transhumanism": 61,
-    "Story Rich": 55,
-    "Singleplayer": 53,
-    "Pixel Graphics": 51,
-    "Futuristic": 49,
-    "Indie": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1645990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
+  "Average Playtime - Forever": {
+    "app_id": 1645990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/06/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1645990/header.jpg?t=1624979178",
-  "genre": [
-    "RPG"
-  ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1645990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1645990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 100.0,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1645990,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "RPG",
+  "developer": "Erik Meyer",
+  "discount": "0",
+  "genre": [
+    "RPG"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1645990/header.jpg?t=1624979178",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Church of the Midnight Sailor",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Erik Meyer",
+  "release_date": "2021/06/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 65,
+    "Action RPG": 69,
+    "Exploration": 67,
+    "Futuristic": 49,
+    "Indie": 27,
+    "Pixel Graphics": 51,
+    "RPG": 95,
+    "Singleplayer": 53,
+    "Story Rich": 55,
+    "Transhumanism": 61
+  },
+  "type": "game"
 }

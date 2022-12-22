@@ -1,31 +1,201 @@
 {
-  "appid": 248820,
-  "name": "Risk of Rain",
-  "developer": "Hopoo Games",
-  "publisher": "Chucklefish",
-  "tags": {
-    "Action Roguelike": 1631,
-    "Rogue-like": 1596,
-    "Indie": 1209,
-    "Platformer": 1099,
-    "Action": 1025,
-    "Pixel Graphics": 994,
-    "Great Soundtrack": 840,
-    "Online Co-Op": 812,
-    "Difficult": 757,
-    "Perma Death": 647,
-    "Co-op": 639,
-    "2D": 628,
-    "Local Co-Op": 574,
-    "Rogue-lite": 551,
-    "Multiplayer": 441,
-    "RPG": 371,
-    "Singleplayer": 364,
-    "Addictive": 351,
-    "Replay Value": 273,
-    "Survival": 230
+  "Average Playtime - 2 Weeks": {
+    "app_id": 248820,
+    "average_2weeks": 0,
+    "average_forever": 706,
+    "median_2weeks": 0,
+    "median_forever": 261
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 248820,
+    "average_2weeks": 0,
+    "average_forever": 706,
+    "median_2weeks": 0,
+    "median_forever": 261
+  },
+  "CCU Histogram": {
+    "2022-12-08": 50,
+    "2022-12-09": 69,
+    "2022-12-10": 49,
+    "2022-12-13": 77,
+    "2022-12-15": 57,
+    "2022-12-18": 68,
+    "2022-12-21": 59,
+    "2022-12-22": 52
+  },
+  "Completion": 57.400001525878906,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 248820,
+    "average_2weeks": 0,
+    "average_forever": 706,
+    "median_2weeks": 0,
+    "median_forever": 261
+  },
+  "Median Playtime - Forever": {
+    "app_id": 248820,
+    "average_2weeks": 0,
+    "average_forever": 706,
+    "median_2weeks": 0,
+    "median_forever": 261
+  },
+  "Meta Score": "77",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 48,
+  "User Score": -1,
+  "appid": 248820,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,184 +207,52 @@
     "Remote Play on Tablet",
     "Remote Play Together"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 26682,
-  "negative": 1800,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 78,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2013/11/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/248820/header.jpg?t=1577387901",
+  "consensus_genre": "Indie",
+  "developer": "Hopoo Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "77",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 48,
-  "Down 30 Days": 8,
-  "Completion": 57.400001525878906,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/248820/header.jpg?t=1577387901",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Risk of Rain",
+  "negative": 1800,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 26682,
+  "price": "999",
+  "publisher": "Chucklefish",
+  "release_date": "2013/11/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 628,
+    "Action": 1025,
+    "Action Roguelike": 1631,
+    "Addictive": 351,
+    "Co-op": 639,
+    "Difficult": 757,
+    "Great Soundtrack": 840,
+    "Indie": 1209,
+    "Local Co-Op": 574,
+    "Multiplayer": 441,
+    "Online Co-Op": 812,
+    "Perma Death": 647,
+    "Pixel Graphics": 994,
+    "Platformer": 1099,
+    "RPG": 371,
+    "Replay Value": 273,
+    "Rogue-like": 1596,
+    "Rogue-lite": 551,
+    "Singleplayer": 364,
+    "Survival": 230
+  },
+  "type": "game"
 }

@@ -1,31 +1,96 @@
 {
-  "appid": 2122770,
-  "name": "Kings and Catapults",
-  "developer": "Kings and Catapults",
-  "publisher": "Kings and Catapults",
-  "tags": {
-    "Adventure": 214,
-    "Strategy": 207,
-    "Arcade": 184,
-    "Board Game": 179,
-    "Turn-Based Strategy": 172,
-    "Hack and Slash": 162,
-    "2D": 156,
-    "Colorful": 147,
-    "Dragons": 139,
-    "Medieval": 130,
-    "Mythology": 119,
-    "Swordplay": 117,
-    "PvP": 105,
-    "Grid-Based Movement": 91,
-    "Turn-Based Combat": 76,
-    "Turn-Based Tactics": 60,
-    "Singleplayer": 43,
-    "Local Multiplayer": 27,
-    "Fantasy": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2122770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2122770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2122770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2122770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2122770,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,79 +99,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2122770/header.jpg?t=1662986173",
+  "consensus_genre": "Adventure",
+  "developer": "Kings and Catapults",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2122770/header.jpg?t=1662986173",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Kings and Catapults",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "299",
+  "publisher": "Kings and Catapults",
+  "release_date": "2022/09/12",
+  "required_age": 0,
+  "tags": {
+    "2D": 156,
+    "Adventure": 214,
+    "Arcade": 184,
+    "Board Game": 179,
+    "Colorful": 147,
+    "Dragons": 139,
+    "Fantasy": 25,
+    "Grid-Based Movement": 91,
+    "Hack and Slash": 162,
+    "Indie": 21,
+    "Local Multiplayer": 27,
+    "Medieval": 130,
+    "Mythology": 119,
+    "PvP": 105,
+    "Singleplayer": 43,
+    "Strategy": 207,
+    "Swordplay": 117,
+    "Turn-Based Combat": 76,
+    "Turn-Based Strategy": 172,
+    "Turn-Based Tactics": 60
+  },
+  "type": "game"
 }

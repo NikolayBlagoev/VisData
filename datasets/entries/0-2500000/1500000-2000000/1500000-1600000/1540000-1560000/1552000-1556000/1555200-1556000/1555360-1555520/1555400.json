@@ -1,31 +1,201 @@
 {
-  "appid": 1555400,
-  "name": "Gomoku Let's Go",
-  "developer": "Studio Amateur",
-  "publisher": "indienova",
-  "tags": {
-    "Strategy": 113,
-    "Tabletop": 107,
-    "3D": 103,
-    "Realistic": 99,
-    "Board Game": 98,
-    "Stylized": 96,
-    "Turn-Based Strategy": 90,
-    "Turn-Based Tactics": 85,
-    "3D Platformer": 73,
-    "Tactical": 72,
-    "Casual": 67,
-    "Indie": 64,
-    "Atmospheric": 62,
-    "Singleplayer": 58,
-    "Multiplayer": 47,
-    "PvP": 42,
-    "Local Multiplayer": 41,
-    "Card Game": 37,
-    "Puzzle": 37,
-    "Historical": 34
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1555400,
+    "average_2weeks": 0,
+    "average_forever": 63,
+    "median_2weeks": 0,
+    "median_forever": 63
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1555400,
+    "average_2weeks": 0,
+    "average_forever": 63,
+    "median_2weeks": 0,
+    "median_forever": 63
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5,
+    "2022-12-09": 13,
+    "2022-12-10": 13,
+    "2022-12-13": 10,
+    "2022-12-15": 14,
+    "2022-12-18": 12,
+    "2022-12-21": 13,
+    "2022-12-22": 16
+  },
+  "Completion": 66.20000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1555400,
+    "average_2weeks": 0,
+    "average_forever": 63,
+    "median_2weeks": 0,
+    "median_forever": 63
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1555400,
+    "average_2weeks": 0,
+    "average_forever": 63,
+    "median_2weeks": 0,
+    "median_forever": 63
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 1555400,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,184 +209,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 483,
-  "negative": 64,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 9,
-  "languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean, Russian, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1555400/header.jpg?t=1665354865",
+  "consensus_genre": "Strategy",
+  "developer": "Studio Amateur",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 0,
-  "Completion": 66.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1555400/header.jpg?t=1665354865",
+  "initialprice": "299",
+  "languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean, Russian, German",
+  "name": "Gomoku Let's Go",
+  "negative": 64,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 483,
+  "price": "299",
+  "publisher": "indienova",
+  "release_date": "2021/07/28",
+  "required_age": 0,
+  "tags": {
+    "3D": 103,
+    "3D Platformer": 73,
+    "Atmospheric": 62,
+    "Board Game": 98,
+    "Card Game": 37,
+    "Casual": 67,
+    "Historical": 34,
+    "Indie": 64,
+    "Local Multiplayer": 41,
+    "Multiplayer": 47,
+    "Puzzle": 37,
+    "PvP": 42,
+    "Realistic": 99,
+    "Singleplayer": 58,
+    "Strategy": 113,
+    "Stylized": 96,
+    "Tabletop": 107,
+    "Tactical": 72,
+    "Turn-Based Strategy": 90,
+    "Turn-Based Tactics": 85
+  },
+  "type": "game"
 }

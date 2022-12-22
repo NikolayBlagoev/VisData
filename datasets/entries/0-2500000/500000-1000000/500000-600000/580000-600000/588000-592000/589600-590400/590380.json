@@ -1,31 +1,201 @@
 {
-  "appid": 590380,
-  "name": "Into the Breach",
-  "developer": "Subset Games",
-  "publisher": "Subset Games",
-  "tags": {
-    "Strategy": 371,
-    "Turn-Based Strategy": 334,
-    "Indie": 291,
-    "Pixel Graphics": 257,
-    "Turn-Based Tactics": 247,
-    "Mechs": 238,
-    "Rogue-like": 191,
-    "Turn-Based": 180,
-    "Puzzle": 171,
-    "Sci-fi": 167,
-    "Rogue-lite": 162,
-    "Singleplayer": 157,
-    "RPG": 145,
-    "Tactical": 143,
-    "Turn-Based Combat": 143,
-    "Isometric": 137,
-    "Simulation": 113,
-    "Replay Value": 108,
-    "Procedural Generation": 98,
-    "Great Soundtrack": 89
+  "Average Playtime - 2 Weeks": {
+    "app_id": 590380,
+    "average_2weeks": 0,
+    "average_forever": 820,
+    "median_2weeks": 0,
+    "median_forever": 493
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 590380,
+    "average_2weeks": 0,
+    "average_forever": 820,
+    "median_2weeks": 0,
+    "median_forever": 493
+  },
+  "CCU Histogram": {
+    "2022-12-08": 329,
+    "2022-12-09": 321,
+    "2022-12-10": 346,
+    "2022-12-13": 375,
+    "2022-12-15": 310,
+    "2022-12-18": 354,
+    "2022-12-21": 326,
+    "2022-12-22": 380
+  },
+  "Completion": 53.19999885559082,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 590380,
+    "average_2weeks": 0,
+    "average_forever": 820,
+    "median_2weeks": 0,
+    "median_forever": 493
+  },
+  "Median Playtime - Forever": {
+    "app_id": 590380,
+    "average_2weeks": 0,
+    "average_forever": 820,
+    "median_2weeks": 0,
+    "median_forever": 493
+  },
+  "Meta Score": "90",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 194,
+  "User Score": -1,
+  "appid": 590380,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,185 +206,53 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 15211,
-  "negative": 875,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 422,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Arabic, Korean, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/02/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/590380/header.jpg?t=1658236736",
+  "consensus_genre": "Strategy",
+  "developer": "Subset Games",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "90",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 194,
-  "Down 30 Days": 16,
-  "Completion": 53.19999885559082,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/590380/header.jpg?t=1658236736",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Arabic, Korean, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish",
+  "name": "Into the Breach",
+  "negative": 875,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 15211,
+  "price": "1499",
+  "publisher": "Subset Games",
+  "release_date": "2018/02/27",
+  "required_age": 0,
+  "tags": {
+    "Great Soundtrack": 89,
+    "Indie": 291,
+    "Isometric": 137,
+    "Mechs": 238,
+    "Pixel Graphics": 257,
+    "Procedural Generation": 98,
+    "Puzzle": 171,
+    "RPG": 145,
+    "Replay Value": 108,
+    "Rogue-like": 191,
+    "Rogue-lite": 162,
+    "Sci-fi": 167,
+    "Simulation": 113,
+    "Singleplayer": 157,
+    "Strategy": 371,
+    "Tactical": 143,
+    "Turn-Based": 180,
+    "Turn-Based Combat": 143,
+    "Turn-Based Strategy": 334,
+    "Turn-Based Tactics": 247
+  },
+  "type": "game"
 }

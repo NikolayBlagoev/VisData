@@ -1,31 +1,201 @@
 {
-  "appid": 683320,
-  "name": "GRIS",
-  "developer": "Nomada Studio",
-  "publisher": "Devolver Digital",
-  "tags": {
-    "Beautiful": 1577,
-    "Atmospheric": 1240,
-    "Great Soundtrack": 990,
-    "Indie": 965,
-    "Female Protagonist": 900,
-    "Adventure": 657,
-    "Hand-drawn": 590,
-    "Singleplayer": 530,
-    "Platformer": 526,
-    "2D": 512,
-    "Relaxing": 492,
-    "Story Rich": 459,
-    "Puzzle": 346,
-    "Colorful": 334,
-    "Puzzle-Platformer": 322,
-    "Surreal": 297,
-    "Casual": 220,
-    "Exploration": 201,
-    "Walking Simulator": 158,
-    "Anime": 124
+  "Average Playtime - 2 Weeks": {
+    "app_id": 683320,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 171
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 683320,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 171
+  },
+  "CCU Histogram": {
+    "2022-12-08": 337,
+    "2022-12-09": 173,
+    "2022-12-10": 195,
+    "2022-12-13": 219,
+    "2022-12-15": 139,
+    "2022-12-18": 116,
+    "2022-12-21": 104,
+    "2022-12-22": 109
+  },
+  "Completion": 52.70000076293945,
+  "Down 30 Days": 31,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 90
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 80
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 73
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 683320,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 171
+  },
+  "Median Playtime - Forever": {
+    "app_id": 683320,
+    "average_2weeks": 0,
+    "average_forever": 270,
+    "median_2weeks": 0,
+    "median_forever": 171
+  },
+  "Meta Score": "84",
+  "Rating": "ESRB E",
+  "Up 30 Days": 752,
+  "User Score": -1,
+  "appid": 683320,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -35,183 +205,51 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 56026,
-  "negative": 1985,
-  "price": "1699",
-  "initialprice": "1699",
-  "discount": "0",
   "ccu": 87,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2018/12/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/683320/header.jpg?t=1666985545",
+  "consensus_genre": "Indie",
+  "developer": "Nomada Studio",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "84",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 32,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 90,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 70,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 54,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 80,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 73,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 55,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 48,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 752,
-  "Down 30 Days": 31,
-  "Completion": 52.70000076293945,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/683320/header.jpg?t=1666985545",
+  "initialprice": "1699",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil",
+  "name": "GRIS",
+  "negative": 1985,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 56026,
+  "price": "1699",
+  "publisher": "Devolver Digital",
+  "release_date": "2018/12/13",
+  "required_age": 0,
+  "tags": {
+    "2D": 512,
+    "Adventure": 657,
+    "Anime": 124,
+    "Atmospheric": 1240,
+    "Beautiful": 1577,
+    "Casual": 220,
+    "Colorful": 334,
+    "Exploration": 201,
+    "Female Protagonist": 900,
+    "Great Soundtrack": 990,
+    "Hand-drawn": 590,
+    "Indie": 965,
+    "Platformer": 526,
+    "Puzzle": 346,
+    "Puzzle-Platformer": 322,
+    "Relaxing": 492,
+    "Singleplayer": 530,
+    "Story Rich": 459,
+    "Surreal": 297,
+    "Walking Simulator": 158
+  },
+  "type": "game"
 }

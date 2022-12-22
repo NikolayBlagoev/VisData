@@ -1,31 +1,201 @@
 {
-  "appid": 1987080,
-  "name": "Inside the Backrooms",
-  "developer": "MrFatcat",
-  "publisher": "MrFatcat, Dropsiick",
-  "tags": {
-    "Early Access": 375,
-    "Multiplayer": 340,
-    "Horror": 335,
-    "Puzzle": 271,
-    "Survival Horror": 268,
-    "Adventure": 264,
-    "Psychological Horror": 241,
-    "Exploration": 226,
-    "First-Person": 208,
-    "FPS": 198,
-    "Atmospheric": 197,
-    "3D": 193,
-    "Co-op": 192,
-    "Online Co-Op": 181,
-    "Dark": 174,
-    "Mystery": 169,
-    "Sci-fi": 166,
-    "Story Rich": 123,
-    "PvE": 111,
-    "Linear": 85
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1987080,
+    "average_2weeks": 87,
+    "average_forever": 269,
+    "median_2weeks": 113,
+    "median_forever": 234
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1987080,
+    "average_2weeks": 87,
+    "average_forever": 269,
+    "median_2weeks": 113,
+    "median_forever": 234
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2075,
+    "2022-12-09": 1731,
+    "2022-12-10": 1468,
+    "2022-12-13": 1183,
+    "2022-12-15": 1646,
+    "2022-12-18": 1564,
+    "2022-12-21": 1477,
+    "2022-12-22": 1477
+  },
+  "Completion": 46.900001525878906,
+  "Down 30 Days": 476,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 34,
+      "recommendations_up": 78
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 19,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 50,
+      "recommendations_up": 133
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 30,
+      "recommendations_up": 113
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 19,
+      "recommendations_up": 95
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 27,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 9,
+      "recommendations_up": 83
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 12,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 8,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 13,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 26,
+      "recommendations_up": 103
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 19,
+      "recommendations_up": 83
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 15,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 8,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 7,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 5,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 5,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 14,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 6,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 13,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 10,
+      "recommendations_up": 403
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 27,
+      "recommendations_up": 1611
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 19,
+      "recommendations_up": 700
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 17,
+      "recommendations_up": 487
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 23,
+      "recommendations_up": 409
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 10,
+      "recommendations_up": 426
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 16,
+      "recommendations_up": 323
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 7,
+      "recommendations_up": 254
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 8,
+      "recommendations_up": 43
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1987080,
+    "average_2weeks": 87,
+    "average_forever": 269,
+    "median_2weeks": 113,
+    "median_forever": 234
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1987080,
+    "average_2weeks": 87,
+    "average_forever": 269,
+    "median_2weeks": 113,
+    "median_forever": 234
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 6070,
+  "User Score": -1,
+  "appid": 1987080,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,184 +203,52 @@
     "Steam Achievements",
     "Online Co-op"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 14672,
-  "negative": 3014,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 3763,
-  "languages": "English, Spanish - Spain, French, Simplified Chinese, Russian, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1987080/header.jpg?t=1660322585",
+  "consensus_genre": "Early Access",
+  "developer": "MrFatcat",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 78,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 72,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 133,
-      "recommendations_down": 50
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 113,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 95,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 77,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 83,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 57,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 57,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 65,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 103,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 83,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 65,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 55,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 32,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 27,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 52,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 62,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 66,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 39,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 403,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1611,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 700,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 487,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 409,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 426,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 323,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 254,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 43,
-      "recommendations_down": 8
-    }
-  ],
-  "Up 30 Days": 6070,
-  "Down 30 Days": 476,
-  "Completion": 46.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1987080/header.jpg?t=1660322585",
+  "initialprice": "499",
+  "languages": "English, Spanish - Spain, French, Simplified Chinese, Russian, German",
+  "name": "Inside the Backrooms",
+  "negative": 3014,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14672,
+  "price": "499",
+  "publisher": "MrFatcat, Dropsiick",
+  "release_date": "2022/06/20",
+  "required_age": 0,
+  "tags": {
+    "3D": 193,
+    "Adventure": 264,
+    "Atmospheric": 197,
+    "Co-op": 192,
+    "Dark": 174,
+    "Early Access": 375,
+    "Exploration": 226,
+    "FPS": 198,
+    "First-Person": 208,
+    "Horror": 335,
+    "Linear": 85,
+    "Multiplayer": 340,
+    "Mystery": 169,
+    "Online Co-Op": 181,
+    "Psychological Horror": 241,
+    "Puzzle": 271,
+    "PvE": 111,
+    "Sci-fi": 166,
+    "Story Rich": 123,
+    "Survival Horror": 268
+  },
+  "type": "game"
 }

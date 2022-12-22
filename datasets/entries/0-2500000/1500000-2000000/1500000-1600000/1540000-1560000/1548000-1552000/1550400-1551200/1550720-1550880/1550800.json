@@ -1,68 +1,106 @@
 {
-  "appid": 1550800,
-  "name": "Omega-Altro",
-  "developer": "Rakun",
-  "publisher": "Rakun Games",
-  "tags": {
-    "2D": 212,
-    "2D Platformer": 207,
-    "Flight": 203,
-    "Platformer": 197,
-    "Metroidvania": 191,
-    "Female Protagonist": 181,
-    "Exploration": 174,
-    "Physics": 167,
-    "Hand-drawn": 157,
-    "Pixel Graphics": 148,
-    "Adventure": 145,
-    "Arcade": 138,
-    "Action": 130,
-    "Action-Adventure": 123,
-    "Underground": 95,
-    "Robots": 79,
-    "Singleplayer": 62,
-    "Linear": 44,
-    "Indie": 31,
-    "Hidden Object": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1550800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1550800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1550800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1550800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1550800,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/03/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1550800/header.jpg?t=1614585710",
+  "consensus_genre": "Adventure",
+  "developer": "Rakun",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1550800/header.jpg?t=1614585710",
+  "initialprice": "199",
+  "languages": "English, Russian",
+  "name": "Omega-Altro",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Rakun Games",
+  "release_date": "2021/03/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 212,
+    "2D Platformer": 207,
+    "Action": 130,
+    "Action-Adventure": 123,
+    "Adventure": 145,
+    "Arcade": 138,
+    "Exploration": 174,
+    "Female Protagonist": 181,
+    "Flight": 203,
+    "Hand-drawn": 157,
+    "Hidden Object": 26,
+    "Indie": 31,
+    "Linear": 44,
+    "Metroidvania": 191,
+    "Physics": 167,
+    "Pixel Graphics": 148,
+    "Platformer": 197,
+    "Robots": 79,
+    "Singleplayer": 62,
+    "Underground": 95
+  },
+  "type": "game"
 }

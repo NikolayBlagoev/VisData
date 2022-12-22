@@ -1,68 +1,106 @@
 {
-  "appid": 1969410,
-  "name": "\u6226\u4e59\u5973 ikusaotome",
-  "developer": "Maets2011",
-  "publisher": "Maets2011",
-  "tags": {
-    "Casual": 186,
-    "Racing": 181,
-    "VR": 177,
-    "e-sports": 170,
-    "Arena Shooter": 155,
-    "Flight": 145,
-    "Singleplayer": 138,
-    "Female Protagonist": 130,
-    "Character Customization": 122,
-    "Sports": 120,
-    "Gun Customization": 113,
-    "Minimalist": 102,
-    "Hunting": 87,
-    "3D": 73,
-    "3D Platformer": 58,
-    "First-Person": 42,
-    "Third Person": 27,
-    "Controller": 26,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1969410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1969410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 22.200000762939453,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1969410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1969410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1969410,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1969410/header.jpg?t=1657886770",
+  "consensus_genre": "Casual",
+  "developer": "Maets2011",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Racing",
     "Sports"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 22.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1969410/header.jpg?t=1657886770",
+  "initialprice": "999",
+  "languages": "English, French, German, Spanish - Spain, Japanese",
+  "name": "\u6226\u4e59\u5973 ikusaotome",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "Maets2011",
+  "release_date": "2022/05/13",
+  "required_age": 0,
+  "tags": {
+    "3D": 73,
+    "3D Platformer": 58,
+    "Arena Shooter": 155,
+    "Casual": 186,
+    "Character Customization": 122,
+    "Controller": 26,
+    "Female Protagonist": 130,
+    "First-Person": 42,
+    "Flight": 145,
+    "Gun Customization": 113,
+    "Hunting": 87,
+    "Indie": 21,
+    "Minimalist": 102,
+    "Racing": 181,
+    "Singleplayer": 138,
+    "Sports": 120,
+    "Third Person": 27,
+    "VR": 177,
+    "e-sports": 170
+  },
+  "type": "game"
 }

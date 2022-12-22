@@ -1,31 +1,201 @@
 {
-  "appid": 343100,
-  "name": "Overture",
-  "developer": "Black Shell Games",
-  "publisher": "Plug In Digital",
-  "tags": {
-    "Action Roguelike": 61,
-    "Indie": 59,
-    "Action": 52,
-    "RPG": 51,
-    "Pixel Graphics": 42,
-    "Adventure": 36,
-    "Rogue-like": 36,
-    "Bullet Hell": 35,
-    "Casual": 34,
-    "Dungeon Crawler": 34,
-    "Rogue-lite": 30,
-    "Strategy": 25,
-    "Loot": 24,
-    "Retro": 22,
-    "2D": 15,
-    "Hack and Slash": 15,
-    "Singleplayer": 13,
-    "Difficult": 11,
-    "Great Soundtrack": 10,
-    "Twin Stick Shooter": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 343100,
+    "average_2weeks": 0,
+    "average_forever": 392,
+    "median_2weeks": 0,
+    "median_forever": 290
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 343100,
+    "average_2weeks": 0,
+    "average_forever": 392,
+    "median_2weeks": 0,
+    "median_forever": 290
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5,
+    "2022-12-09": 8,
+    "2022-12-10": 6,
+    "2022-12-13": 4,
+    "2022-12-15": 9,
+    "2022-12-18": 8,
+    "2022-12-21": 7,
+    "2022-12-22": 7
+  },
+  "Completion": 2.0,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 343100,
+    "average_2weeks": 0,
+    "average_forever": 392,
+    "median_2weeks": 0,
+    "median_forever": 290
+  },
+  "Median Playtime - Forever": {
+    "app_id": 343100,
+    "average_2weeks": 0,
+    "average_forever": 392,
+    "median_2weeks": 0,
+    "median_forever": 290
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 343100,
   "categories": [
     "Single-player",
     "Captions available",
@@ -33,22 +203,10 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 938,
-  "negative": 281,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/02/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/343100/header.jpg?t=1614781615",
+  "consensus_genre": "Indie",
+  "developer": "Black Shell Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -57,163 +215,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 2,
-  "Completion": 2.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/343100/header.jpg?t=1614781615",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Overture",
+  "negative": 281,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 938,
+  "price": "499",
+  "publisher": "Plug In Digital",
+  "release_date": "2015/02/2",
+  "required_age": 0,
+  "tags": {
+    "2D": 15,
+    "Action": 52,
+    "Action Roguelike": 61,
+    "Adventure": 36,
+    "Bullet Hell": 35,
+    "Casual": 34,
+    "Difficult": 11,
+    "Dungeon Crawler": 34,
+    "Great Soundtrack": 10,
+    "Hack and Slash": 15,
+    "Indie": 59,
+    "Loot": 24,
+    "Pixel Graphics": 42,
+    "RPG": 51,
+    "Retro": 22,
+    "Rogue-like": 36,
+    "Rogue-lite": 30,
+    "Singleplayer": 13,
+    "Strategy": 25,
+    "Twin Stick Shooter": 10
+  },
+  "type": "game"
 }

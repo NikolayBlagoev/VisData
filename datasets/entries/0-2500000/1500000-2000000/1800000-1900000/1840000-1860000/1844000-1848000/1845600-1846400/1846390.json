@@ -1,67 +1,105 @@
 {
-  "appid": 1846390,
-  "name": "Einherjar",
-  "developer": "Simon Kattler",
-  "publisher": "Simon Kattler",
-  "tags": {
-    "Strategy": 195,
-    "Rogue-like": 170,
-    "RTS": 165,
-    "Turn-Based Strategy": 160,
-    "3D": 155,
-    "Building": 145,
-    "Medieval": 138,
-    "Mythology": 130,
-    "Tactical": 123,
-    "Time Travel": 113,
-    "Base-Building": 102,
-    "Class-Based": 100,
-    "Combat": 87,
-    "Procedural Generation": 73,
-    "Resource Management": 58,
-    "Singleplayer": 42,
-    "Action RTS": 27,
-    "Rogue-lite": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1846390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1846390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 61.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1846390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1846390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1846390,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1846390/header.jpg?t=1665748018",
+  "consensus_genre": "Strategy",
+  "developer": "Simon Kattler",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 61.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1846390/header.jpg?t=1665748018",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Einherjar",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "Simon Kattler",
+  "release_date": "2022/03/15",
+  "required_age": 0,
+  "tags": {
+    "3D": 155,
+    "Action RTS": 27,
+    "Base-Building": 102,
+    "Building": 145,
+    "Class-Based": 100,
+    "Combat": 87,
+    "Indie": 21,
+    "Medieval": 138,
+    "Mythology": 130,
+    "Procedural Generation": 73,
+    "RTS": 165,
+    "Resource Management": 58,
+    "Rogue-like": 170,
+    "Rogue-lite": 25,
+    "Singleplayer": 42,
+    "Strategy": 195,
+    "Tactical": 123,
+    "Time Travel": 113,
+    "Turn-Based Strategy": 160
+  },
+  "type": "game"
 }

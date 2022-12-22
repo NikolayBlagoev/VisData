@@ -1,80 +1,118 @@
 {
-  "appid": 1475600,
-  "name": "The Santa Paradox",
-  "developer": "Broken Bear Games",
-  "publisher": "Broken Bear Games",
-  "tags": {
-    "Adventure": 253,
-    "Casual": 246,
-    "RPG": 243,
-    "Action RPG": 216,
-    "Action-Adventure": 211,
-    "Character Action Game": 200,
-    "Exploration": 195,
-    "Interactive Fiction": 186,
-    "FPS": 177,
-    "3D": 168,
-    "Colorful": 158,
-    "Cute": 146,
-    "First-Person": 145,
-    "Stylized": 130,
-    "Emotional": 115,
-    "Family Friendly": 99,
-    "Funny": 83,
-    "Story Rich": 64,
-    "Conversation": 45,
-    "Multiple Endings": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1475600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1475600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 60.29999923706055,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1475600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1475600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1475600,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1475600/header.jpg?t=1607344000",
+  "consensus_genre": "Adventure",
+  "developer": "Broken Bear Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": 60.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1475600/header.jpg?t=1607344000",
+  "initialprice": "599",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "The Santa Paradox",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Broken Bear Games",
+  "release_date": "2020/12/7",
+  "required_age": 0,
+  "tags": {
+    "3D": 168,
+    "Action RPG": 216,
+    "Action-Adventure": 211,
+    "Adventure": 253,
+    "Casual": 246,
+    "Character Action Game": 200,
+    "Colorful": 158,
+    "Conversation": 45,
+    "Cute": 146,
+    "Emotional": 115,
+    "Exploration": 195,
+    "FPS": 177,
+    "Family Friendly": 99,
+    "First-Person": 145,
+    "Funny": 83,
+    "Interactive Fiction": 186,
+    "Multiple Endings": 27,
+    "RPG": 243,
+    "Story Rich": 64,
+    "Stylized": 130
+  },
+  "type": "game"
 }

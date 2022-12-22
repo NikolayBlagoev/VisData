@@ -1,31 +1,201 @@
 {
-  "appid": 407130,
-  "name": "Tank Mechanic Simulator",
-  "developer": "DeGenerals S.A.",
-  "publisher": "PlayWay S.A.",
-  "tags": {
-    "Tanks": 252,
-    "Simulation": 244,
-    "World War II": 240,
-    "Realistic": 238,
-    "Singleplayer": 234,
-    "First-Person": 221,
-    "Action": 216,
-    "Indie": 215,
-    "Relaxing": 215,
-    "Building": 213,
-    "Management": 202,
-    "Walking Simulator": 201,
-    "Crafting": 196,
-    "Economy": 193,
-    "Casual": 187,
-    "Exploration": 174,
-    "Resource Management": 172,
-    "Adventure": 164,
-    "Atmospheric": 59,
-    "Family Friendly": 55
+  "Average Playtime - 2 Weeks": {
+    "app_id": 407130,
+    "average_2weeks": 0,
+    "average_forever": 1005,
+    "median_2weeks": 0,
+    "median_forever": 1350
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 407130,
+    "average_2weeks": 0,
+    "average_forever": 1005,
+    "median_2weeks": 0,
+    "median_forever": 1350
+  },
+  "CCU Histogram": {
+    "2022-12-08": 84,
+    "2022-12-09": 82,
+    "2022-12-10": 90,
+    "2022-12-13": 89,
+    "2022-12-15": 77,
+    "2022-12-18": 76,
+    "2022-12-21": 74,
+    "2022-12-22": 87
+  },
+  "Completion": 76.9000015258789,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 407130,
+    "average_2weeks": 0,
+    "average_forever": 1005,
+    "median_2weeks": 0,
+    "median_forever": 1350
+  },
+  "Median Playtime - Forever": {
+    "app_id": 407130,
+    "average_2weeks": 0,
+    "average_forever": 1005,
+    "median_2weeks": 0,
+    "median_forever": 1350
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 59,
+  "User Score": -1,
+  "appid": 407130,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -34,22 +204,10 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5970,
-  "negative": 791,
-  "price": "599",
-  "initialprice": "1999",
-  "discount": "70",
   "ccu": 165,
-  "languages": "English, Polish, French, German, Russian, Italian, Spanish - Spain, Simplified Chinese, Korean, Turkish, Japanese, Hungarian, Portuguese - Portugal",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/02/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/407130/header.jpg?t=1667901679",
+  "consensus_genre": "Simulation",
+  "developer": "DeGenerals S.A.",
+  "discount": "70",
   "genre": [
     "Action",
     "Adventure",
@@ -57,163 +215,43 @@
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 59,
-  "Down 30 Days": 12,
-  "Completion": 76.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/407130/header.jpg?t=1667901679",
+  "initialprice": "1999",
+  "languages": "English, Polish, French, German, Russian, Italian, Spanish - Spain, Simplified Chinese, Korean, Turkish, Japanese, Hungarian, Portuguese - Portugal",
+  "name": "Tank Mechanic Simulator",
+  "negative": 791,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5970,
+  "price": "599",
+  "publisher": "PlayWay S.A.",
+  "release_date": "2020/02/20",
+  "required_age": 0,
+  "tags": {
+    "Action": 216,
+    "Adventure": 164,
+    "Atmospheric": 59,
+    "Building": 213,
+    "Casual": 187,
+    "Crafting": 196,
+    "Economy": 193,
+    "Exploration": 174,
+    "Family Friendly": 55,
+    "First-Person": 221,
+    "Indie": 215,
+    "Management": 202,
+    "Realistic": 238,
+    "Relaxing": 215,
+    "Resource Management": 172,
+    "Simulation": 244,
+    "Singleplayer": 234,
+    "Tanks": 252,
+    "Walking Simulator": 201,
+    "World War II": 240
+  },
+  "type": "game"
 }

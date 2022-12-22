@@ -1,62 +1,100 @@
 {
-  "appid": 1443400,
-  "name": "Coronarun",
-  "developer": "Magnus Nilsson",
-  "publisher": "Magnus Nilsson",
-  "tags": {
-    "2D Platformer": 54,
-    "Casual": 47,
-    "Singleplayer": 47,
-    "Pixel Graphics": 44,
-    "Retro": 40,
-    "Arcade": 37,
-    "Precision Platformer": 32,
-    "Old School": 29,
-    "Minimalist": 25,
-    "Linear": 23,
-    "Indie": 22,
-    "Side Scroller": 22,
-    "Platformer": 19,
-    "Funny": 18,
-    "Emotional": 15,
-    "2D": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1443400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1443400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1443400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1443400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1443400,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/10/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1443400/header.jpg?t=1603833242",
+  "consensus_genre": "Casual",
+  "developer": "Magnus Nilsson",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1443400/header.jpg?t=1603833242",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Coronarun",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "199",
+  "publisher": "Magnus Nilsson",
+  "release_date": "2020/10/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 14,
+    "2D Platformer": 54,
+    "Arcade": 37,
+    "Casual": 47,
+    "Emotional": 15,
+    "Funny": 18,
+    "Indie": 22,
+    "Linear": 23,
+    "Minimalist": 25,
+    "Old School": 29,
+    "Pixel Graphics": 44,
+    "Platformer": 19,
+    "Precision Platformer": 32,
+    "Retro": 40,
+    "Side Scroller": 22,
+    "Singleplayer": 47
+  },
+  "type": "game"
 }

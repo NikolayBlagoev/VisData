@@ -1,82 +1,120 @@
 {
-  "appid": 2168000,
-  "name": "Trader of the Night",
-  "developer": "Notovia",
-  "publisher": "Notovia",
-  "tags": {
-    "Simulation": 446,
-    "Economy": 443,
-    "Capitalism": 437,
-    "Horror": 433,
-    "Psychological Horror": 429,
-    "Cyberpunk": 419,
-    "Dark Comedy": 417,
-    "Puzzle": 414,
-    "Immersive Sim": 408,
-    "Stylized": 406,
-    "Dystopian ": 401,
-    "Management": 394,
-    "Time Management": 386,
-    "Sci-fi": 380,
-    "Funny": 378,
-    "Atmospheric": 368,
-    "Sokoban": 353,
-    "Illuminati": 341,
-    "Singleplayer": 334,
-    "Assassin": 327
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2168000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2168000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 58.29999923706055,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2168000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2168000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 2168000,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 4,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2168000/header.jpg?t=1666091377",
+  "consensus_genre": "Simulation",
+  "developer": "Notovia",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 1,
-  "Completion": 58.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2168000/header.jpg?t=1666091377",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Trader of the Night",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "699",
+  "publisher": "Notovia",
+  "release_date": "2022/10/17",
+  "required_age": 0,
+  "tags": {
+    "Assassin": 327,
+    "Atmospheric": 368,
+    "Capitalism": 437,
+    "Cyberpunk": 419,
+    "Dark Comedy": 417,
+    "Dystopian ": 401,
+    "Economy": 443,
+    "Funny": 378,
+    "Horror": 433,
+    "Illuminati": 341,
+    "Immersive Sim": 408,
+    "Management": 394,
+    "Psychological Horror": 429,
+    "Puzzle": 414,
+    "Sci-fi": 380,
+    "Simulation": 446,
+    "Singleplayer": 334,
+    "Sokoban": 353,
+    "Stylized": 406,
+    "Time Management": 386
+  },
+  "type": "game"
 }

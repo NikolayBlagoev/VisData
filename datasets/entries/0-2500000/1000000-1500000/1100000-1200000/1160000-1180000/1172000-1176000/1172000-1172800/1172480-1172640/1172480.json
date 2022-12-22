@@ -1,29 +1,86 @@
 {
-  "appid": 1172480,
-  "name": "Louie",
-  "developer": "Chris Hanna",
-  "publisher": "Chris Hanna",
-  "tags": {
-    "2D Platformer": 129,
-    "Puzzle-Platformer": 124,
-    "Platformer": 120,
-    "2D": 117,
-    "Cute": 114,
-    "Funny": 108,
-    "Puzzle": 106,
-    "Cartoony": 105,
-    "Hand-drawn": 102,
-    "Family Friendly": 100,
-    "Level Editor": 98,
-    "Comedy": 87,
-    "Cartoon": 85,
-    "Retro": 71,
-    "1990's": 68,
-    "Old School": 67,
-    "Singleplayer": 65,
-    "Indie": 47
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1172480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1172480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 33.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1172480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1172480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1172480,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -32,67 +89,48 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/09/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172480/header.jpg?t=1610671900",
+  "consensus_genre": "Indie",
+  "developer": "Chris Hanna",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 33.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172480/header.jpg?t=1610671900",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Louie",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "499",
+  "publisher": "Chris Hanna",
+  "release_date": "2020/09/3",
+  "required_age": 0,
+  "tags": {
+    "1990's": 68,
+    "2D": 117,
+    "2D Platformer": 129,
+    "Cartoon": 85,
+    "Cartoony": 105,
+    "Comedy": 87,
+    "Cute": 114,
+    "Family Friendly": 100,
+    "Funny": 108,
+    "Hand-drawn": 102,
+    "Indie": 47,
+    "Level Editor": 98,
+    "Old School": 67,
+    "Platformer": 120,
+    "Puzzle": 106,
+    "Puzzle-Platformer": 124,
+    "Retro": 71,
+    "Singleplayer": 65
+  },
+  "type": "game"
 }

@@ -1,53 +1,211 @@
 {
-  "appid": 557180,
-  "name": "League of Maidens",
-  "developer": "Maiden Gaming Inc.",
-  "publisher": "Maiden Gaming Inc.",
-  "tags": {
-    "Nudity": 940,
-    "Mature": 696,
-    "Free to Play": 658,
-    "Character Customization": 631,
-    "Female Protagonist": 539,
-    "NSFW": 503,
-    "Casual": 451,
-    "RPG": 443,
-    "Superhero": 440,
-    "Action": 422,
-    "Singleplayer": 418,
-    "Comic Book": 405,
-    "Strategy": 395,
-    "Adventure": 387,
-    "Hack and Slash": 385,
-    "Early Access": 374,
-    "Looter Shooter": 365,
-    "Violent": 349,
-    "Action RPG": 337,
-    "Gore": 331
+  "Average Playtime - 2 Weeks": {
+    "app_id": 557180,
+    "average_2weeks": 1518,
+    "average_forever": 1362,
+    "median_2weeks": 1518,
+    "median_forever": 2675
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 557180,
+    "average_2weeks": 1518,
+    "average_forever": 1362,
+    "median_2weeks": 1518,
+    "median_forever": 2675
+  },
+  "CCU Histogram": {
+    "2022-12-08": 97,
+    "2022-12-09": 108,
+    "2022-12-10": 100,
+    "2022-12-13": 83,
+    "2022-12-15": 71,
+    "2022-12-18": 66,
+    "2022-12-21": 69,
+    "2022-12-22": 75
+  },
+  "Completion": 8.5,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 557180,
+    "average_2weeks": 1518,
+    "average_forever": 1362,
+    "median_2weeks": 1518,
+    "median_forever": 2675
+  },
+  "Median Playtime - Forever": {
+    "app_id": 557180,
+    "average_2weeks": 1518,
+    "average_forever": 1362,
+    "median_2weeks": 1518,
+    "median_forever": 2675
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 28,
+  "User Score": -1,
+  "appid": 557180,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "In-App Purchases"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 3275,
-  "negative": 2742,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 126,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/557180/header.jpg?t=1657911564",
+  "consensus_genre": "Free to Play",
+  "developer": "Maiden Gaming Inc.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -58,163 +216,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 28,
-  "Down 30 Days": 16,
-  "Completion": 8.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/557180/header.jpg?t=1657911564",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "League of Maidens",
+  "negative": 2742,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3275,
+  "price": "0",
+  "publisher": "Maiden Gaming Inc.",
+  "release_date": "2021/02/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 422,
+    "Action RPG": 337,
+    "Adventure": 387,
+    "Casual": 451,
+    "Character Customization": 631,
+    "Comic Book": 405,
+    "Early Access": 374,
+    "Female Protagonist": 539,
+    "Free to Play": 658,
+    "Gore": 331,
+    "Hack and Slash": 385,
+    "Looter Shooter": 365,
+    "Mature": 696,
+    "NSFW": 503,
+    "Nudity": 940,
+    "RPG": 443,
+    "Singleplayer": 418,
+    "Strategy": 395,
+    "Superhero": 440,
+    "Violent": 349
+  },
+  "type": "game"
 }

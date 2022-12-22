@@ -1,216 +1,254 @@
 {
-  "appid": 346850,
-  "name": "Chip's Challenge 1",
-  "developer": "Niffler Ltd.",
-  "publisher": "Niffler Ltd.",
-  "tags": {
-    "Puzzle": 154,
-    "Sokoban": 148,
-    "Reboot": 144,
-    "Logic": 137,
-    "Free to Play": 136,
-    "Difficult": 133,
-    "Strategy": 128,
-    "Top-Down": 124,
-    "2D": 123,
-    "Old School": 121,
-    "Pixel Graphics": 118,
-    "Grid-Based Movement": 113,
-    "Arcade": 99,
-    "Retro": 88,
-    "1990's": 86,
-    "Singleplayer": 84,
-    "Nostalgia": 63,
-    "Classic": 55,
-    "Indie": 54,
-    "Cult Classic": 43
+  "Average Playtime - 2 Weeks": {
+    "app_id": 346850,
+    "average_2weeks": 0,
+    "average_forever": 107,
+    "median_2weeks": 0,
+    "median_forever": 121
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 346850,
+    "average_2weeks": 0,
+    "average_forever": 107,
+    "median_2weeks": 0,
+    "median_forever": 121
+  },
+  "CCU Histogram": {
+    "2022-12-08": 23,
+    "2022-12-09": 25,
+    "2022-12-10": 26,
+    "2022-12-13": 21,
+    "2022-12-15": 19,
+    "2022-12-18": 18,
+    "2022-12-21": 20,
+    "2022-12-22": 20
+  },
+  "Completion": 79.9000015258789,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 346850,
+    "average_2weeks": 0,
+    "average_forever": 107,
+    "median_2weeks": 0,
+    "median_forever": 121
+  },
+  "Median Playtime - Forever": {
+    "app_id": 346850,
+    "average_2weeks": 0,
+    "average_forever": 107,
+    "median_2weeks": 0,
+    "median_forever": 121
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 346850,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 640,
-  "negative": 64,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 26,
-  "languages": "English, Greek",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/05/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/346850/header.jpg?t=1603202785",
+  "consensus_genre": "Free to Play",
+  "developer": "Niffler Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Free to Play",
     "Strategy"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 1,
-  "Completion": 79.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/346850/header.jpg?t=1603202785",
+  "initialprice": "0",
+  "languages": "English, Greek",
+  "name": "Chip's Challenge 1",
+  "negative": 64,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 640,
+  "price": "0",
+  "publisher": "Niffler Ltd.",
+  "release_date": "2015/05/28",
+  "required_age": 0,
+  "tags": {
+    "1990's": 86,
+    "2D": 123,
+    "Arcade": 99,
+    "Classic": 55,
+    "Cult Classic": 43,
+    "Difficult": 133,
+    "Free to Play": 136,
+    "Grid-Based Movement": 113,
+    "Indie": 54,
+    "Logic": 137,
+    "Nostalgia": 63,
+    "Old School": 121,
+    "Pixel Graphics": 118,
+    "Puzzle": 154,
+    "Reboot": 144,
+    "Retro": 88,
+    "Singleplayer": 84,
+    "Sokoban": 148,
+    "Strategy": 128,
+    "Top-Down": 124
+  },
+  "type": "game"
 }

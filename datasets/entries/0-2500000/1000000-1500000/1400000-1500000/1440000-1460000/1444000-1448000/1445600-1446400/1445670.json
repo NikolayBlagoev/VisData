@@ -1,61 +1,99 @@
 {
-  "appid": 1445670,
-  "name": "\u4f9d\u6faa Zero Plan",
-  "developer": "\u9999\u8549\u5927\u5723",
-  "publisher": "\u9999\u8549\u5927\u5723",
-  "tags": {
-    "Puzzle": 48,
-    "2D Platformer": 41,
-    "Horror": 40,
-    "Pixel Graphics": 37,
-    "Zombies": 33,
-    "Sci-fi": 27,
-    "Turn-Based Combat": 25,
-    "Singleplayer": 23,
-    "Adventure": 21,
-    "Early Access": 21,
-    "Gore": 21,
-    "RPGMaker": 21,
-    "Indie": 19,
-    "RPG": 17
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1445670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1445670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1445670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1445670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1445670,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1445670/header.jpg?t=1604973224",
+  "consensus_genre": "Adventure",
+  "developer": "\u9999\u8549\u5927\u5723",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Early Access"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1445670/header.jpg?t=1604973224",
+  "initialprice": "399",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u4f9d\u6faa Zero Plan",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "\u9999\u8549\u5927\u5723",
+  "release_date": "2020/11/9",
+  "required_age": 0,
+  "tags": {
+    "2D Platformer": 41,
+    "Adventure": 21,
+    "Early Access": 21,
+    "Gore": 21,
+    "Horror": 40,
+    "Indie": 19,
+    "Pixel Graphics": 37,
+    "Puzzle": 48,
+    "RPG": 17,
+    "RPGMaker": 21,
+    "Sci-fi": 27,
+    "Singleplayer": 23,
+    "Turn-Based Combat": 25,
+    "Zombies": 33
+  },
+  "type": "game"
 }

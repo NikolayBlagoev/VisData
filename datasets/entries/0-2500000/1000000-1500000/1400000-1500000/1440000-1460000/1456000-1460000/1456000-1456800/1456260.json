@@ -1,31 +1,61 @@
 {
-  "appid": 1456260,
-  "name": "Flashlight",
-  "developer": "SouthWater Games",
-  "publisher": "SouthWater Games",
-  "tags": {
-    "Top-Down Shooter": 138,
-    "Rogue-lite": 132,
-    "Action Roguelike": 128,
-    "Co-op": 125,
-    "Difficult": 121,
-    "Action": 116,
-    "Shoot 'Em Up": 108,
-    "Arcade": 107,
-    "Perma Death": 104,
-    "PvP": 102,
-    "2D": 101,
-    "Zombies": 100,
-    "Survival": 95,
-    "Old School": 94,
-    "Looter Shooter": 92,
-    "Post-apocalyptic": 91,
-    "Crafting": 88,
-    "Procedural Generation": 86,
-    "Online Co-Op": 84,
-    "Team-Based": 82
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1456260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1456260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": 28.699999809265137,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1456260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1456260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1456260,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,44 +68,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/10/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1456260/header.jpg?t=1640133892",
+  "consensus_genre": "Action",
+  "developer": "SouthWater Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 28.699999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1456260/header.jpg?t=1640133892",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Flashlight",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "299",
+  "publisher": "SouthWater Games",
+  "release_date": "2021/10/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 101,
+    "Action": 116,
+    "Action Roguelike": 128,
+    "Arcade": 107,
+    "Co-op": 125,
+    "Crafting": 88,
+    "Difficult": 121,
+    "Looter Shooter": 92,
+    "Old School": 94,
+    "Online Co-Op": 84,
+    "Perma Death": 104,
+    "Post-apocalyptic": 91,
+    "Procedural Generation": 86,
+    "PvP": 102,
+    "Rogue-lite": 132,
+    "Shoot 'Em Up": 108,
+    "Survival": 95,
+    "Team-Based": 82,
+    "Top-Down Shooter": 138,
+    "Zombies": 100
+  },
+  "type": "game"
 }

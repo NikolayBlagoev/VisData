@@ -1,216 +1,254 @@
 {
-  "appid": 433850,
-  "name": "Z1 Battle Royale",
-  "developer": "Daybreak Game Company",
-  "publisher": "Daybreak Game Company",
-  "tags": {
-    "Survival": 2842,
-    "Massively Multiplayer": 1662,
-    "Multiplayer": 1623,
-    "Open World": 1520,
-    "Battle Royale": 1402,
-    "PvP": 1236,
-    "FPS": 1163,
-    "Action": 1082,
-    "Shooter": 1065,
-    "Free to Play": 941,
-    "Third-Person Shooter": 841,
-    "Zombies": 750,
-    "Co-op": 635,
-    "Early Access": 621,
-    "Online Co-Op": 615,
-    "Adventure": 570,
-    "First-Person": 500,
-    "Violent": 470,
-    "Gore": 354,
-    "Walking Simulator": 344
+  "Average Playtime - 2 Weeks": {
+    "app_id": 433850,
+    "average_2weeks": 15,
+    "average_forever": 3318,
+    "median_2weeks": 15,
+    "median_forever": 151
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 433850,
+    "average_2weeks": 15,
+    "average_forever": 3318,
+    "median_2weeks": 15,
+    "median_forever": 151
+  },
+  "CCU Histogram": {
+    "2022-12-08": 62,
+    "2022-12-09": 68,
+    "2022-12-10": 52,
+    "2022-12-13": 64,
+    "2022-12-15": 50,
+    "2022-12-18": 43,
+    "2022-12-21": 42,
+    "2022-12-22": 57
+  },
+  "Completion": -1,
+  "Down 30 Days": 40,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 433850,
+    "average_2weeks": 15,
+    "average_forever": 3318,
+    "median_2weeks": 15,
+    "median_forever": 151
+  },
+  "Median Playtime - Forever": {
+    "app_id": 433850,
+    "average_2weeks": 15,
+    "average_forever": 3318,
+    "median_2weeks": 15,
+    "median_forever": 151
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 71,
+  "User Score": -1,
+  "appid": 433850,
   "categories": [
     "Multi-player",
     "In-App Purchases",
     "Online PvP",
     "PvP"
   ],
-  "owners": "10,000,000 .. 20,000,000",
-  "positive": 115264,
-  "negative": 92531,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 73,
-  "languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/02/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/433850/header.jpg?t=1579626820",
+  "consensus_genre": "Massively Multiplayer",
+  "developer": "Daybreak Game Company",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Free to Play",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Massively Multiplayer",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 71,
-  "Down 30 Days": 40,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/433850/header.jpg?t=1579626820",
+  "initialprice": "0",
+  "languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Z1 Battle Royale",
+  "negative": 92531,
+  "owners": "10,000,000 .. 20,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 115264,
+  "price": "0",
+  "publisher": "Daybreak Game Company",
+  "release_date": "2018/02/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 1082,
+    "Adventure": 570,
+    "Battle Royale": 1402,
+    "Co-op": 635,
+    "Early Access": 621,
+    "FPS": 1163,
+    "First-Person": 500,
+    "Free to Play": 941,
+    "Gore": 354,
+    "Massively Multiplayer": 1662,
+    "Multiplayer": 1623,
+    "Online Co-Op": 615,
+    "Open World": 1520,
+    "PvP": 1236,
+    "Shooter": 1065,
+    "Survival": 2842,
+    "Third-Person Shooter": 841,
+    "Violent": 470,
+    "Walking Simulator": 344,
+    "Zombies": 750
+  },
+  "type": "game"
 }

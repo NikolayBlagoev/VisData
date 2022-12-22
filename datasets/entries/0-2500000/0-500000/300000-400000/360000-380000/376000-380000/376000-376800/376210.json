@@ -1,31 +1,201 @@
 {
-  "appid": 376210,
-  "name": "The Isle",
-  "developer": "Afterthought LLC",
-  "publisher": "Afterthought LLC",
-  "tags": {
-    "Dinosaurs": 1053,
-    "Survival": 793,
-    "Open World": 708,
-    "Multiplayer": 682,
-    "Simulation": 564,
-    "Hunting": 505,
-    "Massively Multiplayer": 475,
-    "Realistic": 439,
-    "Adventure": 422,
-    "Early Access": 408,
-    "Action": 369,
-    "Third Person": 319,
-    "Co-op": 270,
-    "Sandbox": 256,
-    "Walking Simulator": 216,
-    "Horror": 206,
-    "Indie": 196,
-    "Strategy": 191,
-    "Team-Based": 182,
-    "RPG": 171
+  "Average Playtime - 2 Weeks": {
+    "app_id": 376210,
+    "average_2weeks": 1004,
+    "average_forever": 6004,
+    "median_2weeks": 1992,
+    "median_forever": 1867
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 376210,
+    "average_2weeks": 1004,
+    "average_forever": 6004,
+    "median_2weeks": 1992,
+    "median_forever": 1867
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4258,
+    "2022-12-09": 4087,
+    "2022-12-10": 4194,
+    "2022-12-13": 3842,
+    "2022-12-15": 3873,
+    "2022-12-18": 3897,
+    "2022-12-21": 4221,
+    "2022-12-22": 4313
+  },
+  "Completion": -1,
+  "Down 30 Days": 103,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 5,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 5,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 5,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 4,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 7,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 5,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 5,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 7,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 4,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 376210,
+    "average_2weeks": 1004,
+    "average_forever": 6004,
+    "median_2weeks": 1992,
+    "median_forever": 1867
+  },
+  "Median Playtime - Forever": {
+    "app_id": 376210,
+    "average_2weeks": 1004,
+    "average_forever": 6004,
+    "median_2weeks": 1992,
+    "median_forever": 1867
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 659,
+  "User Score": -1,
+  "appid": 376210,
   "categories": [
     "Multi-player",
     "Valve Anti-Cheat enabled",
@@ -34,22 +204,10 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 47213,
-  "negative": 9514,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 3840,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/12/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/376210/header.jpg?t=1653237914",
+  "consensus_genre": "Simulation",
+  "developer": "Afterthought LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -58,163 +216,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 15,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 18,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 21,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 18,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 23,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 18,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 16,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 30,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 51,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 32,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 37,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 46,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 31,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 659,
-  "Down 30 Days": 103,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/376210/header.jpg?t=1653237914",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "The Isle",
+  "negative": 9514,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 47213,
+  "price": "1999",
+  "publisher": "Afterthought LLC",
+  "release_date": "2015/12/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 369,
+    "Adventure": 422,
+    "Co-op": 270,
+    "Dinosaurs": 1053,
+    "Early Access": 408,
+    "Horror": 206,
+    "Hunting": 505,
+    "Indie": 196,
+    "Massively Multiplayer": 475,
+    "Multiplayer": 682,
+    "Open World": 708,
+    "RPG": 171,
+    "Realistic": 439,
+    "Sandbox": 256,
+    "Simulation": 564,
+    "Strategy": 191,
+    "Survival": 793,
+    "Team-Based": 182,
+    "Third Person": 319,
+    "Walking Simulator": 216
+  },
+  "type": "game"
 }

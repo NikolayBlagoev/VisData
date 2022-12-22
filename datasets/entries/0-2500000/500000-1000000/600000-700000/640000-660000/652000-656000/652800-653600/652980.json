@@ -1,215 +1,253 @@
 {
-  "appid": 652980,
-  "name": "Loading Screen Simulator",
-  "developer": "CakeEaterGames",
-  "publisher": "CakeEaterGames",
-  "tags": {
-    "Free to Play": 207,
-    "Memes": 165,
-    "Clicker": 162,
-    "Simulation": 130,
-    "Indie": 112,
-    "Casual": 105,
-    "Singleplayer": 103,
-    "Funny": 89,
-    "Comedy": 57,
-    "Family Friendly": 51,
-    "Difficult": 33,
-    "2D": 31,
-    "Atmospheric": 17,
-    "Pixel Graphics": 17,
-    "Violent": 12,
-    "Choices Matter": 6,
-    "First-Person": 6,
-    "Multiplayer": 6,
-    "Relaxing": 5,
-    "Survival Horror": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 652980,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 24
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 652980,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 24
+  },
+  "CCU Histogram": {
+    "2022-12-08": 16,
+    "2022-12-09": 14,
+    "2022-12-10": 13,
+    "2022-12-13": 14,
+    "2022-12-15": 12,
+    "2022-12-18": 11,
+    "2022-12-21": 113,
+    "2022-12-22": 143
+  },
+  "Completion": 78.9000015258789,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 652980,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 24
+  },
+  "Median Playtime - Forever": {
+    "app_id": 652980,
+    "average_2weeks": 0,
+    "average_forever": 52,
+    "median_2weeks": 0,
+    "median_forever": 24
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 28,
+  "User Score": -1,
+  "appid": 652980,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 7258,
-  "negative": 1097,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 136,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/07/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/652980/header.jpg?t=1500000508",
+  "consensus_genre": "Free to Play",
+  "developer": "CakeEaterGames",
+  "discount": "0",
   "genre": [
     "Casual",
     "Free to Play",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 28,
-  "Down 30 Days": 6,
-  "Completion": 78.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/652980/header.jpg?t=1500000508",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Loading Screen Simulator",
+  "negative": 1097,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7258,
+  "price": "0",
+  "publisher": "CakeEaterGames",
+  "release_date": "2017/07/13",
+  "required_age": 0,
+  "tags": {
+    "2D": 31,
+    "Atmospheric": 17,
+    "Casual": 105,
+    "Choices Matter": 6,
+    "Clicker": 162,
+    "Comedy": 57,
+    "Difficult": 33,
+    "Family Friendly": 51,
+    "First-Person": 6,
+    "Free to Play": 207,
+    "Funny": 89,
+    "Indie": 112,
+    "Memes": 165,
+    "Multiplayer": 6,
+    "Pixel Graphics": 17,
+    "Relaxing": 5,
+    "Simulation": 130,
+    "Singleplayer": 103,
+    "Survival Horror": 5,
+    "Violent": 12
+  },
+  "type": "game"
 }

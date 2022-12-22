@@ -1,31 +1,201 @@
 {
-  "appid": 1323900,
-  "name": "Scrapnaut",
-  "developer": "SpiffyBit",
-  "publisher": "RockGame S.A.",
-  "tags": {
-    "Building": 74,
-    "Survival": 73,
-    "Multiplayer": 67,
-    "Adventure": 64,
-    "Co-op": 63,
-    "Online Co-Op": 61,
-    "Sandbox": 58,
-    "Exploration": 57,
-    "Open World Survival Craft": 55,
-    "Top-Down": 44,
-    "Crafting": 41,
-    "Base-Building": 36,
-    "Open World": 36,
-    "Atmospheric": 32,
-    "Post-apocalyptic": 31,
-    "Mystery": 29,
-    "Robots": 29,
-    "Singleplayer": 26,
-    "Indie": 25,
-    "Steampunk": 23
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1323900,
+    "average_2weeks": 0,
+    "average_forever": 462,
+    "median_2weeks": 0,
+    "median_forever": 462
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1323900,
+    "average_2weeks": 0,
+    "average_forever": 462,
+    "median_2weeks": 0,
+    "median_forever": 462
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 2,
+    "2022-12-10": 2,
+    "2022-12-13": 5,
+    "2022-12-15": 3,
+    "2022-12-18": 8,
+    "2022-12-21": 7,
+    "2022-12-22": 4
+  },
+  "Completion": 48.70000076293945,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1323900,
+    "average_2weeks": 0,
+    "average_forever": 462,
+    "median_2weeks": 0,
+    "median_forever": 462
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1323900,
+    "average_2weeks": 0,
+    "average_forever": 462,
+    "median_2weeks": 0,
+    "median_forever": 462
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1323900,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,182 +206,50 @@
     "Steam Trading Cards",
     "Online Co-op"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 401,
-  "negative": 152,
-  "price": "699",
-  "initialprice": "1399",
-  "discount": "50",
   "ccu": 12,
-  "languages": "English, Polish, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Italian, Spanish - Latin America, Traditional Chinese, Czech, Korean, Hungarian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1323900/header.jpg?t=1667244498",
+  "consensus_genre": "Indie",
+  "developer": "SpiffyBit",
+  "discount": "50",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 6,
-  "Completion": 48.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1323900/header.jpg?t=1667244498",
+  "initialprice": "1399",
+  "languages": "English, Polish, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Italian, Spanish - Latin America, Traditional Chinese, Czech, Korean, Hungarian, Spanish - Spain",
+  "name": "Scrapnaut",
+  "negative": 152,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 401,
+  "price": "699",
+  "publisher": "RockGame S.A.",
+  "release_date": "2021/09/15",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 64,
+    "Atmospheric": 32,
+    "Base-Building": 36,
+    "Building": 74,
+    "Co-op": 63,
+    "Crafting": 41,
+    "Exploration": 57,
+    "Indie": 25,
+    "Multiplayer": 67,
+    "Mystery": 29,
+    "Online Co-Op": 61,
+    "Open World": 36,
+    "Open World Survival Craft": 55,
+    "Post-apocalyptic": 31,
+    "Robots": 29,
+    "Sandbox": 58,
+    "Singleplayer": 26,
+    "Steampunk": 23,
+    "Survival": 73,
+    "Top-Down": 44
+  },
+  "type": "game"
 }

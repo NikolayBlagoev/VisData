@@ -1,31 +1,201 @@
 {
-  "appid": 459220,
-  "name": "Halo Wars: Definitive Edition",
-  "developer": "Ensemble Studios, Behaviour Interactive, 343 Industries",
-  "publisher": "Xbox Game Studios",
-  "tags": {
-    "Strategy": 285,
-    "RTS": 247,
-    "Base-Building": 153,
-    "Multiplayer": 145,
-    "Sci-fi": 143,
-    "Singleplayer": 140,
-    "War": 118,
-    "Action": 83,
-    "Co-op": 75,
-    "Military": 75,
-    "Great Soundtrack": 67,
-    "Aliens": 58,
-    "Simulation": 58,
-    "Classic": 41,
-    "Tactical": 38,
-    "Online Co-Op": 37,
-    "Sandbox": 35,
-    "Story Rich": 25,
-    "Shooter": 22,
-    "Atmospheric": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 459220,
+    "average_2weeks": 80,
+    "average_forever": 550,
+    "median_2weeks": 93,
+    "median_forever": 369
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 459220,
+    "average_2weeks": 80,
+    "average_forever": 550,
+    "median_2weeks": 93,
+    "median_forever": 369
+  },
+  "CCU Histogram": {
+    "2022-12-08": 161,
+    "2022-12-09": 136,
+    "2022-12-10": 140,
+    "2022-12-13": 170,
+    "2022-12-15": 171,
+    "2022-12-18": 142,
+    "2022-12-21": 143,
+    "2022-12-22": 147
+  },
+  "Completion": 30.199999809265137,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 459220,
+    "average_2weeks": 80,
+    "average_forever": 550,
+    "median_2weeks": 93,
+    "median_forever": 369
+  },
+  "Median Playtime - Forever": {
+    "app_id": 459220,
+    "average_2weeks": 80,
+    "average_forever": 550,
+    "median_2weeks": 93,
+    "median_forever": 369
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 46,
+  "User Score": -1,
+  "appid": 459220,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,182 +211,50 @@
     "Remote Play on TV",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5913,
-  "negative": 646,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 151,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Korean, Polish, Russian, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/04/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/459220/header.jpg?t=1667852215",
+  "consensus_genre": "Strategy",
+  "developer": "Ensemble Studios, Behaviour Interactive, 343 Industries",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 46,
-  "Down 30 Days": 5,
-  "Completion": 30.199999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/459220/header.jpg?t=1667852215",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Korean, Polish, Russian, Traditional Chinese",
+  "name": "Halo Wars: Definitive Edition",
+  "negative": 646,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5913,
+  "price": "1999",
+  "publisher": "Xbox Game Studios",
+  "release_date": "2017/04/20",
+  "required_age": 0,
+  "tags": {
+    "Action": 83,
+    "Aliens": 58,
+    "Atmospheric": 20,
+    "Base-Building": 153,
+    "Classic": 41,
+    "Co-op": 75,
+    "Great Soundtrack": 67,
+    "Military": 75,
+    "Multiplayer": 145,
+    "Online Co-Op": 37,
+    "RTS": 247,
+    "Sandbox": 35,
+    "Sci-fi": 143,
+    "Shooter": 22,
+    "Simulation": 58,
+    "Singleplayer": 140,
+    "Story Rich": 25,
+    "Strategy": 285,
+    "Tactical": 38,
+    "War": 118
+  },
+  "type": "game"
 }

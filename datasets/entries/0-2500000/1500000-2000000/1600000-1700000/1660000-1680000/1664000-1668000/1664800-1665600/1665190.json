@@ -1,31 +1,201 @@
 {
-  "appid": 1665190,
-  "name": "Monster Prom 3: Monster Roadtrip",
-  "developer": "Beautiful Glitch",
-  "publisher": "Beautiful Glitch",
-  "tags": {
-    "Comedy": 244,
-    "Visual Novel": 242,
-    "Multiplayer": 234,
-    "LGBTQ+": 231,
-    "Choices Matter": 227,
-    "Story Rich": 215,
-    "Dark Humor": 208,
-    "Funny": 205,
-    "Dating Sim": 203,
-    "Memes": 198,
-    "Survival": 188,
-    "Choose Your Own Adventure": 187,
-    "Multiple Endings": 187,
-    "Indie": 175,
-    "Romance": 174,
-    "Comic Book": 161,
-    "Resource Management": 147,
-    "2D": 137,
-    "Simulation": 124,
-    "Text-Based": 118
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1665190,
+    "average_2weeks": 0,
+    "average_forever": 114,
+    "median_2weeks": 0,
+    "median_forever": 114
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1665190,
+    "average_2weeks": 0,
+    "average_forever": 114,
+    "median_2weeks": 0,
+    "median_forever": 114
+  },
+  "CCU Histogram": {
+    "2022-12-08": 102,
+    "2022-12-09": 80,
+    "2022-12-10": 83,
+    "2022-12-13": 66,
+    "2022-12-15": 89,
+    "2022-12-18": 127,
+    "2022-12-21": 124,
+    "2022-12-22": 121
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1665190,
+    "average_2weeks": 0,
+    "average_forever": 114,
+    "median_2weeks": 0,
+    "median_forever": 114
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1665190,
+    "average_2weeks": 0,
+    "average_forever": 114,
+    "median_2weeks": 0,
+    "median_forever": 114
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 444,
+  "User Score": -1,
+  "appid": 1665190,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,185 +210,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1052,
-  "negative": 8,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 300,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1665190/header.jpg?t=1666778991",
+  "consensus_genre": "Indie",
+  "developer": "Beautiful Glitch",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 43,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 51,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 444,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1665190/header.jpg?t=1666778991",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Monster Prom 3: Monster Roadtrip",
+  "negative": 8,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1052,
+  "price": "1199",
+  "publisher": "Beautiful Glitch",
+  "release_date": "2022/10/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 137,
+    "Choices Matter": 227,
+    "Choose Your Own Adventure": 187,
+    "Comedy": 244,
+    "Comic Book": 161,
+    "Dark Humor": 208,
+    "Dating Sim": 203,
+    "Funny": 205,
+    "Indie": 175,
+    "LGBTQ+": 231,
+    "Memes": 198,
+    "Multiplayer": 234,
+    "Multiple Endings": 187,
+    "Resource Management": 147,
+    "Romance": 174,
+    "Simulation": 124,
+    "Story Rich": 215,
+    "Survival": 188,
+    "Text-Based": 118,
+    "Visual Novel": 242
+  },
+  "type": "game"
 }

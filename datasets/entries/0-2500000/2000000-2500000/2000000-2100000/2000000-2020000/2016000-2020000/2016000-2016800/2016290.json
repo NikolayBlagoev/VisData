@@ -1,31 +1,56 @@
 {
-  "appid": 2016290,
-  "name": "The Cute Fighter",
-  "developer": "PRO PLAYA DEV",
-  "publisher": "PRO PLAYA DEV",
-  "tags": {
-    "Nudity": 303,
-    "Fighting": 297,
-    "Action": 296,
-    "Spectacle fighter": 289,
-    "Sexual Content": 288,
-    "3D Fighter": 264,
-    "Anime": 258,
-    "2D Fighter": 250,
-    "1980s": 241,
-    "Atmospheric": 231,
-    "Post-apocalyptic": 219,
-    "Swordplay": 208,
-    "Fantasy": 196,
-    "PvP": 183,
-    "Combat": 181,
-    "FMV": 164,
-    "PvE": 148,
-    "Controller": 130,
-    "Multiplayer": 111,
-    "Singleplayer": 92
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2016290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2016290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 54.099998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2016290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2016290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2016290,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,39 +62,52 @@
     "Shared/Split Screen PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Korean, Portuguese - Portugal, Russian, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2016290/header.jpg?t=1667901780",
+  "consensus_genre": "Action",
+  "developer": "PRO PLAYA DEV",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 54.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2016290/header.jpg?t=1667901780",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Korean, Portuguese - Portugal, Russian, Japanese",
+  "name": "The Cute Fighter",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "PRO PLAYA DEV",
+  "release_date": "2022/10/14",
+  "required_age": 0,
+  "tags": {
+    "1980s": 241,
+    "2D Fighter": 250,
+    "3D Fighter": 264,
+    "Action": 296,
+    "Anime": 258,
+    "Atmospheric": 231,
+    "Combat": 181,
+    "Controller": 130,
+    "FMV": 164,
+    "Fantasy": 196,
+    "Fighting": 297,
+    "Multiplayer": 111,
+    "Nudity": 303,
+    "Post-apocalyptic": 219,
+    "PvE": 148,
+    "PvP": 183,
+    "Sexual Content": 288,
+    "Singleplayer": 92,
+    "Spectacle fighter": 289,
+    "Swordplay": 208
+  },
+  "type": "game"
 }

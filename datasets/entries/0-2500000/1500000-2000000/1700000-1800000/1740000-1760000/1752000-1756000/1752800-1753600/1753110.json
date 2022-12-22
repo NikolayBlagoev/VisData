@@ -1,67 +1,105 @@
 {
-  "appid": 1753110,
-  "name": "Once Upon a Time in the Colony",
-  "developer": "Song Qiang Sheng",
-  "publisher": "Song Qiang Sheng",
-  "tags": {
-    "Simulation": 169,
-    "Colony Sim": 161,
-    "Farming Sim": 154,
-    "Survival": 146,
-    "Western": 140,
-    "Open World": 130,
-    "Sandbox": 123,
-    "Hunting": 115,
-    "Mining": 107,
-    "Fishing": 97,
-    "Cooking": 95,
-    "Base-Building": 84,
-    "Trading": 70,
-    "RPG": 60,
-    "Resource Management": 56,
-    "3D": 28,
-    "Singleplayer": 25,
-    "Early Access": 21,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1753110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1753110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1753110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1753110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1753110,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1753110/header.jpg?t=1664012719",
+  "consensus_genre": "Simulation",
+  "developer": "Song Qiang Sheng",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1753110/header.jpg?t=1664012719",
+  "initialprice": "399",
+  "languages": "Simplified Chinese",
+  "name": "Once Upon a Time in the Colony",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "399",
+  "publisher": "Song Qiang Sheng",
+  "release_date": "2021/10/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 28,
+    "Base-Building": 84,
+    "Colony Sim": 161,
+    "Cooking": 95,
+    "Early Access": 21,
+    "Farming Sim": 154,
+    "Fishing": 97,
+    "Hunting": 115,
+    "Indie": 21,
+    "Mining": 107,
+    "Open World": 130,
+    "RPG": 60,
+    "Resource Management": 56,
+    "Sandbox": 123,
+    "Simulation": 169,
+    "Singleplayer": 25,
+    "Survival": 146,
+    "Trading": 70,
+    "Western": 140
+  },
+  "type": "game"
 }

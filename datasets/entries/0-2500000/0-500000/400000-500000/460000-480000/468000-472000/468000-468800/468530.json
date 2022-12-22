@@ -1,211 +1,249 @@
 {
-  "appid": 468530,
-  "name": "A Date in the Park",
-  "developer": "Cloak and Dagger Games",
-  "publisher": "Cloak and Dagger Games",
-  "tags": {
-    "Exploration": 235,
-    "Point & Click": 230,
-    "Interactive Fiction": 225,
-    "Horror": 222,
-    "Walking Simulator": 220,
-    "2D": 211,
-    "Psychological Horror": 207,
-    "Story Rich": 205,
-    "Romance": 201,
-    "Puzzle": 196,
-    "Thriller": 192,
-    "Atmospheric": 189,
-    "Emotional": 184,
-    "Mystery": 177,
-    "Psychological": 162,
-    "Drama": 158,
-    "Adventure": 153,
-    "1990's": 146,
-    "Free to Play": 146,
-    "Singleplayer": 130
+  "Average Playtime - 2 Weeks": {
+    "app_id": 468530,
+    "average_2weeks": 0,
+    "average_forever": 50,
+    "median_2weeks": 0,
+    "median_forever": 56
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 468530,
+    "average_2weeks": 0,
+    "average_forever": 50,
+    "median_2weeks": 0,
+    "median_forever": 56
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 0,
+    "2022-12-10": 2,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 2,
+    "2022-12-21": 1,
+    "2022-12-22": 2
+  },
+  "Completion": 63.900001525878906,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 468530,
+    "average_2weeks": 0,
+    "average_forever": 50,
+    "median_2weeks": 0,
+    "median_forever": 56
+  },
+  "Median Playtime - Forever": {
+    "app_id": 468530,
+    "average_2weeks": 0,
+    "average_forever": 50,
+    "median_2weeks": 0,
+    "median_forever": 56
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 468530,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1300,
-  "negative": 203,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/07/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/468530/header.jpg?t=1628514160",
+  "consensus_genre": "Adventure",
+  "developer": "Cloak and Dagger Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 1,
-  "Completion": 63.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/468530/header.jpg?t=1628514160",
+  "initialprice": "0",
+  "languages": "English, Russian",
+  "name": "A Date in the Park",
+  "negative": 203,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1300,
+  "price": "0",
+  "publisher": "Cloak and Dagger Games",
+  "release_date": "2016/07/19",
+  "required_age": 0,
+  "tags": {
+    "1990's": 146,
+    "2D": 211,
+    "Adventure": 153,
+    "Atmospheric": 189,
+    "Drama": 158,
+    "Emotional": 184,
+    "Exploration": 235,
+    "Free to Play": 146,
+    "Horror": 222,
+    "Interactive Fiction": 225,
+    "Mystery": 177,
+    "Point & Click": 230,
+    "Psychological": 162,
+    "Psychological Horror": 207,
+    "Puzzle": 196,
+    "Romance": 201,
+    "Singleplayer": 130,
+    "Story Rich": 205,
+    "Thriller": 192,
+    "Walking Simulator": 220
+  },
+  "type": "game"
 }

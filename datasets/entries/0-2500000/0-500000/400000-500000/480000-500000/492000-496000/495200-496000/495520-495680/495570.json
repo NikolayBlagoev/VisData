@@ -1,31 +1,201 @@
 {
-  "appid": 495570,
-  "name": "ConflictCraft",
-  "developer": "Cristian Manolachi, Atomic Fabrik",
-  "publisher": "Cristian Manolachi, Atomic Fabrik",
-  "tags": {
-    "Real Time Tactics": 170,
-    "Racing": 160,
-    "War": 160,
-    "Sports": 158,
-    "Military": 157,
-    "Management": 152,
-    "Turn-Based": 138,
-    "Turn-Based Strategy": 135,
-    "Grand Strategy": 128,
-    "Strategy": 123,
-    "Simulation": 118,
-    "Action": 111,
-    "Adventure": 103,
-    "Casual": 101,
-    "Realistic": 89,
-    "Tactical": 88,
-    "Level Editor": 86,
-    "Combat": 81,
-    "Co-op": 79,
-    "Multiplayer": 75
+  "Average Playtime - 2 Weeks": {
+    "app_id": 495570,
+    "average_2weeks": 0,
+    "average_forever": 418,
+    "median_2weeks": 0,
+    "median_forever": 506
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 495570,
+    "average_2weeks": 0,
+    "average_forever": 418,
+    "median_2weeks": 0,
+    "median_forever": 506
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 3,
+    "2022-12-10": 3,
+    "2022-12-13": 3,
+    "2022-12-15": 4,
+    "2022-12-18": 2,
+    "2022-12-21": 5,
+    "2022-12-22": 182
+  },
+  "Completion": 8.150000095367432,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 495570,
+    "average_2weeks": 0,
+    "average_forever": 418,
+    "median_2weeks": 0,
+    "median_forever": 506
+  },
+  "Median Playtime - Forever": {
+    "app_id": 495570,
+    "average_2weeks": 0,
+    "average_forever": 418,
+    "median_2weeks": 0,
+    "median_forever": 506
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 495570,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -43,22 +213,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 468,
-  "negative": 97,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian, Japanese, Portuguese - Brazil, Korean, Spanish - Spain, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2016/12/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/495570/header.jpg?t=1664357127",
+  "consensus_genre": "Racing",
+  "developer": "Cristian Manolachi, Atomic Fabrik",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -69,163 +227,43 @@
     "Sports",
     "Strategy"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 1,
-  "Completion": 8.150000095367432,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/495570/header.jpg?t=1664357127",
+  "initialprice": "499",
+  "languages": "English, Russian, Japanese, Portuguese - Brazil, Korean, Spanish - Spain, Simplified Chinese, Traditional Chinese",
+  "name": "ConflictCraft",
+  "negative": 97,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 468,
+  "price": "499",
+  "publisher": "Cristian Manolachi, Atomic Fabrik",
+  "release_date": "2016/12/8",
+  "required_age": 0,
+  "tags": {
+    "Action": 111,
+    "Adventure": 103,
+    "Casual": 101,
+    "Co-op": 79,
+    "Combat": 81,
+    "Grand Strategy": 128,
+    "Level Editor": 86,
+    "Management": 152,
+    "Military": 157,
+    "Multiplayer": 75,
+    "Racing": 160,
+    "Real Time Tactics": 170,
+    "Realistic": 89,
+    "Simulation": 118,
+    "Sports": 158,
+    "Strategy": 123,
+    "Tactical": 88,
+    "Turn-Based": 138,
+    "Turn-Based Strategy": 135,
+    "War": 160
+  },
+  "type": "game"
 }

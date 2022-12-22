@@ -1,31 +1,201 @@
 {
-  "appid": 310510,
-  "name": "Deathtrap",
-  "developer": "NeocoreGames",
-  "publisher": "NeocoreGames",
-  "tags": {
-    "Tower Defense": 169,
-    "RPG": 134,
-    "Action": 131,
-    "Strategy": 127,
-    "Indie": 123,
-    "Co-op": 119,
-    "Fantasy": 115,
-    "Multiplayer": 111,
-    "Isometric": 104,
-    "Controller": 97,
-    "Action RPG": 93,
-    "Dark Fantasy": 90,
-    "Singleplayer": 85,
-    "Blood": 79,
-    "Hack and Slash": 78,
-    "Gothic": 75,
-    "Online Co-Op": 75,
-    "Steampunk": 73,
-    "Magic": 71,
-    "Crafting": 67
+  "Average Playtime - 2 Weeks": {
+    "app_id": 310510,
+    "average_2weeks": 0,
+    "average_forever": 1013,
+    "median_2weeks": 0,
+    "median_forever": 351
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 310510,
+    "average_2weeks": 0,
+    "average_forever": 1013,
+    "median_2weeks": 0,
+    "median_forever": 351
+  },
+  "CCU Histogram": {
+    "2022-12-08": 12,
+    "2022-12-09": 9,
+    "2022-12-10": 9,
+    "2022-12-13": 12,
+    "2022-12-15": 9,
+    "2022-12-18": 15,
+    "2022-12-21": 15,
+    "2022-12-22": 11
+  },
+  "Completion": 23.299999237060547,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 310510,
+    "average_2weeks": 0,
+    "average_forever": 1013,
+    "median_2weeks": 0,
+    "median_forever": 351
+  },
+  "Median Playtime - Forever": {
+    "app_id": 310510,
+    "average_2weeks": 0,
+    "average_forever": 1013,
+    "median_2weeks": 0,
+    "median_forever": 351
+  },
+  "Meta Score": "77",
+  "Rating": "ESRB T",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 310510,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,22 +207,10 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1617,
-  "negative": 313,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 17,
-  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Portuguese - Portugal, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/02/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310510/header.jpg?t=1618303780",
+  "consensus_genre": "RPG",
+  "developer": "NeocoreGames",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -60,163 +218,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "77",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 3,
-  "Completion": 23.299999237060547,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310510/header.jpg?t=1618303780",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Portuguese - Portugal, Russian",
+  "name": "Deathtrap",
+  "negative": 313,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1617,
+  "price": "1999",
+  "publisher": "NeocoreGames",
+  "release_date": "2015/02/4",
+  "required_age": 0,
+  "tags": {
+    "Action": 131,
+    "Action RPG": 93,
+    "Blood": 79,
+    "Co-op": 119,
+    "Controller": 97,
+    "Crafting": 67,
+    "Dark Fantasy": 90,
+    "Fantasy": 115,
+    "Gothic": 75,
+    "Hack and Slash": 78,
+    "Indie": 123,
+    "Isometric": 104,
+    "Magic": 71,
+    "Multiplayer": 111,
+    "Online Co-Op": 75,
+    "RPG": 134,
+    "Singleplayer": 85,
+    "Steampunk": 73,
+    "Strategy": 127,
+    "Tower Defense": 169
+  },
+  "type": "game"
 }

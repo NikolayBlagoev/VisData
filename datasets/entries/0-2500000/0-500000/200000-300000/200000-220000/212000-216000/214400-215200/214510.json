@@ -1,31 +1,201 @@
 {
-  "appid": 214510,
-  "name": "LEGO The Lord of the Rings",
-  "developer": "Traveller's Tales",
-  "publisher": "Warner Bros. Interactive Entertainment",
-  "tags": {
-    "LEGO": 436,
-    "Adventure": 280,
-    "Local Co-Op": 224,
-    "Action": 208,
-    "Comedy": 159,
-    "Fantasy": 158,
-    "Open World": 147,
-    "Family Friendly": 109,
-    "Singleplayer": 101,
-    "Funny": 99,
-    "Co-op": 98,
-    "Casual": 80,
-    "Platformer": 61,
-    "Split Screen": 60,
-    "Controller": 59,
-    "Local Multiplayer": 58,
-    "Multiplayer": 51,
-    "Third Person": 50,
-    "Puzzle": 48,
-    "3D Vision": 17
+  "Average Playtime - 2 Weeks": {
+    "app_id": 214510,
+    "average_2weeks": 0,
+    "average_forever": 511,
+    "median_2weeks": 0,
+    "median_forever": 110
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 214510,
+    "average_2weeks": 0,
+    "average_forever": 511,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "CCU Histogram": {
+    "2022-12-08": 178,
+    "2022-12-09": 163,
+    "2022-12-10": 157,
+    "2022-12-13": 195,
+    "2022-12-15": 150,
+    "2022-12-18": 154,
+    "2022-12-21": 176,
+    "2022-12-22": 182
+  },
+  "Completion": 26.800000190734863,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 214510,
+    "average_2weeks": 0,
+    "average_forever": 511,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "Median Playtime - Forever": {
+    "app_id": 214510,
+    "average_2weeks": 0,
+    "average_forever": 511,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "Meta Score": "80",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 88,
+  "User Score": -1,
+  "appid": 214510,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -37,183 +207,51 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 9589,
-  "negative": 1063,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 281,
-  "languages": "Danish, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/11/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/214510/header.jpg?t=1587751643",
+  "consensus_genre": "Adventure",
+  "developer": "Traveller's Tales",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "80",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 88,
-  "Down 30 Days": 6,
-  "Completion": 26.800000190734863,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/214510/header.jpg?t=1587751643",
+  "initialprice": "1999",
+  "languages": "Danish, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
+  "name": "LEGO The Lord of the Rings",
+  "negative": 1063,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9589,
+  "price": "1999",
+  "publisher": "Warner Bros. Interactive Entertainment",
+  "release_date": "2012/11/27",
+  "required_age": 0,
+  "tags": {
+    "3D Vision": 17,
+    "Action": 208,
+    "Adventure": 280,
+    "Casual": 80,
+    "Co-op": 98,
+    "Comedy": 159,
+    "Controller": 59,
+    "Family Friendly": 109,
+    "Fantasy": 158,
+    "Funny": 99,
+    "LEGO": 436,
+    "Local Co-Op": 224,
+    "Local Multiplayer": 58,
+    "Multiplayer": 51,
+    "Open World": 147,
+    "Platformer": 61,
+    "Puzzle": 48,
+    "Singleplayer": 101,
+    "Split Screen": 60,
+    "Third Person": 50
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 206420,
-  "name": "Saints Row IV",
-  "developer": "Deep Silver Volition",
-  "publisher": "Deep Silver",
-  "tags": {
-    "Open World": 1718,
-    "Action": 1427,
-    "Comedy": 1337,
-    "Co-op": 933,
-    "Third-Person Shooter": 840,
-    "Superhero": 796,
-    "Character Customization": 788,
-    "Sandbox": 739,
-    "Funny": 715,
-    "Third Person": 641,
-    "Adventure": 594,
-    "Online Co-Op": 569,
-    "Aliens": 530,
-    "Parody ": 502,
-    "Multiplayer": 436,
-    "Great Soundtrack": 372,
-    "Singleplayer": 366,
-    "Sci-fi": 361,
-    "Dark Humor": 350,
-    "Female Protagonist": 317
+  "Average Playtime - 2 Weeks": {
+    "app_id": 206420,
+    "average_2weeks": 59,
+    "average_forever": 1163,
+    "median_2weeks": 66,
+    "median_forever": 666
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 206420,
+    "average_2weeks": 59,
+    "average_forever": 1163,
+    "median_2weeks": 66,
+    "median_forever": 666
+  },
+  "CCU Histogram": {
+    "2022-12-08": 332,
+    "2022-12-09": 344,
+    "2022-12-10": 676,
+    "2022-12-13": 822,
+    "2022-12-15": 507,
+    "2022-12-18": 439,
+    "2022-12-21": 418,
+    "2022-12-22": 379
+  },
+  "Completion": 66.55000114440918,
+  "Down 30 Days": 38,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 206420,
+    "average_2weeks": 59,
+    "average_forever": 1163,
+    "median_2weeks": 66,
+    "median_forever": 666
+  },
+  "Median Playtime - Forever": {
+    "app_id": 206420,
+    "average_2weeks": 59,
+    "average_forever": 1163,
+    "median_2weeks": 66,
+    "median_forever": 666
+  },
+  "Meta Score": "86",
+  "Rating": "ESRB M",
+  "Up 30 Days": 241,
+  "User Score": -1,
+  "appid": 206420,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,183 +207,51 @@
     "Steam Workshop",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 66936,
-  "negative": 7200,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 307,
-  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2013/09/11",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/206420/header.jpg?t=1624629638",
+  "consensus_genre": "Action",
+  "developer": "Deep Silver Volition",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "86",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 11,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 241,
-  "Down 30 Days": 38,
-  "Completion": 66.55000114440918,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/206420/header.jpg?t=1624629638",
+  "initialprice": "1499",
+  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Japanese",
+  "name": "Saints Row IV",
+  "negative": 7200,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 66936,
+  "price": "1499",
+  "publisher": "Deep Silver",
+  "release_date": "2013/09/11",
+  "required_age": "15",
+  "tags": {
+    "Action": 1427,
+    "Adventure": 594,
+    "Aliens": 530,
+    "Character Customization": 788,
+    "Co-op": 933,
+    "Comedy": 1337,
+    "Dark Humor": 350,
+    "Female Protagonist": 317,
+    "Funny": 715,
+    "Great Soundtrack": 372,
+    "Multiplayer": 436,
+    "Online Co-Op": 569,
+    "Open World": 1718,
+    "Parody ": 502,
+    "Sandbox": 739,
+    "Sci-fi": 361,
+    "Singleplayer": 366,
+    "Superhero": 796,
+    "Third Person": 641,
+    "Third-Person Shooter": 840
+  },
+  "type": "game"
 }

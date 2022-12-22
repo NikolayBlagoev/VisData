@@ -1,31 +1,201 @@
 {
-  "appid": 601150,
-  "name": "Devil May Cry 5",
-  "developer": "CAPCOM Co., Ltd.",
-  "publisher": "CAPCOM Co., Ltd.",
-  "tags": {
-    "Action": 1490,
-    "Hack and Slash": 1156,
-    "Great Soundtrack": 812,
-    "Character Action Game": 792,
-    "Demons": 757,
-    "Spectacle fighter": 692,
-    "Third Person": 574,
-    "Singleplayer": 533,
-    "Violent": 487,
-    "Stylized": 359,
-    "Classic": 350,
-    "Story Rich": 344,
-    "Gore": 330,
-    "Difficult": 323,
-    "Nudity": 323,
-    "Multiplayer": 297,
-    "Controller": 280,
-    "Adventure": 261,
-    "Anime": 219,
-    "Co-op": 145
+  "Average Playtime - 2 Weeks": {
+    "app_id": 601150,
+    "average_2weeks": 307,
+    "average_forever": 1122,
+    "median_2weeks": 554,
+    "median_forever": 662
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 601150,
+    "average_2weeks": 307,
+    "average_forever": 1122,
+    "median_2weeks": 554,
+    "median_forever": 662
+  },
+  "CCU Histogram": {
+    "2022-12-08": 4133,
+    "2022-12-09": 2199,
+    "2022-12-10": 2080,
+    "2022-12-13": 2319,
+    "2022-12-15": 1737,
+    "2022-12-18": 1736,
+    "2022-12-21": 1388,
+    "2022-12-22": 1622
+  },
+  "Completion": 52.20000076293945,
+  "Down 30 Days": 76,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 92
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 107
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 94
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 93
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 113
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 4,
+      "recommendations_up": 212
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 141
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 133
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 132
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 129
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 601150,
+    "average_2weeks": 307,
+    "average_forever": 1122,
+    "median_2weeks": 554,
+    "median_forever": 662
+  },
+  "Median Playtime - Forever": {
+    "app_id": 601150,
+    "average_2weeks": 307,
+    "average_forever": 1122,
+    "median_2weeks": 554,
+    "median_forever": 662
+  },
+  "Meta Score": "89",
+  "Rating": "ESRB M",
+  "Up 30 Days": 2192,
+  "User Score": -1,
+  "appid": 601150,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,182 +207,50 @@
     "Online Co-op",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 83488,
-  "negative": 4256,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 1822,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/03/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/601150/header.jpg?t=1643243335",
+  "consensus_genre": "Action",
+  "developer": "CAPCOM Co., Ltd.",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "89",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 40,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 62,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 92,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 68,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 82,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 86,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 68,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 84,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 107,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 94,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 93,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 113,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 212,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 141,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 133,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 132,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 129,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 98,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 86,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 2192,
-  "Down 30 Days": 76,
-  "Completion": 52.20000076293945,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/601150/header.jpg?t=1643243335",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+  "name": "Devil May Cry 5",
+  "negative": 4256,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 83488,
+  "price": "2999",
+  "publisher": "CAPCOM Co., Ltd.",
+  "release_date": "2019/03/7",
+  "required_age": 0,
+  "tags": {
+    "Action": 1490,
+    "Adventure": 261,
+    "Anime": 219,
+    "Character Action Game": 792,
+    "Classic": 350,
+    "Co-op": 145,
+    "Controller": 280,
+    "Demons": 757,
+    "Difficult": 323,
+    "Gore": 330,
+    "Great Soundtrack": 812,
+    "Hack and Slash": 1156,
+    "Multiplayer": 297,
+    "Nudity": 323,
+    "Singleplayer": 533,
+    "Spectacle fighter": 692,
+    "Story Rich": 344,
+    "Stylized": 359,
+    "Third Person": 574,
+    "Violent": 487
+  },
+  "type": "game"
 }

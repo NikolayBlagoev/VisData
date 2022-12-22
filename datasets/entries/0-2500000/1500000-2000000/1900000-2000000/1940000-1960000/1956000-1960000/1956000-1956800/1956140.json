@@ -1,70 +1,108 @@
 {
-  "appid": 1956140,
-  "name": "A HAUNTED HISTORY",
-  "developer": "THE VISION",
-  "publisher": "THE VISION",
-  "tags": {
-    "Action": 64,
-    "Puzzle": 38,
-    "3D Platformer": 35,
-    "Cartoony": 32,
-    "Dark Fantasy": 29,
-    "Horror": 23,
-    "Indie": 21,
-    "Singleplayer": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1956140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1956140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1956140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1956140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1956140,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1956140/header.jpg?t=1653670216",
+  "consensus_genre": "Action",
+  "developer": "THE VISION",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 100.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1956140/header.jpg?t=1653670216",
+  "initialprice": "599",
+  "languages": "English, Portuguese - Brazil",
+  "name": "A HAUNTED HISTORY",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "599",
+  "publisher": "THE VISION",
+  "release_date": "2022/05/27",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 35,
+    "Action": 64,
+    "Cartoony": 32,
+    "Dark Fantasy": 29,
+    "Horror": 23,
+    "Indie": 21,
+    "Puzzle": 38,
+    "Singleplayer": 21
+  },
+  "type": "game"
 }

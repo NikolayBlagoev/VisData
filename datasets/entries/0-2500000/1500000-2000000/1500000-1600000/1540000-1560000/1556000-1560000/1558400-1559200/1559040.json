@@ -1,31 +1,56 @@
 {
-  "appid": 1559040,
-  "name": "Project Elysium",
-  "developer": "Zindeaxx Games",
-  "publisher": "Zindeaxx Games",
-  "tags": {
-    "Adventure": 251,
-    "Action": 248,
-    "Turn-Based Combat": 221,
-    "PvE": 217,
-    "Third Person": 211,
-    "Space": 200,
-    "Combat": 194,
-    "Atmospheric": 186,
-    "Casual": 177,
-    "Point & Click": 166,
-    "Arcade": 159,
-    "Beat 'em up": 144,
-    "3D Platformer": 143,
-    "3D": 130,
-    "Colorful": 115,
-    "Dark": 98,
-    "Fantasy": 82,
-    "Singleplayer": 65,
-    "Co-op": 46,
-    "Multiplayer": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1559040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1559040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 34.249999046325684,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1559040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1559040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1559040,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,39 +58,52 @@
     "Steam Achievements",
     "Online Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, German, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1559040/header.jpg?t=1621621719",
+  "consensus_genre": "Adventure",
+  "developer": "Zindeaxx Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 34.249999046325684,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1559040/header.jpg?t=1621621719",
+  "initialprice": "299",
+  "languages": "English, German, French",
+  "name": "Project Elysium",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "299",
+  "publisher": "Zindeaxx Games",
+  "release_date": "2021/05/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 130,
+    "3D Platformer": 143,
+    "Action": 248,
+    "Adventure": 251,
+    "Arcade": 159,
+    "Atmospheric": 186,
+    "Beat 'em up": 144,
+    "Casual": 177,
+    "Co-op": 46,
+    "Colorful": 115,
+    "Combat": 194,
+    "Dark": 98,
+    "Fantasy": 82,
+    "Multiplayer": 27,
+    "Point & Click": 166,
+    "PvE": 217,
+    "Singleplayer": 65,
+    "Space": 200,
+    "Third Person": 211,
+    "Turn-Based Combat": 221
+  },
+  "type": "game"
 }

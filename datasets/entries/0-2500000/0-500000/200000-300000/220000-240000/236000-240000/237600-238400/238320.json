@@ -1,31 +1,201 @@
 {
-  "appid": 238320,
-  "name": "Outlast",
-  "developer": "Red Barrels",
-  "publisher": "Red Barrels",
-  "tags": {
-    "Horror": 3270,
-    "First-Person": 1352,
-    "Survival Horror": 1278,
-    "Atmospheric": 1241,
-    "Gore": 1092,
-    "Psychological Horror": 1059,
-    "Survival": 1023,
-    "Singleplayer": 909,
-    "Adventure": 762,
-    "Action": 750,
-    "Dark": 739,
-    "Indie": 600,
-    "Stealth": 573,
-    "Nudity": 448,
-    "Parkour": 345,
-    "Difficult": 327,
-    "Multiplayer": 314,
-    "Walking Simulator": 198,
-    "3D Vision": 191,
-    "Sci-fi": 173
+  "Average Playtime - 2 Weeks": {
+    "app_id": 238320,
+    "average_2weeks": 111,
+    "average_forever": 718,
+    "median_2weeks": 178,
+    "median_forever": 177
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 238320,
+    "average_2weeks": 111,
+    "average_forever": 718,
+    "median_2weeks": 178,
+    "median_forever": 177
+  },
+  "CCU Histogram": {
+    "2022-12-08": 503,
+    "2022-12-09": 356,
+    "2022-12-10": 363,
+    "2022-12-13": 431,
+    "2022-12-15": 314,
+    "2022-12-18": 341,
+    "2022-12-21": 292,
+    "2022-12-22": 287
+  },
+  "Completion": 27.100000381469727,
+  "Down 30 Days": 64,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 6,
+      "recommendations_up": 129
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 5,
+      "recommendations_up": 106
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 103
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 67
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 80
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 151
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 125
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 116
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 6,
+      "recommendations_up": 138
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 141
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 87
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 67
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 238320,
+    "average_2weeks": 111,
+    "average_forever": 718,
+    "median_2weeks": 178,
+    "median_forever": 177
+  },
+  "Median Playtime - Forever": {
+    "app_id": 238320,
+    "average_2weeks": 111,
+    "average_forever": 718,
+    "median_2weeks": 178,
+    "median_forever": 177
+  },
+  "Meta Score": "80",
+  "Rating": "ESRB M",
+  "Up 30 Days": 2223,
+  "User Score": -1,
+  "appid": 238320,
   "categories": [
     "Single-player",
     "Captions available",
@@ -35,184 +205,52 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 87927,
-  "negative": 3365,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 850,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Polish, Portuguese - Brazil, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2013/09/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/238320/header.jpg?t=1666817106",
+  "consensus_genre": "Adventure",
+  "developer": "Red Barrels",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "80",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 129,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 102,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 106,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 97,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 103,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 67,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 54,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 50,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 38,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 49,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 65,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 54,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 42,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 36,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 38,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 36,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 35,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 44,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 45,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 26,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 80,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 151,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 125,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 116,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 138,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 141,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 102,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 87,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 67,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 2223,
-  "Down 30 Days": 64,
-  "Completion": 27.100000381469727,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/238320/header.jpg?t=1666817106",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Polish, Portuguese - Brazil, Japanese",
+  "name": "Outlast",
+  "negative": 3365,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 87927,
+  "price": "1999",
+  "publisher": "Red Barrels",
+  "release_date": "2013/09/4",
+  "required_age": 0,
+  "tags": {
+    "3D Vision": 191,
+    "Action": 750,
+    "Adventure": 762,
+    "Atmospheric": 1241,
+    "Dark": 739,
+    "Difficult": 327,
+    "First-Person": 1352,
+    "Gore": 1092,
+    "Horror": 3270,
+    "Indie": 600,
+    "Multiplayer": 314,
+    "Nudity": 448,
+    "Parkour": 345,
+    "Psychological Horror": 1059,
+    "Sci-fi": 173,
+    "Singleplayer": 909,
+    "Stealth": 573,
+    "Survival": 1023,
+    "Survival Horror": 1278,
+    "Walking Simulator": 198
+  },
+  "type": "game"
 }

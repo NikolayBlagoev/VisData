@@ -1,28 +1,56 @@
 {
-  "appid": 1111870,
-  "name": "Admiral Stepinski",
-  "developer": "Adam St\u0119pi\u0144ski",
-  "publisher": "Adam St\u0119pi\u0144ski",
-  "tags": {
-    "Multiplayer": 77,
-    "RTS": 71,
-    "2D": 68,
-    "Tactical": 65,
-    "Strategy": 62,
-    "Spaceships": 56,
-    "Space Sim": 42,
-    "Top-Down": 40,
-    "Space": 38,
-    "Sci-fi": 36,
-    "PvP": 34,
-    "Simulation": 34,
-    "Co-op": 32,
-    "Online Co-Op": 30,
-    "Singleplayer": 28,
-    "Casual": 26,
-    "Indie": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1111870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1111870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1111870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1111870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1111870,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -31,38 +59,48 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1111870/header.jpg?t=1612120578",
+  "consensus_genre": "Strategy",
+  "developer": "Adam St\u0119pi\u0144ski",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1111870/header.jpg?t=1612120578",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Admiral Stepinski",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "Adam St\u0119pi\u0144ski",
+  "release_date": "2019/10/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 68,
+    "Casual": 26,
+    "Co-op": 32,
+    "Indie": 20,
+    "Multiplayer": 77,
+    "Online Co-Op": 30,
+    "PvP": 34,
+    "RTS": 71,
+    "Sci-fi": 36,
+    "Simulation": 34,
+    "Singleplayer": 28,
+    "Space": 38,
+    "Space Sim": 42,
+    "Spaceships": 56,
+    "Strategy": 62,
+    "Tactical": 65,
+    "Top-Down": 40
+  },
+  "type": "game"
 }

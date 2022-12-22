@@ -1,31 +1,201 @@
 {
-  "appid": 1557740,
-  "name": "ROUNDS",
-  "developer": "Landfall",
-  "publisher": "Landfall",
-  "tags": {
-    "Multiplayer": 659,
-    "Fighting": 643,
-    "Local Multiplayer": 631,
-    "2D Fighter": 625,
-    "Deckbuilding": 613,
-    "Action": 604,
-    "Indie": 600,
-    "Physics": 599,
-    "Rogue-lite": 597,
-    "Card Battler": 587,
-    "2D": 570,
-    "Card Game": 556,
-    "Roguelike Deckbuilder": 555,
-    "Platformer": 546,
-    "Side Scroller": 544,
-    "PvP": 542,
-    "2D Platformer": 526,
-    "Arcade": 526,
-    "Party Game": 525,
-    "Twin Stick Shooter": 512
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1557740,
+    "average_2weeks": 36,
+    "average_forever": 617,
+    "median_2weeks": 44,
+    "median_forever": 417
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1557740,
+    "average_2weeks": 36,
+    "average_forever": 617,
+    "median_2weeks": 44,
+    "median_forever": 417
+  },
+  "CCU Histogram": {
+    "2022-12-08": 540,
+    "2022-12-09": 486,
+    "2022-12-10": 468,
+    "2022-12-13": 838,
+    "2022-12-15": 592,
+    "2022-12-18": 733,
+    "2022-12-21": 711,
+    "2022-12-22": 718
+  },
+  "Completion": -1,
+  "Down 30 Days": 23,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1557740,
+    "average_2weeks": 36,
+    "average_forever": 617,
+    "median_2weeks": 44,
+    "median_forever": 417
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1557740,
+    "average_2weeks": 36,
+    "average_forever": 617,
+    "median_2weeks": 44,
+    "median_forever": 417
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 422,
+  "User Score": -1,
+  "appid": 1557740,
   "categories": [
     "Multi-player",
     "Partial Controller Support",
@@ -35,183 +205,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12642,
-  "negative": 609,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 738,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1557740/header.jpg?t=1645874383",
+  "consensus_genre": "Action",
+  "developer": "Landfall",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 422,
-  "Down 30 Days": 23,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1557740/header.jpg?t=1645874383",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "ROUNDS",
+  "negative": 609,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12642,
+  "price": "599",
+  "publisher": "Landfall",
+  "release_date": "2021/04/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 570,
+    "2D Fighter": 625,
+    "2D Platformer": 526,
+    "Action": 604,
+    "Arcade": 526,
+    "Card Battler": 587,
+    "Card Game": 556,
+    "Deckbuilding": 613,
+    "Fighting": 643,
+    "Indie": 600,
+    "Local Multiplayer": 631,
+    "Multiplayer": 659,
+    "Party Game": 525,
+    "Physics": 599,
+    "Platformer": 546,
+    "PvP": 542,
+    "Rogue-lite": 597,
+    "Roguelike Deckbuilder": 555,
+    "Side Scroller": 544,
+    "Twin Stick Shooter": 512
+  },
+  "type": "game"
 }

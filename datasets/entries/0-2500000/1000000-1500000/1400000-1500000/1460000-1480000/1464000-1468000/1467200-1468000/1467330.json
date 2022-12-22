@@ -1,66 +1,104 @@
 {
-  "appid": 1467330,
-  "name": "Endline",
-  "developer": "Miniced",
-  "publisher": "Miniced",
-  "tags": {
-    "Bullet Hell": 54,
-    "Shoot 'Em Up": 48,
-    "Action": 46,
-    "Top-Down Shooter": 44,
-    "Shooter": 41,
-    "Arcade": 38,
-    "2.5D": 33,
-    "Top-Down": 30,
-    "Nonlinear": 28,
-    "Colorful": 24,
-    "Minimalist": 22,
-    "Indie": 21,
-    "Stylized": 20,
-    "Family Friendly": 18,
-    "Score Attack": 16,
-    "Psychedelic": 14,
-    "Singleplayer": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1467330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1467330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 75.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1467330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1467330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1467330,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/03/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1467330/header.jpg?t=1617033910",
+  "consensus_genre": "Action",
+  "developer": "Miniced",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 75.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1467330/header.jpg?t=1617033910",
+  "initialprice": "499",
+  "languages": "English, French",
+  "name": "Endline",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Miniced",
+  "release_date": "2021/03/29",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 33,
+    "Action": 46,
+    "Arcade": 38,
+    "Bullet Hell": 54,
+    "Colorful": 24,
+    "Family Friendly": 18,
+    "Indie": 21,
+    "Minimalist": 22,
+    "Nonlinear": 28,
+    "Psychedelic": 14,
+    "Score Attack": 16,
+    "Shoot 'Em Up": 48,
+    "Shooter": 41,
+    "Singleplayer": 12,
+    "Stylized": 20,
+    "Top-Down": 30,
+    "Top-Down Shooter": 44
+  },
+  "type": "game"
 }

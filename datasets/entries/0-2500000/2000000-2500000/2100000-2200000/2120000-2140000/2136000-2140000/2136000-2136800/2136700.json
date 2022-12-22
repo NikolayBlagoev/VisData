@@ -1,73 +1,111 @@
 {
-  "appid": 2136700,
-  "name": "\u30bd\u30e9\u30ca\u3068\u967d\u306e\u5de5\u623f",
-  "developer": "monaka games",
-  "publisher": "monaka games",
-  "tags": {
-    "RPG": 69,
-    "JRPG": 43,
-    "Collectathon": 40,
-    "2D": 37,
-    "Top-Down": 35,
-    "Crafting": 28,
-    "Comedy": 26,
-    "Fantasy": 24,
-    "Dark Humor": 22,
-    "Controller": 20,
-    "Female Protagonist": 18,
-    "Singleplayer": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2136700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2136700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 0,
+    "2022-12-10": 1,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2136700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2136700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 2136700,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 3,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, Not supported, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2136700/header.jpg?t=1666769195",
+  "consensus_genre": "RPG",
+  "developer": "monaka games",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2136700/header.jpg?t=1666769195",
+  "initialprice": "1199",
+  "languages": "English, Not supported, Japanese",
+  "name": "\u30bd\u30e9\u30ca\u3068\u967d\u306e\u5de5\u623f",
+  "negative": 3,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "1199",
+  "publisher": "monaka games",
+  "release_date": "2022/10/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 37,
+    "Collectathon": 40,
+    "Comedy": 26,
+    "Controller": 20,
+    "Crafting": 28,
+    "Dark Humor": 22,
+    "Fantasy": 24,
+    "Female Protagonist": 18,
+    "JRPG": 43,
+    "RPG": 69,
+    "Singleplayer": 16,
+    "Top-Down": 35
+  },
+  "type": "game"
 }

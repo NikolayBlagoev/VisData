@@ -1,31 +1,201 @@
 {
-  "appid": 1097130,
-  "name": "Circuit Superstars",
-  "developer": "Original Fire Games",
-  "publisher": "Square Enix",
-  "tags": {
-    "Controller": 428,
-    "Racing": 412,
-    "Automobile Sim": 403,
-    "Driving": 402,
-    "Top-Down": 397,
-    "Cute": 392,
-    "Multiplayer": 391,
-    "Local Multiplayer": 383,
-    "Indie": 381,
-    "e-sports": 379,
-    "Arcade": 377,
-    "Sports": 372,
-    "Singleplayer": 368,
-    "Split Screen": 366,
-    "Retro": 364,
-    "4 Player Local": 359,
-    "Physics": 359,
-    "3D": 351,
-    "Wholesome": 340,
-    "Stylized": 335
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1097130,
+    "average_2weeks": 22,
+    "average_forever": 340,
+    "median_2weeks": 22,
+    "median_forever": 348
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1097130,
+    "average_2weeks": 22,
+    "average_forever": 340,
+    "median_2weeks": 22,
+    "median_forever": 348
+  },
+  "CCU Histogram": {
+    "2022-12-08": 22,
+    "2022-12-09": 29,
+    "2022-12-10": 41,
+    "2022-12-13": 54,
+    "2022-12-15": 21,
+    "2022-12-18": 82,
+    "2022-12-21": 31,
+    "2022-12-22": 48
+  },
+  "Completion": 52.099998474121094,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1097130,
+    "average_2weeks": 22,
+    "average_forever": 340,
+    "median_2weeks": 22,
+    "median_forever": 348
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1097130,
+    "average_2weeks": 22,
+    "average_forever": 340,
+    "median_2weeks": 22,
+    "median_forever": 348
+  },
+  "Meta Score": "82",
+  "Rating": "ESRB E",
+  "Up 30 Days": 18,
+  "User Score": -1,
+  "appid": 1097130,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,22 +209,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1361,
-  "negative": 179,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 46,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Traditional Chinese, Simplified Chinese, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1097130/header.jpg?t=1662142794",
+  "consensus_genre": "Racing",
+  "developer": "Original Fire Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -63,163 +221,43 @@
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 18,
-  "Down 30 Days": 3,
-  "Completion": 52.099998474121094,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1097130/header.jpg?t=1662142794",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Traditional Chinese, Simplified Chinese, Spanish - Latin America",
+  "name": "Circuit Superstars",
+  "negative": 179,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1361,
+  "price": "1999",
+  "publisher": "Square Enix",
+  "release_date": "2021/10/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 351,
+    "4 Player Local": 359,
+    "Arcade": 377,
+    "Automobile Sim": 403,
+    "Controller": 428,
+    "Cute": 392,
+    "Driving": 402,
+    "Indie": 381,
+    "Local Multiplayer": 383,
+    "Multiplayer": 391,
+    "Physics": 359,
+    "Racing": 412,
+    "Retro": 364,
+    "Singleplayer": 368,
+    "Split Screen": 366,
+    "Sports": 372,
+    "Stylized": 335,
+    "Top-Down": 397,
+    "Wholesome": 340,
+    "e-sports": 379
+  },
+  "type": "game"
 }

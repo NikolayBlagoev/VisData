@@ -1,31 +1,201 @@
 {
-  "appid": 976590,
-  "name": "Bus Simulator 21",
-  "developer": "stillalive studios",
-  "publisher": "astragon Entertainment",
-  "tags": {
-    "Simulation": 304,
-    "Automobile Sim": 265,
-    "Immersive Sim": 235,
-    "3D": 230,
-    "Realistic": 223,
-    "Colorful": 220,
-    "Driving": 220,
-    "First-Person": 220,
-    "Third Person": 198,
-    "Family Friendly": 176,
-    "Modern": 167,
-    "Relaxing": 156,
-    "Character Customization": 153,
-    "Controller": 142,
-    "Open World": 132,
-    "Multiplayer": 121,
-    "Co-op": 110,
-    "Online Co-Op": 89,
-    "Singleplayer": 72,
-    "Management": 52
+  "Average Playtime - 2 Weeks": {
+    "app_id": 976590,
+    "average_2weeks": 87,
+    "average_forever": 517,
+    "median_2weeks": 87,
+    "median_forever": 648
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 976590,
+    "average_2weeks": 87,
+    "average_forever": 517,
+    "median_2weeks": 87,
+    "median_forever": 648
+  },
+  "CCU Histogram": {
+    "2022-12-08": 174,
+    "2022-12-09": 148,
+    "2022-12-10": 175,
+    "2022-12-13": 159,
+    "2022-12-15": 174,
+    "2022-12-18": 152,
+    "2022-12-21": 202,
+    "2022-12-22": 175
+  },
+  "Completion": 64.8499984741211,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 976590,
+    "average_2weeks": 87,
+    "average_forever": 517,
+    "median_2weeks": 87,
+    "median_forever": 648
+  },
+  "Median Playtime - Forever": {
+    "app_id": 976590,
+    "average_2weeks": 87,
+    "average_forever": 517,
+    "median_2weeks": 87,
+    "median_forever": 648
+  },
+  "Meta Score": "73",
+  "Rating": "ESRB E",
+  "Up 30 Days": 36,
+  "User Score": -1,
+  "appid": 976590,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,182 +206,50 @@
     "Steam Trading Cards",
     "Online Co-op"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2013,
-  "negative": 948,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
   "ccu": 181,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Polish, Russian, Traditional Chinese, Turkish, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976590/header.jpg?t=1666773621",
+  "consensus_genre": "Simulation",
+  "developer": "stillalive studios",
+  "discount": "0",
   "genre": [
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": "73",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 36,
-  "Down 30 Days": 14,
-  "Completion": 64.8499984741211,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976590/header.jpg?t=1666773621",
+  "initialprice": "3499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Polish, Russian, Traditional Chinese, Turkish, Simplified Chinese",
+  "name": "Bus Simulator 21",
+  "negative": 948,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2013,
+  "price": "3499",
+  "publisher": "astragon Entertainment",
+  "release_date": "2021/09/7",
+  "required_age": 0,
+  "tags": {
+    "3D": 230,
+    "Automobile Sim": 265,
+    "Character Customization": 153,
+    "Co-op": 110,
+    "Colorful": 220,
+    "Controller": 142,
+    "Driving": 220,
+    "Family Friendly": 176,
+    "First-Person": 220,
+    "Immersive Sim": 235,
+    "Management": 52,
+    "Modern": 167,
+    "Multiplayer": 121,
+    "Online Co-Op": 89,
+    "Open World": 132,
+    "Realistic": 223,
+    "Relaxing": 156,
+    "Simulation": 304,
+    "Singleplayer": 72,
+    "Third Person": 198
+  },
+  "type": "game"
 }

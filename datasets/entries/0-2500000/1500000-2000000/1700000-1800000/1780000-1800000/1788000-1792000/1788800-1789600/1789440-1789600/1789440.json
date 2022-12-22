@@ -1,83 +1,121 @@
 {
-  "appid": 1789440,
-  "name": "Ani Leaving Sirius",
-  "developer": "e2gamestudio",
-  "publisher": "e2gamestudio",
-  "tags": {
-    "Action": 196,
-    "Casual": 190,
-    "Adventure": 180,
-    "2D Platformer": 167,
-    "Action-Adventure": 154,
-    "Metroidvania": 145,
-    "Platformer": 138,
-    "Precision Platformer": 130,
-    "Rogue-lite": 122,
-    "2D": 113,
-    "Atmospheric": 102,
-    "Hand-drawn": 100,
-    "Colorful": 87,
-    "Cute": 73,
-    "Family Friendly": 58,
-    "Resource Management": 42,
-    "Tabletop": 26,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1789440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1789440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 49.94999885559082,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1789440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1789440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 6,
+  "User Score": -1,
+  "appid": 1789440,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 6,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/11/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1789440/header.jpg?t=1641045530",
+  "consensus_genre": "Action",
+  "developer": "e2gamestudio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 6,
-  "Down 30 Days": 0,
-  "Completion": 49.94999885559082,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1789440/header.jpg?t=1641045530",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Ani Leaving Sirius",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 6,
+  "price": "199",
+  "publisher": "e2gamestudio",
+  "release_date": "2021/11/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 113,
+    "2D Platformer": 167,
+    "Action": 196,
+    "Action-Adventure": 154,
+    "Adventure": 180,
+    "Atmospheric": 102,
+    "Casual": 190,
+    "Colorful": 87,
+    "Cute": 73,
+    "Family Friendly": 58,
+    "Hand-drawn": 100,
+    "Indie": 21,
+    "Metroidvania": 145,
+    "Platformer": 138,
+    "Precision Platformer": 130,
+    "Resource Management": 42,
+    "Rogue-lite": 122,
+    "Singleplayer": 25,
+    "Tabletop": 26
+  },
+  "type": "game"
 }

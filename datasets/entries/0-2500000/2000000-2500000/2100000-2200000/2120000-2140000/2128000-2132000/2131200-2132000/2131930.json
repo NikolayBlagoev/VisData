@@ -1,121 +1,159 @@
 {
-  "appid": 2131930,
-  "name": "Shooting Waltz",
-  "developer": "SW Games",
-  "publisher": "SW Games",
-  "tags": {
-    "Casual": 111,
-    "Mature": 105,
-    "Action": 102,
-    "Shooter": 99,
-    "Hentai": 94,
-    "Rogue-like": 85,
-    "Sexual Content": 82,
-    "2D Platformer": 80,
-    "Bullet Hell": 78,
-    "Third-Person Shooter": 76,
-    "Flight": 71,
-    "2D": 69,
-    "Anime": 67,
-    "Cartoon": 64,
-    "Quick-Time Events": 60,
-    "Cartoony": 54,
-    "Nudity": 50,
-    "Cute": 47,
-    "Relaxing": 44,
-    "Singleplayer": 38
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2131930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2131930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2131930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2131930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 2131930,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2131930/header.jpg?t=1663150016",
+  "consensus_genre": "Casual",
+  "developer": "SW Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2131930/header.jpg?t=1663150016",
+  "initialprice": "199",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America",
+  "name": "Shooting Waltz",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "199",
+  "publisher": "SW Games",
+  "release_date": "2022/09/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 69,
+    "2D Platformer": 80,
+    "Action": 102,
+    "Anime": 67,
+    "Bullet Hell": 78,
+    "Cartoon": 64,
+    "Cartoony": 54,
+    "Casual": 111,
+    "Cute": 47,
+    "Flight": 71,
+    "Hentai": 94,
+    "Mature": 105,
+    "Nudity": 50,
+    "Quick-Time Events": 60,
+    "Relaxing": 44,
+    "Rogue-like": 85,
+    "Sexual Content": 82,
+    "Shooter": 99,
+    "Singleplayer": 38,
+    "Third-Person Shooter": 76
+  },
+  "type": "game"
 }

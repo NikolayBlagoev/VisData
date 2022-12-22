@@ -1,51 +1,209 @@
 {
-  "appid": 867290,
-  "name": "Crossroads Inn Anniversary Edition",
-  "developer": "Klabater",
-  "publisher": "Klabater",
-  "tags": {
-    "City Builder": 1882,
-    "Immersive Sim": 1856,
-    "Life Sim": 1825,
-    "3D": 1709,
-    "Economy": 1574,
-    "Funny": 1490,
-    "Stylized": 1461,
-    "Base-Building": 1433,
-    "Lore-Rich": 1411,
-    "Old School": 1254,
-    "Crafting": 1251,
-    "Sandbox": 1178,
-    "Time Management": 1171,
-    "God Game": 1169,
-    "Strategy RPG": 1163,
-    "Romance": 1156,
-    "RPG": 1145,
-    "Strategy": 1143,
-    "Cooking": 1135,
-    "Management": 1128
+  "Average Playtime - 2 Weeks": {
+    "app_id": 867290,
+    "average_2weeks": 0,
+    "average_forever": 394,
+    "median_2weeks": 0,
+    "median_forever": 528
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 867290,
+    "average_2weeks": 0,
+    "average_forever": 394,
+    "median_2weeks": 0,
+    "median_forever": 528
+  },
+  "CCU Histogram": {
+    "2022-12-08": 41,
+    "2022-12-09": 45,
+    "2022-12-10": 44,
+    "2022-12-13": 41,
+    "2022-12-15": 37,
+    "2022-12-18": 48,
+    "2022-12-21": 50,
+    "2022-12-22": 52
+  },
+  "Completion": 56.0,
+  "Down 30 Days": 24,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 867290,
+    "average_2weeks": 0,
+    "average_forever": 394,
+    "median_2weeks": 0,
+    "median_forever": 528
+  },
+  "Median Playtime - Forever": {
+    "app_id": 867290,
+    "average_2weeks": 0,
+    "average_forever": 394,
+    "median_2weeks": 0,
+    "median_forever": 528
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 19,
+  "User Score": -1,
+  "appid": 867290,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2055,
-  "negative": 1567,
-  "price": "499",
-  "initialprice": "2499",
-  "discount": "80",
   "ccu": 57,
-  "languages": "English, Polish, German, French, Spanish - Spain, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/10/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/867290/header.jpg?t=1667918298",
+  "consensus_genre": "RPG",
+  "developer": "Klabater",
+  "discount": "80",
   "genre": [
     "Adventure",
     "Casual",
@@ -53,163 +211,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 19,
-  "Down 30 Days": 24,
-  "Completion": 56.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/867290/header.jpg?t=1667918298",
+  "initialprice": "2499",
+  "languages": "English, Polish, German, French, Spanish - Spain, Russian, Simplified Chinese",
+  "name": "Crossroads Inn Anniversary Edition",
+  "negative": 1567,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2055,
+  "price": "499",
+  "publisher": "Klabater",
+  "release_date": "2019/10/23",
+  "required_age": 0,
+  "tags": {
+    "3D": 1709,
+    "Base-Building": 1433,
+    "City Builder": 1882,
+    "Cooking": 1135,
+    "Crafting": 1251,
+    "Economy": 1574,
+    "Funny": 1490,
+    "God Game": 1169,
+    "Immersive Sim": 1856,
+    "Life Sim": 1825,
+    "Lore-Rich": 1411,
+    "Management": 1128,
+    "Old School": 1254,
+    "RPG": 1145,
+    "Romance": 1156,
+    "Sandbox": 1178,
+    "Strategy": 1143,
+    "Strategy RPG": 1163,
+    "Stylized": 1461,
+    "Time Management": 1171
+  },
+  "type": "game"
 }

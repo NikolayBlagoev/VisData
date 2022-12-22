@@ -1,31 +1,201 @@
 {
-  "appid": 868270,
-  "name": "The Cycle",
-  "developer": "YAGER",
-  "publisher": "YAGER",
-  "tags": {
-    "Survival": 573,
-    "Free to Play": 547,
-    "Loot": 540,
-    "Tactical": 525,
-    "Crafting": 524,
-    "Shooter": 482,
-    "Multiplayer": 480,
-    "PvP": 463,
-    "First-Person": 460,
-    "Exploration": 457,
-    "Sci-fi": 452,
-    "Looter Shooter": 449,
-    "FPS": 440,
-    "Aliens": 438,
-    "PvE": 417,
-    "Competitive": 391,
-    "Adventure": 386,
-    "Online Co-Op": 386,
-    "Battle Royale": 379,
-    "Team-Based": 375
+  "Average Playtime - 2 Weeks": {
+    "app_id": 868270,
+    "average_2weeks": 361,
+    "average_forever": 1529,
+    "median_2weeks": 699,
+    "median_forever": 128
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 868270,
+    "average_2weeks": 361,
+    "average_forever": 1529,
+    "median_2weeks": 699,
+    "median_forever": 128
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1982,
+    "2022-12-09": 1883,
+    "2022-12-10": 1833,
+    "2022-12-13": 2115,
+    "2022-12-15": 1610,
+    "2022-12-18": 1705,
+    "2022-12-21": 1499,
+    "2022-12-22": 1747
+  },
+  "Completion": -1,
+  "Down 30 Days": 691,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 17,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 12,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 20,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 14,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 18,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 14,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 16,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 14,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 19,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 16,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 10,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 13,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 20,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 16,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 17,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 17,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 10,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 9,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 20,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 19,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 16,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 43,
+      "recommendations_up": 255
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 99,
+      "recommendations_up": 435
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 60,
+      "recommendations_up": 274
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 48,
+      "recommendations_up": 192
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 34,
+      "recommendations_up": 175
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 32,
+      "recommendations_up": 159
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 24,
+      "recommendations_up": 111
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 22,
+      "recommendations_up": 89
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 868270,
+    "average_2weeks": 361,
+    "average_forever": 1529,
+    "median_2weeks": 699,
+    "median_forever": 128
+  },
+  "Median Playtime - Forever": {
+    "app_id": 868270,
+    "average_2weeks": 361,
+    "average_forever": 1529,
+    "median_2weeks": 699,
+    "median_forever": 128
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2106,
+  "User Score": -1,
+  "appid": 868270,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,184 +204,52 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 20997,
-  "negative": 13667,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 3714,
-  "languages": "English, German, French, Spanish - Spain, Polish, Russian, Simplified Chinese, Portuguese - Brazil, Italian, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/868270/header.jpg?t=1667312540",
+  "consensus_genre": "Free to Play",
+  "developer": "YAGER",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 17,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 25,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 16,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 12,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 21,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 24,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 26,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 14,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 28,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 25,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 23,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 27,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 21,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 23,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 11,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 18,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 16,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 18,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 12,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 255,
-      "recommendations_down": 43
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 435,
-      "recommendations_down": 99
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 274,
-      "recommendations_down": 60
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 192,
-      "recommendations_down": 48
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 175,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 159,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 111,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 89,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 2106,
-  "Down 30 Days": 691,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/868270/header.jpg?t=1667312540",
+  "initialprice": "0",
+  "languages": "English, German, French, Spanish - Spain, Polish, Russian, Simplified Chinese, Portuguese - Brazil, Italian, Japanese, Korean",
+  "name": "The Cycle",
+  "negative": 13667,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 20997,
+  "price": "0",
+  "publisher": "YAGER",
+  "release_date": "2022/06/8",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 386,
+    "Aliens": 438,
+    "Battle Royale": 379,
+    "Competitive": 391,
+    "Crafting": 524,
+    "Exploration": 457,
+    "FPS": 440,
+    "First-Person": 460,
+    "Free to Play": 547,
+    "Loot": 540,
+    "Looter Shooter": 449,
+    "Multiplayer": 480,
+    "Online Co-Op": 386,
+    "PvE": 417,
+    "PvP": 463,
+    "Sci-fi": 452,
+    "Shooter": 482,
+    "Survival": 573,
+    "Tactical": 525,
+    "Team-Based": 375
+  },
+  "type": "game"
 }

@@ -1,53 +1,211 @@
 {
-  "appid": 664000,
-  "name": "HammerHelm",
-  "developer": "SuperSixStudios",
-  "publisher": "SOEDESCO",
-  "tags": {
-    "Action": 339,
-    "Building": 337,
-    "Casual": 336,
-    "Action-Adventure": 320,
-    "Crafting": 310,
-    "Fantasy": 302,
-    "Strategy": 297,
-    "Open World": 296,
-    "Adventure": 280,
-    "Third Person": 279,
-    "City Builder": 273,
-    "Colorful": 263,
-    "Open World Survival Craft": 261,
-    "Relaxing": 256,
-    "Singleplayer": 250,
-    "RPG": 237,
-    "Base-Building": 235,
-    "Indie": 226,
-    "Family Friendly": 224,
-    "Simulation": 223
+  "Average Playtime - 2 Weeks": {
+    "app_id": 664000,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 82
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 664000,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 1,
+    "2022-12-10": 2,
+    "2022-12-13": 3,
+    "2022-12-15": 3,
+    "2022-12-18": 0,
+    "2022-12-21": 3,
+    "2022-12-22": 1
+  },
+  "Completion": 54.79999923706055,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 664000,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "Median Playtime - Forever": {
+    "app_id": 664000,
+    "average_2weeks": 0,
+    "average_forever": 82,
+    "median_2weeks": 0,
+    "median_forever": 82
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 664000,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 241,
-  "negative": 51,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English, German, Spanish - Spain, Polish, Portuguese - Brazil, French, Korean, Japanese, Russian, Simplified Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/664000/header.jpg?t=1665659641",
+  "consensus_genre": "Action",
+  "developer": "SuperSixStudios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -57,163 +215,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": 54.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/664000/header.jpg?t=1665659641",
+  "initialprice": "1499",
+  "languages": "English, German, Spanish - Spain, Polish, Portuguese - Brazil, French, Korean, Japanese, Russian, Simplified Chinese, Turkish",
+  "name": "HammerHelm",
+  "negative": 51,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 241,
+  "price": "1499",
+  "publisher": "SOEDESCO",
+  "release_date": "2021/04/29",
+  "required_age": 0,
+  "tags": {
+    "Action": 339,
+    "Action-Adventure": 320,
+    "Adventure": 280,
+    "Base-Building": 235,
+    "Building": 337,
+    "Casual": 336,
+    "City Builder": 273,
+    "Colorful": 263,
+    "Crafting": 310,
+    "Family Friendly": 224,
+    "Fantasy": 302,
+    "Indie": 226,
+    "Open World": 296,
+    "Open World Survival Craft": 261,
+    "RPG": 237,
+    "Relaxing": 256,
+    "Simulation": 223,
+    "Singleplayer": 250,
+    "Strategy": 297,
+    "Third Person": 279
+  },
+  "type": "game"
 }

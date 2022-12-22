@@ -1,77 +1,115 @@
 {
-  "appid": 1622330,
-  "name": "DangerZone VR",
-  "developer": "orespawndz",
-  "publisher": "orespawndz",
-  "tags": {
-    "Action": 294,
-    "Adventure": 287,
-    "RPG": 283,
-    "Action RPG": 258,
-    "Action-Adventure": 252,
-    "City Builder": 242,
-    "Farming Sim": 236,
-    "Strategy RPG": 227,
-    "Choose Your Own Adventure": 218,
-    "Creature Collector": 209,
-    "Exploration": 199,
-    "Hack and Slash": 188,
-    "3D": 175,
-    "Colorful": 173,
-    "VR": 160,
-    "Crafting": 142,
-    "Dragons": 125,
-    "Fantasy": 107,
-    "Hacking": 89,
-    "Survival": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1622330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1622330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1622330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1622330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1622330,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1622330/header.jpg?t=1635776307",
+  "consensus_genre": "Action",
+  "developer": "orespawndz",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1622330/header.jpg?t=1635776307",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "DangerZone VR",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "orespawndz",
+  "release_date": "2021/09/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 175,
+    "Action": 294,
+    "Action RPG": 258,
+    "Action-Adventure": 252,
+    "Adventure": 287,
+    "Choose Your Own Adventure": 218,
+    "City Builder": 242,
+    "Colorful": 173,
+    "Crafting": 142,
+    "Creature Collector": 209,
+    "Dragons": 125,
+    "Exploration": 199,
+    "Fantasy": 107,
+    "Farming Sim": 236,
+    "Hack and Slash": 188,
+    "Hacking": 89,
+    "RPG": 283,
+    "Strategy RPG": 227,
+    "Survival": 68,
+    "VR": 160
+  },
+  "type": "game"
 }

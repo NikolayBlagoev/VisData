@@ -1,64 +1,102 @@
 {
-  "appid": 1358000,
-  "name": "_OUR_:_Defense 2021",
-  "developer": "M58",
-  "publisher": "M58",
-  "tags": {
-    "Strategy": 174,
-    "Tower Defense": 161,
-    "RTS": 150,
-    "Isometric": 146,
-    "Tactical": 139,
-    "Real Time Tactics": 129,
-    "2D": 122,
-    "Arcade": 115,
-    "Logic": 107,
-    "Beautiful": 97,
-    "Atmospheric": 95,
-    "Casual": 90,
-    "Futuristic": 56,
-    "Aliens": 41,
-    "Military": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1358000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1358000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1358000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1358000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1358000,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Hungarian, Greek, Danish, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Turkish, Ukrainian, Finnish, Czech, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1358000/header.jpg?t=1605887530",
+  "consensus_genre": "Strategy",
+  "developer": "M58",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1358000/header.jpg?t=1605887530",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Hungarian, Greek, Danish, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Turkish, Ukrainian, Finnish, Czech, Swedish",
+  "name": "_OUR_:_Defense 2021",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "M58",
+  "release_date": "2020/09/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 122,
+    "Aliens": 41,
+    "Arcade": 115,
+    "Atmospheric": 95,
+    "Beautiful": 97,
+    "Casual": 90,
+    "Futuristic": 56,
+    "Indie": 21,
+    "Isometric": 146,
+    "Logic": 107,
+    "Military": 27,
+    "RTS": 150,
+    "Real Time Tactics": 129,
+    "Singleplayer": 25,
+    "Strategy": 174,
+    "Tactical": 139,
+    "Tower Defense": 161
+  },
+  "type": "game"
 }

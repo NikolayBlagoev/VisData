@@ -1,31 +1,201 @@
 {
-  "appid": 409320,
-  "name": "Syndrome",
-  "developer": "Camel 101",
-  "publisher": "Camel 101, WhisperGames",
-  "tags": {
-    "Horror": 163,
-    "FPS": 157,
-    "Survival Horror": 154,
-    "Shooter": 151,
-    "Stealth": 146,
-    "Survival": 139,
-    "First-Person": 136,
-    "Psychological Horror": 130,
-    "Action": 121,
-    "Sci-fi": 115,
-    "Space": 110,
-    "Atmospheric": 102,
-    "Psychological": 97,
-    "Robots": 90,
-    "Adventure": 87,
-    "Futuristic": 84,
-    "Dark": 82,
-    "Combat": 66,
-    "Singleplayer": 61,
-    "Gore": 55
+  "Average Playtime - 2 Weeks": {
+    "app_id": 409320,
+    "average_2weeks": 0,
+    "average_forever": 230,
+    "median_2weeks": 0,
+    "median_forever": 274
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 409320,
+    "average_2weeks": 0,
+    "average_forever": 230,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 3,
+    "2022-12-10": 2,
+    "2022-12-13": 2,
+    "2022-12-15": 0,
+    "2022-12-18": 1,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 34.400001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 409320,
+    "average_2weeks": 0,
+    "average_forever": 230,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "Median Playtime - Forever": {
+    "app_id": 409320,
+    "average_2weeks": 0,
+    "average_forever": 230,
+    "median_2weeks": 0,
+    "median_forever": 274
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 409320,
   "categories": [
     "Single-player",
     "Captions available",
@@ -34,183 +204,51 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 185,
-  "negative": 106,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian, Polish, Turkish, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2016/10/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/409320/header.jpg?t=1666987125",
+  "consensus_genre": "Action",
+  "developer": "Camel 101",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 34.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/409320/header.jpg?t=1666987125",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian, Polish, Turkish, Simplified Chinese",
+  "name": "Syndrome",
+  "negative": 106,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 185,
+  "price": "1999",
+  "publisher": "Camel 101, WhisperGames",
+  "release_date": "2016/10/6",
+  "required_age": 0,
+  "tags": {
+    "Action": 121,
+    "Adventure": 87,
+    "Atmospheric": 102,
+    "Combat": 66,
+    "Dark": 82,
+    "FPS": 157,
+    "First-Person": 136,
+    "Futuristic": 84,
+    "Gore": 55,
+    "Horror": 163,
+    "Psychological": 97,
+    "Psychological Horror": 130,
+    "Robots": 90,
+    "Sci-fi": 115,
+    "Shooter": 151,
+    "Singleplayer": 61,
+    "Space": 110,
+    "Stealth": 146,
+    "Survival": 139,
+    "Survival Horror": 154
+  },
+  "type": "game"
 }

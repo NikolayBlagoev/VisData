@@ -1,31 +1,201 @@
 {
-  "appid": 382900,
-  "name": "FINAL FANTASY VI",
-  "developer": "Square Enix",
-  "publisher": "Square Enix",
-  "tags": {
-    "JRPG": 159,
-    "RPG": 151,
-    "Classic": 118,
-    "Great Soundtrack": 114,
-    "Story Rich": 114,
-    "Singleplayer": 94,
-    "Fantasy": 73,
-    "Turn-Based Combat": 60,
-    "Remake": 53,
-    "Female Protagonist": 52,
-    "Retro": 49,
-    "Steampunk": 44,
-    "Adventure": 35,
-    "Open World": 29,
-    "1990's": 19,
-    "Magic": 18,
-    "Sci-fi": 12,
-    "Anime": 11,
-    "Turn-Based": 8,
-    "Epic": 7
+  "Average Playtime - 2 Weeks": {
+    "app_id": 382900,
+    "average_2weeks": 0,
+    "average_forever": 665,
+    "median_2weeks": 0,
+    "median_forever": 1099
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 382900,
+    "average_2weeks": 0,
+    "average_forever": 665,
+    "median_2weeks": 0,
+    "median_forever": 1099
+  },
+  "CCU Histogram": {
+    "2022-12-08": 19,
+    "2022-12-09": 14,
+    "2022-12-10": 15,
+    "2022-12-13": 12,
+    "2022-12-15": 16,
+    "2022-12-18": 17,
+    "2022-12-21": 23,
+    "2022-12-22": 22
+  },
+  "Completion": 93.5999984741211,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 382900,
+    "average_2weeks": 0,
+    "average_forever": 665,
+    "median_2weeks": 0,
+    "median_forever": 1099
+  },
+  "Median Playtime - Forever": {
+    "app_id": 382900,
+    "average_2weeks": 0,
+    "average_forever": 665,
+    "median_2weeks": 0,
+    "median_forever": 1099
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 382900,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,182 +203,50 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1976,
-  "negative": 436,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 25,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/12/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/382900/header.jpg?t=1627488014",
+  "consensus_genre": "RPG",
+  "developer": "Square Enix",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 2,
-  "Completion": 93.5999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/382900/header.jpg?t=1627488014",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian",
+  "name": "FINAL FANTASY VI",
+  "negative": 436,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1976,
+  "price": "0",
+  "publisher": "Square Enix",
+  "release_date": "2015/12/16",
+  "required_age": 0,
+  "tags": {
+    "1990's": 19,
+    "Adventure": 35,
+    "Anime": 11,
+    "Classic": 118,
+    "Epic": 7,
+    "Fantasy": 73,
+    "Female Protagonist": 52,
+    "Great Soundtrack": 114,
+    "JRPG": 159,
+    "Magic": 18,
+    "Open World": 29,
+    "RPG": 151,
+    "Remake": 53,
+    "Retro": 49,
+    "Sci-fi": 12,
+    "Singleplayer": 94,
+    "Steampunk": 44,
+    "Story Rich": 114,
+    "Turn-Based": 8,
+    "Turn-Based Combat": 60
+  },
+  "type": "game"
 }

@@ -1,70 +1,108 @@
 {
-  "appid": 1757260,
-  "name": "Little Red Rocket Ship",
-  "developer": "Random",
-  "publisher": "Random",
-  "tags": {
-    "Early Access": 272,
-    "Action": 247,
-    "Adventure": 240,
-    "Action-Adventure": 216,
-    "Bullet Hell": 214,
-    "Shoot 'Em Up": 211,
-    "Platformer": 203,
-    "Arcade": 197,
-    "Shooter": 193,
-    "Exploration": 187,
-    "2D Platformer": 179,
-    "2D": 176,
-    "Colorful": 170,
-    "Pixel Graphics": 167,
-    "Stylized": 164,
-    "Top-Down": 159,
-    "Aliens": 150,
-    "Artificial Intelligence": 146,
-    "Atmospheric": 136,
-    "Dystopian ": 129
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1757260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1757260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 68.9000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1757260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1757260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1757260,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1757260/header.jpg?t=1644878820",
+  "consensus_genre": "Early Access",
+  "developer": "Random",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 68.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1757260/header.jpg?t=1644878820",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Little Red Rocket Ship",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Random",
+  "release_date": "2021/10/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 176,
+    "2D Platformer": 179,
+    "Action": 247,
+    "Action-Adventure": 216,
+    "Adventure": 240,
+    "Aliens": 150,
+    "Arcade": 197,
+    "Artificial Intelligence": 146,
+    "Atmospheric": 136,
+    "Bullet Hell": 214,
+    "Colorful": 170,
+    "Dystopian ": 129,
+    "Early Access": 272,
+    "Exploration": 187,
+    "Pixel Graphics": 167,
+    "Platformer": 203,
+    "Shoot 'Em Up": 211,
+    "Shooter": 193,
+    "Stylized": 164,
+    "Top-Down": 159
+  },
+  "type": "game"
 }

@@ -1,65 +1,103 @@
 {
-  "appid": 1433910,
-  "name": "Dragu's Puzzle Adventure",
-  "developer": "Yebbes Gamestudio",
-  "publisher": "Yebbes Gamestudio",
-  "tags": {
-    "Singleplayer": 212,
-    "3D": 206,
-    "Puzzle": 203,
-    "Third Person": 197,
-    "Cartoony": 191,
-    "Exploration": 181,
-    "Puzzle-Platformer": 173,
-    "Colorful": 166,
-    "Linear": 157,
-    "Sandbox": 148,
-    "3D Platformer": 137,
-    "Cute": 126,
-    "Atmospheric": 124,
-    "Comic Book": 110,
-    "Fantasy": 95,
-    "Funny": 79,
-    "Logic": 62,
-    "Mystery": 44,
-    "Nature": 27,
-    "Tutorial": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1433910,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1433910,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1433910/header.jpg?t=1603269356",
-  "genre": [
-    "Adventure"
-  ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 73.9000015258789,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1433910,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1433910,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 73.9000015258789,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1433910,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "",
+  "developer": "Yebbes Gamestudio",
+  "discount": "0",
+  "genre": [
+    "Adventure"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1433910/header.jpg?t=1603269356",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Dragu's Puzzle Adventure",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Yebbes Gamestudio",
+  "release_date": "2020/10/21",
+  "required_age": 0,
+  "tags": {
+    "3D": 206,
+    "3D Platformer": 137,
+    "Atmospheric": 124,
+    "Cartoony": 191,
+    "Colorful": 166,
+    "Comic Book": 110,
+    "Cute": 126,
+    "Exploration": 181,
+    "Fantasy": 95,
+    "Funny": 79,
+    "Linear": 157,
+    "Logic": 62,
+    "Mystery": 44,
+    "Nature": 27,
+    "Puzzle": 203,
+    "Puzzle-Platformer": 173,
+    "Sandbox": 148,
+    "Singleplayer": 212,
+    "Third Person": 197,
+    "Tutorial": 25
+  },
+  "type": "game"
 }

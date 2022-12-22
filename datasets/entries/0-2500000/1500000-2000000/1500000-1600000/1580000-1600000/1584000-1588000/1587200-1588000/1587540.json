@@ -1,214 +1,252 @@
 {
-  "appid": 1587540,
-  "name": "Anvil Saga",
-  "developer": "Pirozhok Studio",
-  "publisher": "HeroCraft PC",
-  "tags": {
-    "Early Access": 221,
-    "RPG": 200,
-    "Pixel Graphics": 199,
-    "Choices Matter": 175,
-    "Medieval": 171,
-    "Base-Building": 164,
-    "Singleplayer": 160,
-    "Colony Sim": 157,
-    "Simulation": 156,
-    "Management": 150,
-    "Strategy": 141,
-    "Building": 140,
-    "Crafting": 137,
-    "Economy": 112,
-    "Diplomacy": 109,
-    "2D": 102,
-    "Political Sim": 102,
-    "Historical": 97,
-    "Colorful": 86,
-    "Family Friendly": 76
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1587540,
+    "average_2weeks": 0,
+    "average_forever": 195,
+    "median_2weeks": 0,
+    "median_forever": 195
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1587540,
+    "average_2weeks": 0,
+    "average_forever": 195,
+    "median_2weeks": 0,
+    "median_forever": 195
+  },
+  "CCU Histogram": {
+    "2022-12-08": 32,
+    "2022-12-09": 19,
+    "2022-12-10": 10,
+    "2022-12-13": 32,
+    "2022-12-15": 17,
+    "2022-12-18": 20,
+    "2022-12-21": 17,
+    "2022-12-22": 20
+  },
+  "Completion": 64.6500015258789,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1587540,
+    "average_2weeks": 0,
+    "average_forever": 195,
+    "median_2weeks": 0,
+    "median_forever": 195
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1587540,
+    "average_2weeks": 0,
+    "average_forever": 195,
+    "median_2weeks": 0,
+    "median_forever": 195
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 41,
+  "User Score": -1,
+  "appid": 1587540,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 464,
-  "negative": 116,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 7,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1587540/header.jpg?t=1657298076",
+  "consensus_genre": "Early Access",
+  "developer": "Pirozhok Studio",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 41,
-  "Down 30 Days": 2,
-  "Completion": 64.6500015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1587540/header.jpg?t=1657298076",
+  "initialprice": "1399",
+  "languages": "English, Russian",
+  "name": "Anvil Saga",
+  "negative": 116,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 464,
+  "price": "1399",
+  "publisher": "HeroCraft PC",
+  "release_date": "2022/06/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 102,
+    "Base-Building": 164,
+    "Building": 140,
+    "Choices Matter": 175,
+    "Colony Sim": 157,
+    "Colorful": 86,
+    "Crafting": 137,
+    "Diplomacy": 109,
+    "Early Access": 221,
+    "Economy": 112,
+    "Family Friendly": 76,
+    "Historical": 97,
+    "Management": 150,
+    "Medieval": 171,
+    "Pixel Graphics": 199,
+    "Political Sim": 102,
+    "RPG": 200,
+    "Simulation": 156,
+    "Singleplayer": 160,
+    "Strategy": 141
+  },
+  "type": "game"
 }

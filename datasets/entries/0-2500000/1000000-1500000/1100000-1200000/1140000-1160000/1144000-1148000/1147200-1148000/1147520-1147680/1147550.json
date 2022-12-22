@@ -1,31 +1,201 @@
 {
-  "appid": 1147550,
-  "name": "Not For Broadcast",
-  "developer": "NotGames",
-  "publisher": "tinyBuild",
-  "tags": {
-    "Adventure": 492,
-    "1980s": 429,
-    "Dystopian ": 403,
-    "Simulation": 397,
-    "Dark Comedy": 395,
-    "Choices Matter": 392,
-    "Story Rich": 388,
-    "Choose Your Own Adventure": 382,
-    "Political Sim": 381,
-    "Management": 379,
-    "FMV": 377,
-    "Interactive Fiction": 374,
-    "Multiple Endings": 371,
-    "Atmospheric": 362,
-    "Political": 357,
-    "Point & Click": 353,
-    "Alternate History": 344,
-    "First-Person": 336,
-    "Singleplayer": 328,
-    "Indie": 322
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1147550,
+    "average_2weeks": 0,
+    "average_forever": 345,
+    "median_2weeks": 0,
+    "median_forever": 212
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1147550,
+    "average_2weeks": 0,
+    "average_forever": 345,
+    "median_2weeks": 0,
+    "median_forever": 212
+  },
+  "CCU Histogram": {
+    "2022-12-08": 68,
+    "2022-12-09": 64,
+    "2022-12-10": 52,
+    "2022-12-13": 43,
+    "2022-12-15": 42,
+    "2022-12-18": 45,
+    "2022-12-21": 40,
+    "2022-12-22": 40
+  },
+  "Completion": 33.099998474121094,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1147550,
+    "average_2weeks": 0,
+    "average_forever": 345,
+    "median_2weeks": 0,
+    "median_forever": 212
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1147550,
+    "average_2weeks": 0,
+    "average_forever": 345,
+    "median_2weeks": 0,
+    "median_forever": 212
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 323,
+  "User Score": -1,
+  "appid": 1147550,
   "categories": [
     "Single-player",
     "Captions available",
@@ -34,184 +204,52 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 7419,
-  "negative": 403,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 29,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1147550/header.jpg?t=1664194754",
+  "consensus_genre": "Adventure",
+  "developer": "NotGames",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 76,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 45,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 34,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 323,
-  "Down 30 Days": 4,
-  "Completion": 33.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1147550/header.jpg?t=1664194754",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese",
+  "name": "Not For Broadcast",
+  "negative": 403,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7419,
+  "price": "2499",
+  "publisher": "tinyBuild",
+  "release_date": "2022/01/25",
+  "required_age": 0,
+  "tags": {
+    "1980s": 429,
+    "Adventure": 492,
+    "Alternate History": 344,
+    "Atmospheric": 362,
+    "Choices Matter": 392,
+    "Choose Your Own Adventure": 382,
+    "Dark Comedy": 395,
+    "Dystopian ": 403,
+    "FMV": 377,
+    "First-Person": 336,
+    "Indie": 322,
+    "Interactive Fiction": 374,
+    "Management": 379,
+    "Multiple Endings": 371,
+    "Point & Click": 353,
+    "Political": 357,
+    "Political Sim": 381,
+    "Simulation": 397,
+    "Singleplayer": 328,
+    "Story Rich": 388
+  },
+  "type": "game"
 }

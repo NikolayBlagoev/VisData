@@ -1,31 +1,201 @@
 {
-  "appid": 1063730,
-  "name": "New World",
-  "developer": "Amazon Games",
-  "publisher": "Amazon Games",
-  "tags": {
-    "Massively Multiplayer": 595,
-    "Open World": 571,
-    "MMORPG": 559,
-    "RPG": 492,
-    "Adventure": 468,
-    "Action": 411,
-    "PvP": 365,
-    "PvE": 351,
-    "Multiplayer": 286,
-    "Walking Simulator": 270,
-    "Fantasy": 253,
-    "Character Customization": 236,
-    "Crafting": 209,
-    "Third Person": 195,
-    "Co-op": 160,
-    "Open World Survival Craft": 147,
-    "Sandbox": 132,
-    "Violent": 125,
-    "Sexual Content": 95,
-    "Singleplayer": 45
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1063730,
+    "average_2weeks": 938,
+    "average_forever": 6997,
+    "median_2weeks": 606,
+    "median_forever": 2800
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1063730,
+    "average_2weeks": 938,
+    "average_forever": 6997,
+    "median_2weeks": 606,
+    "median_forever": 2800
+  },
+  "CCU Histogram": {
+    "2022-12-08": 54055,
+    "2022-12-09": 58175,
+    "2022-12-10": 52933,
+    "2022-12-13": 64881,
+    "2022-12-15": 50554,
+    "2022-12-18": 52052,
+    "2022-12-21": 52566,
+    "2022-12-22": 49992
+  },
+  "Completion": 61.70000076293945,
+  "Down 30 Days": 877,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 18,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 66,
+      "recommendations_up": 220
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 65,
+      "recommendations_up": 184
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 43,
+      "recommendations_up": 251
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 38,
+      "recommendations_up": 225
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 42,
+      "recommendations_up": 268
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 40,
+      "recommendations_up": 268
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 39,
+      "recommendations_up": 252
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 31,
+      "recommendations_up": 201
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 31,
+      "recommendations_up": 147
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 35,
+      "recommendations_up": 177
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 24,
+      "recommendations_up": 174
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 27,
+      "recommendations_up": 152
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 18,
+      "recommendations_up": 162
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 27,
+      "recommendations_up": 177
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 19,
+      "recommendations_up": 249
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 19,
+      "recommendations_up": 126
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 25,
+      "recommendations_up": 166
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 16,
+      "recommendations_up": 130
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 25,
+      "recommendations_up": 100
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 22,
+      "recommendations_up": 96
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 17,
+      "recommendations_up": 238
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 18,
+      "recommendations_up": 370
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 29,
+      "recommendations_up": 229
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 22,
+      "recommendations_up": 180
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 34,
+      "recommendations_up": 204
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 40,
+      "recommendations_up": 211
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 20,
+      "recommendations_up": 178
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 21,
+      "recommendations_up": 129
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 6,
+      "recommendations_up": 32
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1063730,
+    "average_2weeks": 938,
+    "average_forever": 6997,
+    "median_2weeks": 606,
+    "median_forever": 2800
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1063730,
+    "average_2weeks": 938,
+    "average_forever": 6997,
+    "median_2weeks": 606,
+    "median_forever": 2800
+  },
+  "Meta Score": "70",
+  "Rating": "ESRB T",
+  "Up 30 Days": 5564,
+  "User Score": -1,
+  "appid": 1063730,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -36,185 +206,53 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "50,000,000 .. 100,000,000",
-  "positive": 163825,
-  "negative": 74340,
-  "price": "1999",
-  "initialprice": "3999",
-  "discount": "50",
   "ccu": 127379,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/header.jpg?t=1666108453",
+  "consensus_genre": "Massively Multiplayer",
+  "developer": "Amazon Games",
+  "discount": "50",
   "genre": [
     "Action",
     "Adventure",
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Massively Multiplayer",
-  "Meta Score": "70",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 68,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 220,
-      "recommendations_down": 66
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 184,
-      "recommendations_down": 65
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 251,
-      "recommendations_down": 43
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 225,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 268,
-      "recommendations_down": 42
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 268,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 252,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 201,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 147,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 177,
-      "recommendations_down": 35
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 174,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 152,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 162,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 177,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 249,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 126,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 166,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 130,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 100,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 96,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 238,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 370,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 229,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 180,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 204,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 211,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 178,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 129,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 32,
-      "recommendations_down": 6
-    }
-  ],
-  "Up 30 Days": 5564,
-  "Down 30 Days": 877,
-  "Completion": 61.70000076293945,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/header.jpg?t=1666108453",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Spanish - Latin America",
+  "name": "New World",
+  "negative": 74340,
+  "owners": "50,000,000 .. 100,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 163825,
+  "price": "1999",
+  "publisher": "Amazon Games",
+  "release_date": "2021/09/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 411,
+    "Adventure": 468,
+    "Character Customization": 236,
+    "Co-op": 160,
+    "Crafting": 209,
+    "Fantasy": 253,
+    "MMORPG": 559,
+    "Massively Multiplayer": 595,
+    "Multiplayer": 286,
+    "Open World": 571,
+    "Open World Survival Craft": 147,
+    "PvE": 351,
+    "PvP": 365,
+    "RPG": 492,
+    "Sandbox": 132,
+    "Sexual Content": 95,
+    "Singleplayer": 45,
+    "Third Person": 195,
+    "Violent": 125,
+    "Walking Simulator": 270
+  },
+  "type": "game"
 }

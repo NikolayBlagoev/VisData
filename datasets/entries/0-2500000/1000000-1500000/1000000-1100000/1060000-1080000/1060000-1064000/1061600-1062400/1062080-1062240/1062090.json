@@ -1,215 +1,253 @@
 {
-  "appid": 1062090,
-  "name": "Timberborn",
-  "developer": "Mechanistry",
-  "publisher": "Mechanistry",
-  "tags": {
-    "Early Access": 564,
-    "City Builder": 512,
-    "Colony Sim": 475,
-    "Base-Building": 459,
-    "Survival": 447,
-    "Building": 430,
-    "Management": 415,
-    "Resource Management": 387,
-    "Automation": 343,
-    "Sandbox": 339,
-    "Economy": 337,
-    "Singleplayer": 334,
-    "Post-apocalyptic": 326,
-    "Agriculture": 304,
-    "Strategy": 296,
-    "Level Editor": 268,
-    "3D": 260,
-    "Science": 257,
-    "Top-Down": 240,
-    "Voxel": 211
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1062090,
+    "average_2weeks": 361,
+    "average_forever": 1444,
+    "median_2weeks": 361,
+    "median_forever": 738
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1062090,
+    "average_2weeks": 361,
+    "average_forever": 1444,
+    "median_2weeks": 361,
+    "median_forever": 738
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2288,
+    "2022-12-09": 2341,
+    "2022-12-10": 2422,
+    "2022-12-13": 2478,
+    "2022-12-15": 2236,
+    "2022-12-18": 3733,
+    "2022-12-21": 4543,
+    "2022-12-22": 3644
+  },
+  "Completion": -1,
+  "Down 30 Days": 27,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 5,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1062090,
+    "average_2weeks": 361,
+    "average_forever": 1444,
+    "median_2weeks": 361,
+    "median_forever": 738
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1062090,
+    "average_2weeks": 361,
+    "average_forever": 1444,
+    "median_2weeks": 361,
+    "median_forever": 738
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 564,
+  "User Score": -1,
+  "appid": 1062090,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Steam Cloud"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 13968,
-  "negative": 834,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 1957,
-  "languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Japanese, Korean, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/09/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/header.jpg?t=1664268414",
+  "consensus_genre": "Early Access",
+  "developer": "Mechanistry",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 52,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 43,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 45,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 42,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 564,
-  "Down 30 Days": 27,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/header.jpg?t=1664268414",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Japanese, Korean, Ukrainian",
+  "name": "Timberborn",
+  "negative": 834,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 13968,
+  "price": "2499",
+  "publisher": "Mechanistry",
+  "release_date": "2021/09/15",
+  "required_age": 0,
+  "tags": {
+    "3D": 260,
+    "Agriculture": 304,
+    "Automation": 343,
+    "Base-Building": 459,
+    "Building": 430,
+    "City Builder": 512,
+    "Colony Sim": 475,
+    "Early Access": 564,
+    "Economy": 337,
+    "Level Editor": 268,
+    "Management": 415,
+    "Post-apocalyptic": 326,
+    "Resource Management": 387,
+    "Sandbox": 339,
+    "Science": 257,
+    "Singleplayer": 334,
+    "Strategy": 296,
+    "Survival": 447,
+    "Top-Down": 240,
+    "Voxel": 211
+  },
+  "type": "game"
 }

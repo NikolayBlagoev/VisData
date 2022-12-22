@@ -1,66 +1,104 @@
 {
-  "appid": 1611320,
-  "name": "Path to Heaven",
-  "developer": "Rat Studios",
-  "publisher": "Rat Studios",
-  "tags": {
-    "2D Platformer": 100,
-    "Adventure": 92,
-    "Platformer": 90,
-    "Minimalist": 88,
-    "PvE": 83,
-    "Singleplayer": 75,
-    "1990's": 72,
-    "Indie": 70,
-    "Runner": 64,
-    "Side Scroller": 62,
-    "Precision Platformer": 60,
-    "2D": 55,
-    "Pixel Graphics": 50,
-    "1980s": 45,
-    "Funny": 44,
-    "Controller": 36,
-    "Character Customization": 28,
-    "Physics": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1611320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1611320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 54.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1611320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1611320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1611320,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1611320/header.jpg?t=1652990979",
+  "consensus_genre": "Adventure",
+  "developer": "Rat Studios",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 54.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1611320/header.jpg?t=1652990979",
+  "initialprice": "299",
+  "languages": "English, Russian, Ukrainian",
+  "name": "Path to Heaven",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Rat Studios",
+  "release_date": "2021/05/17",
+  "required_age": 0,
+  "tags": {
+    "1980s": 45,
+    "1990's": 72,
+    "2D": 55,
+    "2D Platformer": 100,
+    "Adventure": 92,
+    "Character Customization": 28,
+    "Controller": 36,
+    "Funny": 44,
+    "Indie": 70,
+    "Minimalist": 88,
+    "Physics": 26,
+    "Pixel Graphics": 50,
+    "Platformer": 90,
+    "Precision Platformer": 60,
+    "PvE": 83,
+    "Runner": 64,
+    "Side Scroller": 62,
+    "Singleplayer": 75
+  },
+  "type": "game"
 }

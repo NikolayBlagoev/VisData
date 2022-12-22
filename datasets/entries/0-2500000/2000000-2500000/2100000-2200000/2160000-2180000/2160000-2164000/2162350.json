@@ -1,87 +1,125 @@
 {
-  "appid": 2162350,
-  "name": "Routemania",
-  "developer": "Roadtrip Games",
-  "publisher": "Roadtrip Games",
-  "tags": {
-    "Strategy": 251,
-    "Board Game": 225,
-    "Card Game": 220,
-    "Casual": 215,
-    "Point & Click": 215,
-    "Tabletop": 210,
-    "Trains": 199,
-    "Turn-Based Strategy": 184,
-    "2D": 177,
-    "Minimalist": 168,
-    "Economy": 156,
-    "Education": 144,
-    "Programming": 142,
-    "PvP": 128,
-    "Level Editor": 115,
-    "Moddable": 98,
-    "Multiplayer": 82,
-    "Singleplayer": 64,
-    "Building": 44,
-    "Turn-Based": 26
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2162350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2162350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2162350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2162350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 13,
+  "User Score": -1,
+  "appid": 2162350,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 14,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/11/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2162350/header.jpg?t=1667347508",
+  "consensus_genre": "Strategy",
+  "developer": "Roadtrip Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 13,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2162350/header.jpg?t=1667347508",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Routemania",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 14,
+  "price": "499",
+  "publisher": "Roadtrip Games",
+  "release_date": "2022/11/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 177,
+    "Board Game": 225,
+    "Building": 44,
+    "Card Game": 220,
+    "Casual": 215,
+    "Economy": 156,
+    "Education": 144,
+    "Level Editor": 115,
+    "Minimalist": 168,
+    "Moddable": 98,
+    "Multiplayer": 82,
+    "Point & Click": 215,
+    "Programming": 142,
+    "PvP": 128,
+    "Singleplayer": 64,
+    "Strategy": 251,
+    "Tabletop": 210,
+    "Trains": 199,
+    "Turn-Based": 26,
+    "Turn-Based Strategy": 184
+  },
+  "type": "game"
 }

@@ -1,70 +1,108 @@
 {
-  "appid": 1748210,
-  "name": "Lovely Animal Stories",
-  "developer": "Baltic Dog Games",
-  "publisher": "Baltic Dog Games",
-  "tags": {
-    "Casual": 71,
-    "Cute": 44,
-    "Family Friendly": 41,
-    "Puzzle": 38,
-    "Point & Click": 34,
-    "Colorful": 29,
-    "Minimalist": 27,
-    "2D": 26,
-    "Walking Simulator": 22,
-    "Comedy": 21,
-    "Indie": 21,
-    "Funny": 19,
-    "Logic": 16,
-    "Singleplayer": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1748210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1748210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1748210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1748210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1748210,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1748210/header.jpg?t=1632748743",
+  "consensus_genre": "Casual",
+  "developer": "Baltic Dog Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1748210/header.jpg?t=1632748743",
+  "initialprice": "199",
+  "languages": "English, French, German, Spanish - Spain, Russian",
+  "name": "Lovely Animal Stories",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Baltic Dog Games",
+  "release_date": "2021/09/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 26,
+    "Casual": 71,
+    "Colorful": 29,
+    "Comedy": 21,
+    "Cute": 44,
+    "Family Friendly": 41,
+    "Funny": 19,
+    "Indie": 21,
+    "Logic": 16,
+    "Minimalist": 27,
+    "Point & Click": 34,
+    "Puzzle": 38,
+    "Singleplayer": 15,
+    "Walking Simulator": 22
+  },
+  "type": "game"
 }

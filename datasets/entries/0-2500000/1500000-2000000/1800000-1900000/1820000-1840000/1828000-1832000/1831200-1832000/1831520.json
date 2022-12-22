@@ -1,67 +1,105 @@
 {
-  "appid": 1831520,
-  "name": "GravityPunk",
-  "developer": "9527 Studio",
-  "publisher": "9527 Studio",
-  "tags": {
-    "Difficult": 199,
-    "Puzzle-Platformer": 193,
-    "Time Manipulation": 189,
-    "Nonlinear": 186,
-    "Minimalist": 183,
-    "Dungeon Crawler": 177,
-    "Sandbox": 175,
-    "Physics": 173,
-    "Singleplayer": 171,
-    "Sci-fi": 169,
-    "Surreal": 167,
-    "Casual": 165,
-    "Psychological Horror": 161,
-    "Cyberpunk": 155,
-    "Puzzle": 148,
-    "Rogue-lite": 145,
-    "Robots": 142,
-    "Exploration": 137,
-    "Adventure": 127,
-    "Futuristic": 125
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1831520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1831520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1831520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1831520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1831520,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1831520/header.jpg?t=1641061586",
+  "consensus_genre": "Adventure",
+  "developer": "9527 Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1831520/header.jpg?t=1641061586",
+  "initialprice": "499",
+  "languages": "English, Simplified Chinese",
+  "name": "GravityPunk",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "9527 Studio",
+  "release_date": "2021/12/15",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 127,
+    "Casual": 165,
+    "Cyberpunk": 155,
+    "Difficult": 199,
+    "Dungeon Crawler": 177,
+    "Exploration": 137,
+    "Futuristic": 125,
+    "Minimalist": 183,
+    "Nonlinear": 186,
+    "Physics": 173,
+    "Psychological Horror": 161,
+    "Puzzle": 148,
+    "Puzzle-Platformer": 193,
+    "Robots": 142,
+    "Rogue-lite": 145,
+    "Sandbox": 175,
+    "Sci-fi": 169,
+    "Singleplayer": 171,
+    "Surreal": 167,
+    "Time Manipulation": 189
+  },
+  "type": "game"
 }

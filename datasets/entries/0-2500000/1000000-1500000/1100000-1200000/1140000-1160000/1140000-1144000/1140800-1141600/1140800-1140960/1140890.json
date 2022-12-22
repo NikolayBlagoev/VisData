@@ -1,216 +1,254 @@
 {
-  "appid": 1140890,
-  "name": "Morbid: The Seven Acolytes",
-  "developer": "Still Running",
-  "publisher": "Merge Games",
-  "tags": {
-    "Action": 82,
-    "Souls-like": 77,
-    "Adventure": 75,
-    "Lovecraftian": 70,
-    "RPG": 69,
-    "Action RPG": 46,
-    "Dark Fantasy": 40,
-    "Pixel Graphics": 40,
-    "Indie": 39,
-    "Steampunk": 37,
-    "Horror": 35,
-    "Gore": 33,
-    "Female Protagonist": 29,
-    "Third Person": 28,
-    "Atmospheric": 27,
-    "Fantasy": 27,
-    "Violent": 27,
-    "Cyberpunk": 22,
-    "Singleplayer": 21,
-    "Combat": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1140890,
+    "average_2weeks": 0,
+    "average_forever": 32,
+    "median_2weeks": 0,
+    "median_forever": 33
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1140890,
+    "average_2weeks": 0,
+    "average_forever": 32,
+    "median_2weeks": 0,
+    "median_forever": 33
+  },
+  "CCU Histogram": {
+    "2022-12-08": 15,
+    "2022-12-09": 20,
+    "2022-12-10": 16,
+    "2022-12-13": 16,
+    "2022-12-15": 8,
+    "2022-12-18": 7,
+    "2022-12-21": 5,
+    "2022-12-22": 10
+  },
+  "Completion": 36.60000038146973,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1140890,
+    "average_2weeks": 0,
+    "average_forever": 32,
+    "median_2weeks": 0,
+    "median_forever": 33
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1140890,
+    "average_2weeks": 0,
+    "average_forever": 32,
+    "median_2weeks": 0,
+    "median_forever": 33
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 15,
+  "User Score": -1,
+  "appid": 1140890,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 541,
-  "negative": 171,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 20,
-  "languages": "English, French, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Korean, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1140890/header.jpg?t=1653319364",
+  "consensus_genre": "Action",
+  "developer": "Still Running",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 15,
-  "Down 30 Days": 3,
-  "Completion": 36.60000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1140890/header.jpg?t=1653319364",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Korean, Traditional Chinese",
+  "name": "Morbid: The Seven Acolytes",
+  "negative": 171,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 541,
+  "price": "2499",
+  "publisher": "Merge Games",
+  "release_date": "2020/12/3",
+  "required_age": 0,
+  "tags": {
+    "Action": 82,
+    "Action RPG": 46,
+    "Adventure": 75,
+    "Atmospheric": 27,
+    "Combat": 18,
+    "Cyberpunk": 22,
+    "Dark Fantasy": 40,
+    "Fantasy": 27,
+    "Female Protagonist": 29,
+    "Gore": 33,
+    "Horror": 35,
+    "Indie": 39,
+    "Lovecraftian": 70,
+    "Pixel Graphics": 40,
+    "RPG": 69,
+    "Singleplayer": 21,
+    "Souls-like": 77,
+    "Steampunk": 37,
+    "Third Person": 28,
+    "Violent": 27
+  },
+  "type": "game"
 }

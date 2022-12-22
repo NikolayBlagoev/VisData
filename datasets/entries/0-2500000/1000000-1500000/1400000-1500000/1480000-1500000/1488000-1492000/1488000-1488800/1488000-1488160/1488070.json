@@ -1,124 +1,162 @@
 {
-  "appid": 1488070,
-  "name": "Vesper: Ether Saga - Episode 1",
-  "developer": "Sylvain Harlaut, Jeremy",
-  "publisher": "Sylvain Harlaut",
-  "tags": {
-    "Early Access": 547,
-    "RPG": 497,
-    "Strategy": 488,
-    "Card Game": 467,
-    "Strategy RPG": 459,
-    "Party-Based RPG": 454,
-    "Turn-Based Strategy": 445,
-    "Card Battler": 440,
-    "CRPG": 430,
-    "Tactical RPG": 422,
-    "Turn-Based Tactics": 413,
-    "2D": 401,
-    "Hand-drawn": 388,
-    "Pixel Graphics": 376,
-    "Realistic": 361,
-    "Comic Book": 349,
-    "Swordplay": 331,
-    "Conspiracy": 315,
-    "Dark Fantasy": 313,
-    "Demons": 294
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1488070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1488070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 0,
+    "2022-12-15": 2,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 35.14999961853027,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1488070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1488070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1488070,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "1799",
-  "initialprice": "1799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1488070/header.jpg?t=1660651601",
+  "consensus_genre": "Early Access",
+  "developer": "Sylvain Harlaut, Jeremy",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 35.14999961853027,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1488070/header.jpg?t=1660651601",
+  "initialprice": "1799",
+  "languages": "English, French",
+  "name": "Vesper: Ether Saga - Episode 1",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "1799",
+  "publisher": "Sylvain Harlaut",
+  "release_date": "2022/08/16",
+  "required_age": 0,
+  "tags": {
+    "2D": 401,
+    "CRPG": 430,
+    "Card Battler": 440,
+    "Card Game": 467,
+    "Comic Book": 349,
+    "Conspiracy": 315,
+    "Dark Fantasy": 313,
+    "Demons": 294,
+    "Early Access": 547,
+    "Hand-drawn": 388,
+    "Party-Based RPG": 454,
+    "Pixel Graphics": 376,
+    "RPG": 497,
+    "Realistic": 361,
+    "Strategy": 488,
+    "Strategy RPG": 459,
+    "Swordplay": 331,
+    "Tactical RPG": 422,
+    "Turn-Based Strategy": 445,
+    "Turn-Based Tactics": 413
+  },
+  "type": "game"
 }

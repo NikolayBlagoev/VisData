@@ -1,31 +1,201 @@
 {
-  "appid": 750920,
-  "name": "Shadow of the Tomb Raider: Definitive Edition",
-  "developer": "Eidos-Montr\u00e9al, Crystal Dynamics, Nixxes, Feral Interactive (Mac), Feral interactive (Linux)",
-  "publisher": "Square Enix, Feral Interactive (Mac), Feral interactive (Linux)",
-  "tags": {
-    "Adventure": 822,
-    "Action": 643,
-    "Female Protagonist": 517,
-    "Singleplayer": 476,
-    "Third Person": 468,
-    "Open World": 466,
-    "Story Rich": 436,
-    "Puzzle": 394,
-    "Stealth": 362,
-    "Action-Adventure": 354,
-    "Exploration": 334,
-    "Survival": 296,
-    "Violent": 229,
-    "Atmospheric": 214,
-    "Shooter": 196,
-    "Gore": 158,
-    "Great Soundtrack": 129,
-    "Dark": 115,
-    "Multiplayer": 104,
-    "Heist": 66
+  "Average Playtime - 2 Weeks": {
+    "app_id": 750920,
+    "average_2weeks": 40,
+    "average_forever": 1030,
+    "median_2weeks": 40,
+    "median_forever": 676
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 750920,
+    "average_2weeks": 40,
+    "average_forever": 1030,
+    "median_2weeks": 40,
+    "median_forever": 676
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1067,
+    "2022-12-09": 723,
+    "2022-12-10": 805,
+    "2022-12-13": 1151,
+    "2022-12-15": 723,
+    "2022-12-18": 822,
+    "2022-12-21": 929,
+    "2022-12-22": 985
+  },
+  "Completion": 53.44999885559082,
+  "Down 30 Days": 52,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 4,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 5,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 750920,
+    "average_2weeks": 40,
+    "average_forever": 1030,
+    "median_2weeks": 40,
+    "median_forever": 676
+  },
+  "Median Playtime - Forever": {
+    "app_id": 750920,
+    "average_2weeks": 40,
+    "average_forever": 1030,
+    "median_2weeks": 40,
+    "median_forever": 676
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 342,
+  "User Score": -1,
+  "appid": 750920,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,183 +206,51 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 52844,
-  "negative": 10175,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 1019,
-  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Arabic",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/09/14",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg?t=1667573087",
+  "consensus_genre": "Adventure",
+  "developer": "Eidos-Montr\u00e9al, Crystal Dynamics, Nixxes, Feral Interactive (Mac), Feral interactive (Linux)",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 14,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 342,
-  "Down 30 Days": 52,
-  "Completion": 53.44999885559082,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg?t=1667573087",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Arabic",
+  "name": "Shadow of the Tomb Raider: Definitive Edition",
+  "negative": 10175,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 52844,
+  "price": "0",
+  "publisher": "Square Enix, Feral Interactive (Mac), Feral interactive (Linux)",
+  "release_date": "2018/09/14",
+  "required_age": "15",
+  "tags": {
+    "Action": 643,
+    "Action-Adventure": 354,
+    "Adventure": 822,
+    "Atmospheric": 214,
+    "Dark": 115,
+    "Exploration": 334,
+    "Female Protagonist": 517,
+    "Gore": 158,
+    "Great Soundtrack": 129,
+    "Heist": 66,
+    "Multiplayer": 104,
+    "Open World": 466,
+    "Puzzle": 394,
+    "Shooter": 196,
+    "Singleplayer": 476,
+    "Stealth": 362,
+    "Story Rich": 436,
+    "Survival": 296,
+    "Third Person": 468,
+    "Violent": 229
+  },
+  "type": "game"
 }

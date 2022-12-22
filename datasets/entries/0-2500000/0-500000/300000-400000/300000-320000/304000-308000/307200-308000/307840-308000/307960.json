@@ -1,31 +1,201 @@
 {
-  "appid": 307960,
-  "name": "IL-2 Sturmovik: Battle of Stalingrad",
-  "developer": "1C Game Studios",
-  "publisher": "1C Game Studios",
-  "tags": {
-    "Simulation": 349,
-    "Flight": 330,
-    "World War II": 236,
-    "Realistic": 165,
-    "Historical": 151,
-    "Action": 107,
-    "VR": 104,
-    "War": 103,
-    "Multiplayer": 95,
-    "Singleplayer": 69,
-    "Military": 64,
-    "Atmospheric": 52,
-    "Tanks": 49,
-    "TrackIR": 48,
-    "First-Person": 35,
-    "Open World": 28,
-    "Massively Multiplayer": 25,
-    "Shooter": 23,
-    "FPS": 22,
-    "Controller": 17
+  "Average Playtime - 2 Weeks": {
+    "app_id": 307960,
+    "average_2weeks": 194,
+    "average_forever": 2844,
+    "median_2weeks": 274,
+    "median_forever": 404
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 307960,
+    "average_2weeks": 194,
+    "average_forever": 2844,
+    "median_2weeks": 274,
+    "median_forever": 404
+  },
+  "CCU Histogram": {
+    "2022-12-08": 351,
+    "2022-12-09": 372,
+    "2022-12-10": 256,
+    "2022-12-13": 574,
+    "2022-12-15": 316,
+    "2022-12-18": 367,
+    "2022-12-21": 384,
+    "2022-12-22": 283
+  },
+  "Completion": -1,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 307960,
+    "average_2weeks": 194,
+    "average_forever": 2844,
+    "median_2weeks": 274,
+    "median_forever": 404
+  },
+  "Median Playtime - Forever": {
+    "app_id": 307960,
+    "average_2weeks": 194,
+    "average_forever": 2844,
+    "median_2weeks": 274,
+    "median_forever": 404
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 67,
+  "User Score": -1,
+  "appid": 307960,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,183 +207,51 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 5687,
-  "negative": 1402,
-  "price": "4999",
-  "initialprice": "4999",
-  "discount": "0",
   "ccu": 488,
-  "languages": "English, Russian, German, Polish, French, Spanish - Spain, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/10/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307960/header.jpg?t=1665516711",
+  "consensus_genre": "Simulation",
+  "developer": "1C Game Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 67,
-  "Down 30 Days": 14,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307960/header.jpg?t=1665516711",
+  "initialprice": "4999",
+  "languages": "English, Russian, German, Polish, French, Spanish - Spain, Simplified Chinese",
+  "name": "IL-2 Sturmovik: Battle of Stalingrad",
+  "negative": 1402,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5687,
+  "price": "4999",
+  "publisher": "1C Game Studios",
+  "release_date": "2014/10/22",
+  "required_age": 0,
+  "tags": {
+    "Action": 107,
+    "Atmospheric": 52,
+    "Controller": 17,
+    "FPS": 22,
+    "First-Person": 35,
+    "Flight": 330,
+    "Historical": 151,
+    "Massively Multiplayer": 25,
+    "Military": 64,
+    "Multiplayer": 95,
+    "Open World": 28,
+    "Realistic": 165,
+    "Shooter": 23,
+    "Simulation": 349,
+    "Singleplayer": 69,
+    "Tanks": 49,
+    "TrackIR": 48,
+    "VR": 104,
+    "War": 103,
+    "World War II": 236
+  },
+  "type": "game"
 }

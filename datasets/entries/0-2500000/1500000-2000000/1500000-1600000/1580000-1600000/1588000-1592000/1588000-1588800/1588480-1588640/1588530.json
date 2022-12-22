@@ -1,214 +1,252 @@
 {
-  "appid": 1588530,
-  "name": "Dungeon Alchemist",
-  "developer": "Briganti",
-  "publisher": "Briganti",
-  "tags": {
-    "Software": 196,
-    "Procedural Generation": 179,
-    "Level Editor": 172,
-    "Tabletop": 161,
-    "Artificial Intelligence": 159,
-    "Fantasy": 146,
-    "Utilities": 138,
-    "2.5D": 123,
-    "2D": 114,
-    "3D": 114,
-    "Isometric": 101,
-    "RPG": 98,
-    "Top-Down": 89,
-    "Atmospheric": 74,
-    "Automation": 57,
-    "Base-Building": 47,
-    "Moddable": 29,
-    "Singleplayer": 28,
-    "Early Access": 23,
-    "Dungeons & Dragons": 11
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1588530,
+    "average_2weeks": 0,
+    "average_forever": 87,
+    "median_2weeks": 0,
+    "median_forever": 87
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1588530,
+    "average_2weeks": 0,
+    "average_forever": 87,
+    "median_2weeks": 0,
+    "median_forever": 87
+  },
+  "CCU Histogram": {
+    "2022-12-08": 85,
+    "2022-12-09": 74,
+    "2022-12-10": 101,
+    "2022-12-13": 68,
+    "2022-12-15": 76,
+    "2022-12-18": 80,
+    "2022-12-21": 53,
+    "2022-12-22": 64
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1588530,
+    "average_2weeks": 0,
+    "average_forever": 87,
+    "median_2weeks": 0,
+    "median_forever": 87
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1588530,
+    "average_2weeks": 0,
+    "average_forever": 87,
+    "median_2weeks": 0,
+    "median_forever": 87
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 40,
+  "User Score": -1,
+  "appid": 1588530,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Steam Workshop",
     "Remote Play Together"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1074,
-  "negative": 44,
-  "price": "4499",
-  "initialprice": "4499",
-  "discount": "0",
   "ccu": 107,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/03/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1588530/header.jpg?t=1661517530",
+  "consensus_genre": "RPG",
+  "developer": "Briganti",
+  "discount": "0",
   "genre": [
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 40,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1588530/header.jpg?t=1661517530",
+  "initialprice": "4499",
+  "languages": "English",
+  "name": "Dungeon Alchemist",
+  "negative": 44,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1074,
+  "price": "4499",
+  "publisher": "Briganti",
+  "release_date": "2022/03/31",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 123,
+    "2D": 114,
+    "3D": 114,
+    "Artificial Intelligence": 159,
+    "Atmospheric": 74,
+    "Automation": 57,
+    "Base-Building": 47,
+    "Dungeons & Dragons": 11,
+    "Early Access": 23,
+    "Fantasy": 146,
+    "Isometric": 101,
+    "Level Editor": 172,
+    "Moddable": 29,
+    "Procedural Generation": 179,
+    "RPG": 98,
+    "Singleplayer": 28,
+    "Software": 196,
+    "Tabletop": 161,
+    "Top-Down": 89,
+    "Utilities": 138
+  },
+  "type": "game"
 }

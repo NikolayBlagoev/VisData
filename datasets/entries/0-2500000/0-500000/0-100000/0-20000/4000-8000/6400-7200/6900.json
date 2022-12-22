@@ -1,209 +1,247 @@
 {
-  "appid": 6900,
-  "name": "Hitman: Codename 47",
-  "developer": "IO Interactive A/S",
-  "publisher": "IO Interactive A/S",
-  "tags": {
-    "Stealth": 171,
-    "Action": 116,
-    "Classic": 82,
-    "Assassin": 75,
-    "Singleplayer": 65,
-    "Third Person": 57,
-    "Shooter": 36,
-    "Difficult": 32,
-    "Third-Person Shooter": 32,
-    "Sandbox": 22,
-    "Atmospheric": 19,
-    "Great Soundtrack": 18,
-    "Crime": 14,
-    "Adventure": 13,
-    "Tactical": 11,
-    "Strategy": 9,
-    "Open World": 5,
-    "Violent": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 6900,
+    "average_2weeks": 0,
+    "average_forever": 105,
+    "median_2weeks": 0,
+    "median_forever": 42
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 6900,
+    "average_2weeks": 0,
+    "average_forever": 105,
+    "median_2weeks": 0,
+    "median_forever": 42
+  },
+  "CCU Histogram": {
+    "2022-12-08": 10,
+    "2022-12-09": 20,
+    "2022-12-10": 15,
+    "2022-12-13": 18,
+    "2022-12-15": 19,
+    "2022-12-18": 13,
+    "2022-12-21": 10,
+    "2022-12-22": 14
+  },
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 6900,
+    "average_2weeks": 0,
+    "average_forever": 105,
+    "median_2weeks": 0,
+    "median_forever": 42
+  },
+  "Median Playtime - Forever": {
+    "app_id": 6900,
+    "average_2weeks": 0,
+    "average_forever": 105,
+    "median_2weeks": 0,
+    "median_forever": 42
+  },
+  "Meta Score": "73",
+  "Rating": "ESRB M",
+  "Up 30 Days": 25,
+  "User Score": -1,
+  "appid": 6900,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 2131,
-  "negative": 805,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 11,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2007/03/15",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/6900/header.jpg?t=1599829728",
+  "consensus_genre": "Action",
+  "developer": "IO Interactive A/S",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "73",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 25,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/6900/header.jpg?t=1599829728",
+  "initialprice": "799",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Hitman: Codename 47",
+  "negative": 805,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2131,
+  "price": "799",
+  "publisher": "IO Interactive A/S",
+  "release_date": "2007/03/15",
+  "required_age": "15",
+  "tags": {
+    "Action": 116,
+    "Adventure": 13,
+    "Assassin": 75,
+    "Atmospheric": 19,
+    "Classic": 82,
+    "Crime": 14,
+    "Difficult": 32,
+    "Great Soundtrack": 18,
+    "Open World": 5,
+    "Sandbox": 22,
+    "Shooter": 36,
+    "Singleplayer": 65,
+    "Stealth": 171,
+    "Strategy": 9,
+    "Tactical": 11,
+    "Third Person": 57,
+    "Third-Person Shooter": 32,
+    "Violent": 5
+  },
+  "type": "game"
 }

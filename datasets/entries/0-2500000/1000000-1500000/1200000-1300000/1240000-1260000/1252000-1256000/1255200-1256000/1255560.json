@@ -1,27 +1,201 @@
 {
-  "appid": 1255560,
-  "name": "Myst",
-  "developer": "Cyan Worlds Inc",
-  "publisher": "Cyan Worlds Inc",
-  "tags": {
-    "Adventure": 91,
-    "Exploration": 74,
-    "Puzzle": 72,
-    "VR": 52,
-    "First-Person": 51,
-    "Story Rich": 43,
-    "Singleplayer": 37,
-    "Multiple Endings": 34,
-    "3D": 28,
-    "Indie": 28,
-    "Realistic": 27,
-    "Choices Matter": 25,
-    "Classic": 18,
-    "Atmospheric": 15,
-    "Mystery": 15,
-    "Point & Click": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1255560,
+    "average_2weeks": 181,
+    "average_forever": 122,
+    "median_2weeks": 181,
+    "median_forever": 145
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1255560,
+    "average_2weeks": 181,
+    "average_forever": 122,
+    "median_2weeks": 181,
+    "median_forever": 145
+  },
+  "CCU Histogram": {
+    "2022-12-08": 9,
+    "2022-12-09": 11,
+    "2022-12-10": 7,
+    "2022-12-13": 11,
+    "2022-12-15": 6,
+    "2022-12-18": 7,
+    "2022-12-21": 11,
+    "2022-12-22": 12
+  },
+  "Completion": 36.29999923706055,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1255560,
+    "average_2weeks": 181,
+    "average_forever": 122,
+    "median_2weeks": 181,
+    "median_forever": 145
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1255560,
+    "average_2weeks": 181,
+    "average_forever": 122,
+    "median_2weeks": 181,
+    "median_forever": 145
+  },
+  "Meta Score": "78",
+  "Rating": "ESRB E",
+  "Up 30 Days": 17,
+  "User Score": -1,
+  "appid": 1255560,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -29,183 +203,47 @@
     "Full controller support",
     "Remote Play on TV"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 811,
-  "negative": 99,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 12,
-  "languages": "English, French, Italian, German, Japanese, Korean, Portuguese - Brazil, Spanish - Latin America, Simplified Chinese, Polish, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/08/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1255560/header.jpg?t=1656701042",
+  "consensus_genre": "Adventure",
+  "developer": "Cyan Worlds Inc",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "78",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 17,
-  "Down 30 Days": 3,
-  "Completion": 36.29999923706055,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1255560/header.jpg?t=1656701042",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Japanese, Korean, Portuguese - Brazil, Spanish - Latin America, Simplified Chinese, Polish, Russian",
+  "name": "Myst",
+  "negative": 99,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 811,
+  "price": "2999",
+  "publisher": "Cyan Worlds Inc",
+  "release_date": "2021/08/26",
+  "required_age": 0,
+  "tags": {
+    "3D": 28,
+    "Adventure": 91,
+    "Atmospheric": 15,
+    "Choices Matter": 25,
+    "Classic": 18,
+    "Exploration": 74,
+    "First-Person": 51,
+    "Indie": 28,
+    "Multiple Endings": 34,
+    "Mystery": 15,
+    "Point & Click": 12,
+    "Puzzle": 72,
+    "Realistic": 27,
+    "Singleplayer": 37,
+    "Story Rich": 43,
+    "VR": 52
+  },
+  "type": "game"
 }

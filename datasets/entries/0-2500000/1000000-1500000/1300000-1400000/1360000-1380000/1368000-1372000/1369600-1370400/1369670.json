@@ -1,31 +1,201 @@
 {
-  "appid": 1369670,
-  "name": "Motor Town: Behind The Wheel",
-  "developer": "P3 Games",
-  "publisher": "P3 Games",
-  "tags": {
-    "Early Access": 301,
-    "Open World": 273,
-    "Driving": 271,
-    "Transportation": 269,
-    "Automobile Sim": 262,
-    "Simulation": 259,
-    "Realistic": 237,
-    "Immersive Sim": 235,
-    "Relaxing": 234,
-    "Economy": 228,
-    "Exploration": 224,
-    "Atmospheric": 214,
-    "Management": 210,
-    "Racing": 208,
-    "Time Attack": 202,
-    "Controller": 196,
-    "3D": 182,
-    "Multiplayer": 174,
-    "Casual": 167,
-    "Singleplayer": 164
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1369670,
+    "average_2weeks": 66,
+    "average_forever": 161,
+    "median_2weeks": 66,
+    "median_forever": 242
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1369670,
+    "average_2weeks": 66,
+    "average_forever": 161,
+    "median_2weeks": 66,
+    "median_forever": 242
+  },
+  "CCU Histogram": {
+    "2022-12-08": 122,
+    "2022-12-09": 119,
+    "2022-12-10": 128,
+    "2022-12-13": 112,
+    "2022-12-15": 98,
+    "2022-12-18": 104,
+    "2022-12-21": 102,
+    "2022-12-22": 58
+  },
+  "Completion": 13.300000190734863,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1369670,
+    "average_2weeks": 66,
+    "average_forever": 161,
+    "median_2weeks": 66,
+    "median_forever": 242
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1369670,
+    "average_2weeks": 66,
+    "average_forever": 161,
+    "median_2weeks": 66,
+    "median_forever": 242
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 333,
+  "User Score": -1,
+  "appid": 1369670,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,22 +206,10 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1841,
-  "negative": 100,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 132,
-  "languages": "English, Czech, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1369670/header.jpg?t=1640579404",
+  "consensus_genre": "Early Access",
+  "developer": "P3 Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -59,163 +217,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 59,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 72,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 333,
-  "Down 30 Days": 2,
-  "Completion": 13.300000190734863,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1369670/header.jpg?t=1640579404",
+  "initialprice": "1499",
+  "languages": "English, Czech, French",
+  "name": "Motor Town: Behind The Wheel",
+  "negative": 100,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1841,
+  "price": "1499",
+  "publisher": "P3 Games",
+  "release_date": "2021/12/17",
+  "required_age": 0,
+  "tags": {
+    "3D": 182,
+    "Atmospheric": 214,
+    "Automobile Sim": 262,
+    "Casual": 167,
+    "Controller": 196,
+    "Driving": 271,
+    "Early Access": 301,
+    "Economy": 228,
+    "Exploration": 224,
+    "Immersive Sim": 235,
+    "Management": 210,
+    "Multiplayer": 174,
+    "Open World": 273,
+    "Racing": 208,
+    "Realistic": 237,
+    "Relaxing": 234,
+    "Simulation": 259,
+    "Singleplayer": 164,
+    "Time Attack": 202,
+    "Transportation": 269
+  },
+  "type": "game"
 }

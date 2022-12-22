@@ -1,62 +1,100 @@
 {
-  "appid": 1380210,
-  "name": "Lucky Burst",
-  "developer": "STGamz",
-  "publisher": "STGamz",
-  "tags": {
-    "Action": 71,
-    "Arcade": 45,
-    "Shooter": 42,
-    "Bullet Hell": 39,
-    "Shoot 'Em Up": 35,
-    "Top-Down Shooter": 31,
-    "2D": 28,
-    "Colorful": 26,
-    "Pixel Graphics": 24,
-    "Top-Down": 22,
-    "Indie": 21,
-    "Retro": 21,
-    "Robots": 18,
-    "Linear": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1380210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1380210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 68.0999984741211,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1380210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1380210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1380210,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/08/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1380210/header.jpg?t=1629911639",
+  "consensus_genre": "Action",
+  "developer": "STGamz",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 68.0999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1380210/header.jpg?t=1629911639",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Lucky Burst",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "0",
+  "publisher": "STGamz",
+  "release_date": "2020/08/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 28,
+    "Action": 71,
+    "Arcade": 45,
+    "Bullet Hell": 39,
+    "Colorful": 26,
+    "Indie": 21,
+    "Linear": 16,
+    "Pixel Graphics": 24,
+    "Retro": 21,
+    "Robots": 18,
+    "Shoot 'Em Up": 35,
+    "Shooter": 42,
+    "Singleplayer": 14,
+    "Top-Down": 22,
+    "Top-Down Shooter": 31
+  },
+  "type": "game"
 }

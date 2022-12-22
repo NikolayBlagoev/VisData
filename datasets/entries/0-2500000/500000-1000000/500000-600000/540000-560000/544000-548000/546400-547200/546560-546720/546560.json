@@ -1,32 +1,201 @@
 {
-  "appid": 546560,
-  "name": "Half-Life: Alyx",
-  "developer": "Valve",
-  "publisher": "Valve",
-  "tags": {
-    "VR": 2051,
-    "FPS": 1877,
-    "Story Rich": 1859,
-    "Horror": 1835,
-    "Female Protagonist": 1828,
-    "Shooter": 1820,
-    "First-Person": 1765,
-    "Singleplayer": 1761,
-    "Action": 1754,
-    "Zombies": 1742,
-    "Sci-fi": 1738,
-    "Atmospheric": 1734,
-    "Beautiful": 1721,
-    "Adventure": 1676,
-    "Aliens": 1673,
-    "Futuristic": 1645,
-    "Psychological Horror": 1637,
-    "Memes": 1517,
-    "Great Soundtrack": 649,
-    "Gore": 188,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 546560,
+    "average_2weeks": 246,
+    "average_forever": 700,
+    "median_2weeks": 260,
+    "median_forever": 358
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 546560,
+    "average_2weeks": 246,
+    "average_forever": 700,
+    "median_2weeks": 260,
+    "median_forever": 358
+  },
+  "CCU Histogram": {
+    "2022-12-08": 507,
+    "2022-12-09": 549,
+    "2022-12-10": 538,
+    "2022-12-13": 803,
+    "2022-12-15": 468,
+    "2022-12-18": 551,
+    "2022-12-21": 599,
+    "2022-12-22": 541
+  },
+  "Completion": 49.900001525878906,
+  "Down 30 Days": 27,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 546560,
+    "average_2weeks": 246,
+    "average_forever": 700,
+    "median_2weeks": 260,
+    "median_forever": 358
+  },
+  "Median Playtime - Forever": {
+    "app_id": 546560,
+    "average_2weeks": 246,
+    "average_forever": 700,
+    "median_2weeks": 260,
+    "median_forever": 358
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 825,
+  "User Score": -1,
+  "appid": 546560,
   "categories": [
     "Single-player",
     "Captions available",
@@ -35,183 +204,52 @@
     "Steam Workshop",
     "VR Support"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 73942,
-  "negative": 1156,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 666,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Italian, Czech, Hungarian, Polish, Portuguese - Portugal, Portuguese - Brazil, Ukrainian, Vietnamese, Bulgarian, Greek, Danish, Dutch, Norwegian, Romanian, Thai, Turkish, Finnish, Swedish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/03/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/546560/header.jpg?t=1666823432",
+  "consensus_genre": "Action",
+  "developer": "Valve",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 38,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 63,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 68,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 55,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 68,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 52,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 51,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 49,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 825,
-  "Down 30 Days": 27,
-  "Completion": 49.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/546560/header.jpg?t=1666823432",
+  "initialprice": "5999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Italian, Czech, Hungarian, Polish, Portuguese - Portugal, Portuguese - Brazil, Ukrainian, Vietnamese, Bulgarian, Greek, Danish, Dutch, Norwegian, Romanian, Thai, Turkish, Finnish, Swedish",
+  "name": "Half-Life: Alyx",
+  "negative": 1156,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 73942,
+  "price": "5999",
+  "publisher": "Valve",
+  "release_date": "2020/03/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 1754,
+    "Adventure": 1676,
+    "Aliens": 1673,
+    "Atmospheric": 1734,
+    "Beautiful": 1721,
+    "FPS": 1877,
+    "Female Protagonist": 1828,
+    "First-Person": 1765,
+    "Futuristic": 1645,
+    "Gore": 188,
+    "Great Soundtrack": 649,
+    "Horror": 1835,
+    "Memes": 1517,
+    "Psychological Horror": 1637,
+    "Sci-fi": 1738,
+    "Shooter": 1820,
+    "Singleplayer": 1761,
+    "Story Rich": 1859,
+    "VR": 2051,
+    "VR Only": 1,
+    "Zombies": 1742
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1556790,
-  "name": "Isonzo",
-  "developer": "M2H, BlackMill Games",
-  "publisher": "BlackMill Games",
-  "tags": {
-    "Historical": 537,
-    "Tactical": 537,
-    "3D": 529,
-    "World War I": 526,
-    "Combat": 520,
-    "FPS": 518,
-    "Multiplayer": 518,
-    "First-Person": 514,
-    "Action": 505,
-    "Simulation": 505,
-    "Shooter": 504,
-    "War": 500,
-    "Singleplayer": 499,
-    "Wargame": 492,
-    "Atmospheric": 479,
-    "Horror": 471,
-    "Team-Based": 471,
-    "PvP": 467,
-    "Realistic": 467,
-    "Indie": 466
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1556790,
+    "average_2weeks": 0,
+    "average_forever": 588,
+    "median_2weeks": 0,
+    "median_forever": 690
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1556790,
+    "average_2weeks": 0,
+    "average_forever": 588,
+    "median_2weeks": 0,
+    "median_forever": 690
+  },
+  "CCU Histogram": {
+    "2022-12-08": 590,
+    "2022-12-09": 601,
+    "2022-12-10": 497,
+    "2022-12-13": 435,
+    "2022-12-15": 367,
+    "2022-12-18": 389,
+    "2022-12-21": 235,
+    "2022-12-22": 306
+  },
+  "Completion": 28.899999618530273,
+  "Down 30 Days": 43,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 112
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 6,
+      "recommendations_up": 60
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1556790,
+    "average_2weeks": 0,
+    "average_forever": 588,
+    "median_2weeks": 0,
+    "median_forever": 690
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1556790,
+    "average_2weeks": 0,
+    "average_forever": 588,
+    "median_2weeks": 0,
+    "median_forever": 690
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 588,
+  "User Score": -1,
+  "appid": 1556790,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,22 +205,10 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 3330,
-  "negative": 702,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 364,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/09/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556790/header_alt_assets_1.jpg?t=1667903545",
+  "consensus_genre": "Action",
+  "developer": "M2H, BlackMill Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
@@ -58,163 +216,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 8,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 43,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 112,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 60,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 36,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 45,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 50,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 588,
-  "Down 30 Days": 43,
-  "Completion": 28.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556790/header_alt_assets_1.jpg?t=1667903545",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
+  "name": "Isonzo",
+  "negative": 702,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3330,
+  "price": "2999",
+  "publisher": "BlackMill Games",
+  "release_date": "2022/09/13",
+  "required_age": 0,
+  "tags": {
+    "3D": 529,
+    "Action": 505,
+    "Atmospheric": 479,
+    "Combat": 520,
+    "FPS": 518,
+    "First-Person": 514,
+    "Historical": 537,
+    "Horror": 471,
+    "Indie": 466,
+    "Multiplayer": 518,
+    "PvP": 467,
+    "Realistic": 467,
+    "Shooter": 504,
+    "Simulation": 505,
+    "Singleplayer": 499,
+    "Tactical": 537,
+    "Team-Based": 471,
+    "War": 500,
+    "Wargame": 492,
+    "World War I": 526
+  },
+  "type": "game"
 }

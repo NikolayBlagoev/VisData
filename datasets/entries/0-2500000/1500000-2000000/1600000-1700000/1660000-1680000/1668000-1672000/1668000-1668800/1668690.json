@@ -1,30 +1,201 @@
 {
-  "appid": 1668690,
-  "name": "Alina of the Arena",
-  "developer": "PINIX",
-  "publisher": "PINIX, IndieArk",
-  "tags": {
-    "Roguelike Deckbuilder": 112,
-    "Rogue-like": 109,
-    "Turn-Based Tactics": 100,
-    "Hex Grid": 99,
-    "Card Game": 94,
-    "Rogue-lite": 90,
-    "Difficult": 83,
-    "Strategy": 83,
-    "Turn-Based Strategy": 78,
-    "Female Protagonist": 75,
-    "Deckbuilding": 67,
-    "Pixel Graphics": 65,
-    "Dark Fantasy": 62,
-    "Indie": 54,
-    "Singleplayer": 47,
-    "RPG": 41,
-    "Early Access": 39,
-    "Card Battler": 38,
-    "Anime": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1668690,
+    "average_2weeks": 0,
+    "average_forever": 534,
+    "median_2weeks": 0,
+    "median_forever": 568
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1668690,
+    "average_2weeks": 0,
+    "average_forever": 534,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "CCU Histogram": {
+    "2022-12-08": 212,
+    "2022-12-09": 149,
+    "2022-12-10": 136,
+    "2022-12-13": 134,
+    "2022-12-15": 136,
+    "2022-12-18": 119,
+    "2022-12-21": 137,
+    "2022-12-22": 148
+  },
+  "Completion": 31.899999618530273,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1668690,
+    "average_2weeks": 0,
+    "average_forever": 534,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1668690,
+    "average_2weeks": 0,
+    "average_forever": 534,
+    "median_2weeks": 0,
+    "median_forever": 568
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 239,
+  "User Score": -1,
+  "appid": 1668690,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -32,183 +203,50 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 2027,
-  "negative": 190,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 326,
-  "languages": "English, Traditional Chinese, Simplified Chinese, Korean, Japanese, German, Spanish - Latin America, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/10/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1668690/header_alt_assets_0.jpg?t=1665680596",
+  "consensus_genre": "Strategy",
+  "developer": "PINIX",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 63,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 239,
-  "Down 30 Days": 10,
-  "Completion": 31.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1668690/header_alt_assets_0.jpg?t=1665680596",
+  "initialprice": "1499",
+  "languages": "English, Traditional Chinese, Simplified Chinese, Korean, Japanese, German, Spanish - Latin America, Russian",
+  "name": "Alina of the Arena",
+  "negative": 190,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2027,
+  "price": "1499",
+  "publisher": "PINIX, IndieArk",
+  "release_date": "2022/10/13",
+  "required_age": 0,
+  "tags": {
+    "Anime": 9,
+    "Card Battler": 38,
+    "Card Game": 94,
+    "Dark Fantasy": 62,
+    "Deckbuilding": 67,
+    "Difficult": 83,
+    "Early Access": 39,
+    "Female Protagonist": 75,
+    "Hex Grid": 99,
+    "Indie": 54,
+    "Pixel Graphics": 65,
+    "RPG": 41,
+    "Rogue-like": 109,
+    "Rogue-lite": 90,
+    "Roguelike Deckbuilder": 112,
+    "Singleplayer": 47,
+    "Strategy": 83,
+    "Turn-Based Strategy": 78,
+    "Turn-Based Tactics": 100
+  },
+  "type": "game"
 }

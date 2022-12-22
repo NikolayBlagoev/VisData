@@ -1,210 +1,248 @@
 {
-  "appid": 994280,
-  "name": "\u53e4\u5251\u5947\u8c2d\u4e09(Gujian3)",
-  "developer": "\u4e0a\u6d77\u70db\u9f99\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8, Aurogon Shanghai",
-  "publisher": "\u5317\u4eac\u7f51\u5143\u5723\u5510\u5a31\u4e50\u79d1\u6280\u6709\u9650\u516c\u53f8",
-  "tags": {
-    "RPG": 358,
-    "Story Rich": 186,
-    "Martial Arts": 171,
-    "Action RPG": 170,
-    "Singleplayer": 164,
-    "Open World": 155,
-    "Action": 102,
-    "Fantasy": 99,
-    "Third Person": 65,
-    "Drama": 61,
-    "Hack and Slash": 41,
-    "Adventure": 36,
-    "Mythology": 32,
-    "Souls-like": 24,
-    "Great Soundtrack": 21,
-    "Anime": 13,
-    "Multiplayer": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 994280,
+    "average_2weeks": 8,
+    "average_forever": 1605,
+    "median_2weeks": 15,
+    "median_forever": 899
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 994280,
+    "average_2weeks": 8,
+    "average_forever": 1605,
+    "median_2weeks": 15,
+    "median_forever": 899
+  },
+  "CCU Histogram": {
+    "2022-12-08": 822,
+    "2022-12-09": 625,
+    "2022-12-10": 472,
+    "2022-12-13": 446,
+    "2022-12-15": 643,
+    "2022-12-18": 569,
+    "2022-12-21": 550,
+    "2022-12-22": 640
+  },
+  "Completion": 18.34999942779541,
+  "Down 30 Days": 41,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 994280,
+    "average_2weeks": 8,
+    "average_forever": 1605,
+    "median_2weeks": 15,
+    "median_forever": 899
+  },
+  "Median Playtime - Forever": {
+    "app_id": 994280,
+    "average_2weeks": 8,
+    "average_forever": 1605,
+    "median_2weeks": 15,
+    "median_forever": 899
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 219,
+  "User Score": -1,
+  "appid": 994280,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Remote Play on Tablet"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 36816,
-  "negative": 5828,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 610,
-  "languages": "Simplified Chinese, English, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/12/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/994280/header.jpg?t=1638269989",
+  "consensus_genre": "RPG",
+  "developer": "\u4e0a\u6d77\u70db\u9f99\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8, Aurogon Shanghai",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 21,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 219,
-  "Down 30 Days": 41,
-  "Completion": 18.34999942779541,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/994280/header.jpg?t=1638269989",
+  "initialprice": "2999",
+  "languages": "Simplified Chinese, English, Traditional Chinese, Japanese",
+  "name": "\u53e4\u5251\u5947\u8c2d\u4e09(Gujian3)",
+  "negative": 5828,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 36816,
+  "price": "2999",
+  "publisher": "\u5317\u4eac\u7f51\u5143\u5723\u5510\u5a31\u4e50\u79d1\u6280\u6709\u9650\u516c\u53f8",
+  "release_date": "2018/12/14",
+  "required_age": 0,
+  "tags": {
+    "Action": 102,
+    "Action RPG": 170,
+    "Adventure": 36,
+    "Anime": 13,
+    "Drama": 61,
+    "Fantasy": 99,
+    "Great Soundtrack": 21,
+    "Hack and Slash": 41,
+    "Martial Arts": 171,
+    "Multiplayer": 9,
+    "Mythology": 32,
+    "Open World": 155,
+    "RPG": 358,
+    "Singleplayer": 164,
+    "Souls-like": 24,
+    "Story Rich": 186,
+    "Third Person": 65
+  },
+  "type": "game"
 }

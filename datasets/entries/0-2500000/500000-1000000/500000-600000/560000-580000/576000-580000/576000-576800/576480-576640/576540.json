@@ -1,30 +1,201 @@
 {
-  "appid": 576540,
-  "name": "Brother Wings",
-  "developer": "Brogames",
-  "publisher": "HandMade Games",
-  "tags": {
-    "Casual": 91,
-    "Action": 85,
-    "Indie": 81,
-    "Shoot 'Em Up": 77,
-    "Puzzle": 73,
-    "Arcade": 66,
-    "Shooter": 61,
-    "Point & Click": 57,
-    "Survival": 55,
-    "Choose Your Own Adventure": 53,
-    "Dungeon Crawler": 51,
-    "2D": 48,
-    "Pixel Graphics": 39,
-    "Choices Matter": 37,
-    "Singleplayer": 35,
-    "Online Co-Op": 33,
-    "Multiplayer": 31,
-    "Massively Multiplayer": 29,
-    "Retro": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 576540,
+    "average_2weeks": 142,
+    "average_forever": 296,
+    "median_2weeks": 142,
+    "median_forever": 281
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 576540,
+    "average_2weeks": 142,
+    "average_forever": 296,
+    "median_2weeks": 142,
+    "median_forever": 281
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 8,
+    "2022-12-10": 8,
+    "2022-12-13": 8,
+    "2022-12-15": 8,
+    "2022-12-18": 8,
+    "2022-12-21": 8,
+    "2022-12-22": 8
+  },
+  "Completion": 2.9000000953674316,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 576540,
+    "average_2weeks": 142,
+    "average_forever": 296,
+    "median_2weeks": 142,
+    "median_forever": 281
+  },
+  "Median Playtime - Forever": {
+    "app_id": 576540,
+    "average_2weeks": 142,
+    "average_forever": 296,
+    "median_2weeks": 142,
+    "median_forever": 281
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 576540,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -32,184 +203,51 @@
     "Steam Trading Cards",
     "Steam Turn Notifications"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 47,
-  "negative": 25,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 13,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/01/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/576540/header.jpg?t=1666768754",
+  "consensus_genre": "Casual",
+  "developer": "Brogames",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 2,
-  "Completion": 2.9000000953674316,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/576540/header.jpg?t=1666768754",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Brother Wings",
+  "negative": 25,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 47,
+  "price": "99",
+  "publisher": "HandMade Games",
+  "release_date": "2017/01/10",
+  "required_age": 0,
+  "tags": {
+    "2D": 48,
+    "Action": 85,
+    "Arcade": 66,
+    "Casual": 91,
+    "Choices Matter": 37,
+    "Choose Your Own Adventure": 53,
+    "Dungeon Crawler": 51,
+    "Indie": 81,
+    "Massively Multiplayer": 29,
+    "Multiplayer": 31,
+    "Online Co-Op": 33,
+    "Pixel Graphics": 39,
+    "Point & Click": 57,
+    "Puzzle": 73,
+    "Retro": 27,
+    "Shoot 'Em Up": 77,
+    "Shooter": 61,
+    "Singleplayer": 35,
+    "Survival": 55
+  },
+  "type": "game"
 }

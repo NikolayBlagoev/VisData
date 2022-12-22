@@ -1,65 +1,103 @@
 {
-  "appid": 1880080,
-  "name": "The Baleful Tower",
-  "developer": "Grant Adkins",
-  "publisher": "Grant Adkins",
-  "tags": {
-    "Early Access": 64,
-    "Action Roguelike": 53,
-    "Action": 52,
-    "Dungeon Crawler": 47,
-    "Arcade": 41,
-    "Controller": 38,
-    "Colorful": 30,
-    "Isometric": 28,
-    "Hack and Slash": 26,
-    "Twin Stick Shooter": 24,
-    "Fantasy": 22,
-    "Indie": 21,
-    "Magic": 20,
-    "Class-Based": 18,
-    "Procedural Generation": 16,
-    "Family Friendly": 14,
-    "Singleplayer": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1880080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1880080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 47.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1880080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1880080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1880080,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/02/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1880080/header.jpg?t=1656637735",
+  "consensus_genre": "Early Access",
+  "developer": "Grant Adkins",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 47.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1880080/header.jpg?t=1656637735",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "The Baleful Tower",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Grant Adkins",
+  "release_date": "2022/02/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 52,
+    "Action Roguelike": 53,
+    "Arcade": 41,
+    "Class-Based": 18,
+    "Colorful": 30,
+    "Controller": 38,
+    "Dungeon Crawler": 47,
+    "Early Access": 64,
+    "Family Friendly": 14,
+    "Fantasy": 22,
+    "Hack and Slash": 26,
+    "Indie": 21,
+    "Isometric": 28,
+    "Magic": 20,
+    "Procedural Generation": 16,
+    "Singleplayer": 12,
+    "Twin Stick Shooter": 24
+  },
+  "type": "game"
 }

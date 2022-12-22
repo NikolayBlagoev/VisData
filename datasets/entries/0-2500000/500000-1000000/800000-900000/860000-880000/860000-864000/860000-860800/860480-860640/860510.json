@@ -1,31 +1,201 @@
 {
-  "appid": 860510,
-  "name": "Little Nightmares II",
-  "developer": "Tarsier Studios",
-  "publisher": "BANDAI NAMCO Entertainment",
-  "tags": {
-    "Horror": 497,
-    "Adventure": 421,
-    "Singleplayer": 358,
-    "Puzzle": 333,
-    "Dark": 319,
-    "Atmospheric": 300,
-    "Story Rich": 249,
-    "Psychological Horror": 243,
-    "Action-Adventure": 188,
-    "Stealth": 182,
-    "Puzzle-Platformer": 164,
-    "Indie": 146,
-    "Platformer": 145,
-    "Great Soundtrack": 138,
-    "Thriller": 106,
-    "2.5D": 102,
-    "Multiplayer": 101,
-    "Action": 92,
-    "Violent": 61,
-    "Co-op": 50
+  "Average Playtime - 2 Weeks": {
+    "app_id": 860510,
+    "average_2weeks": 125,
+    "average_forever": 393,
+    "median_2weeks": 125,
+    "median_forever": 407
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 860510,
+    "average_2weeks": 125,
+    "average_forever": 393,
+    "median_2weeks": 125,
+    "median_forever": 407
+  },
+  "CCU Histogram": {
+    "2022-12-08": 938,
+    "2022-12-09": 511,
+    "2022-12-10": 403,
+    "2022-12-13": 533,
+    "2022-12-15": 342,
+    "2022-12-18": 369,
+    "2022-12-21": 321,
+    "2022-12-22": 476
+  },
+  "Completion": 54.79999923706055,
+  "Down 30 Days": 65,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 5,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 6,
+      "recommendations_up": 67
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 6,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 60
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 7,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 78
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 25
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 860510,
+    "average_2weeks": 125,
+    "average_forever": 393,
+    "median_2weeks": 125,
+    "median_forever": 407
+  },
+  "Median Playtime - Forever": {
+    "app_id": 860510,
+    "average_2weeks": 125,
+    "average_forever": 393,
+    "median_2weeks": 125,
+    "median_forever": 407
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB T",
+  "Up 30 Days": 962,
+  "User Score": -1,
+  "appid": 860510,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -35,182 +205,50 @@
     "Remote Play on Phone",
     "Remote Play on Tablet"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 21425,
-  "negative": 1115,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 421,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/860510/header.jpg?t=1661866261",
+  "consensus_genre": "Adventure",
+  "developer": "Tarsier Studios",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 30,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 67,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 50,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 72,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 117,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 60,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 57,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 78,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 66,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 58,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 45,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 25,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 962,
-  "Down 30 Days": 65,
-  "Completion": 54.79999923706055,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/860510/header.jpg?t=1661866261",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Little Nightmares II",
+  "negative": 1115,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 21425,
+  "price": "2999",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "release_date": "2021/02/10",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 102,
+    "Action": 92,
+    "Action-Adventure": 188,
+    "Adventure": 421,
+    "Atmospheric": 300,
+    "Co-op": 50,
+    "Dark": 319,
+    "Great Soundtrack": 138,
+    "Horror": 497,
+    "Indie": 146,
+    "Multiplayer": 101,
+    "Platformer": 145,
+    "Psychological Horror": 243,
+    "Puzzle": 333,
+    "Puzzle-Platformer": 164,
+    "Singleplayer": 358,
+    "Stealth": 182,
+    "Story Rich": 249,
+    "Thriller": 106,
+    "Violent": 61
+  },
+  "type": "game"
 }

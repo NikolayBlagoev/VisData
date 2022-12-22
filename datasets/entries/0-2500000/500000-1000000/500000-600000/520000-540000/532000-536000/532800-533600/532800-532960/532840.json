@@ -1,214 +1,252 @@
 {
-  "appid": 532840,
-  "name": "CAYNE",
-  "developer": "THE BROTHERHOOD",
-  "publisher": "THE BROTHERHOOD",
-  "tags": {
-    "Free to Play": 193,
-    "Adventure": 187,
-    "Horror": 184,
-    "Point & Click": 180,
-    "Indie": 177,
-    "Isometric": 171,
-    "Sci-fi": 169,
-    "Singleplayer": 166,
-    "Female Protagonist": 162,
-    "Gore": 159,
-    "Violent": 157,
-    "Atmospheric": 155,
-    "Post-apocalyptic": 149,
-    "2.5D": 143,
-    "2D": 142,
-    "Story Rich": 138,
-    "Retro": 136,
-    "1980s": 131,
-    "1990's": 123,
-    "Alternate History": 107
+  "Average Playtime - 2 Weeks": {
+    "app_id": 532840,
+    "average_2weeks": 0,
+    "average_forever": 78,
+    "median_2weeks": 0,
+    "median_forever": 102
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 532840,
+    "average_2weeks": 0,
+    "average_forever": 78,
+    "median_2weeks": 0,
+    "median_forever": 102
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3,
+    "2022-12-09": 1,
+    "2022-12-10": 3,
+    "2022-12-13": 1,
+    "2022-12-15": 6,
+    "2022-12-18": 2,
+    "2022-12-21": 2,
+    "2022-12-22": 2
+  },
+  "Completion": 57.400001525878906,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 532840,
+    "average_2weeks": 0,
+    "average_forever": 78,
+    "median_2weeks": 0,
+    "median_forever": 102
+  },
+  "Median Playtime - Forever": {
+    "app_id": 532840,
+    "average_2weeks": 0,
+    "average_forever": 78,
+    "median_2weeks": 0,
+    "median_forever": 102
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 532840,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1228,
-  "negative": 292,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English, French, German, Russian, Italian, Polish, Turkish, Spanish - Spain, Hungarian, Japanese, Portuguese - Brazil, Portuguese - Portugal",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2017/01/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/532840/header.jpg?t=1667030773",
+  "consensus_genre": "Free to Play",
+  "developer": "THE BROTHERHOOD",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Free to Play",
     "Indie"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 1,
-  "Completion": 57.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/532840/header.jpg?t=1667030773",
+  "initialprice": "0",
+  "languages": "English, French, German, Russian, Italian, Polish, Turkish, Spanish - Spain, Hungarian, Japanese, Portuguese - Brazil, Portuguese - Portugal",
+  "name": "CAYNE",
+  "negative": 292,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1228,
+  "price": "0",
+  "publisher": "THE BROTHERHOOD",
+  "release_date": "2017/01/24",
+  "required_age": 0,
+  "tags": {
+    "1980s": 131,
+    "1990's": 123,
+    "2.5D": 143,
+    "2D": 142,
+    "Adventure": 187,
+    "Alternate History": 107,
+    "Atmospheric": 155,
+    "Female Protagonist": 162,
+    "Free to Play": 193,
+    "Gore": 159,
+    "Horror": 184,
+    "Indie": 177,
+    "Isometric": 171,
+    "Point & Click": 180,
+    "Post-apocalyptic": 149,
+    "Retro": 136,
+    "Sci-fi": 169,
+    "Singleplayer": 166,
+    "Story Rich": 138,
+    "Violent": 157
+  },
+  "type": "game"
 }

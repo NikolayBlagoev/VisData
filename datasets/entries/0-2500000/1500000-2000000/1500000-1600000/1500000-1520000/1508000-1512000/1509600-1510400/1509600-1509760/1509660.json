@@ -1,64 +1,102 @@
 {
-  "appid": 1509660,
-  "name": "\u91cd\u751f\u6218\u58eb",
-  "developer": "Resight Studio",
-  "publisher": "Resight Studio",
-  "tags": {
-    "Action": 72,
-    "RPG": 65,
-    "Fighting": 42,
-    "Arcade": 40,
-    "3D Fighter": 36,
-    "Side Scroller": 32,
-    "3D": 28,
-    "Metroidvania": 27,
-    "Anime": 25,
-    "Old School": 23,
-    "Indie": 21,
-    "Retro": 21,
-    "Sci-fi": 19,
-    "Combat": 17,
-    "Martial Arts": 15,
-    "Singleplayer": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1509660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1509660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 87.5,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1509660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1509660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1509660,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1509660/header.jpg?t=1612339331",
+  "consensus_genre": "Action",
+  "developer": "Resight Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 87.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1509660/header.jpg?t=1612339331",
+  "initialprice": "499",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u91cd\u751f\u6218\u58eb",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Resight Studio",
+  "release_date": "2021/02/3",
+  "required_age": 0,
+  "tags": {
+    "3D": 28,
+    "3D Fighter": 36,
+    "Action": 72,
+    "Anime": 25,
+    "Arcade": 40,
+    "Combat": 17,
+    "Fighting": 42,
+    "Indie": 21,
+    "Martial Arts": 15,
+    "Metroidvania": 27,
+    "Old School": 23,
+    "RPG": 65,
+    "Retro": 21,
+    "Sci-fi": 19,
+    "Side Scroller": 32,
+    "Singleplayer": 13
+  },
+  "type": "game"
 }

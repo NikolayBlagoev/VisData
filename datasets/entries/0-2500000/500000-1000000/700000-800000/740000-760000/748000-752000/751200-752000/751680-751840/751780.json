@@ -1,31 +1,201 @@
 {
-  "appid": 751780,
-  "name": "Forager",
-  "developer": "HopFrog",
-  "publisher": "Humble Games",
-  "tags": {
-    "Open World Survival Craft": 861,
-    "Survival": 810,
-    "Pixel Graphics": 750,
-    "Crafting": 745,
-    "Indie": 546,
-    "Farming Sim": 527,
-    "Sandbox": 484,
-    "Adventure": 480,
-    "2D": 466,
-    "Base-Building": 405,
-    "Multiplayer": 401,
-    "Singleplayer": 391,
-    "Resource Management": 376,
-    "Building": 360,
-    "Open World": 312,
-    "Exploration": 311,
-    "RPG": 264,
-    "Casual": 230,
-    "Agriculture": 215,
-    "Simulation": 212
+  "Average Playtime - 2 Weeks": {
+    "app_id": 751780,
+    "average_2weeks": 300,
+    "average_forever": 1046,
+    "median_2weeks": 300,
+    "median_forever": 748
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 751780,
+    "average_2weeks": 300,
+    "average_forever": 1046,
+    "median_2weeks": 300,
+    "median_forever": 748
+  },
+  "CCU Histogram": {
+    "2022-12-08": 536,
+    "2022-12-09": 477,
+    "2022-12-10": 479,
+    "2022-12-13": 536,
+    "2022-12-15": 394,
+    "2022-12-18": 417,
+    "2022-12-21": 411,
+    "2022-12-22": 411
+  },
+  "Completion": 44.400001525878906,
+  "Down 30 Days": 28,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 751780,
+    "average_2weeks": 300,
+    "average_forever": 1046,
+    "median_2weeks": 300,
+    "median_forever": 748
+  },
+  "Median Playtime - Forever": {
+    "app_id": 751780,
+    "average_2weeks": 300,
+    "average_forever": 1046,
+    "median_2weeks": 300,
+    "median_forever": 748
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 272,
+  "User Score": -1,
+  "appid": 751780,
   "categories": [
     "Single-player",
     "Commentary available",
@@ -39,185 +209,53 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 29043,
-  "negative": 2938,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 442,
-  "languages": "English, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Japanese, Korean, Russian, Thai, Turkish, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/04/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/751780/header.jpg?t=1667237775",
+  "consensus_genre": "Indie",
+  "developer": "HopFrog",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 272,
-  "Down 30 Days": 28,
-  "Completion": 44.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/751780/header.jpg?t=1667237775",
+  "initialprice": "1999",
+  "languages": "English, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Japanese, Korean, Russian, Thai, Turkish, French",
+  "name": "Forager",
+  "negative": 2938,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 29043,
+  "price": "1999",
+  "publisher": "Humble Games",
+  "release_date": "2019/04/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 466,
+    "Adventure": 480,
+    "Agriculture": 215,
+    "Base-Building": 405,
+    "Building": 360,
+    "Casual": 230,
+    "Crafting": 745,
+    "Exploration": 311,
+    "Farming Sim": 527,
+    "Indie": 546,
+    "Multiplayer": 401,
+    "Open World": 312,
+    "Open World Survival Craft": 861,
+    "Pixel Graphics": 750,
+    "RPG": 264,
+    "Resource Management": 376,
+    "Sandbox": 484,
+    "Simulation": 212,
+    "Singleplayer": 391,
+    "Survival": 810
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 728880,
-  "name": "Overcooked! 2",
-  "developer": "Ghost Town Games Ltd., Team17",
-  "publisher": "Team17",
-  "tags": {
-    "Multiplayer": 592,
-    "Online Co-Op": 526,
-    "Local Co-Op": 496,
-    "Casual": 420,
-    "Co-op": 410,
-    "Funny": 356,
-    "Indie": 279,
-    "4 Player Local": 248,
-    "Action": 244,
-    "Cooking": 212,
-    "Local Multiplayer": 206,
-    "Family Friendly": 196,
-    "Cute": 180,
-    "Controller": 172,
-    "Comedy": 151,
-    "Difficult": 117,
-    "Singleplayer": 117,
-    "Simulation": 110,
-    "Colorful": 94,
-    "Strategy": 89
+  "Average Playtime - 2 Weeks": {
+    "app_id": 728880,
+    "average_2weeks": 140,
+    "average_forever": 1098,
+    "median_2weeks": 146,
+    "median_forever": 406
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 728880,
+    "average_2weeks": 140,
+    "average_forever": 1098,
+    "median_2weeks": 146,
+    "median_forever": 406
+  },
+  "CCU Histogram": {
+    "2022-12-08": 10484,
+    "2022-12-09": 7040,
+    "2022-12-10": 5791,
+    "2022-12-13": 7054,
+    "2022-12-15": 4270,
+    "2022-12-18": 5034,
+    "2022-12-21": 3966,
+    "2022-12-22": 4186
+  },
+  "Completion": 84.0,
+  "Down 30 Days": 43,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 4,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 10,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 728880,
+    "average_2weeks": 140,
+    "average_forever": 1098,
+    "median_2weeks": 146,
+    "median_forever": 406
+  },
+  "Median Playtime - Forever": {
+    "app_id": 728880,
+    "average_2weeks": 140,
+    "average_forever": 1098,
+    "median_2weeks": 146,
+    "median_forever": 406
+  },
+  "Meta Score": "81",
+  "Rating": "ESRB E",
+  "Up 30 Days": 578,
+  "User Score": -1,
+  "appid": 728880,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,184 +215,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 38963,
-  "negative": 4152,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 3312,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Korean, Polish, Portuguese - Brazil, Traditional Chinese, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/08/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg?t=1643298085",
+  "consensus_genre": "Casual",
+  "developer": "Ghost Town Games Ltd., Team17",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": "81",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 61,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 50,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 43,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 59,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 51,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 46,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 42,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 578,
-  "Down 30 Days": 43,
-  "Completion": 84.0,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg?t=1643298085",
+  "initialprice": "2499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Korean, Polish, Portuguese - Brazil, Traditional Chinese, Russian",
+  "name": "Overcooked! 2",
+  "negative": 4152,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 38963,
+  "price": "2499",
+  "publisher": "Team17",
+  "release_date": "2018/08/7",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 248,
+    "Action": 244,
+    "Casual": 420,
+    "Co-op": 410,
+    "Colorful": 94,
+    "Comedy": 151,
+    "Controller": 172,
+    "Cooking": 212,
+    "Cute": 180,
+    "Difficult": 117,
+    "Family Friendly": 196,
+    "Funny": 356,
+    "Indie": 279,
+    "Local Co-Op": 496,
+    "Local Multiplayer": 206,
+    "Multiplayer": 592,
+    "Online Co-Op": 526,
+    "Simulation": 110,
+    "Singleplayer": 117,
+    "Strategy": 89
+  },
+  "type": "game"
 }

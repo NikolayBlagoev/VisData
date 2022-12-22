@@ -1,31 +1,201 @@
 {
-  "appid": 621060,
-  "name": "PC Building Simulator",
-  "developer": "Claudiu Kiss, The Irregular Corporation",
-  "publisher": "The Irregular Corporation",
-  "tags": {
-    "Simulation": 640,
-    "Education": 604,
-    "Immersive Sim": 534,
-    "Building": 392,
-    "Management": 327,
-    "First-Person": 316,
-    "Sandbox": 313,
-    "3D": 308,
-    "Life Sim": 300,
-    "Casual": 297,
-    "Realistic": 295,
-    "Relaxing": 289,
-    "Singleplayer": 283,
-    "Funny": 269,
-    "Hardware": 264,
-    "Puzzle": 263,
-    "Modern": 260,
-    "Inventory Management": 257,
-    "Atmospheric": 246,
-    "Indie": 232
+  "Average Playtime - 2 Weeks": {
+    "app_id": 621060,
+    "average_2weeks": 168,
+    "average_forever": 2703,
+    "median_2weeks": 250,
+    "median_forever": 394
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 621060,
+    "average_2weeks": 168,
+    "average_forever": 2703,
+    "median_2weeks": 250,
+    "median_forever": 394
+  },
+  "CCU Histogram": {
+    "2022-12-08": 442,
+    "2022-12-09": 385,
+    "2022-12-10": 380,
+    "2022-12-13": 344,
+    "2022-12-15": 357,
+    "2022-12-18": 336,
+    "2022-12-21": 376,
+    "2022-12-22": 347
+  },
+  "Completion": 44.20000076293945,
+  "Down 30 Days": 23,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 621060,
+    "average_2weeks": 168,
+    "average_forever": 2703,
+    "median_2weeks": 250,
+    "median_forever": 394
+  },
+  "Median Playtime - Forever": {
+    "app_id": 621060,
+    "average_2weeks": 168,
+    "average_forever": 2703,
+    "median_2weeks": 250,
+    "median_forever": 394
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 350,
+  "User Score": -1,
+  "appid": 621060,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -36,183 +206,51 @@
     "Remote Play on Phone",
     "Remote Play on Tablet"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 42663,
-  "negative": 2668,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 350,
-  "languages": "English, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Spain, Korean, Polish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/01/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/621060/header.jpg?t=1653555111",
+  "consensus_genre": "Simulation",
+  "developer": "Claudiu Kiss, The Irregular Corporation",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 36,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 350,
-  "Down 30 Days": 23,
-  "Completion": 44.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/621060/header.jpg?t=1653555111",
+  "initialprice": "1999",
+  "languages": "English, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Spain, Korean, Polish",
+  "name": "PC Building Simulator",
+  "negative": 2668,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 42663,
+  "price": "1999",
+  "publisher": "The Irregular Corporation",
+  "release_date": "2019/01/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 308,
+    "Atmospheric": 246,
+    "Building": 392,
+    "Casual": 297,
+    "Education": 604,
+    "First-Person": 316,
+    "Funny": 269,
+    "Hardware": 264,
+    "Immersive Sim": 534,
+    "Indie": 232,
+    "Inventory Management": 257,
+    "Life Sim": 300,
+    "Management": 327,
+    "Modern": 260,
+    "Puzzle": 263,
+    "Realistic": 295,
+    "Relaxing": 289,
+    "Sandbox": 313,
+    "Simulation": 640,
+    "Singleplayer": 283
+  },
+  "type": "game"
 }

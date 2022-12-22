@@ -1,23 +1,56 @@
 {
-  "appid": 1463930,
-  "name": "Fly Away Baseball",
-  "developer": "big G games",
-  "publisher": "big G games",
-  "tags": {
-    "Sports": 68,
-    "Baseball": 43,
-    "Early Access": 40,
-    "Arcade": 39,
-    "PvP": 36,
-    "Old School": 33,
-    "Top-Down": 27,
-    "3D": 25,
-    "Multiplayer": 23,
-    "Singleplayer": 21,
-    "Indie": 20,
-    "Simulation": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1463930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1463930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1463930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1463930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1463930,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -27,39 +60,44 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/12/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1463930/header.jpg?t=1617158407",
+  "consensus_genre": "Sports",
+  "developer": "big G games",
+  "discount": "0",
   "genre": [
     "Indie",
     "Sports",
     "Early Access"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1463930/header.jpg?t=1617158407",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Fly Away Baseball",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "big G games",
+  "release_date": "2020/12/7",
+  "required_age": 0,
+  "tags": {
+    "3D": 25,
+    "Arcade": 39,
+    "Baseball": 43,
+    "Early Access": 40,
+    "Indie": 20,
+    "Multiplayer": 23,
+    "Old School": 33,
+    "PvP": 36,
+    "Simulation": 16,
+    "Singleplayer": 21,
+    "Sports": 68,
+    "Top-Down": 27
+  },
+  "type": "game"
 }

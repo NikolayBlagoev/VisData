@@ -1,117 +1,155 @@
 {
-  "appid": 1871230,
-  "name": "Bitcoin Chill",
-  "developer": "Two Gates Studio",
-  "publisher": "Two Gates Studio",
-  "tags": {
-    "Simulation": 231,
-    "Relaxing": 206,
-    "2D": 203,
-    "Casual": 202,
-    "Minimalist": 197,
-    "Cyberpunk": 191,
-    "Logic": 174,
-    "Rhythm": 165,
-    "RTS": 157,
-    "Idler": 147,
-    "Clicker": 137,
-    "Real Time Tactics": 125,
-    "Colorful": 124,
-    "Futuristic": 110,
-    "Capitalism": 96,
-    "Modern": 79,
-    "Tactical": 62,
-    "Score Attack": 44,
-    "Resource Management": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1871230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1871230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1871230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1871230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 7,
+  "User Score": -1,
+  "appid": 1871230,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 9,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1871230/header.jpg?t=1644004898",
+  "consensus_genre": "Simulation",
+  "developer": "Two Gates Studio",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 7,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1871230/header.jpg?t=1644004898",
+  "initialprice": "299",
+  "languages": "English, Russian",
+  "name": "Bitcoin Chill",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9,
+  "price": "299",
+  "publisher": "Two Gates Studio",
+  "release_date": "2022/02/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 203,
+    "Capitalism": 96,
+    "Casual": 202,
+    "Clicker": 137,
+    "Colorful": 124,
+    "Cyberpunk": 191,
+    "Futuristic": 110,
+    "Idler": 147,
+    "Logic": 174,
+    "Minimalist": 197,
+    "Modern": 79,
+    "RTS": 157,
+    "Real Time Tactics": 125,
+    "Relaxing": 206,
+    "Resource Management": 27,
+    "Rhythm": 165,
+    "Score Attack": 44,
+    "Simulation": 231,
+    "Singleplayer": 25,
+    "Tactical": 62
+  },
+  "type": "game"
 }

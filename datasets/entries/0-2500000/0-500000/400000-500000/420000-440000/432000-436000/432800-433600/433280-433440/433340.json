@@ -1,31 +1,201 @@
 {
-  "appid": 433340,
-  "name": "Slime Rancher",
-  "developer": "Monomi Park",
-  "publisher": "Monomi Park",
-  "tags": {
-    "Cute": 2916,
-    "Exploration": 2216,
-    "Adventure": 2076,
-    "Singleplayer": 1967,
-    "Open World": 1904,
-    "First-Person": 1860,
-    "Colorful": 1829,
-    "Funny": 1211,
-    "Sandbox": 1100,
-    "Simulation": 1079,
-    "Casual": 1045,
-    "Fantasy": 976,
-    "Management": 968,
-    "Indie": 845,
-    "Family Friendly": 835,
-    "Great Soundtrack": 823,
-    "Female Protagonist": 729,
-    "Early Access": 617,
-    "Action": 574,
-    "FPS": 430
+  "Average Playtime - 2 Weeks": {
+    "app_id": 433340,
+    "average_2weeks": 46,
+    "average_forever": 1342,
+    "median_2weeks": 82,
+    "median_forever": 640
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 433340,
+    "average_2weeks": 46,
+    "average_forever": 1342,
+    "median_2weeks": 82,
+    "median_forever": 640
+  },
+  "CCU Histogram": {
+    "2022-12-08": 978,
+    "2022-12-09": 818,
+    "2022-12-10": 754,
+    "2022-12-13": 1090,
+    "2022-12-15": 755,
+    "2022-12-18": 790,
+    "2022-12-21": 847,
+    "2022-12-22": 870
+  },
+  "Completion": 50.0,
+  "Down 30 Days": 28,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 169
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 115
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 106
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 79
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 433340,
+    "average_2weeks": 46,
+    "average_forever": 1342,
+    "median_2weeks": 82,
+    "median_forever": 640
+  },
+  "Median Playtime - Forever": {
+    "app_id": 433340,
+    "average_2weeks": 46,
+    "average_forever": 1342,
+    "median_2weeks": 82,
+    "median_forever": 640
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1495,
+  "User Score": -1,
+  "appid": 433340,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,185 +206,53 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 97207,
-  "negative": 2099,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 1644,
-  "languages": "English, French, German, Russian, Swedish, Simplified Chinese, Japanese, Portuguese - Brazil, Korean, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2017/08/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg?t=1651003375",
+  "consensus_genre": "Adventure",
+  "developer": "Monomi Park",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 51,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 49,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 43,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 49,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 33,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 36,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 39,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 28,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 31,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 32,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 86,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 169,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 115,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 76,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 106,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 105,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 79,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 66,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1495,
-  "Down 30 Days": 28,
-  "Completion": 50.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg?t=1651003375",
+  "initialprice": "1999",
+  "languages": "English, French, German, Russian, Swedish, Simplified Chinese, Japanese, Portuguese - Brazil, Korean, Spanish - Latin America",
+  "name": "Slime Rancher",
+  "negative": 2099,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 97207,
+  "price": "1999",
+  "publisher": "Monomi Park",
+  "release_date": "2017/08/1",
+  "required_age": 0,
+  "tags": {
+    "Action": 574,
+    "Adventure": 2076,
+    "Casual": 1045,
+    "Colorful": 1829,
+    "Cute": 2916,
+    "Early Access": 617,
+    "Exploration": 2216,
+    "FPS": 430,
+    "Family Friendly": 835,
+    "Fantasy": 976,
+    "Female Protagonist": 729,
+    "First-Person": 1860,
+    "Funny": 1211,
+    "Great Soundtrack": 823,
+    "Indie": 845,
+    "Management": 968,
+    "Open World": 1904,
+    "Sandbox": 1100,
+    "Simulation": 1079,
+    "Singleplayer": 1967
+  },
+  "type": "game"
 }

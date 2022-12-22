@@ -1,31 +1,201 @@
 {
-  "appid": 282070,
-  "name": "This War of Mine",
-  "developer": "11 bit studios",
-  "publisher": "11 bit studios",
-  "tags": {
-    "Survival": 2594,
-    "War": 1432,
-    "Atmospheric": 1252,
-    "Singleplayer": 1130,
-    "Strategy": 1111,
-    "Simulation": 980,
-    "Choices Matter": 971,
-    "Crafting": 904,
-    "Base-Building": 825,
-    "Resource Management": 783,
-    "Story Rich": 752,
-    "Indie": 734,
-    "Management": 733,
-    "Post-apocalyptic": 722,
-    "Emotional": 715,
-    "Realistic": 702,
-    "Psychological": 682,
-    "Drama": 680,
-    "Stealth": 668,
-    "2.5D": 664
+  "Average Playtime - 2 Weeks": {
+    "app_id": 282070,
+    "average_2weeks": 137,
+    "average_forever": 856,
+    "median_2weeks": 232,
+    "median_forever": 291
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 282070,
+    "average_2weeks": 137,
+    "average_forever": 856,
+    "median_2weeks": 232,
+    "median_forever": 291
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2649,
+    "2022-12-09": 2320,
+    "2022-12-10": 2021,
+    "2022-12-13": 1730,
+    "2022-12-15": 1737,
+    "2022-12-18": 1631,
+    "2022-12-21": 1484,
+    "2022-12-22": 1562
+  },
+  "Completion": 59.25,
+  "Down 30 Days": 38,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 65
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 29
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 282070,
+    "average_2weeks": 137,
+    "average_forever": 856,
+    "median_2weeks": 232,
+    "median_forever": 291
+  },
+  "Median Playtime - Forever": {
+    "app_id": 282070,
+    "average_2weeks": 137,
+    "average_forever": 856,
+    "median_2weeks": 232,
+    "median_forever": 291
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 583,
+  "User Score": -1,
+  "appid": 282070,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,184 +204,52 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 82696,
-  "negative": 6312,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 1152,
-  "languages": "English, French, German, Polish, Russian, Italian, Portuguese - Brazil, Spanish - Spain, Japanese, Korean, Turkish, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/11/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/282070/header.jpg?t=1663243910",
+  "consensus_genre": "Simulation",
+  "developer": "11 bit studios",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 65,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 51,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 46,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 43,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 45,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 36,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 29,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 583,
-  "Down 30 Days": 38,
-  "Completion": 59.25,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/282070/header.jpg?t=1663243910",
+  "initialprice": "1999",
+  "languages": "English, French, German, Polish, Russian, Italian, Portuguese - Brazil, Spanish - Spain, Japanese, Korean, Turkish, Simplified Chinese",
+  "name": "This War of Mine",
+  "negative": 6312,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 82696,
+  "price": "1999",
+  "publisher": "11 bit studios",
+  "release_date": "2014/11/14",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 664,
+    "Atmospheric": 1252,
+    "Base-Building": 825,
+    "Choices Matter": 971,
+    "Crafting": 904,
+    "Drama": 680,
+    "Emotional": 715,
+    "Indie": 734,
+    "Management": 733,
+    "Post-apocalyptic": 722,
+    "Psychological": 682,
+    "Realistic": 702,
+    "Resource Management": 783,
+    "Simulation": 980,
+    "Singleplayer": 1130,
+    "Stealth": 668,
+    "Story Rich": 752,
+    "Strategy": 1111,
+    "Survival": 2594,
+    "War": 1432
+  },
+  "type": "game"
 }

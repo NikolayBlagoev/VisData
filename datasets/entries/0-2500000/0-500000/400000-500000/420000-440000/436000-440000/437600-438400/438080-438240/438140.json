@@ -1,213 +1,251 @@
 {
-  "appid": 438140,
-  "name": "Star Realms",
-  "developer": "Wise Wizard Games, LLC",
-  "publisher": "Wise Wizard Games, LLC",
-  "tags": {
-    "Deckbuilding": 134,
-    "Strategy": 123,
-    "Card Battler": 107,
-    "Card Game": 95,
-    "Board Game": 88,
-    "Sci-fi": 83,
-    "Turn-Based Strategy": 80,
-    "Combat": 75,
-    "Space": 73,
-    "Action": 68,
-    "Tactical": 66,
-    "Building": 64,
-    "Touch-Friendly": 59,
-    "Free to Play": 55,
-    "Trading Card Game": 53,
-    "Asynchronous Multiplayer": 50,
-    "Multiplayer": 47,
-    "Turn-Based": 44,
-    "Singleplayer": 41,
-    "Indie": 36
+  "Average Playtime - 2 Weeks": {
+    "app_id": 438140,
+    "average_2weeks": 0,
+    "average_forever": 123,
+    "median_2weeks": 0,
+    "median_forever": 173
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 438140,
+    "average_2weeks": 0,
+    "average_forever": 123,
+    "median_2weeks": 0,
+    "median_forever": 173
+  },
+  "CCU Histogram": {
+    "2022-12-08": 96,
+    "2022-12-09": 99,
+    "2022-12-10": 96,
+    "2022-12-13": 114,
+    "2022-12-15": 101,
+    "2022-12-18": 92,
+    "2022-12-21": 92,
+    "2022-12-22": 114
+  },
+  "Completion": -1,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 438140,
+    "average_2weeks": 0,
+    "average_forever": 123,
+    "median_2weeks": 0,
+    "median_forever": 173
+  },
+  "Median Playtime - Forever": {
+    "app_id": 438140,
+    "average_2weeks": 0,
+    "average_forever": 123,
+    "median_2weeks": 0,
+    "median_forever": 173
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 15,
+  "User Score": -1,
+  "appid": 438140,
   "categories": [
     "Multi-player",
     "Single-player",
     "Cross-Platform Multiplayer",
     "Remote Play Together"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 1395,
-  "negative": 221,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 87,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/03/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/438140/header.jpg?t=1656685084",
+  "consensus_genre": "Strategy",
+  "developer": "Wise Wizard Games, LLC",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 15,
-  "Down 30 Days": 7,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/438140/header.jpg?t=1656685084",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Star Realms",
+  "negative": 221,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1395,
+  "price": "0",
+  "publisher": "Wise Wizard Games, LLC",
+  "release_date": "2016/03/8",
+  "required_age": 0,
+  "tags": {
+    "Action": 68,
+    "Asynchronous Multiplayer": 50,
+    "Board Game": 88,
+    "Building": 64,
+    "Card Battler": 107,
+    "Card Game": 95,
+    "Combat": 75,
+    "Deckbuilding": 134,
+    "Free to Play": 55,
+    "Indie": 36,
+    "Multiplayer": 47,
+    "Sci-fi": 83,
+    "Singleplayer": 41,
+    "Space": 73,
+    "Strategy": 123,
+    "Tactical": 66,
+    "Touch-Friendly": 59,
+    "Trading Card Game": 53,
+    "Turn-Based": 44,
+    "Turn-Based Strategy": 80
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 312530,
-  "name": "Duck Game",
-  "developer": "Landon Podbielski",
-  "publisher": "Adult Swim Games",
-  "tags": {
-    "Multiplayer": 612,
-    "Funny": 443,
-    "Pixel Graphics": 416,
-    "Local Multiplayer": 407,
-    "Action": 383,
-    "2D": 336,
-    "4 Player Local": 303,
-    "Platformer": 244,
-    "Indie": 239,
-    "Fast-Paced": 219,
-    "Comedy": 197,
-    "Shooter": 193,
-    "Competitive": 188,
-    "Retro": 183,
-    "Local Co-Op": 166,
-    "Great Soundtrack": 164,
-    "Co-op": 151,
-    "Memes": 145,
-    "Casual": 93,
-    "1980s": 70
+  "Average Playtime - 2 Weeks": {
+    "app_id": 312530,
+    "average_2weeks": 49,
+    "average_forever": 1741,
+    "median_2weeks": 54,
+    "median_forever": 432
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 312530,
+    "average_2weeks": 49,
+    "average_forever": 1741,
+    "median_2weeks": 54,
+    "median_forever": 432
+  },
+  "CCU Histogram": {
+    "2022-12-08": 269,
+    "2022-12-09": 245,
+    "2022-12-10": 248,
+    "2022-12-13": 241,
+    "2022-12-15": 278,
+    "2022-12-18": 293,
+    "2022-12-21": 307,
+    "2022-12-22": 342
+  },
+  "Completion": 24.899999618530273,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 312530,
+    "average_2weeks": 49,
+    "average_forever": 1741,
+    "median_2weeks": 54,
+    "median_forever": 432
+  },
+  "Median Playtime - Forever": {
+    "app_id": 312530,
+    "average_2weeks": 49,
+    "average_forever": 1741,
+    "median_2weeks": 54,
+    "median_forever": 432
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 171,
+  "User Score": -1,
+  "appid": 312530,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,183 +215,51 @@
     "LAN PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 32694,
-  "negative": 1185,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 257,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2015/06/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/312530/header.jpg?t=1606522299",
+  "consensus_genre": "Action",
+  "developer": "Landon Podbielski",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 171,
-  "Down 30 Days": 4,
-  "Completion": 24.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/312530/header.jpg?t=1606522299",
+  "initialprice": "1299",
+  "languages": "English",
+  "name": "Duck Game",
+  "negative": 1185,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 32694,
+  "price": "1299",
+  "publisher": "Adult Swim Games",
+  "release_date": "2015/06/4",
+  "required_age": 0,
+  "tags": {
+    "1980s": 70,
+    "2D": 336,
+    "4 Player Local": 303,
+    "Action": 383,
+    "Casual": 93,
+    "Co-op": 151,
+    "Comedy": 197,
+    "Competitive": 188,
+    "Fast-Paced": 219,
+    "Funny": 443,
+    "Great Soundtrack": 164,
+    "Indie": 239,
+    "Local Co-Op": 166,
+    "Local Multiplayer": 407,
+    "Memes": 145,
+    "Multiplayer": 612,
+    "Pixel Graphics": 416,
+    "Platformer": 244,
+    "Retro": 183,
+    "Shooter": 193
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 1739070,
-  "name": "Bone's Cafe",
-  "developer": "Acute Owl Studio",
-  "publisher": "Acute Owl Studio",
-  "tags": {
-    "Cooking": 185,
-    "Automation": 179,
-    "Local Co-Op": 175,
-    "Management": 171,
-    "Strategy": 167,
-    "Villain Protagonist": 158,
-    "4 Player Local": 153,
-    "Co-op": 148,
-    "Co-op Campaign": 142,
-    "Local Multiplayer": 137,
-    "Cute": 135,
-    "Dark Humor": 132,
-    "Casual": 130,
-    "Relaxing": 127,
-    "Colorful": 123,
-    "Building": 115,
-    "Resource Management": 106,
-    "Pixel Graphics": 98,
-    "2D": 88,
-    "Action": 73
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1739070,
+    "average_2weeks": 24,
+    "average_forever": 24,
+    "median_2weeks": 24,
+    "median_forever": 24
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1739070,
+    "average_2weeks": 24,
+    "average_forever": 24,
+    "median_2weeks": 24,
+    "median_forever": 24
+  },
+  "CCU Histogram": {
+    "2022-12-08": 11,
+    "2022-12-09": 11,
+    "2022-12-10": 11,
+    "2022-12-13": 11,
+    "2022-12-15": 6,
+    "2022-12-18": 4,
+    "2022-12-21": 6,
+    "2022-12-22": 6
+  },
+  "Completion": 60.400001525878906,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1739070,
+    "average_2weeks": 24,
+    "average_forever": 24,
+    "median_2weeks": 24,
+    "median_forever": 24
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1739070,
+    "average_2weeks": 24,
+    "average_forever": 24,
+    "median_2weeks": 24,
+    "median_forever": 24
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 18,
+  "User Score": -1,
+  "appid": 1739070,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,22 +209,10 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 110,
-  "negative": 2,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 23,
-  "languages": "English, German, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1739070/header.jpg?t=1667328792",
+  "consensus_genre": "Strategy",
+  "developer": "Acute Owl Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -62,163 +220,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 18,
-  "Down 30 Days": 1,
-  "Completion": 60.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1739070/header.jpg?t=1667328792",
+  "initialprice": "1499",
+  "languages": "English, German, Portuguese - Brazil",
+  "name": "Bone's Cafe",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 110,
+  "price": "1499",
+  "publisher": "Acute Owl Studio",
+  "release_date": "2022/10/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 88,
+    "4 Player Local": 153,
+    "Action": 73,
+    "Automation": 179,
+    "Building": 115,
+    "Casual": 130,
+    "Co-op": 148,
+    "Co-op Campaign": 142,
+    "Colorful": 123,
+    "Cooking": 185,
+    "Cute": 135,
+    "Dark Humor": 132,
+    "Local Co-Op": 175,
+    "Local Multiplayer": 137,
+    "Management": 171,
+    "Pixel Graphics": 98,
+    "Relaxing": 127,
+    "Resource Management": 106,
+    "Strategy": 167,
+    "Villain Protagonist": 158
+  },
+  "type": "game"
 }

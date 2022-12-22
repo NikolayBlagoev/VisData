@@ -1,215 +1,253 @@
 {
-  "appid": 793460,
-  "name": "112 Operator",
-  "developer": "Jutsu Games",
-  "publisher": "Games Operators",
-  "tags": {
-    "Simulation": 836,
-    "Realistic": 805,
-    "Casual": 775,
-    "Moddable": 751,
-    "Time Management": 736,
-    "Modern": 694,
-    "Singleplayer": 609,
-    "Management": 521,
-    "Education": 495,
-    "Strategy": 495,
-    "Minimalist": 491,
-    "Immersive Sim": 488,
-    "Open World": 487,
-    "Medical Sim": 485,
-    "Procedural Generation": 479,
-    "Sandbox": 475,
-    "RTS": 474,
-    "2D": 471,
-    "Real Time Tactics": 453,
-    "Heist": 450
+  "Average Playtime - 2 Weeks": {
+    "app_id": 793460,
+    "average_2weeks": 0,
+    "average_forever": 2881,
+    "median_2weeks": 0,
+    "median_forever": 494
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 793460,
+    "average_2weeks": 0,
+    "average_forever": 2881,
+    "median_2weeks": 0,
+    "median_forever": 494
+  },
+  "CCU Histogram": {
+    "2022-12-08": 77,
+    "2022-12-09": 68,
+    "2022-12-10": 58,
+    "2022-12-13": 93,
+    "2022-12-15": 68,
+    "2022-12-18": 83,
+    "2022-12-21": 376,
+    "2022-12-22": 261
+  },
+  "Completion": 51.10000038146973,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 793460,
+    "average_2weeks": 0,
+    "average_forever": 2881,
+    "median_2weeks": 0,
+    "median_forever": 494
+  },
+  "Median Playtime - Forever": {
+    "app_id": 793460,
+    "average_2weeks": 0,
+    "average_forever": 2881,
+    "median_2weeks": 0,
+    "median_forever": 494
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 64,
+  "User Score": -1,
+  "appid": 793460,
   "categories": [
     "Single-player",
     "Captions available",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3594,
-  "negative": 479,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 121,
-  "languages": "English, French, German, Spanish - Spain, Polish, Russian, Simplified Chinese, Korean, Japanese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/04/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/793460/header.jpg?t=1667388408",
+  "consensus_genre": "Simulation",
+  "developer": "Jutsu Games",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 64,
-  "Down 30 Days": 3,
-  "Completion": 51.10000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/793460/header.jpg?t=1667388408",
+  "initialprice": "2499",
+  "languages": "English, French, German, Spanish - Spain, Polish, Russian, Simplified Chinese, Korean, Japanese, Portuguese - Brazil",
+  "name": "112 Operator",
+  "negative": 479,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3594,
+  "price": "2499",
+  "publisher": "Games Operators",
+  "release_date": "2020/04/23",
+  "required_age": 0,
+  "tags": {
+    "2D": 471,
+    "Casual": 775,
+    "Education": 495,
+    "Heist": 450,
+    "Immersive Sim": 488,
+    "Management": 521,
+    "Medical Sim": 485,
+    "Minimalist": 491,
+    "Moddable": 751,
+    "Modern": 694,
+    "Open World": 487,
+    "Procedural Generation": 479,
+    "RTS": 474,
+    "Real Time Tactics": 453,
+    "Realistic": 805,
+    "Sandbox": 475,
+    "Simulation": 836,
+    "Singleplayer": 609,
+    "Strategy": 495,
+    "Time Management": 736
+  },
+  "type": "game"
 }

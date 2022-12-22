@@ -1,31 +1,201 @@
 {
-  "appid": 251470,
-  "name": "TowerFall Ascension",
-  "developer": "Extremely OK Games, Ltd.",
-  "publisher": "Matt Makes Games Inc.",
-  "tags": {
-    "Local Multiplayer": 199,
-    "Indie": 191,
-    "2D Fighter": 190,
-    "Action": 180,
-    "Local Co-Op": 138,
-    "Pixel Graphics": 129,
-    "Platformer": 110,
-    "4 Player Local": 106,
-    "Multiplayer": 87,
-    "2D": 75,
-    "Co-op": 65,
-    "Arcade": 55,
-    "Controller": 55,
-    "Fighting": 41,
-    "Adventure": 40,
-    "Retro": 36,
-    "Party Game": 33,
-    "Great Soundtrack": 27,
-    "Difficult": 23,
-    "Archery": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 251470,
+    "average_2weeks": 2,
+    "average_forever": 411,
+    "median_2weeks": 2,
+    "median_forever": 283
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 251470,
+    "average_2weeks": 2,
+    "average_forever": 411,
+    "median_2weeks": 2,
+    "median_forever": 283
+  },
+  "CCU Histogram": {
+    "2022-12-08": 13,
+    "2022-12-09": 20,
+    "2022-12-10": 20,
+    "2022-12-13": 23,
+    "2022-12-15": 24,
+    "2022-12-18": 30,
+    "2022-12-21": 22,
+    "2022-12-22": 28
+  },
+  "Completion": 24.899999618530273,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 251470,
+    "average_2weeks": 2,
+    "average_forever": 411,
+    "median_2weeks": 2,
+    "median_forever": 283
+  },
+  "Median Playtime - Forever": {
+    "app_id": 251470,
+    "average_2weeks": 2,
+    "average_forever": 411,
+    "median_2weeks": 2,
+    "median_forever": 283
+  },
+  "Meta Score": "87",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 13,
+  "User Score": -1,
+  "appid": 251470,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,183 +210,51 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2827,
-  "negative": 156,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 37,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/03/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg?t=1617131982",
+  "consensus_genre": "Indie",
+  "developer": "Extremely OK Games, Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "87",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 13,
-  "Down 30 Days": 0,
-  "Completion": 24.899999618530273,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg?t=1617131982",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "TowerFall Ascension",
+  "negative": 156,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2827,
+  "price": "1499",
+  "publisher": "Matt Makes Games Inc.",
+  "release_date": "2014/03/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 75,
+    "2D Fighter": 190,
+    "4 Player Local": 106,
+    "Action": 180,
+    "Adventure": 40,
+    "Arcade": 55,
+    "Archery": 22,
+    "Co-op": 65,
+    "Controller": 55,
+    "Difficult": 23,
+    "Fighting": 41,
+    "Great Soundtrack": 27,
+    "Indie": 191,
+    "Local Co-Op": 138,
+    "Local Multiplayer": 199,
+    "Multiplayer": 87,
+    "Party Game": 33,
+    "Pixel Graphics": 129,
+    "Platformer": 110,
+    "Retro": 36
+  },
+  "type": "game"
 }

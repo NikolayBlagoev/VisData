@@ -1,26 +1,201 @@
 {
-  "appid": 1692250,
-  "name": "F1 22",
-  "developer": "Codemasters",
-  "publisher": "Electronic Arts",
-  "tags": {
-    "Racing": 233,
-    "Immersive Sim": 225,
-    "Sports": 186,
-    "Driving": 182,
-    "PvP": 176,
-    "VR": 175,
-    "Automobile Sim": 172,
-    "Controller": 165,
-    "Simulation": 164,
-    "Realistic": 162,
-    "Co-op": 156,
-    "Multiplayer": 152,
-    "Online Co-Op": 124,
-    "Singleplayer": 112,
-    "Memes": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1692250,
+    "average_2weeks": 737,
+    "average_forever": 3477,
+    "median_2weeks": 765,
+    "median_forever": 2758
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1692250,
+    "average_2weeks": 737,
+    "average_forever": 3477,
+    "median_2weeks": 765,
+    "median_forever": 2758
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3137,
+    "2022-12-09": 5829,
+    "2022-12-10": 4949,
+    "2022-12-13": 4455,
+    "2022-12-15": 4345,
+    "2022-12-18": 4294,
+    "2022-12-21": 3871,
+    "2022-12-22": 4193
+  },
+  "Completion": 42.20000076293945,
+  "Down 30 Days": 366,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 13,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 8,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 14,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 16,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 12,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 4,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 11,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 7,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 8,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 9,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 8,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 8,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 9,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 10,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 11,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 5,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 12,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 11,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 6,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 29,
+      "recommendations_up": 202
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 34,
+      "recommendations_up": 305
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 25,
+      "recommendations_up": 183
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 23,
+      "recommendations_up": 146
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 18,
+      "recommendations_up": 147
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 15,
+      "recommendations_up": 142
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 16,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 18,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 6,
+      "recommendations_up": 24
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1692250,
+    "average_2weeks": 737,
+    "average_forever": 3477,
+    "median_2weeks": 765,
+    "median_forever": 2758
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1692250,
+    "average_2weeks": 737,
+    "average_forever": 3477,
+    "median_2weeks": 765,
+    "median_forever": 2758
+  },
+  "Meta Score": "81",
+  "Rating": "ESRB E",
+  "Up 30 Days": 1673,
+  "User Score": -1,
+  "appid": 1692250,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,183 +214,46 @@
     "LAN Co-op",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 9710,
-  "negative": 4830,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 5691,
-  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Portuguese - Brazil, Simplified Chinese, Polish, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1692250/header.jpg?t=1667912698",
+  "consensus_genre": "Racing",
+  "developer": "Codemasters",
+  "discount": "0",
   "genre": [
     "Racing",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "81",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 24,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 30,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 32,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 29,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 12,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 17,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 11,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 22,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 19,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 25,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 25,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 12,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 14,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 19,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 23,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 18,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 19,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 14,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 202,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 305,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 183,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 146,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 147,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 142,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 86,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 59,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 24,
-      "recommendations_down": 6
-    }
-  ],
-  "Up 30 Days": 1673,
-  "Down 30 Days": 366,
-  "Completion": 42.20000076293945,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1692250/header.jpg?t=1667912698",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Portuguese - Brazil, Simplified Chinese, Polish, Russian",
+  "name": "F1 22",
+  "negative": 4830,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9710,
+  "price": "5999",
+  "publisher": "Electronic Arts",
+  "release_date": "2022/06/30",
+  "required_age": 0,
+  "tags": {
+    "Automobile Sim": 172,
+    "Co-op": 156,
+    "Controller": 165,
+    "Driving": 182,
+    "Immersive Sim": 225,
+    "Memes": 31,
+    "Multiplayer": 152,
+    "Online Co-Op": 124,
+    "PvP": 176,
+    "Racing": 233,
+    "Realistic": 162,
+    "Simulation": 164,
+    "Singleplayer": 112,
+    "Sports": 186,
+    "VR": 175
+  },
+  "type": "game"
 }

@@ -1,79 +1,117 @@
 {
-  "appid": 1398820,
-  "name": "Compost",
-  "developer": "Midnight Warden",
-  "publisher": "Superfantastic Productions",
-  "tags": {
-    "Action": 88,
-    "Life Sim": 82,
-    "Nature": 79,
-    "Experimental": 76,
-    "Artificial Intelligence": 73,
-    "Colorful": 67,
-    "2D": 65,
-    "Minimalist": 63,
-    "Old School": 61,
-    "Casual": 59,
-    "Indie": 57,
-    "Simulation": 55,
-    "Combat": 53,
-    "Resource Management": 49,
-    "Singleplayer": 47,
-    "Puzzle": 45,
-    "Tower Defense": 41,
-    "2D Fighter": 38,
-    "Pixel Graphics": 32,
-    "Soundtrack": 30
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1398820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1398820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 38.79999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1398820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1398820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1398820,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1398820/header.jpg?t=1602769838",
+  "consensus_genre": "Action",
+  "developer": "Midnight Warden",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 38.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1398820/header.jpg?t=1602769838",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Compost",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "299",
+  "publisher": "Superfantastic Productions",
+  "release_date": "2020/09/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 65,
+    "2D Fighter": 38,
+    "Action": 88,
+    "Artificial Intelligence": 73,
+    "Casual": 59,
+    "Colorful": 67,
+    "Combat": 53,
+    "Experimental": 76,
+    "Indie": 57,
+    "Life Sim": 82,
+    "Minimalist": 63,
+    "Nature": 79,
+    "Old School": 61,
+    "Pixel Graphics": 32,
+    "Puzzle": 45,
+    "Resource Management": 49,
+    "Simulation": 55,
+    "Singleplayer": 47,
+    "Soundtrack": 30,
+    "Tower Defense": 41
+  },
+  "type": "game"
 }

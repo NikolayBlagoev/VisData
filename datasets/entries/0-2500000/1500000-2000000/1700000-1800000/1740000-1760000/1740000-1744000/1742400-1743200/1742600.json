@@ -1,88 +1,126 @@
 {
-  "appid": 1742600,
-  "name": "Perish Song",
-  "developer": "Leach Studios",
-  "publisher": "Leach Studios",
-  "tags": {
-    "Action Roguelike": 144,
-    "Roguevania": 138,
-    "Bullet Hell": 134,
-    "Boss Rush": 129,
-    "Shoot 'Em Up": 125,
-    "Action-Adventure": 118,
-    "Difficult": 113,
-    "Souls-like": 111,
-    "Dungeon Crawler": 104,
-    "Rogue-lite": 95,
-    "PvE": 89,
-    "Action RPG": 87,
-    "2D": 84,
-    "Linear": 82,
-    "Action": 78,
-    "Pixel Graphics": 76,
-    "Family Friendly": 66,
-    "Singleplayer": 61,
-    "Adventure": 59,
-    "Combat": 56
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1742600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1742600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 76.0999984741211,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1742600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1742600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1742600,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 6,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/11/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1742600/header.jpg?t=1667512013",
+  "consensus_genre": "Action",
+  "developer": "Leach Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": 76.0999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1742600/header.jpg?t=1667512013",
+  "initialprice": "799",
+  "languages": "English",
+  "name": "Perish Song",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6,
+  "price": "799",
+  "publisher": "Leach Studios",
+  "release_date": "2022/11/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 84,
+    "Action": 78,
+    "Action RPG": 87,
+    "Action Roguelike": 144,
+    "Action-Adventure": 118,
+    "Adventure": 59,
+    "Boss Rush": 129,
+    "Bullet Hell": 134,
+    "Combat": 56,
+    "Difficult": 113,
+    "Dungeon Crawler": 104,
+    "Family Friendly": 66,
+    "Linear": 82,
+    "Pixel Graphics": 76,
+    "PvE": 89,
+    "Rogue-lite": 95,
+    "Roguevania": 138,
+    "Shoot 'Em Up": 125,
+    "Singleplayer": 61,
+    "Souls-like": 111
+  },
+  "type": "game"
 }

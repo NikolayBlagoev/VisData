@@ -1,53 +1,66 @@
 {
-  "appid": 1331180,
-  "name": "Destructive Contraptions",
-  "developer": "Gamergetik",
-  "publisher": "Gamergetik",
-  "tags": {
-    "Sandbox": 149,
-    "Destruction": 143,
-    "Physics": 140,
-    "Building": 137,
-    "Level Editor": 134,
-    "Simulation": 128,
-    "Time Manipulation": 126,
-    "3D": 124,
-    "Casual": 122,
-    "Cartoony": 118,
-    "Colorful": 115,
-    "Stylized": 108,
-    "Singleplayer": 102,
-    "Cartoon": 94,
-    "Early Access": 83,
-    "Crafting": 80,
-    "Action": 67,
-    "Bullet Time": 56,
-    "Indie": 50,
-    "Funny": 29
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1331180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1331180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1331180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1331180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1331180,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1331180/header.jpg?t=1665579583",
+  "consensus_genre": "Simulation",
+  "developer": "Gamergetik",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -55,18 +68,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1331180/header.jpg?t=1665579583",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Destructive Contraptions",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Gamergetik",
+  "release_date": "2022/07/20",
+  "required_age": 0,
+  "tags": {
+    "3D": 124,
+    "Action": 67,
+    "Building": 137,
+    "Bullet Time": 56,
+    "Cartoon": 94,
+    "Cartoony": 118,
+    "Casual": 122,
+    "Colorful": 115,
+    "Crafting": 80,
+    "Destruction": 143,
+    "Early Access": 83,
+    "Funny": 29,
+    "Indie": 50,
+    "Level Editor": 134,
+    "Physics": 140,
+    "Sandbox": 149,
+    "Simulation": 128,
+    "Singleplayer": 102,
+    "Stylized": 108,
+    "Time Manipulation": 126
+  },
+  "type": "game"
 }

@@ -1,53 +1,66 @@
 {
-  "appid": 1599220,
-  "name": "League Space",
-  "developer": "EURO GAMES STUDIO",
-  "publisher": "EURO GAMES STUDIO (ESP)",
-  "tags": {
-    "Action": 466,
-    "Futuristic": 455,
-    "Combat": 449,
-    "Space": 443,
-    "Shoot 'Em Up": 439,
-    "FPS": 434,
-    "Multiplayer": 431,
-    "Arena Shooter": 429,
-    "Sci-fi": 423,
-    "Wargame": 413,
-    "Physics": 410,
-    "First-Person": 408,
-    "Third Person": 406,
-    "Team-Based": 404,
-    "Atmospheric": 402,
-    "Action RPG": 399,
-    "Realistic": 398,
-    "Bullet Hell": 387,
-    "Space Sim": 368,
-    "War": 367
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1599220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1599220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1599220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1599220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1599220,
   "categories": [
     "Multi-player",
     "Cross-Platform Multiplayer",
     "Online PvP",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1599220/header.jpg?t=1632697078",
+  "consensus_genre": "Action",
+  "developer": "EURO GAMES STUDIO",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play",
@@ -55,18 +68,43 @@
     "Racing",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1599220/header.jpg?t=1632697078",
+  "initialprice": "1199",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "League Space",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1199",
+  "publisher": "EURO GAMES STUDIO (ESP)",
+  "release_date": "2021/09/26",
+  "required_age": 0,
+  "tags": {
+    "Action": 466,
+    "Action RPG": 399,
+    "Arena Shooter": 429,
+    "Atmospheric": 402,
+    "Bullet Hell": 387,
+    "Combat": 449,
+    "FPS": 434,
+    "First-Person": 408,
+    "Futuristic": 455,
+    "Multiplayer": 431,
+    "Physics": 410,
+    "Realistic": 398,
+    "Sci-fi": 423,
+    "Shoot 'Em Up": 439,
+    "Space": 443,
+    "Space Sim": 368,
+    "Team-Based": 404,
+    "Third Person": 406,
+    "War": 367,
+    "Wargame": 413
+  },
+  "type": "game"
 }

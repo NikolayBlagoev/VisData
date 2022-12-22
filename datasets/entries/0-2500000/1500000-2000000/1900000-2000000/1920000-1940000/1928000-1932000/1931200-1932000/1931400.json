@@ -1,58 +1,96 @@
 {
-  "appid": 1931400,
-  "name": "Blocknator",
-  "developer": "Paulo C\u00e9sar Medeiros Porto",
-  "publisher": "Unipig Studio",
-  "tags": {
-    "Casual": 67,
-    "Arcade": 41,
-    "Puzzle": 38,
-    "Puzzle-Platformer": 35,
-    "3D": 32,
-    "Colorful": 26,
-    "Retro": 24,
-    "Controller": 22,
-    "Indie": 21,
-    "Score Attack": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1931400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1931400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1931400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1931400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1931400,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Spain, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1931400/header.jpg?t=1649241822",
+  "consensus_genre": "Casual",
+  "developer": "Paulo C\u00e9sar Medeiros Porto",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1931400/header.jpg?t=1649241822",
+  "initialprice": "99",
+  "languages": "English, Spanish - Spain, Portuguese - Brazil",
+  "name": "Blocknator",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Unipig Studio",
+  "release_date": "2022/04/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 32,
+    "Arcade": 41,
+    "Casual": 67,
+    "Colorful": 26,
+    "Controller": 22,
+    "Indie": 21,
+    "Puzzle": 38,
+    "Puzzle-Platformer": 35,
+    "Retro": 24,
+    "Score Attack": 20,
+    "Singleplayer": 18
+  },
+  "type": "game"
 }

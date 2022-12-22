@@ -1,31 +1,201 @@
 {
-  "appid": 1773180,
-  "name": "The Matriarch",
-  "developer": "Chewa",
-  "publisher": "Chewa",
-  "tags": {
-    "Multiplayer": 149,
-    "Co-op": 139,
-    "Social Deduction": 135,
-    "Indie": 131,
-    "Casual": 127,
-    "Funny": 120,
-    "Party Game": 113,
-    "Team-Based": 105,
-    "Werewolves": 105,
-    "2D": 98,
-    "Survival": 91,
-    "Strategy": 86,
-    "Cartoony": 83,
-    "Dark Comedy": 81,
-    "Stylized": 77,
-    "Comedy": 75,
-    "Conspiracy": 72,
-    "Stealth": 60,
-    "Time Management": 53,
-    "Satire": 48
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1773180,
+    "average_2weeks": 0,
+    "average_forever": 8,
+    "median_2weeks": 0,
+    "median_forever": 8
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1773180,
+    "average_2weeks": 0,
+    "average_forever": 8,
+    "median_2weeks": 0,
+    "median_forever": 8
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 26,
+    "2022-12-10": 37,
+    "2022-12-13": 20,
+    "2022-12-15": 16,
+    "2022-12-18": 13,
+    "2022-12-21": 10,
+    "2022-12-22": 1
+  },
+  "Completion": 10.599999904632568,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1773180,
+    "average_2weeks": 0,
+    "average_forever": 8,
+    "median_2weeks": 0,
+    "median_forever": 8
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1773180,
+    "average_2weeks": 0,
+    "average_forever": 8,
+    "median_2weeks": 0,
+    "median_forever": 8
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 114,
+  "User Score": -1,
+  "appid": 1773180,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,182 +204,50 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 205,
-  "negative": 76,
-  "price": "399",
-  "initialprice": "499",
-  "discount": "20",
   "ccu": 36,
-  "languages": "English, French, Russian, Italian, Hungarian, Romanian, German, Portuguese - Brazil, Polish, Spanish - Spain, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1773180/header.jpg?t=1667212787",
+  "consensus_genre": "Casual",
+  "developer": "Chewa",
+  "discount": "20",
   "genre": [
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 114,
-  "Down 30 Days": 9,
-  "Completion": 10.599999904632568,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1773180/header.jpg?t=1667212787",
+  "initialprice": "499",
+  "languages": "English, French, Russian, Italian, Hungarian, Romanian, German, Portuguese - Brazil, Polish, Spanish - Spain, Simplified Chinese",
+  "name": "The Matriarch",
+  "negative": 76,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 205,
+  "price": "399",
+  "publisher": "Chewa",
+  "release_date": "2022/09/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 98,
+    "Cartoony": 83,
+    "Casual": 127,
+    "Co-op": 139,
+    "Comedy": 75,
+    "Conspiracy": 72,
+    "Dark Comedy": 81,
+    "Funny": 120,
+    "Indie": 131,
+    "Multiplayer": 149,
+    "Party Game": 113,
+    "Satire": 48,
+    "Social Deduction": 135,
+    "Stealth": 60,
+    "Strategy": 86,
+    "Stylized": 77,
+    "Survival": 91,
+    "Team-Based": 105,
+    "Time Management": 53,
+    "Werewolves": 105
+  },
+  "type": "game"
 }

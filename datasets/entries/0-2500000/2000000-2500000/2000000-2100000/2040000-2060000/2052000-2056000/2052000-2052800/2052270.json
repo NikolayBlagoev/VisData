@@ -1,51 +1,64 @@
 {
-  "appid": 2052270,
-  "name": "AI WAR",
-  "developer": "DAI LIN TAO",
-  "publisher": "DAI LIN TAO",
-  "tags": {
-    "Action": 363,
-    "Simulation": 357,
-    "Action-Adventure": 333,
-    "Shooter": 328,
-    "Automobile Sim": 322,
-    "Robots": 312,
-    "Wargame": 305,
-    "Third-Person Shooter": 297,
-    "Superhero": 288,
-    "Hero Shooter": 278,
-    "3D": 267,
-    "FMV": 255,
-    "Realistic": 243,
-    "Cinematic": 230,
-    "First-Person": 215,
-    "Third Person": 213,
-    "Aliens": 196,
-    "Sniper": 178,
-    "Driving": 159,
-    "Artificial Intelligence": 139
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2052270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2052270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 10.5,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2052270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2052270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2052270,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2052270/header.jpg?t=1661143479",
+  "consensus_genre": "Action",
+  "developer": "DAI LIN TAO",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -53,18 +66,43 @@
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 10.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2052270/header.jpg?t=1661143479",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "AI WAR",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "599",
+  "publisher": "DAI LIN TAO",
+  "release_date": "2022/07/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 267,
+    "Action": 363,
+    "Action-Adventure": 333,
+    "Aliens": 196,
+    "Artificial Intelligence": 139,
+    "Automobile Sim": 322,
+    "Cinematic": 230,
+    "Driving": 159,
+    "FMV": 255,
+    "First-Person": 215,
+    "Hero Shooter": 278,
+    "Realistic": 243,
+    "Robots": 312,
+    "Shooter": 328,
+    "Simulation": 357,
+    "Sniper": 178,
+    "Superhero": 288,
+    "Third Person": 213,
+    "Third-Person Shooter": 297,
+    "Wargame": 305
+  },
+  "type": "game"
 }

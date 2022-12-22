@@ -1,66 +1,104 @@
 {
-  "appid": 2010220,
-  "name": "Slime Jumper Adventure",
-  "developer": "CARNAGE PRODUCTION STUDIOS",
-  "publisher": "CARNAGE PRODUCTION STUDIOS",
-  "tags": {
-    "2D Platformer": 176,
-    "Pixel Graphics": 170,
-    "Puzzle-Platformer": 166,
-    "Runner": 161,
-    "Platformer": 155,
-    "Casual": 150,
-    "2D": 145,
-    "Adventure": 142,
-    "Cute": 138,
-    "Funny": 113,
-    "Linear": 102,
-    "Cartoony": 100,
-    "Colorful": 87,
-    "Fantasy": 73,
-    "Family Friendly": 58,
-    "Atmospheric": 42,
-    "Cartoon": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2010220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2010220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2010220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2010220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2010220,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2010220/header.jpg?t=1654788444",
+  "consensus_genre": "Casual",
+  "developer": "CARNAGE PRODUCTION STUDIOS",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2010220/header.jpg?t=1654788444",
+  "initialprice": "199",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+  "name": "Slime Jumper Adventure",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "CARNAGE PRODUCTION STUDIOS",
+  "release_date": "2022/06/9",
+  "required_age": 0,
+  "tags": {
+    "2D": 145,
+    "2D Platformer": 176,
+    "Adventure": 142,
+    "Atmospheric": 42,
+    "Cartoon": 27,
+    "Cartoony": 100,
+    "Casual": 150,
+    "Colorful": 87,
+    "Cute": 138,
+    "Family Friendly": 58,
+    "Fantasy": 73,
+    "Funny": 113,
+    "Indie": 21,
+    "Linear": 102,
+    "Pixel Graphics": 170,
+    "Platformer": 155,
+    "Puzzle-Platformer": 166,
+    "Runner": 161,
+    "Singleplayer": 25
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 578650,
-  "name": "The Outer Worlds",
-  "developer": "Obsidian Entertainment",
-  "publisher": "Private Division",
-  "tags": {
-    "Open World": 431,
-    "Action RPG": 424,
-    "RPG": 417,
-    "Exploration": 390,
-    "FPS": 386,
-    "Adventure": 370,
-    "Singleplayer": 331,
-    "Story Rich": 316,
-    "Choices Matter": 307,
-    "First-Person": 284,
-    "Sci-fi": 282,
-    "Shooter": 272,
-    "Action": 251,
-    "Space": 251,
-    "Character Customization": 226,
-    "PvE": 219,
-    "Comedy": 163,
-    "Action-Adventure": 152,
-    "Colorful": 152,
-    "Funny": 135
+  "Average Playtime - 2 Weeks": {
+    "app_id": 578650,
+    "average_2weeks": 146,
+    "average_forever": 1072,
+    "median_2weeks": 146,
+    "median_forever": 780
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 578650,
+    "average_2weeks": 146,
+    "average_forever": 1072,
+    "median_2weeks": 146,
+    "median_forever": 780
+  },
+  "CCU Histogram": {
+    "2022-12-08": 614,
+    "2022-12-09": 633,
+    "2022-12-10": 645,
+    "2022-12-13": 978,
+    "2022-12-15": 678,
+    "2022-12-18": 746,
+    "2022-12-21": 857,
+    "2022-12-22": 754
+  },
+  "Completion": 73.19999694824219,
+  "Down 30 Days": 33,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 578650,
+    "average_2weeks": 146,
+    "average_forever": 1072,
+    "median_2weeks": 146,
+    "median_forever": 780
+  },
+  "Median Playtime - Forever": {
+    "app_id": 578650,
+    "average_2weeks": 146,
+    "average_forever": 1072,
+    "median_2weeks": 146,
+    "median_forever": 780
+  },
+  "Meta Score": "82",
+  "Rating": "ESRB M",
+  "Up 30 Days": 215,
+  "User Score": -1,
+  "appid": 578650,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -35,182 +205,50 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 17891,
-  "negative": 3100,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 803,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Portuguese - Brazil, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/10/23",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578650/header.jpg?t=1663604182",
+  "consensus_genre": "RPG",
+  "developer": "Obsidian Entertainment",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 215,
-  "Down 30 Days": 33,
-  "Completion": 73.19999694824219,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578650/header.jpg?t=1663604182",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Portuguese - Brazil, Simplified Chinese",
+  "name": "The Outer Worlds",
+  "negative": 3100,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 17891,
+  "price": "5999",
+  "publisher": "Private Division",
+  "release_date": "2020/10/23",
+  "required_age": "15",
+  "tags": {
+    "Action": 251,
+    "Action RPG": 424,
+    "Action-Adventure": 152,
+    "Adventure": 370,
+    "Character Customization": 226,
+    "Choices Matter": 307,
+    "Colorful": 152,
+    "Comedy": 163,
+    "Exploration": 390,
+    "FPS": 386,
+    "First-Person": 284,
+    "Funny": 135,
+    "Open World": 431,
+    "PvE": 219,
+    "RPG": 417,
+    "Sci-fi": 282,
+    "Shooter": 272,
+    "Singleplayer": 331,
+    "Space": 251,
+    "Story Rich": 316
+  },
+  "type": "game"
 }

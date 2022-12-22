@@ -1,84 +1,122 @@
 {
-  "appid": 1379450,
-  "name": "Turtle vs. Portal",
-  "developer": "SB Games World",
-  "publisher": "SB Games World",
-  "tags": {
-    "Adventure": 245,
-    "Cartoon": 221,
-    "Puzzle": 218,
-    "Exploration": 212,
-    "Hidden Object": 207,
-    "Platformer": 202,
-    "Point & Click": 195,
-    "Survival": 192,
-    "2D Platformer": 186,
-    "Puzzle-Platformer": 178,
-    "Runner": 174,
-    "2D": 171,
-    "Casual": 170,
-    "Anime": 165,
-    "Story Rich": 164,
-    "Emotional": 159,
-    "Cinematic": 146,
-    "Colorful": 136,
-    "Physics": 129,
-    "Tactical": 126
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1379450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1379450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 33.29999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1379450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1379450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1379450,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/08/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1379450/header.jpg?t=1622634799",
+  "consensus_genre": "Adventure",
+  "developer": "SB Games World",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 33.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1379450/header.jpg?t=1622634799",
+  "initialprice": "299",
+  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+  "name": "Turtle vs. Portal",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "299",
+  "publisher": "SB Games World",
+  "release_date": "2020/08/26",
+  "required_age": 0,
+  "tags": {
+    "2D": 171,
+    "2D Platformer": 186,
+    "Adventure": 245,
+    "Anime": 165,
+    "Cartoon": 221,
+    "Casual": 170,
+    "Cinematic": 146,
+    "Colorful": 136,
+    "Emotional": 159,
+    "Exploration": 212,
+    "Hidden Object": 207,
+    "Physics": 129,
+    "Platformer": 202,
+    "Point & Click": 195,
+    "Puzzle": 218,
+    "Puzzle-Platformer": 178,
+    "Runner": 174,
+    "Story Rich": 164,
+    "Survival": 192,
+    "Tactical": 126
+  },
+  "type": "game"
 }

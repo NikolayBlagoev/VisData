@@ -1,31 +1,201 @@
 {
-  "appid": 1240440,
-  "name": "Halo Infinite",
-  "developer": "343 Industries",
-  "publisher": "Xbox Game Studios",
-  "tags": {
-    "Free to Play": 666,
-    "FPS": 631,
-    "Multiplayer": 596,
-    "Action": 543,
-    "Shooter": 537,
-    "First-Person": 530,
-    "Singleplayer": 513,
-    "Sci-fi": 507,
-    "Open World": 490,
-    "Competitive": 442,
-    "PvP": 437,
-    "Co-op": 436,
-    "Story Rich": 417,
-    "Space": 410,
-    "Adventure": 401,
-    "Aliens": 385,
-    "Lore-Rich": 384,
-    "Atmospheric": 381,
-    "Cinematic": 374,
-    "Soundtrack": 366
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1240440,
+    "average_2weeks": 231,
+    "average_forever": 865,
+    "median_2weeks": 179,
+    "median_forever": 147
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1240440,
+    "average_2weeks": 231,
+    "average_forever": 865,
+    "median_2weeks": 179,
+    "median_forever": 147
+  },
+  "CCU Histogram": {
+    "2022-12-08": 5592,
+    "2022-12-09": 7430,
+    "2022-12-10": 5986,
+    "2022-12-13": 7338,
+    "2022-12-15": 6017,
+    "2022-12-18": 5661,
+    "2022-12-21": 5499,
+    "2022-12-22": 5785
+  },
+  "Completion": 34.39999961853027,
+  "Down 30 Days": 937,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 26,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 25,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 20,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 23,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 22,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 23,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 20,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 45,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 99,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 73,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 52,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 49,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 47,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 41,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 32,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 26,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 31,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 22,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 27,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 26,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 15,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 15,
+      "recommendations_up": 62
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 32,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 25,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 23,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 24,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 22,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 17,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 25,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 10,
+      "recommendations_up": 14
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1240440,
+    "average_2weeks": 231,
+    "average_forever": 865,
+    "median_2weeks": 179,
+    "median_forever": 147
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1240440,
+    "average_2weeks": 231,
+    "average_forever": 865,
+    "median_2weeks": 179,
+    "median_forever": 147
+  },
+  "Meta Score": "80",
+  "Rating": "ESRB T",
+  "Up 30 Days": 1186,
+  "User Score": -1,
+  "appid": 1240440,
   "categories": [
     "Multi-player",
     "Steam Achievements",
@@ -38,183 +208,51 @@
     "LAN PvP",
     "PvP"
   ],
-  "owners": "10,000,000 .. 20,000,000",
-  "positive": 106570,
-  "negative": 44095,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 4075,
-  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg?t=1668006109",
+  "consensus_genre": "Free to Play",
+  "developer": "343 Industries",
+  "discount": "0",
   "genre": [
     "Action",
     "Free to Play"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": "80",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 18,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 19,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 24,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 19,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 19,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 18,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 20,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 55,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 52,
-      "recommendations_down": 99
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 55,
-      "recommendations_down": 73
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 47,
-      "recommendations_down": 52
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 54,
-      "recommendations_down": 49
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 43,
-      "recommendations_down": 47
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 35,
-      "recommendations_down": 41
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 32,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 32,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 32,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 35,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 33,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 35,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 32,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 62,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 76,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 76,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 53,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 53,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 51,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 49,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 43,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 14,
-      "recommendations_down": 10
-    }
-  ],
-  "Up 30 Days": 1186,
-  "Down 30 Days": 937,
-  "Completion": 34.39999961853027,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg?t=1668006109",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Halo Infinite",
+  "negative": 44095,
+  "owners": "10,000,000 .. 20,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 106570,
+  "price": "0",
+  "publisher": "Xbox Game Studios",
+  "release_date": "2021/11/15",
+  "required_age": 0,
+  "tags": {
+    "Action": 543,
+    "Adventure": 401,
+    "Aliens": 385,
+    "Atmospheric": 381,
+    "Cinematic": 374,
+    "Co-op": 436,
+    "Competitive": 442,
+    "FPS": 631,
+    "First-Person": 530,
+    "Free to Play": 666,
+    "Lore-Rich": 384,
+    "Multiplayer": 596,
+    "Open World": 490,
+    "PvP": 437,
+    "Sci-fi": 507,
+    "Shooter": 537,
+    "Singleplayer": 513,
+    "Soundtrack": 366,
+    "Space": 410,
+    "Story Rich": 417
+  },
+  "type": "game"
 }

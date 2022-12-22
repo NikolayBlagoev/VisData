@@ -1,64 +1,102 @@
 {
-  "appid": 1906680,
-  "name": "Surface: Strings of Fate Collector's Edition",
-  "developer": "Elephant Games",
-  "publisher": "Big Fish Games",
-  "tags": {
-    "Hidden Object": 176,
-    "Puzzle": 170,
-    "Point & Click": 165,
-    "Female Protagonist": 161,
-    "Detective": 155,
-    "Casual": 150,
-    "Linear": 145,
-    "Story Rich": 138,
-    "Colorful": 122,
-    "Dark Fantasy": 113,
-    "Fantasy": 102,
-    "Magic": 100,
-    "Atmospheric": 87,
-    "Investigation": 73,
-    "Adventure": 62,
-    "Mystery": 58,
-    "Dark": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1906680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1906680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 1,
+    "2022-12-21": 0,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1906680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1906680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1906680,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1906680/header.jpg?t=1644948553",
+  "consensus_genre": "Casual",
+  "developer": "Elephant Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1906680/header.jpg?t=1644948553",
+  "initialprice": "1399",
+  "languages": "English",
+  "name": "Surface: Strings of Fate Collector's Edition",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1399",
+  "publisher": "Big Fish Games",
+  "release_date": "2022/02/15",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 62,
+    "Atmospheric": 87,
+    "Casual": 150,
+    "Colorful": 122,
+    "Dark": 27,
+    "Dark Fantasy": 113,
+    "Detective": 155,
+    "Fantasy": 102,
+    "Female Protagonist": 161,
+    "Hidden Object": 176,
+    "Investigation": 73,
+    "Linear": 145,
+    "Magic": 100,
+    "Mystery": 58,
+    "Point & Click": 165,
+    "Puzzle": 170,
+    "Singleplayer": 25,
+    "Story Rich": 138
+  },
+  "type": "game"
 }

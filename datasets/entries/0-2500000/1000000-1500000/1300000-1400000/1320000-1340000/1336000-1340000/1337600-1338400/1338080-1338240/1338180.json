@@ -1,31 +1,56 @@
 {
-  "appid": 1338180,
-  "name": "Dungeon Scale",
-  "developer": "Midnight Fair Games",
-  "publisher": "Midnight Fair Games",
-  "tags": {
-    "Action": 232,
-    "Adventure": 225,
-    "Casual": 222,
-    "RPG": 216,
-    "Action-Adventure": 190,
-    "Character Action Game": 180,
-    "Platformer": 174,
-    "Rogue-like": 164,
-    "2D Platformer": 158,
-    "Rogue-lite": 149,
-    "2D": 138,
-    "Pixel Graphics": 127,
-    "Funny": 124,
-    "Old School": 110,
-    "Relaxing": 95,
-    "Character Customization": 79,
-    "Local Multiplayer": 62,
-    "Multiplayer": 44,
-    "4 Player Local": 28,
-    "Controller": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1338180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1338180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1338180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1338180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1338180,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,22 +59,10 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1338180/header.jpg?t=1595894386",
+  "consensus_genre": "Action",
+  "developer": "Midnight Fair Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -57,18 +70,43 @@
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1338180/header.jpg?t=1595894386",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Dungeon Scale",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Midnight Fair Games",
+  "release_date": "2020/07/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 138,
+    "2D Platformer": 158,
+    "4 Player Local": 28,
+    "Action": 232,
+    "Action-Adventure": 190,
+    "Adventure": 225,
+    "Casual": 222,
+    "Character Action Game": 180,
+    "Character Customization": 79,
+    "Controller": 25,
+    "Funny": 124,
+    "Local Multiplayer": 62,
+    "Multiplayer": 44,
+    "Old School": 110,
+    "Pixel Graphics": 127,
+    "Platformer": 174,
+    "RPG": 216,
+    "Relaxing": 95,
+    "Rogue-like": 164,
+    "Rogue-lite": 149
+  },
+  "type": "game"
 }

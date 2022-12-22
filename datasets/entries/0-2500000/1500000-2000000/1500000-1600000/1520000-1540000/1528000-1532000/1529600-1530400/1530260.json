@@ -1,66 +1,104 @@
 {
-  "appid": 1530260,
-  "name": "Zahhak",
-  "developer": "Pedro Henrique Baretta",
-  "publisher": "Pedro Henrique Baretta",
-  "tags": {
-    "Action": 196,
-    "Arcade": 170,
-    "Platformer": 166,
-    "Shooter": 162,
-    "2D Platformer": 156,
-    "Side Scroller": 146,
-    "2D": 138,
-    "Pixel Graphics": 130,
-    "Crime": 122,
-    "Dark": 113,
-    "Old School": 102,
-    "Combat": 100,
-    "Linear": 87,
-    "Singleplayer": 73,
-    "Shoot 'Em Up": 57,
-    "1980s": 41,
-    "America": 27,
-    "Retro": 26,
-    "Indie": 21,
-    "Nudity": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1530260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1530260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1530260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1530260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1530260,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1530260/header.jpg?t=1632785431",
+  "consensus_genre": "Action",
+  "developer": "Pedro Henrique Baretta",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1530260/header.jpg?t=1632785431",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Zahhak",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Pedro Henrique Baretta",
+  "release_date": "2021/05/7",
+  "required_age": 0,
+  "tags": {
+    "1980s": 41,
+    "2D": 138,
+    "2D Platformer": 156,
+    "Action": 196,
+    "America": 27,
+    "Arcade": 170,
+    "Combat": 100,
+    "Crime": 122,
+    "Dark": 113,
+    "Indie": 21,
+    "Linear": 87,
+    "Nudity": 21,
+    "Old School": 102,
+    "Pixel Graphics": 130,
+    "Platformer": 166,
+    "Retro": 26,
+    "Shoot 'Em Up": 57,
+    "Shooter": 162,
+    "Side Scroller": 146,
+    "Singleplayer": 73
+  },
+  "type": "game"
 }

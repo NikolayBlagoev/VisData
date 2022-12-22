@@ -1,214 +1,252 @@
 {
-  "appid": 382140,
-  "name": "SKYHILL",
-  "developer": "Mandragora",
-  "publisher": "Daedalic Entertainment",
-  "tags": {
-    "Survival": 121,
-    "Action Roguelike": 104,
-    "Adventure": 100,
-    "Indie": 92,
-    "Post-apocalyptic": 81,
-    "Rogue-like": 75,
-    "Simulation": 64,
-    "RPG": 55,
-    "Zombies": 55,
-    "2D": 48,
-    "Atmospheric": 46,
-    "Singleplayer": 44,
-    "Crafting": 37,
-    "Horror": 37,
-    "Point & Click": 37,
-    "Action": 33,
-    "Difficult": 26,
-    "Replay Value": 25,
-    "Turn-Based Combat": 25,
-    "Side Scroller": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 382140,
+    "average_2weeks": 64,
+    "average_forever": 393,
+    "median_2weeks": 64,
+    "median_forever": 243
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 382140,
+    "average_2weeks": 64,
+    "average_forever": 393,
+    "median_2weeks": 64,
+    "median_forever": 243
+  },
+  "CCU Histogram": {
+    "2022-12-08": 123,
+    "2022-12-09": 85,
+    "2022-12-10": 69,
+    "2022-12-13": 74,
+    "2022-12-15": 60,
+    "2022-12-18": 43,
+    "2022-12-21": 30,
+    "2022-12-22": 28
+  },
+  "Completion": 70.0999984741211,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 382140,
+    "average_2weeks": 64,
+    "average_forever": 393,
+    "median_2weeks": 64,
+    "median_forever": 243
+  },
+  "Median Playtime - Forever": {
+    "app_id": 382140,
+    "average_2weeks": 64,
+    "average_forever": 393,
+    "median_2weeks": 64,
+    "median_forever": 243
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 32,
+  "User Score": -1,
+  "appid": 382140,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3035,
-  "negative": 904,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 59,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/10/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/382140/header.jpg?t=1642455822",
+  "consensus_genre": "Adventure",
+  "developer": "Mandragora",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 32,
-  "Down 30 Days": 5,
-  "Completion": 70.0999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/382140/header.jpg?t=1642455822",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Turkish",
+  "name": "SKYHILL",
+  "negative": 904,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3035,
+  "price": "999",
+  "publisher": "Daedalic Entertainment",
+  "release_date": "2015/10/6",
+  "required_age": 0,
+  "tags": {
+    "2D": 48,
+    "Action": 33,
+    "Action Roguelike": 104,
+    "Adventure": 100,
+    "Atmospheric": 46,
+    "Crafting": 37,
+    "Difficult": 26,
+    "Horror": 37,
+    "Indie": 92,
+    "Point & Click": 37,
+    "Post-apocalyptic": 81,
+    "RPG": 55,
+    "Replay Value": 25,
+    "Rogue-like": 75,
+    "Side Scroller": 20,
+    "Simulation": 64,
+    "Singleplayer": 44,
+    "Survival": 121,
+    "Turn-Based Combat": 25,
+    "Zombies": 55
+  },
+  "type": "game"
 }

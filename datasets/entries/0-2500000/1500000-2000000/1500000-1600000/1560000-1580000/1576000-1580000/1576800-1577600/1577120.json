@@ -1,31 +1,201 @@
 {
-  "appid": 1577120,
-  "name": "The Quarry",
-  "developer": "Supermassive Games",
-  "publisher": "2K Games",
-  "tags": {
-    "Choices Matter": 246,
-    "Horror": 204,
-    "Multiple Endings": 181,
-    "Multiplayer": 179,
-    "Cinematic": 140,
-    "Quick-Time Events": 105,
-    "Gore": 90,
-    "Thriller": 89,
-    "Adventure": 82,
-    "Violent": 82,
-    "Realistic": 71,
-    "Singleplayer": 68,
-    "Story Rich": 66,
-    "Survival Horror": 66,
-    "Narrative": 64,
-    "Perma Death": 60,
-    "Nudity": 59,
-    "Blood": 57,
-    "Sexual Content": 56,
-    "Psychological Horror": 37
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1577120,
+    "average_2weeks": 0,
+    "average_forever": 512,
+    "median_2weeks": 0,
+    "median_forever": 427
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1577120,
+    "average_2weeks": 0,
+    "average_forever": 512,
+    "median_2weeks": 0,
+    "median_forever": 427
+  },
+  "CCU Histogram": {
+    "2022-12-08": 298,
+    "2022-12-09": 329,
+    "2022-12-10": 329,
+    "2022-12-13": 343,
+    "2022-12-15": 257,
+    "2022-12-18": 347,
+    "2022-12-21": 321,
+    "2022-12-22": 256
+  },
+  "Completion": 37.29999923706055,
+  "Down 30 Days": 53,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 5,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 5,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 5,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1577120,
+    "average_2weeks": 0,
+    "average_forever": 512,
+    "median_2weeks": 0,
+    "median_forever": 427
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1577120,
+    "average_2weeks": 0,
+    "average_forever": 512,
+    "median_2weeks": 0,
+    "median_forever": 427
+  },
+  "Meta Score": "79",
+  "Rating": "ESRB M",
+  "Up 30 Days": 385,
+  "User Score": -1,
+  "appid": 1577120,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -35,182 +205,50 @@
     "Full controller support",
     "Shared/Split Screen Co-op"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 5279,
-  "negative": 1744,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 349,
-  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Traditional Chinese, Turkish, Dutch",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/9",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1577120/header.jpg?t=1666631297",
+  "consensus_genre": "Adventure",
+  "developer": "Supermassive Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "79",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 11,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 35,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 64,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 36,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 29,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 30,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 40,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 28,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 385,
-  "Down 30 Days": 53,
-  "Completion": 37.29999923706055,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1577120/header.jpg?t=1666631297",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Traditional Chinese, Turkish, Dutch",
+  "name": "The Quarry",
+  "negative": 1744,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5279,
+  "price": "5999",
+  "publisher": "2K Games",
+  "release_date": "2022/06/9",
+  "required_age": "18",
+  "tags": {
+    "Adventure": 82,
+    "Blood": 57,
+    "Choices Matter": 246,
+    "Cinematic": 140,
+    "Gore": 90,
+    "Horror": 204,
+    "Multiplayer": 179,
+    "Multiple Endings": 181,
+    "Narrative": 64,
+    "Nudity": 59,
+    "Perma Death": 60,
+    "Psychological Horror": 37,
+    "Quick-Time Events": 105,
+    "Realistic": 71,
+    "Sexual Content": 56,
+    "Singleplayer": 68,
+    "Story Rich": 66,
+    "Survival Horror": 66,
+    "Thriller": 89,
+    "Violent": 82
+  },
+  "type": "game"
 }

@@ -1,73 +1,111 @@
 {
-  "appid": 1338360,
-  "name": "Color Security",
-  "developer": "TposeSoftware",
-  "publisher": "TposeSoftware",
-  "tags": {
-    "Casual": 179,
-    "Difficult": 173,
-    "Collectathon": 169,
-    "Fast-Paced": 164,
-    "Arcade": 158,
-    "Singleplayer": 150,
-    "Survival": 147,
-    "Isometric": 142,
-    "PvE": 137,
-    "Runner": 132,
-    "Colorful": 127,
-    "Hacking": 124,
-    "Realistic": 120,
-    "3D": 116,
-    "Tutorial": 109,
-    "Top-Down": 107,
-    "Sci-fi": 100,
-    "Pirates": 95,
-    "World War II": 88,
-    "Medieval": 86
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1338360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1338360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 91.9000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1338360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1338360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 1338360,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 5,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Italian, Romanian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1338360/header.jpg?t=1638473459",
+  "consensus_genre": "Casual",
+  "developer": "TposeSoftware",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 0,
-  "Completion": 91.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1338360/header.jpg?t=1638473459",
+  "initialprice": "0",
+  "languages": "English, Italian, Romanian",
+  "name": "Color Security",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5,
+  "price": "0",
+  "publisher": "TposeSoftware",
+  "release_date": "2020/09/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 116,
+    "Arcade": 158,
+    "Casual": 179,
+    "Collectathon": 169,
+    "Colorful": 127,
+    "Difficult": 173,
+    "Fast-Paced": 164,
+    "Hacking": 124,
+    "Isometric": 142,
+    "Medieval": 86,
+    "Pirates": 95,
+    "PvE": 137,
+    "Realistic": 120,
+    "Runner": 132,
+    "Sci-fi": 100,
+    "Singleplayer": 150,
+    "Survival": 147,
+    "Top-Down": 107,
+    "Tutorial": 109,
+    "World War II": 88
+  },
+  "type": "game"
 }

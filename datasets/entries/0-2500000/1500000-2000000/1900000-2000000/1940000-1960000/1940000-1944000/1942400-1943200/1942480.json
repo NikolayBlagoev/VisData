@@ -1,63 +1,101 @@
 {
-  "appid": 1942480,
-  "name": "Cursed Fables: White as Snow Collector's Edition",
-  "developer": "Elephant Games AR",
-  "publisher": "Big Fish Games",
-  "tags": {
-    "Hidden Object": 160,
-    "Puzzle": 154,
-    "Point & Click": 149,
-    "Female Protagonist": 145,
-    "Detective": 139,
-    "Casual": 135,
-    "Linear": 129,
-    "Story Rich": 122,
-    "Colorful": 107,
-    "Dark Fantasy": 97,
-    "Fantasy": 95,
-    "Magic": 83,
-    "Atmospheric": 70,
-    "Investigation": 56,
-    "Adventure": 47,
-    "Mystery": 41,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1942480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1942480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1942480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1942480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1942480,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1942480/header.jpg?t=1648051793",
+  "consensus_genre": "Casual",
+  "developer": "Elephant Games AR",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1942480/header.jpg?t=1648051793",
+  "initialprice": "1399",
+  "languages": "English",
+  "name": "Cursed Fables: White as Snow Collector's Edition",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1399",
+  "publisher": "Big Fish Games",
+  "release_date": "2022/03/23",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 47,
+    "Atmospheric": 70,
+    "Casual": 135,
+    "Colorful": 107,
+    "Dark Fantasy": 97,
+    "Detective": 139,
+    "Fantasy": 95,
+    "Female Protagonist": 145,
+    "Hidden Object": 160,
+    "Investigation": 56,
+    "Linear": 129,
+    "Magic": 83,
+    "Mystery": 41,
+    "Point & Click": 149,
+    "Puzzle": 154,
+    "Singleplayer": 25,
+    "Story Rich": 122
+  },
+  "type": "game"
 }

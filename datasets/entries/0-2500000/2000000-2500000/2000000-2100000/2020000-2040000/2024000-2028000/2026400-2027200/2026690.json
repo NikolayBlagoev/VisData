@@ -1,60 +1,98 @@
 {
-  "appid": 2026690,
-  "name": "A toad well travelled",
-  "developer": "Friday Night Software",
-  "publisher": "Friday Night Software",
-  "tags": {
-    "Action": 69,
-    "Casual": 63,
-    "Education": 40,
-    "Platformer": 37,
-    "2D Platformer": 34,
-    "Side Scroller": 28,
-    "Hand-drawn": 26,
-    "Stylized": 24,
-    "Atmospheric": 22,
-    "Adventure": 21,
-    "Nature": 20,
-    "Linear": 18,
-    "Singleplayer": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2026690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2026690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2026690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2026690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2026690,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2026690/header.jpg?t=1667174135",
+  "consensus_genre": "Action",
+  "developer": "Friday Night Software",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2026690/header.jpg?t=1667174135",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "A toad well travelled",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "Friday Night Software",
+  "release_date": "2022/07/3",
+  "required_age": 0,
+  "tags": {
+    "2D Platformer": 34,
+    "Action": 69,
+    "Adventure": 21,
+    "Atmospheric": 22,
+    "Casual": 63,
+    "Education": 40,
+    "Hand-drawn": 26,
+    "Linear": 18,
+    "Nature": 20,
+    "Platformer": 37,
+    "Side Scroller": 28,
+    "Singleplayer": 16,
+    "Stylized": 24
+  },
+  "type": "game"
 }

@@ -1,51 +1,209 @@
 {
-  "appid": 2088570,
-  "name": "Tiny Rogues",
-  "developer": "RubyDev",
-  "publisher": "RubyDev",
-  "tags": {
-    "Action Roguelike": 201,
-    "Bullet Hell": 193,
-    "Top-Down Shooter": 191,
-    "Difficult": 185,
-    "Replay Value": 181,
-    "Dungeon Crawler": 175,
-    "Action-Adventure": 172,
-    "Top-Down": 168,
-    "Rogue-like": 166,
-    "1980s": 165,
-    "Rogue-lite": 164,
-    "Adventure": 155,
-    "Fantasy": 153,
-    "RPG": 141,
-    "Singleplayer": 140,
-    "Pixel Graphics": 128,
-    "Combat": 108,
-    "Early Access": 90,
-    "2D": 81,
-    "Indie": 69
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2088570,
+    "average_2weeks": 130,
+    "average_forever": 435,
+    "median_2weeks": 234,
+    "median_forever": 528
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2088570,
+    "average_2weeks": 130,
+    "average_forever": 435,
+    "median_2weeks": 234,
+    "median_forever": 528
+  },
+  "CCU Histogram": {
+    "2022-12-08": 448,
+    "2022-12-09": 448,
+    "2022-12-10": 457,
+    "2022-12-13": 455,
+    "2022-12-15": 308,
+    "2022-12-18": 266,
+    "2022-12-21": 281,
+    "2022-12-22": 269
+  },
+  "Completion": 66.04999923706055,
+  "Down 30 Days": 17,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 78
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2088570,
+    "average_2weeks": 130,
+    "average_forever": 435,
+    "median_2weeks": 234,
+    "median_forever": 528
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2088570,
+    "average_2weeks": 130,
+    "average_forever": 435,
+    "median_2weeks": 234,
+    "median_forever": 528
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 799,
+  "User Score": -1,
+  "appid": 2088570,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 908,
-  "negative": 19,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 810,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2088570/header.jpg?t=1664204203",
+  "consensus_genre": "Adventure",
+  "developer": "RubyDev",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,163 +211,43 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 26,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 38,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 25,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 24,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 26,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 49,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 78,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 51,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 38,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 64,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 56,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 55,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 799,
-  "Down 30 Days": 17,
-  "Completion": 66.04999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2088570/header.jpg?t=1664204203",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Tiny Rogues",
+  "negative": 19,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 908,
+  "price": "599",
+  "publisher": "RubyDev",
+  "release_date": "2022/09/23",
+  "required_age": 0,
+  "tags": {
+    "1980s": 165,
+    "2D": 81,
+    "Action Roguelike": 201,
+    "Action-Adventure": 172,
+    "Adventure": 155,
+    "Bullet Hell": 193,
+    "Combat": 108,
+    "Difficult": 185,
+    "Dungeon Crawler": 175,
+    "Early Access": 90,
+    "Fantasy": 153,
+    "Indie": 69,
+    "Pixel Graphics": 128,
+    "RPG": 141,
+    "Replay Value": 181,
+    "Rogue-like": 166,
+    "Rogue-lite": 164,
+    "Singleplayer": 140,
+    "Top-Down": 168,
+    "Top-Down Shooter": 191
+  },
+  "type": "game"
 }

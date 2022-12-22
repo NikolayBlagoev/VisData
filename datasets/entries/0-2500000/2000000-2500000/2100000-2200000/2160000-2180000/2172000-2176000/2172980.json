@@ -1,118 +1,156 @@
 {
-  "appid": 2172980,
-  "name": "Fading Light: Antiworld",
-  "developer": "Suplife Games",
-  "publisher": "Suplife Games",
-  "tags": {
-    "Dark Fantasy": 243,
-    "VR": 237,
-    "Supernatural": 233,
-    "Survival Horror": 229,
-    "Psychological Horror": 226,
-    "Investigation": 220,
-    "Demons": 217,
-    "Horror": 213,
-    "First-Person": 204,
-    "Immersive Sim": 194,
-    "Thriller": 183,
-    "Strategy": 173,
-    "Survival": 171,
-    "Adventure": 169,
-    "Battle Royale": 166,
-    "Choose Your Own Adventure": 163,
-    "Story Rich": 146,
-    "Puzzle": 128,
-    "3D Vision": 109,
-    "Drama": 89,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2172980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2172980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2172980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2172980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 5,
+  "User Score": -1,
+  "appid": 2172980,
   "categories": [
     "Single-player"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2172980/header.jpg?t=1667034328",
+  "consensus_genre": "Strategy",
+  "developer": "Suplife Games",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 5,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2172980/header.jpg?t=1667034328",
+  "initialprice": "999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Simplified Chinese",
+  "name": "Fading Light: Antiworld",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "999",
+  "publisher": "Suplife Games",
+  "release_date": "2022/10/24",
+  "required_age": 0,
+  "tags": {
+    "3D Vision": 109,
+    "Adventure": 169,
+    "Battle Royale": 166,
+    "Choose Your Own Adventure": 163,
+    "Dark Fantasy": 243,
+    "Demons": 217,
+    "Drama": 89,
+    "First-Person": 204,
+    "Horror": 213,
+    "Immersive Sim": 194,
+    "Investigation": 220,
+    "Psychological Horror": 226,
+    "Puzzle": 128,
+    "Story Rich": 146,
+    "Strategy": 173,
+    "Supernatural": 233,
+    "Survival": 171,
+    "Survival Horror": 229,
+    "Thriller": 183,
+    "VR": 237,
+    "VR Only": 1
+  },
+  "type": "game"
 }

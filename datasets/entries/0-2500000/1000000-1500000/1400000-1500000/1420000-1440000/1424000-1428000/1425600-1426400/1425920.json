@@ -1,50 +1,63 @@
 {
-  "appid": 1425920,
-  "name": "Crazy Engineer",
-  "developer": "MaGames",
-  "publisher": "MaGames",
-  "tags": {
-    "Action": 196,
-    "Casual": 190,
-    "Simulation": 186,
-    "Arcade": 160,
-    "Building": 156,
-    "Base-Building": 145,
-    "Sandbox": 139,
-    "3D Platformer": 129,
-    "3D": 122,
-    "Colorful": 113,
-    "First-Person": 102,
-    "Realistic": 100,
-    "Crafting": 87,
-    "Story Rich": 72,
-    "Choices Matter": 57,
-    "Multiple Endings": 42,
-    "Open World": 27,
-    "Singleplayer": 25,
-    "Indie": 20,
-    "Strategy": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1425920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1425920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1425920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1425920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1425920,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1425920/header.jpg?t=1637940642",
+  "consensus_genre": "Action",
+  "developer": "MaGames",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -52,18 +65,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1425920/header.jpg?t=1637940642",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Crazy Engineer",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "MaGames",
+  "release_date": "2020/12/3",
+  "required_age": 0,
+  "tags": {
+    "3D": 122,
+    "3D Platformer": 129,
+    "Action": 196,
+    "Arcade": 160,
+    "Base-Building": 145,
+    "Building": 156,
+    "Casual": 190,
+    "Choices Matter": 57,
+    "Colorful": 113,
+    "Crafting": 87,
+    "First-Person": 102,
+    "Indie": 20,
+    "Multiple Endings": 42,
+    "Open World": 27,
+    "Realistic": 100,
+    "Sandbox": 139,
+    "Simulation": 186,
+    "Singleplayer": 25,
+    "Story Rich": 72,
+    "Strategy": 20
+  },
+  "type": "game"
 }

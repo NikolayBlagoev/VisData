@@ -1,31 +1,201 @@
 {
-  "appid": 985890,
-  "name": "Streets of Rage 4",
-  "developer": "Dotemu, Guard Crush, Lizardcube",
-  "publisher": "Dotemu, Yooreka Studio (Greater China)",
-  "tags": {
-    "Action": 295,
-    "Indie": 246,
-    "Beat 'em up": 221,
-    "2D": 113,
-    "Fighting": 102,
-    "Online Co-Op": 87,
-    "Arcade": 82,
-    "Local Multiplayer": 81,
-    "Great Soundtrack": 76,
-    "Side Scroller": 72,
-    "Multiplayer": 67,
-    "Adventure": 65,
-    "Retro": 64,
-    "Local Co-Op": 61,
-    "Classic": 53,
-    "Hand-drawn": 53,
-    "Casual": 49,
-    "Co-op": 49,
-    "Co-op Campaign": 49,
-    "Colorful": 36
+  "Average Playtime - 2 Weeks": {
+    "app_id": 985890,
+    "average_2weeks": 0,
+    "average_forever": 530,
+    "median_2weeks": 0,
+    "median_forever": 340
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 985890,
+    "average_2weeks": 0,
+    "average_forever": 530,
+    "median_2weeks": 0,
+    "median_forever": 340
+  },
+  "CCU Histogram": {
+    "2022-12-08": 168,
+    "2022-12-09": 170,
+    "2022-12-10": 177,
+    "2022-12-13": 156,
+    "2022-12-15": 147,
+    "2022-12-18": 177,
+    "2022-12-21": 168,
+    "2022-12-22": 145
+  },
+  "Completion": 56.79999923706055,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 985890,
+    "average_2weeks": 0,
+    "average_forever": 530,
+    "median_2weeks": 0,
+    "median_forever": 340
+  },
+  "Median Playtime - Forever": {
+    "app_id": 985890,
+    "average_2weeks": 0,
+    "average_forever": 530,
+    "median_2weeks": 0,
+    "median_forever": 340
+  },
+  "Meta Score": "84",
+  "Rating": "ESRB T",
+  "Up 30 Days": 117,
+  "User Score": -1,
+  "appid": 985890,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,183 +215,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 13499,
-  "negative": 1103,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 132,
-  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/04/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/985890/header.jpg?t=1667214113",
+  "consensus_genre": "Action",
+  "developer": "Dotemu, Guard Crush, Lizardcube",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "84",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 117,
-  "Down 30 Days": 8,
-  "Completion": 56.79999923706055,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/985890/header.jpg?t=1667214113",
+  "initialprice": "2499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian, Ukrainian",
+  "name": "Streets of Rage 4",
+  "negative": 1103,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 13499,
+  "price": "2499",
+  "publisher": "Dotemu, Yooreka Studio (Greater China)",
+  "release_date": "2020/04/30",
+  "required_age": 0,
+  "tags": {
+    "2D": 113,
+    "Action": 295,
+    "Adventure": 65,
+    "Arcade": 82,
+    "Beat 'em up": 221,
+    "Casual": 49,
+    "Classic": 53,
+    "Co-op": 49,
+    "Co-op Campaign": 49,
+    "Colorful": 36,
+    "Fighting": 102,
+    "Great Soundtrack": 76,
+    "Hand-drawn": 53,
+    "Indie": 246,
+    "Local Co-Op": 61,
+    "Local Multiplayer": 81,
+    "Multiplayer": 67,
+    "Online Co-Op": 87,
+    "Retro": 64,
+    "Side Scroller": 72
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 859570,
-  "name": "Secret Neighbor: Hello Neighbor Multiplayer",
-  "developer": "Hologryph, Eerie Guest Studios",
-  "publisher": "tinyBuild",
-  "tags": {
-    "Horror": 457,
-    "Multiplayer": 456,
-    "Online Co-Op": 432,
-    "PvP": 416,
-    "Co-op": 410,
-    "Cartoony": 397,
-    "First-Person": 392,
-    "Survival Horror": 390,
-    "Stealth": 384,
-    "Adventure": 374,
-    "Family Friendly": 366,
-    "Mystery": 352,
-    "Colorful": 344,
-    "Funny": 339,
-    "Action": 320,
-    "Indie": 318,
-    "Puzzle": 153,
-    "Thriller": 137,
-    "Casual": 119,
-    "Comedy": 108
+  "Average Playtime - 2 Weeks": {
+    "app_id": 859570,
+    "average_2weeks": 22,
+    "average_forever": 469,
+    "median_2weeks": 40,
+    "median_forever": 256
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 859570,
+    "average_2weeks": 22,
+    "average_forever": 469,
+    "median_2weeks": 40,
+    "median_forever": 256
+  },
+  "CCU Histogram": {
+    "2022-12-08": 556,
+    "2022-12-09": 697,
+    "2022-12-10": 635,
+    "2022-12-13": 394,
+    "2022-12-15": 221,
+    "2022-12-18": 421,
+    "2022-12-21": 296,
+    "2022-12-22": 271
+  },
+  "Completion": 11.549999713897705,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 859570,
+    "average_2weeks": 22,
+    "average_forever": 469,
+    "median_2weeks": 40,
+    "median_forever": 256
+  },
+  "Median Playtime - Forever": {
+    "app_id": 859570,
+    "average_2weeks": 22,
+    "average_forever": 469,
+    "median_2weeks": 40,
+    "median_forever": 256
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 140,
+  "User Score": -1,
+  "appid": 859570,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -39,184 +209,52 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12849,
-  "negative": 1852,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 282,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Italian, Turkish, Vietnamese, Polish, Portuguese - Portugal",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/10/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/859570/header.jpg?t=1666893570",
+  "consensus_genre": "Adventure",
+  "developer": "Hologryph, Eerie Guest Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 140,
-  "Down 30 Days": 14,
-  "Completion": 11.549999713897705,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/859570/header.jpg?t=1666893570",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Italian, Turkish, Vietnamese, Polish, Portuguese - Portugal",
+  "name": "Secret Neighbor: Hello Neighbor Multiplayer",
+  "negative": 1852,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12849,
+  "price": "1999",
+  "publisher": "tinyBuild",
+  "release_date": "2019/10/24",
+  "required_age": 0,
+  "tags": {
+    "Action": 320,
+    "Adventure": 374,
+    "Cartoony": 397,
+    "Casual": 119,
+    "Co-op": 410,
+    "Colorful": 344,
+    "Comedy": 108,
+    "Family Friendly": 366,
+    "First-Person": 392,
+    "Funny": 339,
+    "Horror": 457,
+    "Indie": 318,
+    "Multiplayer": 456,
+    "Mystery": 352,
+    "Online Co-Op": 432,
+    "Puzzle": 153,
+    "PvP": 416,
+    "Stealth": 384,
+    "Survival Horror": 390,
+    "Thriller": 137
+  },
+  "type": "game"
 }

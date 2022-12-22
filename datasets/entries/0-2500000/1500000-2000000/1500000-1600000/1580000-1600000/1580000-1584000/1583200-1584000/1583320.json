@@ -1,26 +1,201 @@
 {
-  "appid": 1583320,
-  "name": "Pro Soccer Online",
-  "developer": "Skywall Studios LLC",
-  "publisher": "Skywall Studios LLC",
-  "tags": {
-    "Sports": 78,
-    "e-sports": 47,
-    "3D": 45,
-    "Real Time Tactics": 44,
-    "Soccer": 43,
-    "First-Person": 39,
-    "Multiplayer": 37,
-    "Third Person": 34,
-    "Early Access": 33,
-    "Football": 29,
-    "Character Customization": 26,
-    "Team-Based": 25,
-    "PvP": 24,
-    "Competitive": 21,
-    "Action": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1583320,
+    "average_2weeks": 1099,
+    "average_forever": 1443,
+    "median_2weeks": 1099,
+    "median_forever": 359
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1583320,
+    "average_2weeks": 1099,
+    "average_forever": 1443,
+    "median_2weeks": 1099,
+    "median_forever": 359
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1233,
+    "2022-12-09": 1191,
+    "2022-12-10": 890,
+    "2022-12-13": 1189,
+    "2022-12-15": 1427,
+    "2022-12-18": 3173,
+    "2022-12-21": 2843,
+    "2022-12-22": 2874
+  },
+  "Completion": 53.5,
+  "Down 30 Days": 23,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1583320,
+    "average_2weeks": 1099,
+    "average_forever": 1443,
+    "median_2weeks": 1099,
+    "median_forever": 359
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1583320,
+    "average_2weeks": 1099,
+    "average_forever": 1443,
+    "median_2weeks": 1099,
+    "median_forever": 359
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 343,
+  "User Score": -1,
+  "appid": 1583320,
   "categories": [
     "Multi-player",
     "Stats",
@@ -29,183 +204,46 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3957,
-  "negative": 442,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 618,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1583320/header.jpg?t=1637000414",
+  "consensus_genre": "Sports",
+  "developer": "Skywall Studios LLC",
+  "discount": "0",
   "genre": [
     "Sports",
     "Early Access"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 18,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 34,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 343,
-  "Down 30 Days": 23,
-  "Completion": 53.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1583320/header.jpg?t=1637000414",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Pro Soccer Online",
+  "negative": 442,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3957,
+  "price": "999",
+  "publisher": "Skywall Studios LLC",
+  "release_date": "2021/11/15",
+  "required_age": 0,
+  "tags": {
+    "3D": 45,
+    "Action": 5,
+    "Character Customization": 26,
+    "Competitive": 21,
+    "Early Access": 33,
+    "First-Person": 39,
+    "Football": 29,
+    "Multiplayer": 37,
+    "PvP": 24,
+    "Real Time Tactics": 44,
+    "Soccer": 43,
+    "Sports": 78,
+    "Team-Based": 25,
+    "Third Person": 34,
+    "e-sports": 47
+  },
+  "type": "game"
 }

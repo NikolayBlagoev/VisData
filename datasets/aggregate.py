@@ -205,14 +205,6 @@ def get_ownership_counts(raw):
 
 
 # ========== STEAMSPY DATA ==========
-def _compute_genre_set(steam_data) -> set[str]:
-    genre_set = set()
-    for game in steam_data:
-        for genre in game["genre"]:
-            genre_set.add(genre)
-    return genre_set
-    
-
 def get_stats_steamspy_static():
     # Gather all data points together
     STEAMSPY_STATIC_DATA_PATH = path.join(getcwd(), "steamspy", "static_data")
@@ -255,7 +247,7 @@ def get_stats_steamspy_static_per_genre():
     # Compute set of all genres for use as keys in stats dict
     with open("data_set.json") as steam_data_file:
         steam_data = json.load(steam_data_file)
-    genre_set = _compute_genre_set(steam_data)
+    genre_set = utils.compute_genre_set(steam_data)
 
     # Acquire genre info on per game basis
     STEAMSPY_STATIC_DATA_PATH = path.join(getcwd(), "steamspy", "static_data")
@@ -300,7 +292,7 @@ def get_stats_steamspy_ccu_per_genre():
     # Compute set of all genres for use as keys in stats dict
     with open("data_set.json") as steam_data_file:
         steam_data = json.load(steam_data_file)
-    genre_set = _compute_genre_set(steam_data)
+    genre_set = utils.compute_genre_set(steam_data)
 
     # Enumerate collected dates
     STEAMSPY_DATA_PATH = path.join(getcwd(), "steamspy")
@@ -338,6 +330,7 @@ def get_stats_steamspy_ccu_per_genre():
             "80th": np.percentile(dp_arr, 80), "90th": np.percentile(dp_arr, 90), "99th": np.percentile(dp_arr, 99)}
             aggregates[genre][date] = dp_aggregates
 
+    # Interpolate missing middle dates if desired
     if INTERPOLATE_DATES:
         # Find earliest and latest start dates to interpolate values only within that range
         dates = []

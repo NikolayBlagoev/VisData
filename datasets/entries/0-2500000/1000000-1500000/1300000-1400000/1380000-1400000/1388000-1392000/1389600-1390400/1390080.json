@@ -1,70 +1,108 @@
 {
-  "appid": 1390080,
-  "name": "Tank Rampage",
-  "developer": "targim.",
-  "publisher": "targim.",
-  "tags": {
-    "Retro": 152,
-    "Spectacle fighter": 146,
-    "Massively Multiplayer": 143,
-    "Arcade": 139,
-    "Tanks": 136,
-    "PvP": 130,
-    "Wargame": 128,
-    "Team-Based": 125,
-    "Arena Shooter": 120,
-    "Combat": 114,
-    "Action": 112,
-    "Shooter": 109,
-    "Multiplayer": 100,
-    "Top-Down": 90,
-    "3D": 83,
-    "Combat Racing": 80,
-    "Minimalist": 78,
-    "Military": 70,
-    "Atmospheric": 62,
-    "Old School": 55
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1390080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1390080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1390080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1390080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1390080,
   "categories": [
     "Multi-player",
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1390080/header.jpg?t=1621685933",
+  "consensus_genre": "Massively Multiplayer",
+  "developer": "targim.",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Massively Multiplayer",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1390080/header.jpg?t=1621685933",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Tank Rampage",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "399",
+  "publisher": "targim.",
+  "release_date": "2021/02/11",
+  "required_age": 0,
+  "tags": {
+    "3D": 83,
+    "Action": 112,
+    "Arcade": 139,
+    "Arena Shooter": 120,
+    "Atmospheric": 62,
+    "Combat": 114,
+    "Combat Racing": 80,
+    "Massively Multiplayer": 143,
+    "Military": 70,
+    "Minimalist": 78,
+    "Multiplayer": 100,
+    "Old School": 55,
+    "PvP": 130,
+    "Retro": 152,
+    "Shooter": 109,
+    "Spectacle fighter": 146,
+    "Tanks": 136,
+    "Team-Based": 125,
+    "Top-Down": 90,
+    "Wargame": 128
+  },
+  "type": "game"
 }

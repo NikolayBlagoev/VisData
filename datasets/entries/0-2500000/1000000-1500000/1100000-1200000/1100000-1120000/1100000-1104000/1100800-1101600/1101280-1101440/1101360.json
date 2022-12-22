@@ -1,31 +1,201 @@
 {
-  "appid": 1101360,
-  "name": "Rock of Ages 3: Make & Break",
-  "developer": "ACE Team, Giant Monkey Robot",
-  "publisher": "Modus Games, 3goo",
-  "tags": {
-    "Strategy": 224,
-    "Action": 218,
-    "Racing": 212,
-    "Indie": 211,
-    "Comedy": 210,
-    "Funny": 203,
-    "Destruction": 197,
-    "Multiplayer": 187,
-    "Adventure": 180,
-    "Casual": 176,
-    "Puzzle": 171,
-    "Turn-Based Strategy": 162,
-    "Arcade": 148,
-    "Third Person": 143,
-    "Cartoony": 139,
-    "Surreal": 137,
-    "Building": 129,
-    "PvP": 118,
-    "Level Editor": 112,
-    "Tower Defense": 110
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1101360,
+    "average_2weeks": 0,
+    "average_forever": 127,
+    "median_2weeks": 0,
+    "median_forever": 124
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1101360,
+    "average_2weeks": 0,
+    "average_forever": 127,
+    "median_2weeks": 0,
+    "median_forever": 124
+  },
+  "CCU Histogram": {
+    "2022-12-08": 18,
+    "2022-12-09": 13,
+    "2022-12-10": 14,
+    "2022-12-13": 17,
+    "2022-12-15": 9,
+    "2022-12-18": 11,
+    "2022-12-21": 10,
+    "2022-12-22": 13
+  },
+  "Completion": 47.55000114440918,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1101360,
+    "average_2weeks": 0,
+    "average_forever": 127,
+    "median_2weeks": 0,
+    "median_forever": 124
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1101360,
+    "average_2weeks": 0,
+    "average_forever": 127,
+    "median_2weeks": 0,
+    "median_forever": 124
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1101360,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,185 +209,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 580,
-  "negative": 213,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 14,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1101360/header.jpg?t=1599239331",
+  "consensus_genre": "Strategy",
+  "developer": "ACE Team, Giant Monkey Robot",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Racing",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 2,
-  "Completion": 47.55000114440918,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1101360/header.jpg?t=1599239331",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+  "name": "Rock of Ages 3: Make & Break",
+  "negative": 213,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 580,
+  "price": "2999",
+  "publisher": "Modus Games, 3goo",
+  "release_date": "2020/07/21",
+  "required_age": 0,
+  "tags": {
+    "Action": 218,
+    "Adventure": 180,
+    "Arcade": 148,
+    "Building": 129,
+    "Cartoony": 139,
+    "Casual": 176,
+    "Comedy": 210,
+    "Destruction": 197,
+    "Funny": 203,
+    "Indie": 211,
+    "Level Editor": 112,
+    "Multiplayer": 187,
+    "Puzzle": 171,
+    "PvP": 118,
+    "Racing": 212,
+    "Strategy": 224,
+    "Surreal": 137,
+    "Third Person": 143,
+    "Tower Defense": 110,
+    "Turn-Based Strategy": 162
+  },
+  "type": "game"
 }

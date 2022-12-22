@@ -1,215 +1,253 @@
 {
-  "appid": 1544360,
-  "name": "LEGO Builder's Journey",
-  "developer": "Light Brick Studio",
-  "publisher": "LEGO\u00ae Games",
-  "tags": {
-    "Exploration": 280,
-    "Precision Platformer": 273,
-    "Puzzle-Platformer": 270,
-    "Puzzle": 266,
-    "Point & Click": 262,
-    "Strategy": 256,
-    "Isometric": 252,
-    "Cute": 249,
-    "LEGO": 240,
-    "Relaxing": 238,
-    "Story Rich": 236,
-    "Casual": 231,
-    "Abstract": 229,
-    "Colorful": 227,
-    "Minimalist": 223,
-    "Stylized": 214,
-    "Family Friendly": 212,
-    "Building": 206,
-    "Emotional": 202,
-    "Physics": 201
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1544360,
+    "average_2weeks": 6,
+    "average_forever": 69,
+    "median_2weeks": 6,
+    "median_forever": 105
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1544360,
+    "average_2weeks": 6,
+    "average_forever": 69,
+    "median_2weeks": 6,
+    "median_forever": 105
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 8,
+    "2022-12-10": 8,
+    "2022-12-13": 5,
+    "2022-12-15": 2,
+    "2022-12-18": 9,
+    "2022-12-21": 10,
+    "2022-12-22": 12
+  },
+  "Completion": 90.55000305175781,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1544360,
+    "average_2weeks": 6,
+    "average_forever": 69,
+    "median_2weeks": 6,
+    "median_forever": 105
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1544360,
+    "average_2weeks": 6,
+    "average_forever": 69,
+    "median_2weeks": 6,
+    "median_forever": 105
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 51,
+  "User Score": -1,
+  "appid": 1544360,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2134,
-  "negative": 454,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Danish, Dutch, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1544360/header.jpg?t=1666708190",
+  "consensus_genre": "Casual",
+  "developer": "Light Brick Studio",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 51,
-  "Down 30 Days": 10,
-  "Completion": 90.55000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1544360/header.jpg?t=1666708190",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Danish, Dutch, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+  "name": "LEGO Builder's Journey",
+  "negative": 454,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2134,
+  "price": "1999",
+  "publisher": "LEGO\u00ae Games",
+  "release_date": "2021/06/22",
+  "required_age": 0,
+  "tags": {
+    "Abstract": 229,
+    "Building": 206,
+    "Casual": 231,
+    "Colorful": 227,
+    "Cute": 249,
+    "Emotional": 202,
+    "Exploration": 280,
+    "Family Friendly": 212,
+    "Isometric": 252,
+    "LEGO": 240,
+    "Minimalist": 223,
+    "Physics": 201,
+    "Point & Click": 262,
+    "Precision Platformer": 273,
+    "Puzzle": 266,
+    "Puzzle-Platformer": 270,
+    "Relaxing": 238,
+    "Story Rich": 236,
+    "Strategy": 256,
+    "Stylized": 214
+  },
+  "type": "game"
 }

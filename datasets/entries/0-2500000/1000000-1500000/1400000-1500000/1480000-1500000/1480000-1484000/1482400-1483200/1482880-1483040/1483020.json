@@ -1,69 +1,107 @@
 {
-  "appid": 1483020,
-  "name": "Redneck Rift",
-  "developer": "Floor Chicken",
-  "publisher": "Floor Chicken",
-  "tags": {
-    "2D Platformer": 257,
-    "Precision Platformer": 251,
-    "Difficult": 248,
-    "Pixel Graphics": 244,
-    "Singleplayer": 238,
-    "Old School": 228,
-    "Platformer": 221,
-    "Action": 215,
-    "Metroidvania": 213,
-    "Retro": 209,
-    "2D": 198,
-    "Adventure": 188,
-    "Side Scroller": 184,
-    "Stylized": 171,
-    "Shoot 'Em Up": 154,
-    "Score Attack": 139,
-    "Linear": 122,
-    "Dark Humor": 104,
-    "Time Travel": 85,
-    "Unforgiving": 67
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1483020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1483020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 79.14999961853027,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1483020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1483020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1483020,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1483020/header.jpg?t=1661085633",
+  "consensus_genre": "Action",
+  "developer": "Floor Chicken",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 79.14999961853027,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1483020/header.jpg?t=1661085633",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Redneck Rift",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Floor Chicken",
+  "release_date": "2022/07/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 198,
+    "2D Platformer": 257,
+    "Action": 215,
+    "Adventure": 188,
+    "Dark Humor": 104,
+    "Difficult": 248,
+    "Linear": 122,
+    "Metroidvania": 213,
+    "Old School": 228,
+    "Pixel Graphics": 244,
+    "Platformer": 221,
+    "Precision Platformer": 251,
+    "Retro": 209,
+    "Score Attack": 139,
+    "Shoot 'Em Up": 154,
+    "Side Scroller": 184,
+    "Singleplayer": 238,
+    "Stylized": 171,
+    "Time Travel": 85,
+    "Unforgiving": 67
+  },
+  "type": "game"
 }

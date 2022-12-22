@@ -1,68 +1,106 @@
 {
-  "appid": 2083960,
-  "name": "Students of Psionic Power",
-  "developer": "Yakuentei",
-  "publisher": "Yakuentei",
-  "tags": {
-    "Typing": 130,
-    "JRPG": 124,
-    "Character Customization": 121,
-    "CRPG": 118,
-    "Party-Based RPG": 115,
-    "RPG": 108,
-    "Cute": 106,
-    "Anime": 104,
-    "2D": 101,
-    "Colorful": 96,
-    "Surreal": 90,
-    "Psychological": 86,
-    "Sci-fi": 81,
-    "Modern": 79,
-    "Hack and Slash": 75,
-    "Inventory Management": 72,
-    "Tutorial": 67,
-    "Action": 59,
-    "Singleplayer": 51,
-    "Indie": 49
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2083960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2083960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 1,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 40.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2083960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2083960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2083960,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2083960/header.jpg?t=1664009635",
+  "consensus_genre": "RPG",
+  "developer": "Yakuentei",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 40.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2083960/header.jpg?t=1664009635",
+  "initialprice": "799",
+  "languages": "English, Japanese",
+  "name": "Students of Psionic Power",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "799",
+  "publisher": "Yakuentei",
+  "release_date": "2022/08/16",
+  "required_age": 0,
+  "tags": {
+    "2D": 101,
+    "Action": 59,
+    "Anime": 104,
+    "CRPG": 118,
+    "Character Customization": 121,
+    "Colorful": 96,
+    "Cute": 106,
+    "Hack and Slash": 75,
+    "Indie": 49,
+    "Inventory Management": 72,
+    "JRPG": 124,
+    "Modern": 79,
+    "Party-Based RPG": 115,
+    "Psychological": 86,
+    "RPG": 108,
+    "Sci-fi": 81,
+    "Singleplayer": 51,
+    "Surreal": 90,
+    "Tutorial": 67,
+    "Typing": 130
+  },
+  "type": "game"
 }

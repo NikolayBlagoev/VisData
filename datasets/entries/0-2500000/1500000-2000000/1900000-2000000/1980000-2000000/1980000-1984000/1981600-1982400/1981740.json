@@ -1,52 +1,80 @@
 {
-  "appid": 1981740,
-  "name": "Palmas",
-  "developer": "palmasandpazu",
-  "publisher": "palmasandpazu",
-  "tags": {
-    "Action": 327,
-    "Shooter": 321,
-    "Relaxing": 317,
-    "PvP": 314,
-    "Funny": 311,
-    "Turn-Based Combat": 303,
-    "Cartoony": 299,
-    "Comedy": 295,
-    "Combat": 292,
-    "Hero Shooter": 284,
-    "RPG": 279,
-    "Indie": 277,
-    "Adventure": 273,
-    "Fantasy": 271,
-    "Racing": 269,
-    "Casual": 256,
-    "First-Person": 244,
-    "Massively Multiplayer": 235,
-    "FPS": 233,
-    "Sports": 222
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1981740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1981740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1981740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1981740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1981740,
   "categories": [
     "Multi-player",
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1981740/header.jpg?t=1658465310",
+  "consensus_genre": "Action",
+  "developer": "palmasandpazu",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -56,33 +84,43 @@
     "Racing",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1981740/header.jpg?t=1658465310",
+  "initialprice": "499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+  "name": "Palmas",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "499",
+  "publisher": "palmasandpazu",
+  "release_date": "2022/05/18",
+  "required_age": 0,
+  "tags": {
+    "Action": 327,
+    "Adventure": 273,
+    "Cartoony": 299,
+    "Casual": 256,
+    "Combat": 292,
+    "Comedy": 295,
+    "FPS": 233,
+    "Fantasy": 271,
+    "First-Person": 244,
+    "Funny": 311,
+    "Hero Shooter": 284,
+    "Indie": 277,
+    "Massively Multiplayer": 235,
+    "PvP": 314,
+    "RPG": 279,
+    "Racing": 269,
+    "Relaxing": 317,
+    "Shooter": 321,
+    "Sports": 222,
+    "Turn-Based Combat": 303
+  },
+  "type": "game"
 }

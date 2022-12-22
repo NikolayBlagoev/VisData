@@ -1,31 +1,201 @@
 {
-  "appid": 412830,
-  "name": "STEINS;GATE",
-  "developer": "MAGES. Inc.",
-  "publisher": "Spike Chunsoft Co., Ltd.",
-  "tags": {
-    "Visual Novel": 595,
-    "Story Rich": 491,
-    "Anime": 469,
-    "Time Travel": 435,
-    "Sci-fi": 377,
-    "Great Soundtrack": 325,
-    "Multiple Endings": 302,
-    "Choices Matter": 213,
-    "Singleplayer": 190,
-    "Science": 186,
-    "Adventure": 166,
-    "Atmospheric": 156,
-    "Mystery": 148,
-    "Romance": 141,
-    "Thriller": 135,
-    "Psychological Horror": 127,
-    "Memes": 79,
-    "Dating Sim": 68,
-    "Horror": 45,
-    "Casual": 40
+  "Average Playtime - 2 Weeks": {
+    "app_id": 412830,
+    "average_2weeks": 1,
+    "average_forever": 1186,
+    "median_2weeks": 1,
+    "median_forever": 458
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 412830,
+    "average_2weeks": 1,
+    "average_forever": 1186,
+    "median_2weeks": 1,
+    "median_forever": 458
+  },
+  "CCU Histogram": {
+    "2022-12-08": 200,
+    "2022-12-09": 180,
+    "2022-12-10": 171,
+    "2022-12-13": 149,
+    "2022-12-15": 154,
+    "2022-12-18": 150,
+    "2022-12-21": 128,
+    "2022-12-22": 165
+  },
+  "Completion": 56.29999923706055,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 412830,
+    "average_2weeks": 1,
+    "average_forever": 1186,
+    "median_2weeks": 1,
+    "median_forever": 458
+  },
+  "Median Playtime - Forever": {
+    "app_id": 412830,
+    "average_2weeks": 1,
+    "average_forever": 1186,
+    "median_2weeks": 1,
+    "median_forever": 458
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 175,
+  "User Score": -1,
+  "appid": 412830,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -35,182 +205,50 @@
     "Remote Play on Phone",
     "Remote Play on Tablet"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12901,
-  "negative": 330,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 84,
-  "languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/09/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/412830/header.jpg?t=1604014646",
+  "consensus_genre": "Adventure",
+  "developer": "MAGES. Inc.",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 175,
-  "Down 30 Days": 4,
-  "Completion": 56.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/412830/header.jpg?t=1604014646",
+  "initialprice": "2999",
+  "languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
+  "name": "STEINS;GATE",
+  "negative": 330,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12901,
+  "price": "2999",
+  "publisher": "Spike Chunsoft Co., Ltd.",
+  "release_date": "2016/09/8",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 166,
+    "Anime": 469,
+    "Atmospheric": 156,
+    "Casual": 40,
+    "Choices Matter": 213,
+    "Dating Sim": 68,
+    "Great Soundtrack": 325,
+    "Horror": 45,
+    "Memes": 79,
+    "Multiple Endings": 302,
+    "Mystery": 148,
+    "Psychological Horror": 127,
+    "Romance": 141,
+    "Sci-fi": 377,
+    "Science": 186,
+    "Singleplayer": 190,
+    "Story Rich": 491,
+    "Thriller": 135,
+    "Time Travel": 435,
+    "Visual Novel": 595
+  },
+  "type": "game"
 }

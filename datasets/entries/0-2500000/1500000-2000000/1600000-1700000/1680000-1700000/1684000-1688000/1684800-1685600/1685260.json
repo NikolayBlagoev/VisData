@@ -1,53 +1,66 @@
 {
-  "appid": 1685260,
-  "name": "Asdivine Saga",
-  "developer": "Exe Create Inc.",
-  "publisher": "KEMCO",
-  "tags": {
-    "RPG": 196,
-    "Story Rich": 170,
-    "JRPG": 166,
-    "Party-Based RPG": 161,
-    "Singleplayer": 155,
-    "Visual Novel": 144,
-    "Anime": 138,
-    "Pixel Graphics": 131,
-    "Old School": 122,
-    "Fantasy": 113,
-    "Magic": 102,
-    "Character Customization": 99,
-    "Controller": 87,
-    "Turn-Based Combat": 73,
-    "Adventure": 62,
-    "Multiple Endings": 58,
-    "Turn-Based Tactics": 26,
-    "Choose Your Own Adventure": 24,
-    "Indie": 21,
-    "Casual": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1685260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1685260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 1,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 63.30000114440918,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1685260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1685260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1685260,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685260/header.jpg?t=1654235025",
+  "consensus_genre": "RPG",
+  "developer": "Exe Create Inc.",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -55,18 +68,43 @@
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 63.30000114440918,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1685260/header.jpg?t=1654235025",
+  "initialprice": "1499",
+  "languages": "English, Japanese",
+  "name": "Asdivine Saga",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "KEMCO",
+  "release_date": "2021/09/29",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 62,
+    "Anime": 138,
+    "Casual": 20,
+    "Character Customization": 99,
+    "Choose Your Own Adventure": 24,
+    "Controller": 87,
+    "Fantasy": 113,
+    "Indie": 21,
+    "JRPG": 166,
+    "Magic": 102,
+    "Multiple Endings": 58,
+    "Old School": 122,
+    "Party-Based RPG": 161,
+    "Pixel Graphics": 131,
+    "RPG": 196,
+    "Singleplayer": 155,
+    "Story Rich": 170,
+    "Turn-Based Combat": 73,
+    "Turn-Based Tactics": 26,
+    "Visual Novel": 144
+  },
+  "type": "game"
 }

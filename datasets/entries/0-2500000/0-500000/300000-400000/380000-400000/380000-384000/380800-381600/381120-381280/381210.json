@@ -1,31 +1,201 @@
 {
-  "appid": 381210,
-  "name": "Dead by Daylight",
-  "developer": "Behaviour Interactive Inc.",
-  "publisher": "Behaviour Interactive Inc.",
-  "tags": {
-    "Horror": 39864,
-    "Survival Horror": 9160,
-    "Multiplayer": 9038,
-    "Online Co-Op": 6930,
-    "Survival": 6631,
-    "Co-op": 6630,
-    "Gore": 6580,
-    "Blood": 6529,
-    "Team-Based": 6524,
-    "Stealth": 6519,
-    "Third Person": 6506,
-    "Violent": 6484,
-    "First-Person": 6473,
-    "Psychological Horror": 6454,
-    "Action": 6419,
-    "Atmospheric": 6392,
-    "Strategy": 2054,
-    "Comedy": 1960,
-    "Mature": 1766,
-    "Difficult": 1461
+  "Average Playtime - 2 Weeks": {
+    "app_id": 381210,
+    "average_2weeks": 727,
+    "average_forever": 9303,
+    "median_2weeks": 218,
+    "median_forever": 1554
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 381210,
+    "average_2weeks": 727,
+    "average_forever": 9303,
+    "median_2weeks": 218,
+    "median_forever": 1554
+  },
+  "CCU Histogram": {
+    "2022-12-08": 37854,
+    "2022-12-09": 34155,
+    "2022-12-10": 44892,
+    "2022-12-13": 44983,
+    "2022-12-15": 35174,
+    "2022-12-18": 40805,
+    "2022-12-21": 37610,
+    "2022-12-22": 34981
+  },
+  "Completion": 39.0,
+  "Down 30 Days": 754,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 19,
+      "recommendations_up": 149
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 21,
+      "recommendations_up": 131
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 24,
+      "recommendations_up": 113
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 28,
+      "recommendations_up": 142
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 28,
+      "recommendations_up": 126
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 17,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 21,
+      "recommendations_up": 88
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 19,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 17,
+      "recommendations_up": 92
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 16,
+      "recommendations_up": 99
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 25,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 20,
+      "recommendations_up": 103
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 19,
+      "recommendations_up": 89
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 26,
+      "recommendations_up": 92
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 17,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 26,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 20,
+      "recommendations_up": 72
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 29,
+      "recommendations_up": 91
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 21,
+      "recommendations_up": 96
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 16,
+      "recommendations_up": 82
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 47,
+      "recommendations_up": 420
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 32,
+      "recommendations_up": 642
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 52,
+      "recommendations_up": 522
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 36,
+      "recommendations_up": 382
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 33,
+      "recommendations_up": 371
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 37,
+      "recommendations_up": 370
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 23,
+      "recommendations_up": 305
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 36,
+      "recommendations_up": 253
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 29,
+      "recommendations_up": 203
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 381210,
+    "average_2weeks": 727,
+    "average_forever": 9303,
+    "median_2weeks": 218,
+    "median_forever": 1554
+  },
+  "Median Playtime - Forever": {
+    "app_id": 381210,
+    "average_2weeks": 727,
+    "average_forever": 9303,
+    "median_2weeks": 218,
+    "median_forever": 1554
+  },
+  "Meta Score": "71",
+  "Rating": "ESRB M",
+  "Up 30 Days": 5486,
+  "User Score": -1,
+  "appid": 381210,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -41,182 +211,50 @@
     "Remote Play on TV",
     "PvP"
   ],
-  "owners": "10,000,000 .. 20,000,000",
-  "positive": 509637,
-  "negative": 116397,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 43211,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Portuguese - Brazil, Thai, Traditional Chinese, Japanese, Korean, Polish, Spanish - Latin America, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/06/14",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1666892376",
+  "consensus_genre": "Action",
+  "developer": "Behaviour Interactive Inc.",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "71",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 149,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 131,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 113,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 142,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 126,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 108,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 88,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 75,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 92,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 99,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 102,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 103,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 89,
-      "recommendations_down": 19
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 92,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 84,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 84,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 72,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 91,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 96,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 82,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 420,
-      "recommendations_down": 47
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 642,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 522,
-      "recommendations_down": 52
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 382,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 371,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 370,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 305,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 253,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 203,
-      "recommendations_down": 29
-    }
-  ],
-  "Up 30 Days": 5486,
-  "Down 30 Days": 754,
-  "Completion": 39.0,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1666892376",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Portuguese - Brazil, Thai, Traditional Chinese, Japanese, Korean, Polish, Spanish - Latin America, Turkish",
+  "name": "Dead by Daylight",
+  "negative": 116397,
+  "owners": "10,000,000 .. 20,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 509637,
+  "price": "1999",
+  "publisher": "Behaviour Interactive Inc.",
+  "release_date": "2016/06/14",
+  "required_age": "15",
+  "tags": {
+    "Action": 6419,
+    "Atmospheric": 6392,
+    "Blood": 6529,
+    "Co-op": 6630,
+    "Comedy": 1960,
+    "Difficult": 1461,
+    "First-Person": 6473,
+    "Gore": 6580,
+    "Horror": 39864,
+    "Mature": 1766,
+    "Multiplayer": 9038,
+    "Online Co-Op": 6930,
+    "Psychological Horror": 6454,
+    "Stealth": 6519,
+    "Strategy": 2054,
+    "Survival": 6631,
+    "Survival Horror": 9160,
+    "Team-Based": 6524,
+    "Third Person": 6506,
+    "Violent": 6484
+  },
+  "type": "game"
 }

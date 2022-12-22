@@ -1,31 +1,56 @@
 {
-  "appid": 1768810,
-  "name": "TRIBAL \"The 12 Gates\"",
-  "developer": "Tribal.Games",
-  "publisher": "Digital Media One, Clan Corrallo Studios",
-  "tags": {
-    "RPG": 475,
-    "Strategy": 469,
-    "God Game": 446,
-    "RTS": 443,
-    "Strategy RPG": 440,
-    "Action RTS": 433,
-    "CRPG": 431,
-    "Real Time Tactics": 429,
-    "2D": 423,
-    "Colorful": 414,
-    "Cute": 410,
-    "Building": 408,
-    "Family Friendly": 406,
-    "Fantasy": 404,
-    "Logic": 402,
-    "Magic": 400,
-    "Management": 397,
-    "Medieval": 388,
-    "Survival": 369,
-    "Tactical": 367
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1768810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1768810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1768810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1768810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1768810,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,22 +63,10 @@
     "LAN Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 10,
-  "negative": 0,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/04/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1768810/header.jpg?t=1649912513",
+  "consensus_genre": "RPG",
+  "developer": "Tribal.Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Massively Multiplayer",
@@ -61,18 +74,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1768810/header.jpg?t=1649912513",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "TRIBAL \"The 12 Gates\"",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 10,
+  "price": "2499",
+  "publisher": "Digital Media One, Clan Corrallo Studios",
+  "release_date": "2022/04/13",
+  "required_age": 0,
+  "tags": {
+    "2D": 423,
+    "Action RTS": 433,
+    "Building": 408,
+    "CRPG": 431,
+    "Colorful": 414,
+    "Cute": 410,
+    "Family Friendly": 406,
+    "Fantasy": 404,
+    "God Game": 446,
+    "Logic": 402,
+    "Magic": 400,
+    "Management": 397,
+    "Medieval": 388,
+    "RPG": 475,
+    "RTS": 443,
+    "Real Time Tactics": 429,
+    "Strategy": 469,
+    "Strategy RPG": 440,
+    "Survival": 369,
+    "Tactical": 367
+  },
+  "type": "game"
 }

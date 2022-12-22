@@ -1,68 +1,106 @@
 {
-  "appid": 1588300,
-  "name": "Tower Alchemy",
-  "developer": "Mischief &amp; Mayhem Studios",
-  "publisher": "Mischief &amp; Mayhem Studios",
-  "tags": {
-    "2D": 253,
-    "Tower Defense": 248,
-    "Crafting": 241,
-    "Management": 236,
-    "Colorful": 230,
-    "Fantasy": 221,
-    "Steampunk": 214,
-    "Magic": 206,
-    "Resource Management": 196,
-    "Strategy": 196,
-    "Medieval": 187,
-    "Building": 166,
-    "Casual": 154,
-    "Puzzle": 150,
-    "Top-Down": 136,
-    "Science": 120,
-    "Combat": 103,
-    "Grid-Based Movement": 84,
-    "Level Editor": 66,
-    "Stylized": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1588300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1588300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 90.9000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1588300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1588300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1588300,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Steam Achievements"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1588300/header.jpg?t=1635743114",
+  "consensus_genre": "Strategy",
+  "developer": "Mischief &amp; Mayhem Studios",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 90.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1588300/header.jpg?t=1635743114",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Tower Alchemy",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "699",
+  "publisher": "Mischief &amp; Mayhem Studios",
+  "release_date": "2021/10/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 253,
+    "Building": 166,
+    "Casual": 154,
+    "Colorful": 230,
+    "Combat": 103,
+    "Crafting": 241,
+    "Fantasy": 221,
+    "Grid-Based Movement": 84,
+    "Level Editor": 66,
+    "Magic": 206,
+    "Management": 236,
+    "Medieval": 187,
+    "Puzzle": 150,
+    "Resource Management": 196,
+    "Science": 120,
+    "Steampunk": 214,
+    "Strategy": 196,
+    "Stylized": 46,
+    "Top-Down": 136,
+    "Tower Defense": 248
+  },
+  "type": "game"
 }

@@ -1,68 +1,106 @@
 {
-  "appid": 1231720,
-  "name": "Freedom Isn't Free \u8d44\u672c\u4e4b\u4e71",
-  "developer": "Pardinus",
-  "publisher": "Pardinus",
-  "tags": {
-    "Action": 31,
-    "Indie": 31,
-    "Violent": 31,
-    "Gore": 30,
-    "Bullet Hell": 12,
-    "Top-Down Shooter": 12,
-    "Arcade": 11,
-    "Blood": 11,
-    "Cartoony": 11,
-    "Cyberpunk": 11,
-    "Difficult": 11,
-    "Fast-Paced": 11,
-    "Great Soundtrack": 11,
-    "Replay Value": 11,
-    "Sci-fi": 11,
-    "Shooter": 11,
-    "Retro": 10,
-    "Shoot 'Em Up": 10,
-    "Singleplayer": 10,
-    "Classic": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1231720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1231720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 52.900001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1231720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1231720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1231720,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2020/04/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1231720/header.jpg?t=1585874764",
+  "consensus_genre": "Action",
+  "developer": "Pardinus",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 52.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1231720/header.jpg?t=1585874764",
+  "initialprice": "499",
+  "languages": "English, French, German, Spanish - Spain, Russian, Turkish, Japanese, Polish, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Korean",
+  "name": "Freedom Isn't Free \u8d44\u672c\u4e4b\u4e71",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Pardinus",
+  "release_date": "2020/04/2",
+  "required_age": 0,
+  "tags": {
+    "Action": 31,
+    "Arcade": 11,
+    "Blood": 11,
+    "Bullet Hell": 12,
+    "Cartoony": 11,
+    "Classic": 9,
+    "Cyberpunk": 11,
+    "Difficult": 11,
+    "Fast-Paced": 11,
+    "Gore": 30,
+    "Great Soundtrack": 11,
+    "Indie": 31,
+    "Replay Value": 11,
+    "Retro": 10,
+    "Sci-fi": 11,
+    "Shoot 'Em Up": 10,
+    "Shooter": 11,
+    "Singleplayer": 10,
+    "Top-Down Shooter": 12,
+    "Violent": 31
+  },
+  "type": "game"
 }

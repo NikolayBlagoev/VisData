@@ -1,58 +1,96 @@
 {
-  "appid": 759040,
-  "name": "Planet Guardian VR",
-  "developer": "Shy Robot Games",
-  "publisher": "Shy Robot Games",
-  "tags": {
-    "Action": 41,
-    "Early Access": 41,
-    "VR": 28,
-    "Casual": 20,
-    "Family Friendly": 20,
-    "Fast-Paced": 20,
-    "Indie": 20,
-    "Procedural Generation": 20,
-    "Singleplayer": 20,
-    "Space": 20,
-    "Atmospheric": 10,
-    "Puzzle": 9
+  "Average Playtime - 2 Weeks": {
+    "app_id": 759040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 759040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 759040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 759040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 759040,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/01/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/759040/header.jpg?t=1517134470",
+  "consensus_genre": "Action",
+  "developer": "Shy Robot Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/759040/header.jpg?t=1517134470",
+  "initialprice": "899",
+  "languages": "English",
+  "name": "Planet Guardian VR",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "899",
+  "publisher": "Shy Robot Games",
+  "release_date": "2018/01/23",
+  "required_age": 0,
+  "tags": {
+    "Action": 41,
+    "Atmospheric": 10,
+    "Casual": 20,
+    "Early Access": 41,
+    "Family Friendly": 20,
+    "Fast-Paced": 20,
+    "Indie": 20,
+    "Procedural Generation": 20,
+    "Puzzle": 9,
+    "Singleplayer": 20,
+    "Space": 20,
+    "VR": 28
+  },
+  "type": "game"
 }

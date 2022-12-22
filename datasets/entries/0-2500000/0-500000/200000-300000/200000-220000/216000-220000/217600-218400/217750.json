@@ -1,51 +1,209 @@
 {
-  "appid": 217750,
-  "name": "Age of Conan: Unchained",
-  "developer": "Funcom",
-  "publisher": "Funcom",
-  "tags": {
-    "Free to Play": 287,
-    "Massively Multiplayer": 240,
-    "RPG": 236,
-    "Action": 232,
-    "Adventure": 229,
-    "MMORPG": 221,
-    "Multiplayer": 214,
-    "Nudity": 213,
-    "Fantasy": 206,
-    "Mature": 202,
-    "Gore": 198,
-    "Sexual Content": 195,
-    "Combat": 192,
-    "Action RPG": 185,
-    "Hack and Slash": 179,
-    "Story Rich": 172,
-    "Third Person": 172,
-    "Swordplay": 161,
-    "PvE": 158,
-    "PvP": 144
+  "Average Playtime - 2 Weeks": {
+    "app_id": 217750,
+    "average_2weeks": 50,
+    "average_forever": 1242,
+    "median_2weeks": 50,
+    "median_forever": 119
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 217750,
+    "average_2weeks": 50,
+    "average_forever": 1242,
+    "median_2weeks": 50,
+    "median_forever": 119
+  },
+  "CCU Histogram": {
+    "2022-12-08": 50,
+    "2022-12-09": 70,
+    "2022-12-10": 67,
+    "2022-12-13": 65,
+    "2022-12-15": 58,
+    "2022-12-18": 64,
+    "2022-12-21": 62,
+    "2022-12-22": 70
+  },
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 217750,
+    "average_2weeks": 50,
+    "average_forever": 1242,
+    "median_2weeks": 50,
+    "median_forever": 119
+  },
+  "Median Playtime - Forever": {
+    "app_id": 217750,
+    "average_2weeks": 50,
+    "average_forever": 1242,
+    "median_2weeks": 50,
+    "median_forever": 119
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 13,
+  "User Score": -1,
+  "appid": 217750,
   "categories": [
     "Multi-player",
     "MMO"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 1558,
-  "negative": 692,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 39,
-  "languages": "English, German, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2013/02/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217750/header.jpg?t=1666788475",
+  "consensus_genre": "Free to Play",
+  "developer": "Funcom",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -53,163 +211,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 13,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217750/header.jpg?t=1666788475",
+  "initialprice": "0",
+  "languages": "English, German, French",
+  "name": "Age of Conan: Unchained",
+  "negative": 692,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1558,
+  "price": "0",
+  "publisher": "Funcom",
+  "release_date": "2013/02/22",
+  "required_age": 0,
+  "tags": {
+    "Action": 232,
+    "Action RPG": 185,
+    "Adventure": 229,
+    "Combat": 192,
+    "Fantasy": 206,
+    "Free to Play": 287,
+    "Gore": 198,
+    "Hack and Slash": 179,
+    "MMORPG": 221,
+    "Massively Multiplayer": 240,
+    "Mature": 202,
+    "Multiplayer": 214,
+    "Nudity": 213,
+    "PvE": 158,
+    "PvP": 144,
+    "RPG": 236,
+    "Sexual Content": 195,
+    "Story Rich": 172,
+    "Swordplay": 161,
+    "Third Person": 172
+  },
+  "type": "game"
 }

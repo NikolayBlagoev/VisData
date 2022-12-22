@@ -1,31 +1,201 @@
 {
-  "appid": 921570,
-  "name": "OCTOPATH TRAVELER",
-  "developer": "Square Enix, ACQUIRE Corp.",
-  "publisher": "Square Enix",
-  "tags": {
-    "RPG": 388,
-    "JRPG": 347,
-    "Turn-Based": 294,
-    "Pixel Graphics": 287,
-    "Story Rich": 267,
-    "Turn-Based Combat": 212,
-    "Singleplayer": 205,
-    "Great Soundtrack": 167,
-    "Open World": 124,
-    "Strategy": 123,
-    "Adventure": 105,
-    "2.5D": 89,
-    "Choices Matter": 89,
-    "Multiple Endings": 88,
-    "Anime": 81,
-    "Sandbox": 56,
-    "Casual": 53,
-    "Management": 43,
-    "Simulation": 24,
-    "Heist": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 921570,
+    "average_2weeks": 0,
+    "average_forever": 1664,
+    "median_2weeks": 0,
+    "median_forever": 1293
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 921570,
+    "average_2weeks": 0,
+    "average_forever": 1664,
+    "median_2weeks": 0,
+    "median_forever": 1293
+  },
+  "CCU Histogram": {
+    "2022-12-08": 390,
+    "2022-12-09": 298,
+    "2022-12-10": 283,
+    "2022-12-13": 352,
+    "2022-12-15": 207,
+    "2022-12-18": 483,
+    "2022-12-21": 929,
+    "2022-12-22": 1128
+  },
+  "Completion": 62.29999923706055,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 921570,
+    "average_2weeks": 0,
+    "average_forever": 1664,
+    "median_2weeks": 0,
+    "median_forever": 1293
+  },
+  "Median Playtime - Forever": {
+    "app_id": 921570,
+    "average_2weeks": 0,
+    "average_forever": 1664,
+    "median_2weeks": 0,
+    "median_forever": 1293
+  },
+  "Meta Score": "80",
+  "Rating": "ESRB T",
+  "Up 30 Days": 77,
+  "User Score": -1,
+  "appid": 921570,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -36,182 +206,50 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 9790,
-  "negative": 1551,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 489,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Traditional Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/06/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/921570/header.jpg?t=1663152377",
+  "consensus_genre": "RPG",
+  "developer": "Square Enix, ACQUIRE Corp.",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "80",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 77,
-  "Down 30 Days": 7,
-  "Completion": 62.29999923706055,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/921570/header.jpg?t=1663152377",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Traditional Chinese, Korean",
+  "name": "OCTOPATH TRAVELER",
+  "negative": 1551,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9790,
+  "price": "5999",
+  "publisher": "Square Enix",
+  "release_date": "2019/06/7",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 89,
+    "Adventure": 105,
+    "Anime": 81,
+    "Casual": 53,
+    "Choices Matter": 89,
+    "Great Soundtrack": 167,
+    "Heist": 16,
+    "JRPG": 347,
+    "Management": 43,
+    "Multiple Endings": 88,
+    "Open World": 124,
+    "Pixel Graphics": 287,
+    "RPG": 388,
+    "Sandbox": 56,
+    "Simulation": 24,
+    "Singleplayer": 205,
+    "Story Rich": 267,
+    "Strategy": 123,
+    "Turn-Based": 294,
+    "Turn-Based Combat": 212
+  },
+  "type": "game"
 }

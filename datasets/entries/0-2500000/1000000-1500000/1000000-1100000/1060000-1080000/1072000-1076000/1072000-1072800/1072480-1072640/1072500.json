@@ -1,31 +1,201 @@
 {
-  "appid": 1072500,
-  "name": "AO Tennis 2",
-  "developer": "Big Ant Studios",
-  "publisher": "Nacon",
-  "tags": {
-    "Sports": 263,
-    "Tennis": 258,
-    "Multiplayer": 255,
-    "Character Customization": 252,
-    "Action": 248,
-    "Simulation": 241,
-    "Arcade": 235,
-    "Realistic": 235,
-    "Top-Down": 230,
-    "Management": 225,
-    "PvP": 216,
-    "Physics": 207,
-    "Artificial Intelligence": 199,
-    "Level Editor": 197,
-    "Resource Management": 189,
-    "Conversation": 184,
-    "Co-op": 182,
-    "Local Co-Op": 179,
-    "Online Co-Op": 176,
-    "Singleplayer": 171
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1072500,
+    "average_2weeks": 0,
+    "average_forever": 633,
+    "median_2weeks": 0,
+    "median_forever": 823
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1072500,
+    "average_2weeks": 0,
+    "average_forever": 633,
+    "median_2weeks": 0,
+    "median_forever": 823
+  },
+  "CCU Histogram": {
+    "2022-12-08": 35,
+    "2022-12-09": 31,
+    "2022-12-10": 41,
+    "2022-12-13": 35,
+    "2022-12-15": 33,
+    "2022-12-18": 26,
+    "2022-12-21": 33,
+    "2022-12-22": 20
+  },
+  "Completion": 68.04999923706055,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1072500,
+    "average_2weeks": 0,
+    "average_forever": 633,
+    "median_2weeks": 0,
+    "median_forever": 823
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1072500,
+    "average_2weeks": 0,
+    "average_forever": 633,
+    "median_2weeks": 0,
+    "median_forever": 823
+  },
+  "Meta Score": "65",
+  "Rating": "ESRB E",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1072500,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -42,182 +212,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 756,
-  "negative": 349,
-  "price": "4999",
-  "initialprice": "4999",
-  "discount": "0",
   "ccu": 34,
-  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Polish, Portuguese - Brazil, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/01/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1072500/header.jpg?t=1667360982",
+  "consensus_genre": "Sports",
+  "developer": "Big Ant Studios",
+  "discount": "0",
   "genre": [
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": "65",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 3,
-  "Completion": 68.04999923706055,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1072500/header.jpg?t=1667360982",
+  "initialprice": "4999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Polish, Portuguese - Brazil, Russian",
+  "name": "AO Tennis 2",
+  "negative": 349,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 756,
+  "price": "4999",
+  "publisher": "Nacon",
+  "release_date": "2020/01/9",
+  "required_age": 0,
+  "tags": {
+    "Action": 248,
+    "Arcade": 235,
+    "Artificial Intelligence": 199,
+    "Character Customization": 252,
+    "Co-op": 182,
+    "Conversation": 184,
+    "Level Editor": 197,
+    "Local Co-Op": 179,
+    "Management": 225,
+    "Multiplayer": 255,
+    "Online Co-Op": 176,
+    "Physics": 207,
+    "PvP": 216,
+    "Realistic": 235,
+    "Resource Management": 189,
+    "Simulation": 241,
+    "Singleplayer": 171,
+    "Sports": 263,
+    "Tennis": 258,
+    "Top-Down": 230
+  },
+  "type": "game"
 }

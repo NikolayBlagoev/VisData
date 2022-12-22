@@ -1,20 +1,71 @@
 {
-  "appid": 1434300,
-  "name": "Block Wizard",
-  "developer": "Lefkos Savvides",
-  "publisher": "Lefkos Savvides",
-  "tags": {
-    "Strategy": 55,
-    "Runner": 44,
-    "Arcade": 40,
-    "Puzzle": 34,
-    "Pixel Graphics": 30,
-    "1980s": 23,
-    "Grid-Based Movement": 22,
-    "Indie": 21,
-    "Singleplayer": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1434300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1434300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 27.5,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1434300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1434300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1434300,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -22,53 +73,40 @@
     "Steam Cloud",
     "Steam Leaderboards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1434300/header.jpg?t=1612304507",
+  "consensus_genre": "Strategy",
+  "developer": "Lefkos Savvides",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 27.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1434300/header.jpg?t=1612304507",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Block Wizard",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "199",
+  "publisher": "Lefkos Savvides",
+  "release_date": "2020/11/2",
+  "required_age": 0,
+  "tags": {
+    "1980s": 23,
+    "Arcade": 40,
+    "Grid-Based Movement": 22,
+    "Indie": 21,
+    "Pixel Graphics": 30,
+    "Puzzle": 34,
+    "Runner": 44,
+    "Singleplayer": 20,
+    "Strategy": 55
+  },
+  "type": "game"
 }

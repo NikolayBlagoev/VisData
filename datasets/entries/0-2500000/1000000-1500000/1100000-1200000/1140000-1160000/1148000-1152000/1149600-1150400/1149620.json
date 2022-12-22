@@ -1,214 +1,252 @@
 {
-  "appid": 1149620,
-  "name": "Gas Station Simulator",
-  "developer": "DRAGO entertainment",
-  "publisher": "DRAGO entertainment, Movie Games S.A., HeartBeat Games",
-  "tags": {
-    "Simulation": 209,
-    "Economy": 116,
-    "Building": 106,
-    "Indie": 93,
-    "Base-Building": 81,
-    "Multiplayer": 81,
-    "Singleplayer": 76,
-    "Realistic": 64,
-    "Relaxing": 61,
-    "Open World": 58,
-    "Crafting": 57,
-    "First-Person": 57,
-    "Casual": 48,
-    "Management": 41,
-    "Funny": 37,
-    "Design & Illustration": 33,
-    "Family Friendly": 30,
-    "Destruction": 29,
-    "Choices Matter": 27,
-    "Memes": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1149620,
+    "average_2weeks": 134,
+    "average_forever": 653,
+    "median_2weeks": 158,
+    "median_forever": 619
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1149620,
+    "average_2weeks": 134,
+    "average_forever": 653,
+    "median_2weeks": 158,
+    "median_forever": 619
+  },
+  "CCU Histogram": {
+    "2022-12-08": 460,
+    "2022-12-09": 470,
+    "2022-12-10": 512,
+    "2022-12-13": 523,
+    "2022-12-15": 512,
+    "2022-12-18": 456,
+    "2022-12-21": 520,
+    "2022-12-22": 462
+  },
+  "Completion": 73.95000076293945,
+  "Down 30 Days": 46,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 5,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1149620,
+    "average_2weeks": 134,
+    "average_forever": 653,
+    "median_2weeks": 158,
+    "median_forever": 619
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1149620,
+    "average_2weeks": 134,
+    "average_forever": 653,
+    "median_2weeks": 158,
+    "median_forever": 619
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 264,
+  "User Score": -1,
+  "appid": 1149620,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 13496,
-  "negative": 2138,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 521,
-  "languages": "English, French, German, Spanish - Spain, Polish, Russian, Simplified Chinese, Turkish, Czech, Portuguese - Brazil, Ukrainian, Finnish, Italian, Thai, Hungarian, Portuguese - Portugal, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/header.jpg?t=1667467150",
+  "consensus_genre": "Simulation",
+  "developer": "DRAGO entertainment",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 264,
-  "Down 30 Days": 46,
-  "Completion": 73.95000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/header.jpg?t=1667467150",
+  "initialprice": "1999",
+  "languages": "English, French, German, Spanish - Spain, Polish, Russian, Simplified Chinese, Turkish, Czech, Portuguese - Brazil, Ukrainian, Finnish, Italian, Thai, Hungarian, Portuguese - Portugal, Vietnamese",
+  "name": "Gas Station Simulator",
+  "negative": 2138,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 13496,
+  "price": "1999",
+  "publisher": "DRAGO entertainment, Movie Games S.A., HeartBeat Games",
+  "release_date": "2021/09/15",
+  "required_age": 0,
+  "tags": {
+    "Base-Building": 81,
+    "Building": 106,
+    "Casual": 48,
+    "Choices Matter": 27,
+    "Crafting": 57,
+    "Design & Illustration": 33,
+    "Destruction": 29,
+    "Economy": 116,
+    "Family Friendly": 30,
+    "First-Person": 57,
+    "Funny": 37,
+    "Indie": 93,
+    "Management": 41,
+    "Memes": 27,
+    "Multiplayer": 81,
+    "Open World": 58,
+    "Realistic": 64,
+    "Relaxing": 61,
+    "Simulation": 209,
+    "Singleplayer": 76
+  },
+  "type": "game"
 }

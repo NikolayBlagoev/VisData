@@ -1,69 +1,107 @@
 {
-  "appid": 1343050,
-  "name": "Duality of Doodles",
-  "developer": "ProgenitorWorks",
-  "publisher": "ProgenitorWorks",
-  "tags": {
-    "Casual": 330,
-    "Precision Platformer": 320,
-    "2D Platformer": 315,
-    "Difficult": 305,
-    "Platformer": 299,
-    "Shooter": 289,
-    "Character Customization": 282,
-    "2D": 274,
-    "Funny": 265,
-    "Procedural Generation": 255,
-    "Gun Customization": 244,
-    "Action": 241,
-    "Multiple Endings": 233,
-    "Pixel Graphics": 207,
-    "Cartoony": 205,
-    "Colorful": 189,
-    "Hand-drawn": 172,
-    "Dystopian ": 154,
-    "Science": 134,
-    "Building": 114
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1343050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1343050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 21.399999618530273,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1343050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1343050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1343050,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/08/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1343050/header.jpg?t=1603928312",
+  "consensus_genre": "Casual",
+  "developer": "ProgenitorWorks",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 21.399999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1343050/header.jpg?t=1603928312",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Duality of Doodles",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "ProgenitorWorks",
+  "release_date": "2020/08/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 274,
+    "2D Platformer": 315,
+    "Action": 241,
+    "Building": 114,
+    "Cartoony": 205,
+    "Casual": 330,
+    "Character Customization": 282,
+    "Colorful": 189,
+    "Difficult": 305,
+    "Dystopian ": 154,
+    "Funny": 265,
+    "Gun Customization": 244,
+    "Hand-drawn": 172,
+    "Multiple Endings": 233,
+    "Pixel Graphics": 207,
+    "Platformer": 299,
+    "Precision Platformer": 320,
+    "Procedural Generation": 255,
+    "Science": 134,
+    "Shooter": 289
+  },
+  "type": "game"
 }

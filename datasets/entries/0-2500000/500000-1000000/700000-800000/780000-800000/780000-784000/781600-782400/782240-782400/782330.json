@@ -1,31 +1,201 @@
 {
-  "appid": 782330,
-  "name": "DOOM Eternal",
-  "developer": "id Software",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "Action": 1333,
-    "FPS": 1292,
-    "Great Soundtrack": 1251,
-    "Gore": 1195,
-    "Fast-Paced": 1089,
-    "Violent": 1041,
-    "Demons": 1034,
-    "Shooter": 932,
-    "First-Person": 883,
-    "Singleplayer": 838,
-    "Blood": 791,
-    "Multiplayer": 676,
-    "Sci-fi": 578,
-    "Post-apocalyptic": 534,
-    "Atmospheric": 531,
-    "Mature": 528,
-    "Story Rich": 465,
-    "Adventure": 422,
-    "Difficult": 391,
-    "Horror": 333
+  "Average Playtime - 2 Weeks": {
+    "app_id": 782330,
+    "average_2weeks": 212,
+    "average_forever": 985,
+    "median_2weeks": 302,
+    "median_forever": 729
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 782330,
+    "average_2weeks": 212,
+    "average_forever": 985,
+    "median_2weeks": 302,
+    "median_forever": 729
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2043,
+    "2022-12-09": 2048,
+    "2022-12-10": 2293,
+    "2022-12-13": 2715,
+    "2022-12-15": 1756,
+    "2022-12-18": 2026,
+    "2022-12-21": 2069,
+    "2022-12-22": 1917
+  },
+  "Completion": 43.45000076293945,
+  "Down 30 Days": 726,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 5,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 77,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 251,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 64,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 36,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 10,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 24,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 38,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 15,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 16,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 29,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 5,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 17,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 21,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 22,
+      "recommendations_up": 156
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 11,
+      "recommendations_up": 208
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 13,
+      "recommendations_up": 112
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 12,
+      "recommendations_up": 142
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 18,
+      "recommendations_up": 153
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 11,
+      "recommendations_up": 155
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 116
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 13,
+      "recommendations_up": 95
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 42
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 782330,
+    "average_2weeks": 212,
+    "average_forever": 985,
+    "median_2weeks": 302,
+    "median_forever": 729
+  },
+  "Median Playtime - Forever": {
+    "app_id": 782330,
+    "average_2weeks": 212,
+    "average_forever": 985,
+    "median_2weeks": 302,
+    "median_forever": 729
+  },
+  "Meta Score": "88",
+  "Rating": "ESRB M",
+  "Up 30 Days": 1802,
+  "User Score": -1,
+  "appid": 782330,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,182 +208,50 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 144233,
-  "negative": 13946,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 1623,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Polish, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/03/19",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg?t=1661971606",
+  "consensus_genre": "Action",
+  "developer": "id Software",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "88",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 27,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 35,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 12,
-      "recommendations_down": 77
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 39,
-      "recommendations_down": 251
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 34,
-      "recommendations_down": 64
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 49,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 34,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 28,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 25,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 25,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 23,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 24,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 44,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 76,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 156,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 208,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 112,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 142,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 153,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 155,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 116,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 95,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 42,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 1802,
-  "Down 30 Days": 726,
-  "Completion": 43.45000076293945,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg?t=1661971606",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Polish, Russian",
+  "name": "DOOM Eternal",
+  "negative": 13946,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 144233,
+  "price": "3999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2020/03/19",
+  "required_age": "18",
+  "tags": {
+    "Action": 1333,
+    "Adventure": 422,
+    "Atmospheric": 531,
+    "Blood": 791,
+    "Demons": 1034,
+    "Difficult": 391,
+    "FPS": 1292,
+    "Fast-Paced": 1089,
+    "First-Person": 883,
+    "Gore": 1195,
+    "Great Soundtrack": 1251,
+    "Horror": 333,
+    "Mature": 528,
+    "Multiplayer": 676,
+    "Post-apocalyptic": 534,
+    "Sci-fi": 578,
+    "Shooter": 932,
+    "Singleplayer": 838,
+    "Story Rich": 465,
+    "Violent": 1041
+  },
+  "type": "game"
 }

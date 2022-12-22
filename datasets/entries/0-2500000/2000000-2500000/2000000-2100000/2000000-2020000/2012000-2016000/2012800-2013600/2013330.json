@@ -1,60 +1,98 @@
 {
-  "appid": 2013330,
-  "name": "BTank",
-  "developer": "SMT Ent.",
-  "publisher": "SMT Ent.",
-  "tags": {
-    "Arena Shooter": 47,
-    "Shooter": 41,
-    "Arcade": 38,
-    "Indie": 38,
-    "2D": 35,
-    "Cute": 32,
-    "Casual": 26,
-    "Atmospheric": 24,
-    "Physics": 22,
-    "Singleplayer": 20
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2013330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 9,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
-  "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 2013330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2013330/header.jpg?t=1662070375",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 5
     },
     {
       "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 4
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2013330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2013330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 9,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 2013330,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 1,
+  "consensus_genre": "Indie",
+  "developer": "SMT Ent.",
+  "discount": "0",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2013330/header.jpg?t=1662070375",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "BTank",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9,
+  "price": "199",
+  "publisher": "SMT Ent.",
+  "release_date": "2022/09/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 35,
+    "Arcade": 38,
+    "Arena Shooter": 47,
+    "Atmospheric": 24,
+    "Casual": 26,
+    "Cute": 32,
+    "Indie": 38,
+    "Physics": 22,
+    "Shooter": 41,
+    "Singleplayer": 20
+  },
+  "type": "game"
 }

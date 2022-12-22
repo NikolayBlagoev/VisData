@@ -1,94 +1,132 @@
 {
-  "appid": 2158850,
-  "name": "Spooky Halloween in the Voxel World",
-  "developer": "Paulo Sacilotti Junior",
-  "publisher": "Half Moon Game Development",
-  "tags": {
-    "Indie": 129,
-    "Rogue-lite": 123,
-    "Action-Adventure": 120,
-    "Fantasy": 117,
-    "Adventure": 113,
-    "Soundtrack": 105,
-    "Action": 101,
-    "Perma Death": 99,
-    "Mystery Dungeon": 96,
-    "Exploration": 93,
-    "Voxel": 92,
-    "Colorful": 89,
-    "Cute": 86,
-    "Atmospheric": 83,
-    "Pixel Graphics": 80,
-    "Family Friendly": 71,
-    "Rogue-like": 60,
-    "Action Roguelike": 55,
-    "Casual": 53,
-    "Isometric": 32
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2158850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2158850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2158850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2158850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 2158850,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2158850/header.jpg?t=1668214924",
+  "consensus_genre": "Indie",
+  "developer": "Paulo Sacilotti Junior",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2158850/header.jpg?t=1668214924",
+  "initialprice": "799",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Spooky Halloween in the Voxel World",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "799",
+  "publisher": "Half Moon Game Development",
+  "release_date": "2022/10/31",
+  "required_age": 0,
+  "tags": {
+    "Action": 101,
+    "Action Roguelike": 55,
+    "Action-Adventure": 120,
+    "Adventure": 113,
+    "Atmospheric": 83,
+    "Casual": 53,
+    "Colorful": 89,
+    "Cute": 86,
+    "Exploration": 93,
+    "Family Friendly": 71,
+    "Fantasy": 117,
+    "Indie": 129,
+    "Isometric": 32,
+    "Mystery Dungeon": 96,
+    "Perma Death": 99,
+    "Pixel Graphics": 80,
+    "Rogue-like": 60,
+    "Rogue-lite": 123,
+    "Soundtrack": 105,
+    "Voxel": 92
+  },
+  "type": "game"
 }

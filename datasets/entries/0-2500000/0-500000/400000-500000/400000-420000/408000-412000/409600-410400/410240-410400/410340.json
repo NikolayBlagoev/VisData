@@ -1,31 +1,201 @@
 {
-  "appid": 410340,
-  "name": "Liftoff: FPV Drone Racing",
-  "developer": "LuGus Studios",
-  "publisher": "LuGus Studios",
-  "tags": {
-    "Simulation": 206,
-    "Flight": 195,
-    "Racing": 188,
-    "Realistic": 181,
-    "Sports": 176,
-    "First-Person": 171,
-    "Multiplayer": 168,
-    "Immersive Sim": 158,
-    "Indie": 158,
-    "Early Access": 154,
-    "Crafting": 152,
-    "Level Editor": 146,
-    "Singleplayer": 139,
-    "Atmospheric": 130,
-    "Exploration": 123,
-    "Education": 112,
-    "3D": 101,
-    "Modern": 84,
-    "Parkour": 74,
-    "Science": 69
+  "Average Playtime - 2 Weeks": {
+    "app_id": 410340,
+    "average_2weeks": 0,
+    "average_forever": 988,
+    "median_2weeks": 0,
+    "median_forever": 811
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 410340,
+    "average_2weeks": 0,
+    "average_forever": 988,
+    "median_2weeks": 0,
+    "median_forever": 811
+  },
+  "CCU Histogram": {
+    "2022-12-08": 243,
+    "2022-12-09": 275,
+    "2022-12-10": 263,
+    "2022-12-13": 249,
+    "2022-12-15": 273,
+    "2022-12-18": 275,
+    "2022-12-21": 237,
+    "2022-12-22": 233
+  },
+  "Completion": 8.0,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 410340,
+    "average_2weeks": 0,
+    "average_forever": 988,
+    "median_2weeks": 0,
+    "median_forever": 811
+  },
+  "Median Playtime - Forever": {
+    "app_id": 410340,
+    "average_2weeks": 0,
+    "average_forever": 988,
+    "median_2weeks": 0,
+    "median_forever": 811
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 93,
+  "User Score": -1,
+  "appid": 410340,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,185 +207,53 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 5735,
-  "negative": 401,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 277,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/09/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/410340/header.jpg?t=1663163309",
+  "consensus_genre": "Simulation",
+  "developer": "LuGus Studios",
+  "discount": "0",
   "genre": [
     "Indie",
     "Racing",
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 93,
-  "Down 30 Days": 6,
-  "Completion": 8.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/410340/header.jpg?t=1663163309",
+  "initialprice": "1999",
+  "languages": "English, French",
+  "name": "Liftoff: FPV Drone Racing",
+  "negative": 401,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 5735,
+  "price": "1999",
+  "publisher": "LuGus Studios",
+  "release_date": "2018/09/13",
+  "required_age": 0,
+  "tags": {
+    "3D": 101,
+    "Atmospheric": 130,
+    "Crafting": 152,
+    "Early Access": 154,
+    "Education": 112,
+    "Exploration": 123,
+    "First-Person": 171,
+    "Flight": 195,
+    "Immersive Sim": 158,
+    "Indie": 158,
+    "Level Editor": 146,
+    "Modern": 84,
+    "Multiplayer": 168,
+    "Parkour": 74,
+    "Racing": 188,
+    "Realistic": 181,
+    "Science": 69,
+    "Simulation": 206,
+    "Singleplayer": 139,
+    "Sports": 176
+  },
+  "type": "game"
 }

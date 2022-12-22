@@ -1,68 +1,106 @@
 {
-  "appid": 1468750,
-  "name": "Fox in the Woods",
-  "developer": "Christina Leskowyak, Cynthia Gainey, Steven Ulloa, Kaitlyn Monroe, Gavin Crossland, Tiana George, Zhakia Powell",
-  "publisher": "Gryphox Studios",
-  "tags": {
-    "Casual": 180,
-    "Adventure": 173,
-    "Survival": 146,
-    "Crafting": 139,
-    "Point & Click": 137,
-    "2D": 130,
-    "Hand-drawn": 122,
-    "Stylized": 115,
-    "Cartoony": 107,
-    "Colorful": 97,
-    "Cute": 95,
-    "Resource Management": 83,
-    "Family Friendly": 70,
-    "Magic": 56,
-    "Nature": 42,
-    "Open World Survival Craft": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1468750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1468750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1468750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1468750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1468750,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 4,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1468750/header.jpg?t=1607325483",
+  "consensus_genre": "Casual",
+  "developer": "Christina Leskowyak, Cynthia Gainey, Steven Ulloa, Kaitlyn Monroe, Gavin Crossland, Tiana George, Zhakia Powell",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1468750/header.jpg?t=1607325483",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Fox in the Woods",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "0",
+  "publisher": "Gryphox Studios",
+  "release_date": "2020/11/30",
+  "required_age": 0,
+  "tags": {
+    "2D": 130,
+    "Adventure": 173,
+    "Cartoony": 107,
+    "Casual": 180,
+    "Colorful": 97,
+    "Crafting": 139,
+    "Cute": 95,
+    "Family Friendly": 70,
+    "Hand-drawn": 122,
+    "Magic": 56,
+    "Nature": 42,
+    "Open World Survival Craft": 27,
+    "Point & Click": 137,
+    "Resource Management": 83,
+    "Singleplayer": 25,
+    "Stylized": 115,
+    "Survival": 146
+  },
+  "type": "game"
 }

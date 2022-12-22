@@ -1,78 +1,116 @@
 {
-  "appid": 1627280,
-  "name": "Operation: VICUS",
-  "developer": "Ilja Soutchilin, Tom Berger, Adrian Reichhardt",
-  "publisher": "Ilja Soutchilin, Tom Berger",
-  "tags": {
-    "Early Access": 445,
-    "Building": 404,
-    "Historical": 396,
-    "City Builder": 393,
-    "Cartoony": 388,
-    "Stylized": 382,
-    "Casual": 377,
-    "Crafting": 372,
-    "Mystery": 365,
-    "Resource Management": 348,
-    "Strategy": 348,
-    "Atmospheric": 338,
-    "Management": 316,
-    "Medieval": 302,
-    "Colorful": 289,
-    "Top-Down": 275,
-    "3D": 260,
-    "3D Vision": 256,
-    "Cute": 239,
-    "Fantasy": 221
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1627280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1627280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1627280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1627280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1627280,
   "categories": [
     "Single-player"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1627280/header.jpg?t=1664714818",
+  "consensus_genre": "Early Access",
+  "developer": "Ilja Soutchilin, Tom Berger, Adrian Reichhardt",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1627280/header.jpg?t=1664714818",
+  "initialprice": "799",
+  "languages": "English",
+  "name": "Operation: VICUS",
+  "negative": 2,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "799",
+  "publisher": "Ilja Soutchilin, Tom Berger",
+  "release_date": "2022/01/17",
+  "required_age": 0,
+  "tags": {
+    "3D": 260,
+    "3D Vision": 256,
+    "Atmospheric": 338,
+    "Building": 404,
+    "Cartoony": 388,
+    "Casual": 377,
+    "City Builder": 393,
+    "Colorful": 289,
+    "Crafting": 372,
+    "Cute": 239,
+    "Early Access": 445,
+    "Fantasy": 221,
+    "Historical": 396,
+    "Management": 316,
+    "Medieval": 302,
+    "Mystery": 365,
+    "Resource Management": 348,
+    "Strategy": 348,
+    "Stylized": 382,
+    "Top-Down": 275
+  },
+  "type": "game"
 }

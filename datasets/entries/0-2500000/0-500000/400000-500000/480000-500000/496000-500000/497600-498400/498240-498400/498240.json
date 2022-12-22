@@ -1,212 +1,250 @@
 {
-  "appid": 498240,
-  "name": "Batman - The Telltale Series",
-  "developer": "Telltale",
-  "publisher": "Telltale",
-  "tags": {
-    "Adventure": 222,
-    "Story Rich": 220,
-    "Choices Matter": 219,
-    "Superhero": 210,
-    "Singleplayer": 166,
-    "Episodic": 163,
-    "Quick-Time Events": 118,
-    "Action": 117,
-    "Atmospheric": 112,
-    "Point & Click": 107,
-    "Dark": 99,
-    "Comic Book": 94,
-    "Choose Your Own Adventure": 81,
-    "Detective": 68,
-    "Noir": 53,
-    "Violent": 47,
-    "Visual Novel": 46,
-    "Gore": 30,
-    "Mature": 12,
-    "Hidden Object": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 498240,
+    "average_2weeks": 17,
+    "average_forever": 419,
+    "median_2weeks": 17,
+    "median_forever": 495
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 498240,
+    "average_2weeks": 17,
+    "average_forever": 419,
+    "median_2weeks": 17,
+    "median_forever": 495
+  },
+  "CCU Histogram": {
+    "2022-12-08": 31,
+    "2022-12-09": 35,
+    "2022-12-10": 30,
+    "2022-12-13": 41,
+    "2022-12-15": 34,
+    "2022-12-18": 46,
+    "2022-12-21": 44,
+    "2022-12-22": 41
+  },
+  "Completion": 70.35000228881836,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 498240,
+    "average_2weeks": 17,
+    "average_forever": 419,
+    "median_2weeks": 17,
+    "median_forever": 495
+  },
+  "Median Playtime - Forever": {
+    "app_id": 498240,
+    "average_2weeks": 17,
+    "average_forever": 419,
+    "median_2weeks": 17,
+    "median_forever": 495
+  },
+  "Meta Score": "64",
+  "Rating": "ESRB M",
+  "Up 30 Days": 68,
+  "User Score": -1,
+  "appid": 498240,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 10247,
-  "negative": 2010,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 34,
-  "languages": "English, French, German, Spanish - Spain, Arabic, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/08/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/498240/header.jpg?t=1606153059",
+  "consensus_genre": "Adventure",
+  "developer": "Telltale",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "64",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 68,
-  "Down 30 Days": 4,
-  "Completion": 70.35000228881836,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/498240/header.jpg?t=1606153059",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain, Arabic, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "Batman - The Telltale Series",
+  "negative": 2010,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10247,
+  "price": "1499",
+  "publisher": "Telltale",
+  "release_date": "2016/08/2",
+  "required_age": 0,
+  "tags": {
+    "Action": 117,
+    "Adventure": 222,
+    "Atmospheric": 112,
+    "Choices Matter": 219,
+    "Choose Your Own Adventure": 81,
+    "Comic Book": 94,
+    "Dark": 99,
+    "Detective": 68,
+    "Episodic": 163,
+    "Gore": 30,
+    "Hidden Object": 10,
+    "Mature": 12,
+    "Noir": 53,
+    "Point & Click": 107,
+    "Quick-Time Events": 118,
+    "Singleplayer": 166,
+    "Story Rich": 220,
+    "Superhero": 210,
+    "Violent": 47,
+    "Visual Novel": 46
+  },
+  "type": "game"
 }

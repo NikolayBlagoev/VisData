@@ -1,214 +1,252 @@
 {
-  "appid": 674020,
-  "name": "World War 3",
-  "developer": "The Farm 51",
-  "publisher": "Wishlist Games, The 4 Winds Entertainment",
-  "tags": {
-    "FPS": 324,
-    "Multiplayer": 296,
-    "Shooter": 286,
-    "Military": 282,
-    "Tactical": 282,
-    "War": 270,
-    "Modern": 261,
-    "PvP": 258,
-    "Action": 254,
-    "Team-Based": 246,
-    "Combat": 243,
-    "Realistic": 239,
-    "First-Person": 236,
-    "Character Customization": 230,
-    "Gun Customization": 218,
-    "Early Access": 192,
-    "Atmospheric": 148,
-    "3D": 147,
-    "Physics": 147,
-    "Vehicular Combat": 141
+  "Average Playtime - 2 Weeks": {
+    "app_id": 674020,
+    "average_2weeks": 75,
+    "average_forever": 664,
+    "median_2weeks": 60,
+    "median_forever": 271
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 674020,
+    "average_2weeks": 75,
+    "average_forever": 664,
+    "median_2weeks": 60,
+    "median_forever": 271
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1555,
+    "2022-12-09": 3202,
+    "2022-12-10": 2570,
+    "2022-12-13": 2278,
+    "2022-12-15": 2221,
+    "2022-12-18": 2026,
+    "2022-12-21": 2426,
+    "2022-12-22": 2426
+  },
+  "Completion": -1,
+  "Down 30 Days": 669,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 34,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 33,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 24,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 29,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 30,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 36,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 26,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 17,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 33,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 22,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 29,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 31,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 36,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 30,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 18,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 23,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 22,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 15,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 20,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 26,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 15,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 14,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 14,
+      "recommendations_up": 110
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 21,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 12,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 15,
+      "recommendations_up": 71
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 8,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 15,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 16,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 5,
+      "recommendations_up": 8
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 674020,
+    "average_2weeks": 75,
+    "average_forever": 664,
+    "median_2weeks": 60,
+    "median_forever": 271
+  },
+  "Median Playtime - Forever": {
+    "app_id": 674020,
+    "average_2weeks": 75,
+    "average_forever": 664,
+    "median_2weeks": 60,
+    "median_forever": 271
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1404,
+  "User Score": -1,
+  "appid": 674020,
   "categories": [
     "Multi-player",
     "Partial Controller Support",
     "Online PvP",
     "PvP"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 24548,
-  "negative": 20821,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 3409,
-  "languages": "English, Polish, Russian, German, French, Arabic, Turkish, Spanish - Spain, Japanese, Korean, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/10/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674020/header.jpg?t=1666625089",
+  "consensus_genre": "Action",
+  "developer": "The Farm 51",
+  "discount": "0",
   "genre": [
     "Action",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 43,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 42,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 52,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 47,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 45,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 46,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 35,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 50,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 34,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 35,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 47,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 50,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 50,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 35,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 40,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 38,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 47,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 29,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 34,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 28,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 39,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 75,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 110,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 97,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 63,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 71,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 55,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 33,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 26,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 8,
-      "recommendations_down": 5
-    }
-  ],
-  "Up 30 Days": 1404,
-  "Down 30 Days": 669,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/674020/header.jpg?t=1666625089",
+  "initialprice": "0",
+  "languages": "English, Polish, Russian, German, French, Arabic, Turkish, Spanish - Spain, Japanese, Korean, Simplified Chinese",
+  "name": "World War 3",
+  "negative": 20821,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 24548,
+  "price": "0",
+  "publisher": "Wishlist Games, The 4 Winds Entertainment",
+  "release_date": "2018/10/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 147,
+    "Action": 254,
+    "Atmospheric": 148,
+    "Character Customization": 230,
+    "Combat": 243,
+    "Early Access": 192,
+    "FPS": 324,
+    "First-Person": 236,
+    "Gun Customization": 218,
+    "Military": 282,
+    "Modern": 261,
+    "Multiplayer": 296,
+    "Physics": 147,
+    "PvP": 258,
+    "Realistic": 239,
+    "Shooter": 286,
+    "Tactical": 282,
+    "Team-Based": 246,
+    "Vehicular Combat": 141,
+    "War": 270
+  },
+  "type": "game"
 }

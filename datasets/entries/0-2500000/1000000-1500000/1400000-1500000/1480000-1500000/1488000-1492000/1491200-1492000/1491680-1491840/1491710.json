@@ -1,31 +1,201 @@
 {
-  "appid": 1491710,
-  "name": "CRIMESIGHT",
-  "developer": "Konami Digital Entertainment",
-  "publisher": "Konami Digital Entertainment",
-  "tags": {
-    "Multiplayer": 208,
-    "PvP": 198,
-    "Social Deduction": 198,
-    "Online Co-Op": 192,
-    "Simulation": 190,
-    "Top-Down": 179,
-    "Detective": 175,
-    "Strategy": 175,
-    "Tabletop": 175,
-    "Survival": 170,
-    "Logic": 164,
-    "Mystery": 146,
-    "Grid-Based Movement": 144,
-    "Sci-fi": 141,
-    "Turn-Based Strategy": 135,
-    "Board Game": 132,
-    "Co-op": 126,
-    "Futuristic": 126,
-    "Casual": 108,
-    "Colorful": 103
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1491710,
+    "average_2weeks": 0,
+    "average_forever": 110,
+    "median_2weeks": 0,
+    "median_forever": 110
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1491710,
+    "average_2weeks": 0,
+    "average_forever": 110,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 13,
+    "2022-12-15": 3,
+    "2022-12-18": 6,
+    "2022-12-21": 5,
+    "2022-12-22": 3
+  },
+  "Completion": 35.14999961853027,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1491710,
+    "average_2weeks": 0,
+    "average_forever": 110,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1491710,
+    "average_2weeks": 0,
+    "average_forever": 110,
+    "median_2weeks": 0,
+    "median_forever": 110
+  },
+  "Meta Score": "74",
+  "Rating": "ESRB T",
+  "Up 30 Days": 21,
+  "User Score": -1,
+  "appid": 1491710,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,183 +204,51 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 459,
-  "negative": 104,
-  "price": "799",
-  "initialprice": "999",
-  "discount": "20",
   "ccu": 18,
-  "languages": "English, Japanese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1491710/header.jpg?t=1667782109",
+  "consensus_genre": "Simulation",
+  "developer": "Konami Digital Entertainment",
+  "discount": "20",
   "genre": [
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": "74",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 21,
-  "Down 30 Days": 1,
-  "Completion": 35.14999961853027,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1491710/header.jpg?t=1667782109",
+  "initialprice": "999",
+  "languages": "English, Japanese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Korean",
+  "name": "CRIMESIGHT",
+  "negative": 104,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 459,
+  "price": "799",
+  "publisher": "Konami Digital Entertainment",
+  "release_date": "2022/04/14",
+  "required_age": 0,
+  "tags": {
+    "Board Game": 132,
+    "Casual": 108,
+    "Co-op": 126,
+    "Colorful": 103,
+    "Detective": 175,
+    "Futuristic": 126,
+    "Grid-Based Movement": 144,
+    "Logic": 164,
+    "Multiplayer": 208,
+    "Mystery": 146,
+    "Online Co-Op": 192,
+    "PvP": 198,
+    "Sci-fi": 141,
+    "Simulation": 190,
+    "Social Deduction": 198,
+    "Strategy": 175,
+    "Survival": 170,
+    "Tabletop": 175,
+    "Top-Down": 179,
+    "Turn-Based Strategy": 135
+  },
+  "type": "game"
 }

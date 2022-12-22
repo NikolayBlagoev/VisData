@@ -1,31 +1,56 @@
 {
-  "appid": 1522030,
-  "name": "SUKAKKO",
-  "developer": "PetRem Labs",
-  "publisher": "PetRem Labs",
-  "tags": {
-    "Indie": 306,
-    "Strategy": 300,
-    "Turn-Based Strategy": 297,
-    "Wargame": 293,
-    "Multiplayer": 288,
-    "Singleplayer": 278,
-    "Local Multiplayer": 271,
-    "Board Game": 262,
-    "Tabletop": 253,
-    "2D": 245,
-    "Retro": 233,
-    "Pixel Graphics": 221,
-    "Turn-Based Tactics": 209,
-    "Colorful": 194,
-    "Cute": 179,
-    "Top-Down": 163,
-    "Historical": 146,
-    "Medieval": 128,
-    "Funny": 109,
-    "Tactical": 89
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1522030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1522030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1522030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1522030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1522030,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,37 +59,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/01/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522030/header.jpg?t=1667345690",
+  "consensus_genre": "Strategy",
+  "developer": "PetRem Labs",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1522030/header.jpg?t=1667345690",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "SUKAKKO",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "PetRem Labs",
+  "release_date": "2021/01/28",
+  "required_age": 0,
+  "tags": {
+    "2D": 245,
+    "Board Game": 262,
+    "Colorful": 194,
+    "Cute": 179,
+    "Funny": 109,
+    "Historical": 146,
+    "Indie": 306,
+    "Local Multiplayer": 271,
+    "Medieval": 128,
+    "Multiplayer": 288,
+    "Pixel Graphics": 221,
+    "Retro": 233,
+    "Singleplayer": 278,
+    "Strategy": 300,
+    "Tabletop": 253,
+    "Tactical": 89,
+    "Top-Down": 163,
+    "Turn-Based Strategy": 297,
+    "Turn-Based Tactics": 209,
+    "Wargame": 293
+  },
+  "type": "game"
 }

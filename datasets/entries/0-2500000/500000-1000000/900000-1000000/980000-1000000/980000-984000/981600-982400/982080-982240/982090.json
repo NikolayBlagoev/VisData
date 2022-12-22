@@ -1,8 +1,84 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 982090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 982090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 21.799999237060547,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 982090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 982090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
   "appid": 982090,
-  "name": "Noms the Fish",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Casual",
   "developer": "Alien Octopus Studio",
+  "discount": "0",
+  "genre": [
+    "Casual"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/982090/header.jpg?t=1667672022",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Noms the Fish",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
   "publisher": "Alien Octopus Studio",
+  "release_date": "2020/04/20",
+  "required_age": 0,
   "tags": {
     "Casual": 52,
     "Family Friendly": 11,
@@ -10,43 +86,5 @@
     "Relaxing": 11,
     "Singleplayer": 11
   },
-  "type": "game",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2020/04/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/982090/header.jpg?t=1667672022",
-  "genre": [
-    "Casual"
-  ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 21.799999237060547,
-  "Rating": "?"
+  "type": "game"
 }

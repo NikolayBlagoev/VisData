@@ -1,44 +1,82 @@
 {
-  "appid": 1219140,
-  "name": "2D Vtuber Cutiecats",
-  "developer": "thebomenet",
-  "publisher": "thebomenet",
-  "tags": {
-    "Video Production": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1219140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1219140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/03/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219140/header.jpg?t=1584327819",
-  "genre": [
-    "Video Production"
-  ],
-  "consensus_genre": "Video Production",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1219140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1219140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1219140,
+  "categories": [],
+  "ccu": 0,
+  "consensus_genre": "Video Production",
+  "developer": "thebomenet",
+  "discount": "0",
+  "genre": [
+    "Video Production"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1219140/header.jpg?t=1584327819",
+  "initialprice": "1099",
+  "languages": "English",
+  "name": "2D Vtuber Cutiecats",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1099",
+  "publisher": "thebomenet",
+  "release_date": "2020/03/3",
+  "required_age": 0,
+  "tags": {
+    "Video Production": 31
+  },
+  "type": "game"
 }

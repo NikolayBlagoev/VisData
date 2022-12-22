@@ -1,216 +1,254 @@
 {
-  "appid": 1832640,
-  "name": "Mirror 2: Project X",
-  "developer": "KAGAMI \u2161 WORKs",
-  "publisher": "NIJICO",
-  "tags": {
-    "3D": 428,
-    "Match 3": 403,
-    "Anime": 401,
-    "Female Protagonist": 391,
-    "Drama": 387,
-    "Visual Novel": 376,
-    "Interactive Fiction": 360,
-    "Multiple Endings": 354,
-    "Singleplayer": 354,
-    "FPS": 352,
-    "RPG": 350,
-    "Casual": 345,
-    "Story Rich": 345,
-    "FMV": 344,
-    "Colorful": 340,
-    "Adventure": 333,
-    "Early Access": 330,
-    "Indie": 320,
-    "3D Platformer": 311,
-    "Shooter": 129
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1832640,
+    "average_2weeks": 164,
+    "average_forever": 235,
+    "median_2weeks": 164,
+    "median_forever": 149
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1832640,
+    "average_2weeks": 164,
+    "average_forever": 235,
+    "median_2weeks": 164,
+    "median_forever": 149
+  },
+  "CCU Histogram": {
+    "2022-12-08": 634,
+    "2022-12-09": 176,
+    "2022-12-10": 158,
+    "2022-12-13": 161,
+    "2022-12-15": 152,
+    "2022-12-18": 168,
+    "2022-12-21": 146,
+    "2022-12-22": 136
+  },
+  "Completion": -1,
+  "Down 30 Days": 5543,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 96,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 117,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 140,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 170,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 123,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 119,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 107,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 112,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 91,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 91,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 137,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 130,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 100,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 103,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 85,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 96,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 89,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 134,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 109,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 102,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 217,
+      "recommendations_up": 97
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1051,
+      "recommendations_up": 649
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 511,
+      "recommendations_up": 273
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 343,
+      "recommendations_up": 165
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 329,
+      "recommendations_up": 138
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 274,
+      "recommendations_up": 137
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 256,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 230,
+      "recommendations_up": 87
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 81,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1832640,
+    "average_2weeks": 164,
+    "average_forever": 235,
+    "median_2weeks": 164,
+    "median_forever": 149
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1832640,
+    "average_2weeks": 164,
+    "average_forever": 235,
+    "median_2weeks": 164,
+    "median_forever": 149
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1760,
+  "User Score": -1,
+  "appid": 1832640,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 30557,
-  "negative": 70163,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 174,
-  "languages": "Japanese, English, Simplified Chinese, Traditional Chinese, Korean, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1664508999",
+  "consensus_genre": "RPG",
+  "developer": "KAGAMI \u2161 WORKs",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 96
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 117
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 140
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 170
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 123
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 119
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 107
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 112
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 91
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 91
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 137
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 130
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 100
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 103
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 85
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 96
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 89
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 134
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 4,
-      "recommendations_down": 109
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 102
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 97,
-      "recommendations_down": 217
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 649,
-      "recommendations_down": 1051
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 273,
-      "recommendations_down": 511
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 165,
-      "recommendations_down": 343
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 138,
-      "recommendations_down": 329
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 137,
-      "recommendations_down": 274
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 117,
-      "recommendations_down": 256
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 87,
-      "recommendations_down": 230
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 81
-    }
-  ],
-  "Up 30 Days": 1760,
-  "Down 30 Days": 5543,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1664508999",
+  "initialprice": "199",
+  "languages": "Japanese, English, Simplified Chinese, Traditional Chinese, Korean, Russian",
+  "name": "Mirror 2: Project X",
+  "negative": 70163,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 30557,
+  "price": "199",
+  "publisher": "NIJICO",
+  "release_date": "2022/01/20",
+  "required_age": 0,
+  "tags": {
+    "3D": 428,
+    "3D Platformer": 311,
+    "Adventure": 333,
+    "Anime": 401,
+    "Casual": 345,
+    "Colorful": 340,
+    "Drama": 387,
+    "Early Access": 330,
+    "FMV": 344,
+    "FPS": 352,
+    "Female Protagonist": 391,
+    "Indie": 320,
+    "Interactive Fiction": 360,
+    "Match 3": 403,
+    "Multiple Endings": 354,
+    "RPG": 350,
+    "Shooter": 129,
+    "Singleplayer": 354,
+    "Story Rich": 345,
+    "Visual Novel": 376
+  },
+  "type": "game"
 }

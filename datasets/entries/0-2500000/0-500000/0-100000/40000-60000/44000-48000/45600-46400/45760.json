@@ -1,31 +1,201 @@
 {
-  "appid": 45760,
-  "name": "Ultra Street Fighter IV",
-  "developer": "Capcom",
-  "publisher": "Capcom",
-  "tags": {
-    "Fighting": 741,
-    "Arcade": 317,
-    "Competitive": 264,
-    "2D Fighter": 229,
-    "Action": 198,
-    "Local Multiplayer": 196,
-    "Multiplayer": 171,
-    "Controller": 105,
-    "e-sports": 84,
-    "Difficult": 76,
-    "Classic": 69,
-    "Anime": 64,
-    "2.5D": 54,
-    "Great Soundtrack": 54,
-    "Singleplayer": 50,
-    "2D": 38,
-    "Beat 'em up": 34,
-    "Local Co-Op": 29,
-    "3D Vision": 13,
-    "Adventure": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 45760,
+    "average_2weeks": 145,
+    "average_forever": 901,
+    "median_2weeks": 146,
+    "median_forever": 400
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 45760,
+    "average_2weeks": 145,
+    "average_forever": 901,
+    "median_2weeks": 146,
+    "median_forever": 400
+  },
+  "CCU Histogram": {
+    "2022-12-08": 174,
+    "2022-12-09": 173,
+    "2022-12-10": 179,
+    "2022-12-13": 194,
+    "2022-12-15": 195,
+    "2022-12-18": 175,
+    "2022-12-21": 163,
+    "2022-12-22": 182
+  },
+  "Completion": 16.800000190734863,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 45760,
+    "average_2weeks": 145,
+    "average_forever": 901,
+    "median_2weeks": 146,
+    "median_forever": 400
+  },
+  "Median Playtime - Forever": {
+    "app_id": 45760,
+    "average_2weeks": 145,
+    "average_forever": 901,
+    "median_2weeks": 146,
+    "median_forever": 400
+  },
+  "Meta Score": "82",
+  "Rating": "ESRB T",
+  "Up 30 Days": 41,
+  "User Score": -1,
+  "appid": 45760,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,182 +209,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 11163,
-  "negative": 1315,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 171,
-  "languages": "English, French, German, Italian, Spanish - Spain, Czech, Dutch, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/08/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg?t=1644283495",
+  "consensus_genre": "Action",
+  "developer": "Capcom",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 41,
-  "Down 30 Days": 0,
-  "Completion": 16.800000190734863,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg?t=1644283495",
+  "initialprice": "1499",
+  "languages": "English, French, German, Italian, Spanish - Spain, Czech, Dutch, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese",
+  "name": "Ultra Street Fighter IV",
+  "negative": 1315,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 11163,
+  "price": "1499",
+  "publisher": "Capcom",
+  "release_date": "2014/08/7",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 54,
+    "2D": 38,
+    "2D Fighter": 229,
+    "3D Vision": 13,
+    "Action": 198,
+    "Adventure": 13,
+    "Anime": 64,
+    "Arcade": 317,
+    "Beat 'em up": 34,
+    "Classic": 69,
+    "Competitive": 264,
+    "Controller": 105,
+    "Difficult": 76,
+    "Fighting": 741,
+    "Great Soundtrack": 54,
+    "Local Co-Op": 29,
+    "Local Multiplayer": 196,
+    "Multiplayer": 171,
+    "Singleplayer": 50,
+    "e-sports": 84
+  },
+  "type": "game"
 }

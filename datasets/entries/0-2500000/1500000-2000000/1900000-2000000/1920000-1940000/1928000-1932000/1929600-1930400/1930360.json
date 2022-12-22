@@ -1,67 +1,105 @@
 {
-  "appid": 1930360,
-  "name": "Fever Dream",
-  "developer": "Caleb Dunahee",
-  "publisher": "Caleb Dunahee, Meriah Bracken",
-  "tags": {
-    "Adventure": 232,
-    "Strategy": 226,
-    "Arcade": 202,
-    "Platformer": 197,
-    "Puzzle-Platformer": 191,
-    "3D": 181,
-    "First-Person": 174,
-    "Realistic": 166,
-    "Atmospheric": 157,
-    "Dark": 148,
-    "Dark Fantasy": 138,
-    "Demons": 126,
-    "Fantasy": 124,
-    "Horror": 110,
-    "Survival Horror": 95,
-    "Linear": 79,
-    "Physics": 62,
-    "Indie": 45,
-    "Stealth": 44,
-    "Singleplayer": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1930360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1930360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1930360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1930360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1930360,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1930360/header.jpg?t=1651607777",
+  "consensus_genre": "Adventure",
+  "developer": "Caleb Dunahee",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1930360/header.jpg?t=1651607777",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Fever Dream",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Caleb Dunahee, Meriah Bracken",
+  "release_date": "2022/04/22",
+  "required_age": 0,
+  "tags": {
+    "3D": 181,
+    "Adventure": 232,
+    "Arcade": 202,
+    "Atmospheric": 157,
+    "Dark": 148,
+    "Dark Fantasy": 138,
+    "Demons": 126,
+    "Fantasy": 124,
+    "First-Person": 174,
+    "Horror": 110,
+    "Indie": 45,
+    "Linear": 79,
+    "Physics": 62,
+    "Platformer": 197,
+    "Puzzle-Platformer": 191,
+    "Realistic": 166,
+    "Singleplayer": 27,
+    "Stealth": 44,
+    "Strategy": 226,
+    "Survival Horror": 95
+  },
+  "type": "game"
 }

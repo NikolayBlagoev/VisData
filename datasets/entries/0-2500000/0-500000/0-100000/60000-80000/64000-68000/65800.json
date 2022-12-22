@@ -1,31 +1,201 @@
 {
-  "appid": 65800,
-  "name": "Dungeon Defenders",
-  "developer": "Trendy Entertainment",
-  "publisher": "Trendy Entertainment",
-  "tags": {
-    "Multiplayer": 981,
-    "Online Co-Op": 971,
-    "Tower Defense": 870,
-    "Singleplayer": 868,
-    "Strategy": 624,
-    "Survival": 622,
-    "Action RPG": 603,
-    "Character Customization": 600,
-    "Family Friendly": 596,
-    "Funny": 596,
-    "Tactical": 595,
-    "Building": 583,
-    "Fantasy": 578,
-    "PvE": 576,
-    "Strategy RPG": 573,
-    "Moddable": 566,
-    "RPG": 560,
-    "3D": 555,
-    "Third Person": 550,
-    "Team-Based": 548
+  "Average Playtime - 2 Weeks": {
+    "app_id": 65800,
+    "average_2weeks": 0,
+    "average_forever": 2737,
+    "median_2weeks": 0,
+    "median_forever": 819
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 65800,
+    "average_2weeks": 0,
+    "average_forever": 2737,
+    "median_2weeks": 0,
+    "median_forever": 819
+  },
+  "CCU Histogram": {
+    "2022-12-08": 187,
+    "2022-12-09": 185,
+    "2022-12-10": 232,
+    "2022-12-13": 242,
+    "2022-12-15": 184,
+    "2022-12-18": 208,
+    "2022-12-21": 222,
+    "2022-12-22": 249
+  },
+  "Completion": 22.699999809265137,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 65800,
+    "average_2weeks": 0,
+    "average_forever": 2737,
+    "median_2weeks": 0,
+    "median_forever": 819
+  },
+  "Median Playtime - Forever": {
+    "app_id": 65800,
+    "average_2weeks": 0,
+    "average_forever": 2737,
+    "median_2weeks": 0,
+    "median_forever": 819
+  },
+  "Meta Score": "81",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 54,
+  "User Score": -1,
+  "appid": 65800,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -44,185 +214,53 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 14704,
-  "negative": 1118,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 294,
-  "languages": "English, French, German, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/10/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/65800/header.jpg?t=1662998683",
+  "consensus_genre": "Strategy",
+  "developer": "Trendy Entertainment",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "81",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 54,
-  "Down 30 Days": 2,
-  "Completion": 22.699999809265137,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/65800/header.jpg?t=1662998683",
+  "initialprice": "1499",
+  "languages": "English, French, German, Italian, Spanish - Spain",
+  "name": "Dungeon Defenders",
+  "negative": 1118,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14704,
+  "price": "1499",
+  "publisher": "Trendy Entertainment",
+  "release_date": "2011/10/18",
+  "required_age": 0,
+  "tags": {
+    "3D": 555,
+    "Action RPG": 603,
+    "Building": 583,
+    "Character Customization": 600,
+    "Family Friendly": 596,
+    "Fantasy": 578,
+    "Funny": 596,
+    "Moddable": 566,
+    "Multiplayer": 981,
+    "Online Co-Op": 971,
+    "PvE": 576,
+    "RPG": 560,
+    "Singleplayer": 868,
+    "Strategy": 624,
+    "Strategy RPG": 573,
+    "Survival": 622,
+    "Tactical": 595,
+    "Team-Based": 548,
+    "Third Person": 550,
+    "Tower Defense": 870
+  },
+  "type": "game"
 }

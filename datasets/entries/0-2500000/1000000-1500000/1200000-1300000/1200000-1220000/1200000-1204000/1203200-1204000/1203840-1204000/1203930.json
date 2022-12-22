@@ -1,216 +1,254 @@
 {
-  "appid": 1203930,
-  "name": "The Last Haven",
-  "developer": "Thunder Devs.",
-  "publisher": "Thunder Devs.",
-  "tags": {
-    "Early Access": 90,
-    "Strategy": 81,
-    "Base-Building": 52,
-    "Indie": 51,
-    "Survival": 45,
-    "Post-apocalyptic": 43,
-    "Simulation": 32,
-    "Building": 29,
-    "RTS": 29,
-    "Resource Management": 28,
-    "City Builder": 27,
-    "Open World": 24,
-    "Crafting": 23,
-    "Management": 19,
-    "Singleplayer": 19,
-    "Choices Matter": 16,
-    "Difficult": 16,
-    "Atmospheric": 14,
-    "Colony Sim": 14,
-    "Exploration": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1203930,
+    "average_2weeks": 0,
+    "average_forever": 4920,
+    "median_2weeks": 0,
+    "median_forever": 4920
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1203930,
+    "average_2weeks": 0,
+    "average_forever": 4920,
+    "median_2weeks": 0,
+    "median_forever": 4920
+  },
+  "CCU Histogram": {
+    "2022-12-08": 27,
+    "2022-12-09": 27,
+    "2022-12-10": 26,
+    "2022-12-13": 19,
+    "2022-12-15": 15,
+    "2022-12-18": 14,
+    "2022-12-21": 15,
+    "2022-12-22": 11
+  },
+  "Completion": 82.69999694824219,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1203930,
+    "average_2weeks": 0,
+    "average_forever": 4920,
+    "median_2weeks": 0,
+    "median_forever": 4920
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1203930,
+    "average_2weeks": 0,
+    "average_forever": 4920,
+    "median_2weeks": 0,
+    "median_forever": 4920
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 31,
+  "User Score": -1,
+  "appid": 1203930,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1389,
-  "negative": 313,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 27,
-  "languages": "English, Russian, French, German, Italian, Spanish - Spain, Portuguese - Portugal, Korean, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/03/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203930/header.jpg?t=1663038693",
+  "consensus_genre": "Early Access",
+  "developer": "Thunder Devs.",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 31,
-  "Down 30 Days": 7,
-  "Completion": 82.69999694824219,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203930/header.jpg?t=1663038693",
+  "initialprice": "1999",
+  "languages": "English, Russian, French, German, Italian, Spanish - Spain, Portuguese - Portugal, Korean, Simplified Chinese",
+  "name": "The Last Haven",
+  "negative": 313,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1389,
+  "price": "1999",
+  "publisher": "Thunder Devs.",
+  "release_date": "2020/03/20",
+  "required_age": 0,
+  "tags": {
+    "Atmospheric": 14,
+    "Base-Building": 52,
+    "Building": 29,
+    "Choices Matter": 16,
+    "City Builder": 27,
+    "Colony Sim": 14,
+    "Crafting": 23,
+    "Difficult": 16,
+    "Early Access": 90,
+    "Exploration": 14,
+    "Indie": 51,
+    "Management": 19,
+    "Open World": 24,
+    "Post-apocalyptic": 43,
+    "RTS": 29,
+    "Resource Management": 28,
+    "Simulation": 32,
+    "Singleplayer": 19,
+    "Strategy": 81,
+    "Survival": 45
+  },
+  "type": "game"
 }

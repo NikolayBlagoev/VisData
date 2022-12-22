@@ -1,54 +1,211 @@
 {
-  "appid": 1403370,
-  "name": "Zenith: The Last City",
-  "developer": "Ramen VR",
-  "publisher": "Ramen VR",
-  "tags": {
-    "Early Access": 328,
-    "VR": 298,
-    "MMORPG": 282,
-    "Open World": 270,
-    "Action": 266,
-    "Action-Adventure": 264,
-    "Adventure": 255,
-    "RPG": 246,
-    "PvE": 235,
-    "Action RPG": 213,
-    "Massively Multiplayer": 208,
-    "Hack and Slash": 193,
-    "Exploration": 187,
-    "Anime": 171,
-    "JRPG": 161,
-    "Dystopian ": 139,
-    "Futuristic": 127,
-    "Character Customization": 117,
-    "Combat": 98,
-    "Crafting": 74,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1403370,
+    "average_2weeks": 0,
+    "average_forever": 207,
+    "median_2weeks": 0,
+    "median_forever": 266
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1403370,
+    "average_2weeks": 0,
+    "average_forever": 207,
+    "median_2weeks": 0,
+    "median_forever": 266
+  },
+  "CCU Histogram": {
+    "2022-12-08": 40,
+    "2022-12-09": 42,
+    "2022-12-10": 60,
+    "2022-12-13": 36,
+    "2022-12-15": 45,
+    "2022-12-18": 53,
+    "2022-12-21": 54,
+    "2022-12-22": 59
+  },
+  "Completion": 85.30000305175781,
+  "Down 30 Days": 21,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1403370,
+    "average_2weeks": 0,
+    "average_forever": 207,
+    "median_2weeks": 0,
+    "median_forever": 266
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1403370,
+    "average_2weeks": 0,
+    "average_forever": 207,
+    "median_2weeks": 0,
+    "median_forever": 266
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 128,
+  "User Score": -1,
+  "appid": 1403370,
   "categories": [
     "Multi-player",
     "Co-op",
     "MMO",
     "Online Co-op"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2774,
-  "negative": 583,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 34,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1403370/header_alt_assets_0.jpg?t=1665188774",
+  "consensus_genre": "Early Access",
+  "developer": "Ramen VR",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -57,163 +214,44 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 34,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 128,
-  "Down 30 Days": 21,
-  "Completion": 85.30000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1403370/header_alt_assets_0.jpg?t=1665188774",
+  "initialprice": "2999",
+  "languages": "English",
+  "name": "Zenith: The Last City",
+  "negative": 583,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2774,
+  "price": "2999",
+  "publisher": "Ramen VR",
+  "release_date": "2022/01/27",
+  "required_age": 0,
+  "tags": {
+    "Action": 266,
+    "Action RPG": 213,
+    "Action-Adventure": 264,
+    "Adventure": 255,
+    "Anime": 171,
+    "Character Customization": 117,
+    "Combat": 98,
+    "Crafting": 74,
+    "Dystopian ": 139,
+    "Early Access": 328,
+    "Exploration": 187,
+    "Futuristic": 127,
+    "Hack and Slash": 193,
+    "JRPG": 161,
+    "MMORPG": 282,
+    "Massively Multiplayer": 208,
+    "Open World": 270,
+    "PvE": 235,
+    "RPG": 246,
+    "VR": 298,
+    "VR Only": 1
+  },
+  "type": "game"
 }

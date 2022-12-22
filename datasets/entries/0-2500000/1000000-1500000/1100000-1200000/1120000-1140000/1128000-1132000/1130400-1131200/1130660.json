@@ -1,59 +1,97 @@
 {
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1130660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Average Playtime - Forever": {
+    "app_id": 1130660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1130660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1130660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
   "appid": 1130660,
-  "name": "Tiger Fighter 1931 Tora!Tora!",
+  "categories": [
+    "Single-player",
+    "Full controller support"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
   "developer": "TigerQiuQiu",
+  "discount": "0",
+  "genre": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1130660/header.jpg?t=1627344999",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Tiger Fighter 1931 Tora!Tora!",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "0",
   "publisher": "TigerQiuQiu",
+  "release_date": "2019/08/13",
+  "required_age": 0,
   "tags": {
-    "Action": 21,
-    "Casual": 21,
-    "Indie": 21,
     "1980s": 10,
+    "Action": 21,
     "Bullet Hell": 10,
+    "Casual": 21,
     "Flight": 10,
+    "Indie": 21,
     "Old School": 10,
     "Retro": 10,
     "Shoot 'Em Up": 10,
     "Shooter": 10,
     "Top-Down Shooter": 10
   },
-  "type": "game",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/08/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1130660/header.jpg?t=1627344999",
-  "genre": [
-    "Action",
-    "Casual",
-    "Indie"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "type": "game"
 }

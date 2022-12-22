@@ -1,123 +1,161 @@
 {
-  "appid": 1646090,
-  "name": "Tokyo Rogue",
-  "developer": "Lunacy Labs Ltd.",
-  "publisher": "Lunacy Labs Ltd.",
-  "tags": {
-    "Fast-Paced": 161,
-    "Precision Platformer": 155,
-    "2D Platformer": 152,
-    "Runner": 149,
-    "Difficult": 145,
-    "Singleplayer": 135,
-    "Ninja": 133,
-    "Action": 130,
-    "Pixel Graphics": 128,
-    "Platformer": 122,
-    "Indie": 111,
-    "2D": 102,
-    "Retro": 97,
-    "Character Customization": 91,
-    "Adventure": 84,
-    "Colorful": 82,
-    "Atmospheric": 78,
-    "Parkour": 75,
-    "Futuristic": 70,
-    "Controller": 68
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1646090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1646090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 1,
+    "2022-12-15": 1,
+    "2022-12-18": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
+  },
+  "Completion": 64.9000015258789,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1646090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1646090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 14,
+  "User Score": -1,
+  "appid": 1646090,
   "categories": [
     "Single-player",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 14,
-  "negative": 0,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/07/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1646090/header.jpg?t=1657921343",
+  "consensus_genre": "Action",
+  "developer": "Lunacy Labs Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 14,
-  "Down 30 Days": 0,
-  "Completion": 64.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1646090/header.jpg?t=1657921343",
+  "initialprice": "1299",
+  "languages": "English",
+  "name": "Tokyo Rogue",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14,
+  "price": "1299",
+  "publisher": "Lunacy Labs Ltd.",
+  "release_date": "2022/07/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 102,
+    "2D Platformer": 152,
+    "Action": 130,
+    "Adventure": 84,
+    "Atmospheric": 78,
+    "Character Customization": 91,
+    "Colorful": 82,
+    "Controller": 68,
+    "Difficult": 145,
+    "Fast-Paced": 161,
+    "Futuristic": 70,
+    "Indie": 111,
+    "Ninja": 133,
+    "Parkour": 75,
+    "Pixel Graphics": 128,
+    "Platformer": 122,
+    "Precision Platformer": 155,
+    "Retro": 97,
+    "Runner": 149,
+    "Singleplayer": 135
+  },
+  "type": "game"
 }

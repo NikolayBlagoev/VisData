@@ -1,21 +1,91 @@
 {
-  "appid": 1735940,
-  "name": "FlightChess",
-  "developer": "\u5f01\u5929\u5de5\u4f5c\u5ba4",
-  "publisher": "\u5f01\u5929\u5de5\u4f5c\u5ba4",
-  "tags": {
-    "Casual": 66,
-    "Board Game": 41,
-    "Relaxing": 37,
-    "4 Player Local": 34,
-    "Local Multiplayer": 31,
-    "Flight": 25,
-    "2.5D": 23,
-    "Early Access": 21,
-    "Top-Down": 21,
-    "PvP": 19
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1735940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1735940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 5,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1735940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1735940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1735940,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -23,73 +93,41 @@
     "LAN Co-op",
     "PvP"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 7,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1735940/header.jpg?t=1636485829",
+  "consensus_genre": "Casual",
+  "developer": "\u5f01\u5929\u5de5\u4f5c\u5ba4",
+  "discount": "0",
   "genre": [
     "Casual",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 5,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1735940/header.jpg?t=1636485829",
+  "initialprice": "99",
+  "languages": "English, Simplified Chinese",
+  "name": "FlightChess",
+  "negative": 7,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "\u5f01\u5929\u5de5\u4f5c\u5ba4",
+  "release_date": "2021/11/8",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 23,
+    "4 Player Local": 34,
+    "Board Game": 41,
+    "Casual": 66,
+    "Early Access": 21,
+    "Flight": 25,
+    "Local Multiplayer": 31,
+    "PvP": 19,
+    "Relaxing": 37,
+    "Top-Down": 21
+  },
+  "type": "game"
 }

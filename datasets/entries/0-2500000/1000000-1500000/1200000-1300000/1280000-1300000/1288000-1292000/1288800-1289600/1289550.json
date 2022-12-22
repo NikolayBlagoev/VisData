@@ -1,64 +1,102 @@
 {
-  "appid": 1289550,
-  "name": "Synth War Tactics",
-  "developer": "Bryce Hochstedler",
-  "publisher": "Bryce Hochstedler",
-  "tags": {
-    "Strategy": 71,
-    "Turn-Based Tactics": 46,
-    "Turn-Based Strategy": 42,
-    "3D": 40,
-    "Top-Down": 36,
-    "Cyberpunk": 31,
-    "Futuristic": 28,
-    "Sci-fi": 26,
-    "Rogue-like": 22,
-    "Tactical RPG": 22,
-    "Character Customization": 20,
-    "Combat": 18,
-    "Turn-Based Combat": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1289550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1289550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/03/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1289550/header.jpg?t=1614708060",
-  "genre": [
-    "Strategy"
-  ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1289550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1289550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1289550,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Strategy",
+  "developer": "Bryce Hochstedler",
+  "discount": "0",
+  "genre": [
+    "Strategy"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1289550/header.jpg?t=1614708060",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Synth War Tactics",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "99",
+  "publisher": "Bryce Hochstedler",
+  "release_date": "2021/03/2",
+  "required_age": 0,
+  "tags": {
+    "3D": 40,
+    "Character Customization": 20,
+    "Combat": 18,
+    "Cyberpunk": 31,
+    "Futuristic": 28,
+    "Rogue-like": 22,
+    "Sci-fi": 26,
+    "Singleplayer": 14,
+    "Strategy": 71,
+    "Tactical RPG": 22,
+    "Top-Down": 36,
+    "Turn-Based Combat": 16,
+    "Turn-Based Strategy": 42,
+    "Turn-Based Tactics": 46
+  },
+  "type": "game"
 }

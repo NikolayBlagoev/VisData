@@ -1,27 +1,201 @@
 {
-  "appid": 334940,
-  "name": "Yoku's Island Express",
-  "developer": "Villa Gorilla",
-  "publisher": "Team17 Digital Ltd",
-  "tags": {
-    "Pinball": 85,
-    "Metroidvania": 71,
-    "Adventure": 61,
-    "Platformer": 61,
-    "Singleplayer": 48,
-    "Indie": 43,
-    "Family Friendly": 42,
-    "Puzzle-Platformer": 31,
-    "Great Soundtrack": 28,
-    "Cute": 25,
-    "Open World": 25,
-    "Physics": 24,
-    "Hand-drawn": 22,
-    "2D": 21,
-    "Controller": 18,
-    "Casual": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 334940,
+    "average_2weeks": 14,
+    "average_forever": 333,
+    "median_2weeks": 14,
+    "median_forever": 272
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 334940,
+    "average_2weeks": 14,
+    "average_forever": 333,
+    "median_2weeks": 14,
+    "median_forever": 272
+  },
+  "CCU Histogram": {
+    "2022-12-08": 28,
+    "2022-12-09": 28,
+    "2022-12-10": 19,
+    "2022-12-13": 30,
+    "2022-12-15": 16,
+    "2022-12-18": 19,
+    "2022-12-21": 21,
+    "2022-12-22": 17
+  },
+  "Completion": 54.70000076293945,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 334940,
+    "average_2weeks": 14,
+    "average_forever": 333,
+    "median_2weeks": 14,
+    "median_forever": 272
+  },
+  "Median Playtime - Forever": {
+    "app_id": 334940,
+    "average_2weeks": 14,
+    "average_forever": 333,
+    "median_2weeks": 14,
+    "median_forever": 272
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 32,
+  "User Score": -1,
+  "appid": 334940,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -30,183 +204,47 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3550,
-  "negative": 136,
-  "price": "399",
-  "initialprice": "1999",
-  "discount": "80",
   "ccu": 14,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/05/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/334940/header.jpg?t=1638519902",
+  "consensus_genre": "Adventure",
+  "developer": "Villa Gorilla",
+  "discount": "80",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 32,
-  "Down 30 Days": 2,
-  "Completion": 54.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/334940/header.jpg?t=1638519902",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Japanese, Korean",
+  "name": "Yoku's Island Express",
+  "negative": 136,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3550,
+  "price": "399",
+  "publisher": "Team17 Digital Ltd",
+  "release_date": "2018/05/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 21,
+    "Adventure": 61,
+    "Casual": 5,
+    "Controller": 18,
+    "Cute": 25,
+    "Family Friendly": 42,
+    "Great Soundtrack": 28,
+    "Hand-drawn": 22,
+    "Indie": 43,
+    "Metroidvania": 71,
+    "Open World": 25,
+    "Physics": 24,
+    "Pinball": 85,
+    "Platformer": 61,
+    "Puzzle-Platformer": 31,
+    "Singleplayer": 48
+  },
+  "type": "game"
 }

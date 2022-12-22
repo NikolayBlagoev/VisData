@@ -1,215 +1,253 @@
 {
-  "appid": 113200,
-  "name": "The Binding of Isaac",
-  "developer": "Edmund McMillen, Florian Himsl",
-  "publisher": "Edmund McMillen",
-  "tags": {
-    "Action Roguelike": 2341,
-    "Rogue-like": 2264,
-    "Indie": 1941,
-    "Replay Value": 1320,
-    "Difficult": 1301,
-    "Procedural Generation": 944,
-    "Dark": 907,
-    "Action": 888,
-    "Top-Down": 713,
-    "Great Soundtrack": 698,
-    "Addictive": 635,
-    "Singleplayer": 621,
-    "Adventure": 543,
-    "Rogue-lite": 477,
-    "2D": 399,
-    "Dungeon Crawler": 395,
-    "Survival": 383,
-    "RPG": 380,
-    "Perma Death": 344,
-    "Bullet Hell": 320
+  "Average Playtime - 2 Weeks": {
+    "app_id": 113200,
+    "average_2weeks": 1,
+    "average_forever": 1182,
+    "median_2weeks": 1,
+    "median_forever": 241
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 113200,
+    "average_2weeks": 1,
+    "average_forever": 1182,
+    "median_2weeks": 1,
+    "median_forever": 241
+  },
+  "CCU Histogram": {
+    "2022-12-08": 301,
+    "2022-12-09": 239,
+    "2022-12-10": 248,
+    "2022-12-13": 286,
+    "2022-12-15": 217,
+    "2022-12-18": 229,
+    "2022-12-21": 209,
+    "2022-12-22": 219
+  },
+  "Completion": 48.5,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 113200,
+    "average_2weeks": 1,
+    "average_forever": 1182,
+    "median_2weeks": 1,
+    "median_forever": 241
+  },
+  "Median Playtime - Forever": {
+    "app_id": 113200,
+    "average_2weeks": 1,
+    "average_forever": 1182,
+    "median_2weeks": 1,
+    "median_forever": 241
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 242,
+  "User Score": -1,
+  "appid": 113200,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 52160,
-  "negative": 2546,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 309,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2011/09/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/113200/header.jpg?t=1643480517",
+  "consensus_genre": "Indie",
+  "developer": "Edmund McMillen, Florian Himsl",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 47,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 242,
-  "Down 30 Days": 8,
-  "Completion": 48.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/113200/header.jpg?t=1643480517",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "The Binding of Isaac",
+  "negative": 2546,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 52160,
+  "price": "499",
+  "publisher": "Edmund McMillen",
+  "release_date": "2011/09/28",
+  "required_age": 0,
+  "tags": {
+    "2D": 399,
+    "Action": 888,
+    "Action Roguelike": 2341,
+    "Addictive": 635,
+    "Adventure": 543,
+    "Bullet Hell": 320,
+    "Dark": 907,
+    "Difficult": 1301,
+    "Dungeon Crawler": 395,
+    "Great Soundtrack": 698,
+    "Indie": 1941,
+    "Perma Death": 344,
+    "Procedural Generation": 944,
+    "RPG": 380,
+    "Replay Value": 1320,
+    "Rogue-like": 2264,
+    "Rogue-lite": 477,
+    "Singleplayer": 621,
+    "Survival": 383,
+    "Top-Down": 713
+  },
+  "type": "game"
 }

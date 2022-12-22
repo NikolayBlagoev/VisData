@@ -1,56 +1,94 @@
 {
-  "appid": 1150540,
-  "name": "Offcoast",
-  "developer": "Ice-Cold Shivering Studios",
-  "publisher": "Ice-Cold Shivering Studios",
-  "tags": {
-    "Strategy": 73,
-    "Underwater": 70,
-    "2D": 67,
-    "Indie": 63,
-    "Rogue-like": 54,
-    "Early Access": 51,
-    "Sci-fi": 29,
-    "RPG": 26,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1150540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1150540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1150540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1150540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1150540,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1150540/header.jpg?t=1599593411",
+  "consensus_genre": "Strategy",
+  "developer": "Ice-Cold Shivering Studios",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1150540/header.jpg?t=1599593411",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Offcoast",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Ice-Cold Shivering Studios",
+  "release_date": "2020/06/16",
+  "required_age": 0,
+  "tags": {
+    "2D": 67,
+    "Early Access": 51,
+    "Indie": 63,
+    "RPG": 26,
+    "Rogue-like": 54,
+    "Sci-fi": 29,
+    "Singleplayer": 25,
+    "Strategy": 73,
+    "Underwater": 70
+  },
+  "type": "game"
 }

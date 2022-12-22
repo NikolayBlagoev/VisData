@@ -1,57 +1,95 @@
 {
-  "appid": 1220440,
-  "name": "Pick, shoot, repeat!",
-  "developer": "Wa Tran",
-  "publisher": "Unknown Magic",
-  "tags": {
-    "Action": 81,
-    "Gun Customization": 12,
-    "Shooter": 12,
-    "2D": 11,
-    "2D Platformer": 11,
-    "Futuristic": 11,
-    "Indie": 11,
-    "Sci-fi": 11,
-    "Singleplayer": 11,
-    "Crafting": 10,
-    "Deckbuilding": 10,
-    "Survival": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1220440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1220440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/01/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1220440/header.jpg?t=1579793657",
-  "genre": [
-    "Action"
-  ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 11.699999809265137,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1220440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1220440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 11.699999809265137,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1220440,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Action",
+  "developer": "Wa Tran",
+  "discount": "0",
+  "genre": [
+    "Action"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1220440/header.jpg?t=1579793657",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Pick, shoot, repeat!",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Unknown Magic",
+  "release_date": "2020/01/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 11,
+    "2D Platformer": 11,
+    "Action": 81,
+    "Crafting": 10,
+    "Deckbuilding": 10,
+    "Futuristic": 11,
+    "Gun Customization": 12,
+    "Indie": 11,
+    "Sci-fi": 11,
+    "Shooter": 12,
+    "Singleplayer": 11,
+    "Survival": 10
+  },
+  "type": "game"
 }

@@ -1,213 +1,251 @@
 {
-  "appid": 220780,
-  "name": "Thomas Was Alone",
-  "developer": "Bithell Games",
-  "publisher": "Bithell Games",
-  "tags": {
-    "Platformer": 491,
-    "Indie": 414,
-    "Narration": 387,
-    "Minimalist": 331,
-    "Puzzle": 308,
-    "Great Soundtrack": 244,
-    "Puzzle-Platformer": 223,
-    "Story Rich": 206,
-    "2D": 195,
-    "Atmospheric": 179,
-    "Singleplayer": 167,
-    "Funny": 139,
-    "Family Friendly": 132,
-    "Comedy": 95,
-    "Short": 56,
-    "Casual": 51,
-    "Adventure": 45,
-    "Colorful": 33,
-    "Relaxing": 33,
-    "Sci-fi": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 220780,
+    "average_2weeks": 0,
+    "average_forever": 140,
+    "median_2weeks": 0,
+    "median_forever": 92
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 220780,
+    "average_2weeks": 0,
+    "average_forever": 140,
+    "median_2weeks": 0,
+    "median_forever": 92
+  },
+  "CCU Histogram": {
+    "2022-12-08": 6,
+    "2022-12-09": 6,
+    "2022-12-10": 6,
+    "2022-12-13": 4,
+    "2022-12-15": 6,
+    "2022-12-18": 3,
+    "2022-12-21": 3,
+    "2022-12-22": 5
+  },
+  "Completion": 64.80000305175781,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 220780,
+    "average_2weeks": 0,
+    "average_forever": 140,
+    "median_2weeks": 0,
+    "median_forever": 92
+  },
+  "Median Playtime - Forever": {
+    "app_id": 220780,
+    "average_2weeks": 0,
+    "average_forever": 140,
+    "median_2weeks": 0,
+    "median_forever": 92
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 11,
+  "User Score": -1,
+  "appid": 220780,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 8255,
-  "negative": 533,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2012/11/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220780/header.jpg?t=1571520742",
+  "consensus_genre": "Indie",
+  "developer": "Bithell Games",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 11,
-  "Down 30 Days": 3,
-  "Completion": 64.80000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220780/header.jpg?t=1571520742",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Thomas Was Alone",
+  "negative": 533,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 8255,
+  "price": "999",
+  "publisher": "Bithell Games",
+  "release_date": "2012/11/12",
+  "required_age": 0,
+  "tags": {
+    "2D": 195,
+    "Adventure": 45,
+    "Atmospheric": 179,
+    "Casual": 51,
+    "Colorful": 33,
+    "Comedy": 95,
+    "Family Friendly": 132,
+    "Funny": 139,
+    "Great Soundtrack": 244,
+    "Indie": 414,
+    "Minimalist": 331,
+    "Narration": 387,
+    "Platformer": 491,
+    "Puzzle": 308,
+    "Puzzle-Platformer": 223,
+    "Relaxing": 33,
+    "Sci-fi": 18,
+    "Short": 56,
+    "Singleplayer": 167,
+    "Story Rich": 206
+  },
+  "type": "game"
 }

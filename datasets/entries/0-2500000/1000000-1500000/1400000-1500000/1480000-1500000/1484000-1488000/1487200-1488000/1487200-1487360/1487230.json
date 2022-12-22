@@ -1,31 +1,56 @@
 {
-  "appid": 1487230,
-  "name": "FutureKreate",
-  "developer": "D.K.T. ltd",
-  "publisher": "D.K.T. ltd",
-  "tags": {
-    "Early Access": 211,
-    "Simulation": 191,
-    "Experimental": 185,
-    "Open World": 182,
-    "Sandbox": 179,
-    "Automobile Sim": 176,
-    "Open World Survival Craft": 170,
-    "Software": 167,
-    "Programming": 164,
-    "Education": 163,
-    "Immersive Sim": 154,
-    "3D": 147,
-    "Third Person": 141,
-    "First-Person": 138,
-    "Realistic": 129,
-    "Nature": 127,
-    "Character Customization": 117,
-    "Building": 109,
-    "Physics": 96,
-    "Procedural Generation": 78
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1487230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1487230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 41.599998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1487230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1487230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1487230,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -33,40 +58,53 @@
     "Steam Achievements",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "8999",
-  "initialprice": "8999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1487230/header.jpg?t=1624673236",
+  "consensus_genre": "Early Access",
+  "developer": "D.K.T. ltd",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 41.599998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1487230/header.jpg?t=1624673236",
+  "initialprice": "8999",
+  "languages": "English, Japanese",
+  "name": "FutureKreate",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "8999",
+  "publisher": "D.K.T. ltd",
+  "release_date": "2021/04/13",
+  "required_age": 0,
+  "tags": {
+    "3D": 147,
+    "Automobile Sim": 176,
+    "Building": 109,
+    "Character Customization": 117,
+    "Early Access": 211,
+    "Education": 163,
+    "Experimental": 185,
+    "First-Person": 138,
+    "Immersive Sim": 154,
+    "Nature": 127,
+    "Open World": 182,
+    "Open World Survival Craft": 170,
+    "Physics": 96,
+    "Procedural Generation": 78,
+    "Programming": 164,
+    "Realistic": 129,
+    "Sandbox": 179,
+    "Simulation": 191,
+    "Software": 167,
+    "Third Person": 141
+  },
+  "type": "game"
 }

@@ -1,50 +1,208 @@
 {
-  "appid": 1468720,
-  "name": "Ultimate Epic Battle Simulator 2",
-  "developer": "Brilliant Game Studios",
-  "publisher": "Brilliant Game Studios",
-  "tags": {
-    "Early Access": 431,
-    "Simulation": 391,
-    "Action": 377,
-    "Strategy": 370,
-    "Sandbox": 356,
-    "God Game": 349,
-    "Grand Strategy": 333,
-    "RTS": 333,
-    "Wargame": 316,
-    "Choose Your Own Adventure": 312,
-    "Real Time Tactics": 306,
-    "Exploration": 305,
-    "3D": 303,
-    "Hack and Slash": 302,
-    "Cinematic": 291,
-    "Colorful": 283,
-    "First-Person": 270,
-    "Realistic": 262,
-    "Third Person": 249,
-    "Top-Down": 241
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1468720,
+    "average_2weeks": 0,
+    "average_forever": 278,
+    "median_2weeks": 0,
+    "median_forever": 349
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1468720,
+    "average_2weeks": 0,
+    "average_forever": 278,
+    "median_2weeks": 0,
+    "median_forever": 349
+  },
+  "CCU Histogram": {
+    "2022-12-08": 101,
+    "2022-12-09": 108,
+    "2022-12-10": 88,
+    "2022-12-13": 125,
+    "2022-12-15": 117,
+    "2022-12-18": 100,
+    "2022-12-21": 122,
+    "2022-12-22": 116
+  },
+  "Completion": -1,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1468720,
+    "average_2weeks": 0,
+    "average_forever": 278,
+    "median_2weeks": 0,
+    "median_forever": 349
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1468720,
+    "average_2weeks": 0,
+    "average_forever": 278,
+    "median_2weeks": 0,
+    "median_forever": 349
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 204,
+  "User Score": -1,
+  "appid": 1468720,
   "categories": [
     "Single-player"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 2196,
-  "negative": 291,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 236,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1468720/header.jpg?t=1667588760",
+  "consensus_genre": "Early Access",
+  "developer": "Brilliant Game Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -54,163 +212,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 30,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 204,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1468720/header.jpg?t=1667588760",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Ultimate Epic Battle Simulator 2",
+  "negative": 291,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2196,
+  "price": "1999",
+  "publisher": "Brilliant Game Studios",
+  "release_date": "2022/05/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 303,
+    "Action": 377,
+    "Choose Your Own Adventure": 312,
+    "Cinematic": 291,
+    "Colorful": 283,
+    "Early Access": 431,
+    "Exploration": 305,
+    "First-Person": 270,
+    "God Game": 349,
+    "Grand Strategy": 333,
+    "Hack and Slash": 302,
+    "RTS": 333,
+    "Real Time Tactics": 306,
+    "Realistic": 262,
+    "Sandbox": 356,
+    "Simulation": 391,
+    "Strategy": 370,
+    "Third Person": 249,
+    "Top-Down": 241,
+    "Wargame": 316
+  },
+  "type": "game"
 }

@@ -1,68 +1,106 @@
 {
-  "appid": 1528430,
-  "name": "Rolf",
-  "developer": "Gautham Ramachandran",
-  "publisher": "Gautham Ramachandran",
-  "tags": {
-    "Pixel Graphics": 297,
-    "2D": 290,
-    "2D Platformer": 288,
-    "Action": 285,
-    "Platformer": 281,
-    "Parkour": 275,
-    "Casual": 261,
-    "Arcade": 258,
-    "Runner": 249,
-    "Minimalist": 231,
-    "Atmospheric": 220,
-    "Real Time Tactics": 208,
-    "2D Fighter": 196,
-    "Fantasy": 183,
-    "Logic": 181,
-    "Character Action Game": 164,
-    "Fighting": 147,
-    "Adventure": 130,
-    "Action-Adventure": 129,
-    "Mystery Dungeon": 90
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1528430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1528430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1528430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1528430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1528430,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1528430/header.jpg?t=1613870924",
+  "consensus_genre": "Action",
+  "developer": "Gautham Ramachandran",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1528430/header.jpg?t=1613870924",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Rolf",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Gautham Ramachandran",
+  "release_date": "2021/02/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 290,
+    "2D Fighter": 196,
+    "2D Platformer": 288,
+    "Action": 285,
+    "Action-Adventure": 129,
+    "Adventure": 130,
+    "Arcade": 258,
+    "Atmospheric": 220,
+    "Casual": 261,
+    "Character Action Game": 164,
+    "Fantasy": 183,
+    "Fighting": 147,
+    "Logic": 181,
+    "Minimalist": 231,
+    "Mystery Dungeon": 90,
+    "Parkour": 275,
+    "Pixel Graphics": 297,
+    "Platformer": 281,
+    "Real Time Tactics": 208,
+    "Runner": 249
+  },
+  "type": "game"
 }

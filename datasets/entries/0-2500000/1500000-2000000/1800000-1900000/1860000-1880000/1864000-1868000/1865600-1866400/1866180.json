@@ -1,212 +1,250 @@
 {
-  "appid": 1866180,
-  "name": "Hooked on You: A Dead by Daylight Dating Sim",
-  "developer": "Psyop",
-  "publisher": "Behaviour Interactive Inc.",
-  "tags": {
-    "Psychological Horror": 214,
-    "Dating Sim": 213,
-    "Visual Novel": 184,
-    "Choose Your Own Adventure": 169,
-    "Romance": 158,
-    "2D": 146,
-    "Text-Based": 132,
-    "Anime": 121,
-    "Comedy": 115,
-    "Funny": 109,
-    "Choices Matter": 108,
-    "LGBTQ+": 84,
-    "Casual": 83,
-    "Memes": 83,
-    "Colorful": 75,
-    "Singleplayer": 73,
-    "Mature": 64,
-    "Story Rich": 60,
-    "Cult Classic": 48,
-    "Horror": 43
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1866180,
+    "average_2weeks": 0,
+    "average_forever": 170,
+    "median_2weeks": 0,
+    "median_forever": 189
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1866180,
+    "average_2weeks": 0,
+    "average_forever": 170,
+    "median_2weeks": 0,
+    "median_forever": 189
+  },
+  "CCU Histogram": {
+    "2022-12-08": 14,
+    "2022-12-09": 17,
+    "2022-12-10": 19,
+    "2022-12-13": 22,
+    "2022-12-15": 16,
+    "2022-12-18": 17,
+    "2022-12-21": 19,
+    "2022-12-22": 14
+  },
+  "Completion": 37.20000076293945,
+  "Down 30 Days": 27,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 5,
+      "recommendations_up": 124
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 43
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1866180,
+    "average_2weeks": 0,
+    "average_forever": 170,
+    "median_2weeks": 0,
+    "median_forever": 189
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1866180,
+    "average_2weeks": 0,
+    "average_forever": 170,
+    "median_2weeks": 0,
+    "median_forever": 189
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 455,
+  "User Score": -1,
+  "appid": 1866180,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 3824,
-  "negative": 429,
-  "price": "699",
-  "initialprice": "999",
-  "discount": "30",
   "ccu": 47,
-  "languages": "English, French, German, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1866180/header.jpg?t=1666720782",
+  "consensus_genre": "Casual",
+  "developer": "Psyop",
+  "discount": "30",
   "genre": [
     "Casual"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 68,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 124,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 54,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 43,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 30,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 455,
-  "Down 30 Days": 27,
-  "Completion": 37.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1866180/header.jpg?t=1666720782",
+  "initialprice": "999",
+  "languages": "English, French, German, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Spanish - Spain",
+  "name": "Hooked on You: A Dead by Daylight Dating Sim",
+  "negative": 429,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3824,
+  "price": "699",
+  "publisher": "Behaviour Interactive Inc.",
+  "release_date": "2022/08/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 146,
+    "Anime": 121,
+    "Casual": 83,
+    "Choices Matter": 108,
+    "Choose Your Own Adventure": 169,
+    "Colorful": 75,
+    "Comedy": 115,
+    "Cult Classic": 48,
+    "Dating Sim": 213,
+    "Funny": 109,
+    "Horror": 43,
+    "LGBTQ+": 84,
+    "Mature": 64,
+    "Memes": 83,
+    "Psychological Horror": 214,
+    "Romance": 158,
+    "Singleplayer": 73,
+    "Story Rich": 60,
+    "Text-Based": 132,
+    "Visual Novel": 184
+  },
+  "type": "game"
 }

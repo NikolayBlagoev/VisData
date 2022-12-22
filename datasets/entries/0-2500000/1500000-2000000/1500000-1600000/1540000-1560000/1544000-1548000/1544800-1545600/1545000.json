@@ -1,59 +1,97 @@
 {
-  "appid": 1545000,
-  "name": "Island Herders",
-  "developer": "Jonathan MacLellan",
-  "publisher": "Jonathan MacLellan",
-  "tags": {
-    "Casual": 68,
-    "Puzzle": 42,
-    "2D": 39,
-    "Colorful": 35,
-    "Cute": 32,
-    "Pixel Graphics": 26,
-    "Atmospheric": 24,
-    "Family Friendly": 22,
-    "Indie": 21,
-    "Relaxing": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1545000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1545000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1545000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1545000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1545000,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/03/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1545000/header.jpg?t=1615595939",
+  "consensus_genre": "Casual",
+  "developer": "Jonathan MacLellan",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 100.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1545000/header.jpg?t=1615595939",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Island Herders",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Jonathan MacLellan",
+  "release_date": "2021/03/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 39,
+    "Atmospheric": 24,
+    "Casual": 68,
+    "Colorful": 35,
+    "Cute": 32,
+    "Family Friendly": 22,
+    "Indie": 21,
+    "Pixel Graphics": 26,
+    "Puzzle": 42,
+    "Relaxing": 20,
+    "Singleplayer": 18
+  },
+  "type": "game"
 }

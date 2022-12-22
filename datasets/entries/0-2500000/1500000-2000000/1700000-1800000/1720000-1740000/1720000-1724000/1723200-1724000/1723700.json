@@ -1,62 +1,100 @@
 {
-  "appid": 1723700,
-  "name": "Remy Raccoon and the Lost Temple",
-  "developer": "LH Games Limited",
-  "publisher": "LH Games Limited",
-  "tags": {
-    "Adventure": 80,
-    "Arcade": 76,
-    "Cute": 72,
-    "Dungeon Crawler": 69,
-    "Singleplayer": 66,
-    "Indie": 60,
-    "Casual": 54,
-    "Exploration": 33,
-    "Top-Down": 32,
-    "Loot": 29,
-    "Mystery": 27,
-    "Cartoony": 25,
-    "Survival": 22,
-    "Tutorial": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1723700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1723700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 37.5,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1723700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1723700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1723700,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/09/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1723700/header.jpg?t=1651062990",
+  "consensus_genre": "Adventure",
+  "developer": "LH Games Limited",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 37.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1723700/header.jpg?t=1651062990",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Remy Raccoon and the Lost Temple",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "LH Games Limited",
+  "release_date": "2021/09/23",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 80,
+    "Arcade": 76,
+    "Cartoony": 25,
+    "Casual": 54,
+    "Cute": 72,
+    "Dungeon Crawler": 69,
+    "Exploration": 33,
+    "Indie": 60,
+    "Loot": 29,
+    "Mystery": 27,
+    "Singleplayer": 66,
+    "Survival": 22,
+    "Top-Down": 32,
+    "Tutorial": 21
+  },
+  "type": "game"
 }

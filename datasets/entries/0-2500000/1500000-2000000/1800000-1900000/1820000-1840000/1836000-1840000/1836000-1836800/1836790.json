@@ -1,30 +1,101 @@
 {
-  "appid": 1836790,
-  "name": "Amshay",
-  "developer": "bankbank",
-  "publisher": "Wainstop James",
-  "tags": {
-    "Local Multiplayer": 176,
-    "Puzzle": 172,
-    "Creature Collector": 166,
-    "Retro": 163,
-    "Local Co-Op": 155,
-    "Arcade": 147,
-    "Solitaire": 138,
-    "Co-op": 132,
-    "Co-op Campaign": 122,
-    "Pixel Graphics": 114,
-    "Time Attack": 103,
-    "Grid-Based Movement": 100,
-    "Controller": 87,
-    "Multiplayer": 74,
-    "2D": 60,
-    "Strategy": 47,
-    "Asynchronous Multiplayer": 42,
-    "Singleplayer": 27,
-    "Indie": 22
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1836790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1836790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 1,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1836790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1836790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1836790,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,83 +105,50 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/05/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1836790/header.jpg?t=1652098801",
+  "consensus_genre": "Strategy",
+  "developer": "bankbank",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1836790/header.jpg?t=1652098801",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Amshay",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "499",
+  "publisher": "Wainstop James",
+  "release_date": "2022/05/9",
+  "required_age": 0,
+  "tags": {
+    "2D": 60,
+    "Arcade": 147,
+    "Asynchronous Multiplayer": 42,
+    "Co-op": 132,
+    "Co-op Campaign": 122,
+    "Controller": 87,
+    "Creature Collector": 166,
+    "Grid-Based Movement": 100,
+    "Indie": 22,
+    "Local Co-Op": 155,
+    "Local Multiplayer": 176,
+    "Multiplayer": 74,
+    "Pixel Graphics": 114,
+    "Puzzle": 172,
+    "Retro": 163,
+    "Singleplayer": 27,
+    "Solitaire": 138,
+    "Strategy": 47,
+    "Time Attack": 103
+  },
+  "type": "game"
 }

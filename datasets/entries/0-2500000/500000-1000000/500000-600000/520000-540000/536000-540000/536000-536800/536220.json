@@ -1,212 +1,250 @@
 {
-  "appid": 536220,
-  "name": "The Walking Dead: A New Frontier",
-  "developer": "Telltale Games",
-  "publisher": "Skybound Games",
-  "tags": {
-    "Zombies": 366,
-    "Story Rich": 348,
-    "Choices Matter": 320,
-    "Adventure": 273,
-    "Post-apocalyptic": 239,
-    "Atmospheric": 233,
-    "Episodic": 206,
-    "Singleplayer": 197,
-    "Survival": 184,
-    "Gore": 149,
-    "Action": 147,
-    "Choose Your Own Adventure": 139,
-    "Point & Click": 137,
-    "Horror": 129,
-    "Violent": 123,
-    "Drama": 93,
-    "Female Protagonist": 72,
-    "Comic Book": 68,
-    "Visual Novel": 50,
-    "Casual": 31
+  "Average Playtime - 2 Weeks": {
+    "app_id": 536220,
+    "average_2weeks": 566,
+    "average_forever": 575,
+    "median_2weeks": 566,
+    "median_forever": 499
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 536220,
+    "average_2weeks": 566,
+    "average_forever": 575,
+    "median_2weeks": 566,
+    "median_forever": 499
+  },
+  "CCU Histogram": {
+    "2022-12-08": 62,
+    "2022-12-09": 57,
+    "2022-12-10": 64,
+    "2022-12-13": 70,
+    "2022-12-15": 51,
+    "2022-12-18": 47,
+    "2022-12-21": 49,
+    "2022-12-22": 61
+  },
+  "Completion": 85.8499984741211,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 536220,
+    "average_2weeks": 566,
+    "average_forever": 575,
+    "median_2weeks": 566,
+    "median_forever": 499
+  },
+  "Median Playtime - Forever": {
+    "app_id": 536220,
+    "average_2weeks": 566,
+    "average_forever": 575,
+    "median_2weeks": 566,
+    "median_forever": 499
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 68,
+  "User Score": -1,
+  "appid": 536220,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 10336,
-  "negative": 2487,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 47,
-  "languages": "English, French, German, Spanish - Spain, Arabic, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/12/20",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536220/header.jpg?t=1612901724",
+  "consensus_genre": "Adventure",
+  "developer": "Telltale Games",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 68,
-  "Down 30 Days": 10,
-  "Completion": 85.8499984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/536220/header.jpg?t=1612901724",
+  "initialprice": "1499",
+  "languages": "English, French, German, Spanish - Spain, Arabic, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "name": "The Walking Dead: A New Frontier",
+  "negative": 2487,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10336,
+  "price": "1499",
+  "publisher": "Skybound Games",
+  "release_date": "2016/12/20",
+  "required_age": "15",
+  "tags": {
+    "Action": 147,
+    "Adventure": 273,
+    "Atmospheric": 233,
+    "Casual": 31,
+    "Choices Matter": 320,
+    "Choose Your Own Adventure": 139,
+    "Comic Book": 68,
+    "Drama": 93,
+    "Episodic": 206,
+    "Female Protagonist": 72,
+    "Gore": 149,
+    "Horror": 129,
+    "Point & Click": 137,
+    "Post-apocalyptic": 239,
+    "Singleplayer": 197,
+    "Story Rich": 348,
+    "Survival": 184,
+    "Violent": 123,
+    "Visual Novel": 50,
+    "Zombies": 366
+  },
+  "type": "game"
 }

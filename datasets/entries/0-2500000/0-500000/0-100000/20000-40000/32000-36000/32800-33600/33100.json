@@ -1,31 +1,201 @@
 {
-  "appid": 33100,
-  "name": "Alien Shooter",
-  "developer": "Sigma Team Inc.",
-  "publisher": "Sigma Team Inc.",
-  "tags": {
-    "Shooter": 168,
-    "Action": 165,
-    "Blood": 160,
-    "Aliens": 150,
-    "Horror": 147,
-    "Gore": 144,
-    "Action RPG": 136,
-    "Sci-fi": 135,
-    "Top-Down": 134,
-    "Singleplayer": 131,
-    "Isometric": 130,
-    "RPG": 124,
-    "Beat 'em up": 122,
-    "Looter Shooter": 117,
-    "Top-Down Shooter": 115,
-    "Indie": 111,
-    "Arcade": 96,
-    "Atmospheric": 96,
-    "Arena Shooter": 84,
-    "Rogue-like": 81
+  "Average Playtime - 2 Weeks": {
+    "app_id": 33100,
+    "average_2weeks": 81,
+    "average_forever": 270,
+    "median_2weeks": 91,
+    "median_forever": 203
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 33100,
+    "average_2weeks": 81,
+    "average_forever": 270,
+    "median_2weeks": 91,
+    "median_forever": 203
+  },
+  "CCU Histogram": {
+    "2022-12-08": 246,
+    "2022-12-09": 217,
+    "2022-12-10": 204,
+    "2022-12-13": 130,
+    "2022-12-15": 92,
+    "2022-12-18": 83,
+    "2022-12-21": 80,
+    "2022-12-22": 81
+  },
+  "Completion": 40.85000038146973,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 33100,
+    "average_2weeks": 81,
+    "average_forever": 270,
+    "median_2weeks": 91,
+    "median_forever": 203
+  },
+  "Median Playtime - Forever": {
+    "app_id": 33100,
+    "average_2weeks": 81,
+    "average_forever": 270,
+    "median_2weeks": 91,
+    "median_forever": 203
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 114,
+  "User Score": -1,
+  "appid": 33100,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -34,184 +204,52 @@
     "Steam Leaderboards",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 2576,
-  "negative": 146,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 65,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2009/05/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/33100/header.jpg?t=1655832343",
+  "consensus_genre": "Action",
+  "developer": "Sigma Team Inc.",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 114,
-  "Down 30 Days": 4,
-  "Completion": 40.85000038146973,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/33100/header.jpg?t=1655832343",
+  "initialprice": "499",
+  "languages": "English, Russian",
+  "name": "Alien Shooter",
+  "negative": 146,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2576,
+  "price": "499",
+  "publisher": "Sigma Team Inc.",
+  "release_date": "2009/05/27",
+  "required_age": 0,
+  "tags": {
+    "Action": 165,
+    "Action RPG": 136,
+    "Aliens": 150,
+    "Arcade": 96,
+    "Arena Shooter": 84,
+    "Atmospheric": 96,
+    "Beat 'em up": 122,
+    "Blood": 160,
+    "Gore": 144,
+    "Horror": 147,
+    "Indie": 111,
+    "Isometric": 130,
+    "Looter Shooter": 117,
+    "RPG": 124,
+    "Rogue-like": 81,
+    "Sci-fi": 135,
+    "Shooter": 168,
+    "Singleplayer": 131,
+    "Top-Down": 134,
+    "Top-Down Shooter": 115
+  },
+  "type": "game"
 }

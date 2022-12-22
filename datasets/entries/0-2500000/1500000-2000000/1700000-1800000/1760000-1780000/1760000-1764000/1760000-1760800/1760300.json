@@ -1,50 +1,108 @@
 {
-  "appid": 1760300,
-  "name": "Jousting VR",
-  "developer": "VRAAR S.A.",
-  "publisher": "VRAAR S.A.",
-  "tags": {
-    "Cute": 710,
-    "Cartoony": 709,
-    "Funny": 641,
-    "Indie": 610,
-    "VR": 600,
-    "Sports": 594,
-    "Casual": 590,
-    "Medieval": 587,
-    "Singleplayer": 583,
-    "Simulation": 577,
-    "Multiplayer": 572,
-    "Physics": 563,
-    "Family Friendly": 559,
-    "PvP": 556,
-    "Arcade": 551,
-    "3D": 544,
-    "First-Person": 524,
-    "Combat": 519,
-    "Relaxing": 503,
-    "Action": 493
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1760300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1760300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1760300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1760300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1760300,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 2,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1760300/header.jpg?t=1667385000",
+  "consensus_genre": "Indie",
+  "developer": "VRAAR S.A.",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -52,63 +110,43 @@
     "Simulation",
     "Sports"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1760300/header.jpg?t=1667385000",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Jousting VR",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "999",
+  "publisher": "VRAAR S.A.",
+  "release_date": "2022/10/25",
+  "required_age": 0,
+  "tags": {
+    "3D": 544,
+    "Action": 493,
+    "Arcade": 551,
+    "Cartoony": 709,
+    "Casual": 590,
+    "Combat": 519,
+    "Cute": 710,
+    "Family Friendly": 559,
+    "First-Person": 524,
+    "Funny": 641,
+    "Indie": 610,
+    "Medieval": 587,
+    "Multiplayer": 572,
+    "Physics": 563,
+    "PvP": 556,
+    "Relaxing": 503,
+    "Simulation": 577,
+    "Singleplayer": 583,
+    "Sports": 594,
+    "VR": 600
+  },
+  "type": "game"
 }

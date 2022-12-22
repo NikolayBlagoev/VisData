@@ -1,31 +1,201 @@
 {
-  "appid": 1106840,
-  "name": "Hydroneer",
-  "developer": "Foulball Hangover",
-  "publisher": "Foulball Hangover",
-  "tags": {
-    "Simulation": 204,
-    "Mining": 202,
-    "Building": 178,
-    "Sandbox": 159,
-    "Multiplayer": 154,
-    "Indie": 140,
-    "Base-Building": 134,
-    "Casual": 131,
-    "Open World": 129,
-    "Automation": 120,
-    "Adventure": 118,
-    "Singleplayer": 113,
-    "Resource Management": 104,
-    "Crafting": 95,
-    "First-Person": 91,
-    "Strategy": 91,
-    "Exploration": 33,
-    "Co-op": 32,
-    "Online Co-Op": 29,
-    "Funny": 25
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1106840,
+    "average_2weeks": 524,
+    "average_forever": 1080,
+    "median_2weeks": 895,
+    "median_forever": 580
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1106840,
+    "average_2weeks": 524,
+    "average_forever": 1080,
+    "median_2weeks": 895,
+    "median_forever": 580
+  },
+  "CCU Histogram": {
+    "2022-12-08": 312,
+    "2022-12-09": 323,
+    "2022-12-10": 1049,
+    "2022-12-13": 1546,
+    "2022-12-15": 1371,
+    "2022-12-18": 1303,
+    "2022-12-21": 1434,
+    "2022-12-22": 899
+  },
+  "Completion": -1,
+  "Down 30 Days": 38,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1106840,
+    "average_2weeks": 524,
+    "average_forever": 1080,
+    "median_2weeks": 895,
+    "median_forever": 580
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1106840,
+    "average_2weeks": 524,
+    "average_forever": 1080,
+    "median_2weeks": 895,
+    "median_forever": 580
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 304,
+  "User Score": -1,
+  "appid": 1106840,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,22 +208,10 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12760,
-  "negative": 1867,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 517,
-  "languages": "English, Russian, Portuguese - Brazil, French, German, Turkish, Dutch, Polish, Spanish - Spain, Romanian, Simplified Chinese, Czech, Italian, Korean, Arabic, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/05/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/header.jpg?t=1655389175",
+  "consensus_genre": "Simulation",
+  "developer": "Foulball Hangover",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -61,163 +219,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 16,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 25,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 304,
-  "Down 30 Days": 38,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/header.jpg?t=1655389175",
+  "initialprice": "999",
+  "languages": "English, Russian, Portuguese - Brazil, French, German, Turkish, Dutch, Polish, Spanish - Spain, Romanian, Simplified Chinese, Czech, Italian, Korean, Arabic, Japanese",
+  "name": "Hydroneer",
+  "negative": 1867,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12760,
+  "price": "999",
+  "publisher": "Foulball Hangover",
+  "release_date": "2020/05/8",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 118,
+    "Automation": 120,
+    "Base-Building": 134,
+    "Building": 178,
+    "Casual": 131,
+    "Co-op": 32,
+    "Crafting": 95,
+    "Exploration": 33,
+    "First-Person": 91,
+    "Funny": 25,
+    "Indie": 140,
+    "Mining": 202,
+    "Multiplayer": 154,
+    "Online Co-Op": 29,
+    "Open World": 129,
+    "Resource Management": 104,
+    "Sandbox": 159,
+    "Simulation": 204,
+    "Singleplayer": 113,
+    "Strategy": 91
+  },
+  "type": "game"
 }

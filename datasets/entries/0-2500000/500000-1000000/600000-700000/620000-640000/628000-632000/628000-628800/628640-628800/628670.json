@@ -1,31 +1,201 @@
 {
-  "appid": 628670,
-  "name": "Hellpoint",
-  "developer": "Cradle Games",
-  "publisher": "tinyBuild",
-  "tags": {
-    "Souls-like": 229,
-    "Sci-fi": 213,
-    "Action": 210,
-    "RPG": 205,
-    "Multiplayer": 203,
-    "Indie": 184,
-    "Adventure": 179,
-    "Co-op": 155,
-    "Action RPG": 151,
-    "Atmospheric": 144,
-    "Dark": 144,
-    "Hack and Slash": 143,
-    "Horror": 143,
-    "Lovecraftian": 138,
-    "Third Person": 136,
-    "Singleplayer": 121,
-    "Psychological Horror": 106,
-    "Split Screen": 106,
-    "Co-op Campaign": 96,
-    "Difficult": 94
+  "Average Playtime - 2 Weeks": {
+    "app_id": 628670,
+    "average_2weeks": 0,
+    "average_forever": 337,
+    "median_2weeks": 0,
+    "median_forever": 358
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 628670,
+    "average_2weeks": 0,
+    "average_forever": 337,
+    "median_2weeks": 0,
+    "median_forever": 358
+  },
+  "CCU Histogram": {
+    "2022-12-08": 21,
+    "2022-12-09": 25,
+    "2022-12-10": 26,
+    "2022-12-13": 51,
+    "2022-12-15": 42,
+    "2022-12-18": 43,
+    "2022-12-21": 41,
+    "2022-12-22": 38
+  },
+  "Completion": 41.5,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 628670,
+    "average_2weeks": 0,
+    "average_forever": 337,
+    "median_2weeks": 0,
+    "median_forever": 358
+  },
+  "Median Playtime - Forever": {
+    "app_id": 628670,
+    "average_2weeks": 0,
+    "average_forever": 337,
+    "median_2weeks": 0,
+    "median_forever": 358
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 13,
+  "User Score": -1,
+  "appid": 628670,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,185 +211,53 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2709,
-  "negative": 925,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
   "ccu": 33,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Italian, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/07/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/628670/header.jpg?t=1657648314",
+  "consensus_genre": "Action",
+  "developer": "Cradle Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 13,
-  "Down 30 Days": 3,
-  "Completion": 41.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/628670/header.jpg?t=1657648314",
+  "initialprice": "3499",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Italian, Portuguese - Brazil",
+  "name": "Hellpoint",
+  "negative": 925,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2709,
+  "price": "3499",
+  "publisher": "tinyBuild",
+  "release_date": "2020/07/30",
+  "required_age": 0,
+  "tags": {
+    "Action": 210,
+    "Action RPG": 151,
+    "Adventure": 179,
+    "Atmospheric": 144,
+    "Co-op": 155,
+    "Co-op Campaign": 96,
+    "Dark": 144,
+    "Difficult": 94,
+    "Hack and Slash": 143,
+    "Horror": 143,
+    "Indie": 184,
+    "Lovecraftian": 138,
+    "Multiplayer": 203,
+    "Psychological Horror": 106,
+    "RPG": 205,
+    "Sci-fi": 213,
+    "Singleplayer": 121,
+    "Souls-like": 229,
+    "Split Screen": 106,
+    "Third Person": 136
+  },
+  "type": "game"
 }

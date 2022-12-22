@@ -1,31 +1,201 @@
 {
-  "appid": 996770,
-  "name": "Moving Out",
-  "developer": "SMG Studio, Devm Games",
-  "publisher": "Team17",
-  "tags": {
-    "Casual": 330,
-    "Indie": 322,
-    "Action": 320,
-    "Simulation": 309,
-    "Local Multiplayer": 131,
-    "Co-op": 125,
-    "Local Co-Op": 125,
-    "Multiplayer": 114,
-    "4 Player Local": 96,
-    "Funny": 88,
-    "Family Friendly": 85,
-    "Comedy": 82,
-    "Replay Value": 78,
-    "Colorful": 73,
-    "Great Soundtrack": 68,
-    "Puzzle": 66,
-    "Singleplayer": 64,
-    "Controller": 58,
-    "Physics": 57,
-    "Beautiful": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 996770,
+    "average_2weeks": 0,
+    "average_forever": 208,
+    "median_2weeks": 0,
+    "median_forever": 117
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 996770,
+    "average_2weeks": 0,
+    "average_forever": 208,
+    "median_2weeks": 0,
+    "median_forever": 117
+  },
+  "CCU Histogram": {
+    "2022-12-08": 52,
+    "2022-12-09": 47,
+    "2022-12-10": 51,
+    "2022-12-13": 49,
+    "2022-12-15": 69,
+    "2022-12-18": 42,
+    "2022-12-21": 40,
+    "2022-12-22": 50
+  },
+  "Completion": 61.70000076293945,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 996770,
+    "average_2weeks": 0,
+    "average_forever": 208,
+    "median_2weeks": 0,
+    "median_forever": 117
+  },
+  "Median Playtime - Forever": {
+    "app_id": 996770,
+    "average_2weeks": 0,
+    "average_forever": 208,
+    "median_2weeks": 0,
+    "median_forever": 117
+  },
+  "Meta Score": "79",
+  "Rating": "ESRB E",
+  "Up 30 Days": 18,
+  "User Score": -1,
+  "appid": 996770,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -40,185 +210,53 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1262,
-  "negative": 372,
-  "price": "624",
-  "initialprice": "2499",
-  "discount": "75",
   "ccu": 67,
-  "languages": "English, French, German, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Swedish, Polish, Russian, Italian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/04/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/996770/header.jpg?t=1661329111",
+  "consensus_genre": "Casual",
+  "developer": "SMG Studio, Devm Games",
+  "discount": "75",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": "79",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 18,
-  "Down 30 Days": 2,
-  "Completion": 61.70000076293945,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/996770/header.jpg?t=1661329111",
+  "initialprice": "2499",
+  "languages": "English, French, German, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Swedish, Polish, Russian, Italian, Spanish - Spain",
+  "name": "Moving Out",
+  "negative": 372,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1262,
+  "price": "624",
+  "publisher": "Team17",
+  "release_date": "2020/04/28",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 96,
+    "Action": 320,
+    "Beautiful": 46,
+    "Casual": 330,
+    "Co-op": 125,
+    "Colorful": 73,
+    "Comedy": 82,
+    "Controller": 58,
+    "Family Friendly": 85,
+    "Funny": 88,
+    "Great Soundtrack": 68,
+    "Indie": 322,
+    "Local Co-Op": 125,
+    "Local Multiplayer": 131,
+    "Multiplayer": 114,
+    "Physics": 57,
+    "Puzzle": 66,
+    "Replay Value": 78,
+    "Simulation": 309,
+    "Singleplayer": 64
+  },
+  "type": "game"
 }

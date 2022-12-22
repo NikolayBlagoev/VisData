@@ -1,67 +1,105 @@
 {
-  "appid": 1883220,
-  "name": "Herbheim's Mine",
-  "developer": "Le Studio Imaginaire",
-  "publisher": "Le Studio Imaginaire",
-  "tags": {
-    "Strategy": 209,
-    "Casual": 193,
-    "Tower Defense": 193,
-    "2D": 185,
-    "Survival": 178,
-    "Arcade": 163,
-    "Fantasy": 156,
-    "Procedural Generation": 148,
-    "Top-Down": 141,
-    "PvE": 131,
-    "Singleplayer": 120,
-    "Exploration": 118,
-    "Solitaire": 104,
-    "Hack and Slash": 91,
-    "2D Fighter": 75,
-    "Minimalist": 60,
-    "Combat": 43,
-    "Resource Management": 27,
-    "Action RTS": 24,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1883220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1883220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1883220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1883220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1883220,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1883220/header.jpg?t=1644483536",
+  "consensus_genre": "Strategy",
+  "developer": "Le Studio Imaginaire",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1883220/header.jpg?t=1644483536",
+  "initialprice": "499",
+  "languages": "English, French",
+  "name": "Herbheim's Mine",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "499",
+  "publisher": "Le Studio Imaginaire",
+  "release_date": "2022/02/10",
+  "required_age": 0,
+  "tags": {
+    "2D": 185,
+    "2D Fighter": 75,
+    "Action RTS": 24,
+    "Arcade": 163,
+    "Casual": 193,
+    "Combat": 43,
+    "Exploration": 118,
+    "Fantasy": 156,
+    "Hack and Slash": 91,
+    "Indie": 21,
+    "Minimalist": 60,
+    "Procedural Generation": 148,
+    "PvE": 131,
+    "Resource Management": 27,
+    "Singleplayer": 120,
+    "Solitaire": 104,
+    "Strategy": 209,
+    "Survival": 178,
+    "Top-Down": 141,
+    "Tower Defense": 193
+  },
+  "type": "game"
 }

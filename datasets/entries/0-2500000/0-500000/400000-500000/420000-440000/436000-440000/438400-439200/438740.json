@@ -1,31 +1,201 @@
 {
-  "appid": 438740,
-  "name": "Friday the 13th: The Game",
-  "developer": "IllFonic",
-  "publisher": "Gun Media",
-  "tags": {
-    "Horror": 1663,
-    "Multiplayer": 1485,
-    "Survival Horror": 1296,
-    "Survival": 983,
-    "Gore": 971,
-    "Violent": 880,
-    "Co-op": 822,
-    "Third Person": 684,
-    "Action": 647,
-    "Stealth": 551,
-    "Psychological Horror": 525,
-    "Dark": 513,
-    "Mature": 478,
-    "Atmospheric": 433,
-    "Open World": 294,
-    "Funny": 289,
-    "Adventure": 273,
-    "Singleplayer": 253,
-    "Difficult": 250,
-    "Nudity": 196
+  "Average Playtime - 2 Weeks": {
+    "app_id": 438740,
+    "average_2weeks": 1051,
+    "average_forever": 1631,
+    "median_2weeks": 1051,
+    "median_forever": 226
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 438740,
+    "average_2weeks": 1051,
+    "average_forever": 1631,
+    "median_2weeks": 1051,
+    "median_forever": 226
+  },
+  "CCU Histogram": {
+    "2022-12-08": 571,
+    "2022-12-09": 531,
+    "2022-12-10": 570,
+    "2022-12-13": 419,
+    "2022-12-15": 471,
+    "2022-12-18": 500,
+    "2022-12-21": 318,
+    "2022-12-22": 365
+  },
+  "Completion": 67.19999885559082,
+  "Down 30 Days": 74,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 6,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 51
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 73
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 9,
+      "recommendations_up": 86
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 6,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 45
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 438740,
+    "average_2weeks": 1051,
+    "average_forever": 1631,
+    "median_2weeks": 1051,
+    "median_forever": 226
+  },
+  "Median Playtime - Forever": {
+    "app_id": 438740,
+    "average_2weeks": 1051,
+    "average_forever": 1631,
+    "median_2weeks": 1051,
+    "median_forever": 226
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 756,
+  "User Score": -1,
+  "appid": 438740,
   "categories": [
     "Multi-player",
     "Stats",
@@ -34,182 +204,50 @@
     "Full controller support",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 54780,
-  "negative": 14604,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 385,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/05/25",
-  "required_age": "18",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/438740/header.jpg?t=1591725284",
+  "consensus_genre": "Action",
+  "developer": "IllFonic",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 19,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 12,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 14,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 16,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 32,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 59,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 51,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 61,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 73,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 86,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 66,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 49,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 45,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 756,
-  "Down 30 Days": 74,
-  "Completion": 67.19999885559082,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/438740/header.jpg?t=1591725284",
+  "initialprice": "1499",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian",
+  "name": "Friday the 13th: The Game",
+  "negative": 14604,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 54780,
+  "price": "1499",
+  "publisher": "Gun Media",
+  "release_date": "2017/05/25",
+  "required_age": "18",
+  "tags": {
+    "Action": 647,
+    "Adventure": 273,
+    "Atmospheric": 433,
+    "Co-op": 822,
+    "Dark": 513,
+    "Difficult": 250,
+    "Funny": 289,
+    "Gore": 971,
+    "Horror": 1663,
+    "Mature": 478,
+    "Multiplayer": 1485,
+    "Nudity": 196,
+    "Open World": 294,
+    "Psychological Horror": 525,
+    "Singleplayer": 253,
+    "Stealth": 551,
+    "Survival": 983,
+    "Survival Horror": 1296,
+    "Third Person": 684,
+    "Violent": 880
+  },
+  "type": "game"
 }

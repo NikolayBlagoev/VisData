@@ -1,31 +1,201 @@
 {
-  "appid": 411300,
-  "name": "ELEX",
-  "developer": "Piranha Bytes",
-  "publisher": "THQ Nordic",
-  "tags": {
-    "RPG": 403,
-    "Open World": 381,
-    "Singleplayer": 263,
-    "Post-apocalyptic": 219,
-    "Sci-fi": 196,
-    "Fantasy": 186,
-    "Adventure": 184,
-    "Action": 162,
-    "Third Person": 143,
-    "Gothic": 137,
-    "Story Rich": 127,
-    "Atmospheric": 122,
-    "Choices Matter": 116,
-    "Difficult": 87,
-    "War": 82,
-    "Futuristic": 74,
-    "Base-Building": 64,
-    "Violent": 64,
-    "Dark Fantasy": 62,
-    "Third-Person Shooter": 48
+  "Average Playtime - 2 Weeks": {
+    "app_id": 411300,
+    "average_2weeks": 0,
+    "average_forever": 1149,
+    "median_2weeks": 0,
+    "median_forever": 361
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 411300,
+    "average_2weeks": 0,
+    "average_forever": 1149,
+    "median_2weeks": 0,
+    "median_forever": 361
+  },
+  "CCU Histogram": {
+    "2022-12-08": 297,
+    "2022-12-09": 285,
+    "2022-12-10": 299,
+    "2022-12-13": 344,
+    "2022-12-15": 253,
+    "2022-12-18": 241,
+    "2022-12-21": 246,
+    "2022-12-22": 233
+  },
+  "Completion": 70.19999885559082,
+  "Down 30 Days": 15,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 411300,
+    "average_2weeks": 0,
+    "average_forever": 1149,
+    "median_2weeks": 0,
+    "median_forever": 361
+  },
+  "Median Playtime - Forever": {
+    "app_id": 411300,
+    "average_2weeks": 0,
+    "average_forever": 1149,
+    "median_2weeks": 0,
+    "median_forever": 361
+  },
+  "Meta Score": "67",
+  "Rating": "ESRB M",
+  "Up 30 Days": 47,
+  "User Score": -1,
+  "appid": 411300,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,184 +204,52 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 12938,
-  "negative": 4447,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 442,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Czech, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411300/header.jpg?t=1665411336",
+  "consensus_genre": "RPG",
+  "developer": "Piranha Bytes",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "67",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 47,
-  "Down 30 Days": 15,
-  "Completion": 70.19999885559082,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/411300/header.jpg?t=1665411336",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Czech, Simplified Chinese",
+  "name": "ELEX",
+  "negative": 4447,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 12938,
+  "price": "2999",
+  "publisher": "THQ Nordic",
+  "release_date": "2017/10/17",
+  "required_age": 0,
+  "tags": {
+    "Action": 162,
+    "Adventure": 184,
+    "Atmospheric": 122,
+    "Base-Building": 64,
+    "Choices Matter": 116,
+    "Dark Fantasy": 62,
+    "Difficult": 87,
+    "Fantasy": 186,
+    "Futuristic": 74,
+    "Gothic": 137,
+    "Open World": 381,
+    "Post-apocalyptic": 219,
+    "RPG": 403,
+    "Sci-fi": 196,
+    "Singleplayer": 263,
+    "Story Rich": 127,
+    "Third Person": 143,
+    "Third-Person Shooter": 48,
+    "Violent": 64,
+    "War": 82
+  },
+  "type": "game"
 }

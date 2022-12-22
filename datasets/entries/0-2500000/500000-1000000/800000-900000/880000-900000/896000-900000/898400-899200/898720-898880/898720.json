@@ -1,216 +1,254 @@
 {
-  "appid": 898720,
-  "name": "Kubifaktorium",
-  "developer": "Neomateria Games GmbH",
-  "publisher": "Neomateria Games GmbH",
-  "tags": {
-    "Automation": 172,
-    "City Builder": 167,
-    "Colony Sim": 167,
-    "Building": 161,
-    "Crafting": 156,
-    "Management": 149,
-    "Economy": 148,
-    "Trains": 146,
-    "Base-Building": 136,
-    "RPG": 131,
-    "Strategy": 127,
-    "Cute": 124,
-    "Voxel": 115,
-    "Simulation": 109,
-    "Colorful": 106,
-    "Fantasy": 104,
-    "Moddable": 93,
-    "Resource Management": 90,
-    "Sandbox": 87,
-    "Singleplayer": 76
+  "Average Playtime - 2 Weeks": {
+    "app_id": 898720,
+    "average_2weeks": 0,
+    "average_forever": 1848,
+    "median_2weeks": 0,
+    "median_forever": 1909
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 898720,
+    "average_2weeks": 0,
+    "average_forever": 1848,
+    "median_2weeks": 0,
+    "median_forever": 1909
+  },
+  "CCU Histogram": {
+    "2022-12-08": 19,
+    "2022-12-09": 19,
+    "2022-12-10": 20,
+    "2022-12-13": 18,
+    "2022-12-15": 21,
+    "2022-12-18": 22,
+    "2022-12-21": 10,
+    "2022-12-22": 10
+  },
+  "Completion": 33.099998474121094,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 898720,
+    "average_2weeks": 0,
+    "average_forever": 1848,
+    "median_2weeks": 0,
+    "median_forever": 1909
+  },
+  "Median Playtime - Forever": {
+    "app_id": 898720,
+    "average_2weeks": 0,
+    "average_forever": 1848,
+    "median_2weeks": 0,
+    "median_forever": 1909
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 898720,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 490,
-  "negative": 115,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 10,
-  "languages": "English, German, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/12/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/898720/header.jpg?t=1654779804",
+  "consensus_genre": "RPG",
+  "developer": "Neomateria Games GmbH",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 1,
-  "Completion": 33.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/898720/header.jpg?t=1654779804",
+  "initialprice": "1999",
+  "languages": "English, German, French",
+  "name": "Kubifaktorium",
+  "negative": 115,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 490,
+  "price": "1999",
+  "publisher": "Neomateria Games GmbH",
+  "release_date": "2021/12/16",
+  "required_age": 0,
+  "tags": {
+    "Automation": 172,
+    "Base-Building": 136,
+    "Building": 161,
+    "City Builder": 167,
+    "Colony Sim": 167,
+    "Colorful": 106,
+    "Crafting": 156,
+    "Cute": 124,
+    "Economy": 148,
+    "Fantasy": 104,
+    "Management": 149,
+    "Moddable": 93,
+    "RPG": 131,
+    "Resource Management": 90,
+    "Sandbox": 87,
+    "Simulation": 109,
+    "Singleplayer": 76,
+    "Strategy": 127,
+    "Trains": 146,
+    "Voxel": 115
+  },
+  "type": "game"
 }

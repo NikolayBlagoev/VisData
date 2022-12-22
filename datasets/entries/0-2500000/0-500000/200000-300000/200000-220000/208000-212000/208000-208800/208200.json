@@ -1,31 +1,201 @@
 {
-  "appid": 208200,
-  "name": "DOOM 3",
-  "developer": "id Software",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "FPS": 328,
-    "Horror": 296,
-    "Action": 234,
-    "Shooter": 187,
-    "Classic": 179,
-    "Sci-fi": 156,
-    "First-Person": 148,
-    "Singleplayer": 140,
-    "Demons": 116,
-    "Multiplayer": 115,
-    "Gore": 106,
-    "Zombies": 91,
-    "Dark": 87,
-    "Space": 84,
-    "Mars": 83,
-    "Atmospheric": 81,
-    "Survival Horror": 66,
-    "Great Soundtrack": 49,
-    "Survival": 42,
-    "3D Vision": 35
+  "Average Playtime - 2 Weeks": {
+    "app_id": 208200,
+    "average_2weeks": 331,
+    "average_forever": 404,
+    "median_2weeks": 331,
+    "median_forever": 132
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 208200,
+    "average_2weeks": 331,
+    "average_forever": 404,
+    "median_2weeks": 331,
+    "median_forever": 132
+  },
+  "CCU Histogram": {
+    "2022-12-08": 104,
+    "2022-12-09": 90,
+    "2022-12-10": 84,
+    "2022-12-13": 85,
+    "2022-12-15": 91,
+    "2022-12-18": 82,
+    "2022-12-21": 100,
+    "2022-12-22": 85
+  },
+  "Completion": 26.700000762939453,
+  "Down 30 Days": 8,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 208200,
+    "average_2weeks": 331,
+    "average_forever": 404,
+    "median_2weeks": 331,
+    "median_forever": 132
+  },
+  "Median Playtime - Forever": {
+    "app_id": 208200,
+    "average_2weeks": 331,
+    "average_forever": 404,
+    "median_2weeks": 331,
+    "median_forever": 132
+  },
+  "Meta Score": "87",
+  "Rating": "ESRB M",
+  "Up 30 Days": 66,
+  "User Score": -1,
+  "appid": 208200,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,182 +203,50 @@
     "Steam Achievements",
     "Steam Leaderboards"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 7585,
-  "negative": 1215,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 98,
-  "languages": "English, German, French, Italian, Spanish - Spain, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/10/17",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/208200/header.jpg?t=1664292843",
+  "consensus_genre": "Action",
+  "developer": "id Software",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "87",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 66,
-  "Down 30 Days": 8,
-  "Completion": 26.700000762939453,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/208200/header.jpg?t=1664292843",
+  "initialprice": "999",
+  "languages": "English, German, French, Italian, Spanish - Spain, Japanese",
+  "name": "DOOM 3",
+  "negative": 1215,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7585,
+  "price": "999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2012/10/17",
+  "required_age": "15",
+  "tags": {
+    "3D Vision": 35,
+    "Action": 234,
+    "Atmospheric": 81,
+    "Classic": 179,
+    "Dark": 87,
+    "Demons": 116,
+    "FPS": 328,
+    "First-Person": 148,
+    "Gore": 106,
+    "Great Soundtrack": 49,
+    "Horror": 296,
+    "Mars": 83,
+    "Multiplayer": 115,
+    "Sci-fi": 156,
+    "Shooter": 187,
+    "Singleplayer": 140,
+    "Space": 84,
+    "Survival": 42,
+    "Survival Horror": 66,
+    "Zombies": 91
+  },
+  "type": "game"
 }

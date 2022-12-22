@@ -1,31 +1,201 @@
 {
-  "appid": 326460,
-  "name": "ShellShock Live",
-  "developer": "kChamp Games",
-  "publisher": "kChamp Games",
-  "tags": {
-    "Tanks": 374,
-    "Multiplayer": 344,
-    "Strategy": 265,
-    "2D": 256,
-    "Action": 225,
-    "Turn-Based": 196,
-    "Shooter": 158,
-    "Casual": 157,
-    "Early Access": 155,
-    "Online Co-Op": 137,
-    "Massively Multiplayer": 128,
-    "Indie": 117,
-    "Colorful": 111,
-    "Funny": 106,
-    "Turn-Based Strategy": 103,
-    "Co-op": 102,
-    "Singleplayer": 92,
-    "Physics": 86,
-    "Great Soundtrack": 75,
-    "Family Friendly": 51
+  "Average Playtime - 2 Weeks": {
+    "app_id": 326460,
+    "average_2weeks": 440,
+    "average_forever": 1416,
+    "median_2weeks": 627,
+    "median_forever": 572
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 326460,
+    "average_2weeks": 440,
+    "average_forever": 1416,
+    "median_2weeks": 627,
+    "median_forever": 572
+  },
+  "CCU Histogram": {
+    "2022-12-08": 656,
+    "2022-12-09": 714,
+    "2022-12-10": 755,
+    "2022-12-13": 720,
+    "2022-12-15": 630,
+    "2022-12-18": 697,
+    "2022-12-21": 564,
+    "2022-12-22": 631
+  },
+  "Completion": 39.29999923706055,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 326460,
+    "average_2weeks": 440,
+    "average_forever": 1416,
+    "median_2weeks": 627,
+    "median_forever": 572
+  },
+  "Median Playtime - Forever": {
+    "app_id": 326460,
+    "average_2weeks": 440,
+    "average_forever": 1416,
+    "median_2weeks": 627,
+    "median_forever": 572
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 186,
+  "User Score": -1,
+  "appid": 326460,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -46,22 +216,10 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 28834,
-  "negative": 2008,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 537,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/05/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/326460/header.jpg?t=1666987553",
+  "consensus_genre": "Strategy",
+  "developer": "kChamp Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -69,163 +227,43 @@
     "Massively Multiplayer",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 186,
-  "Down 30 Days": 14,
-  "Completion": 39.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/326460/header.jpg?t=1666987553",
+  "initialprice": "699",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Ukrainian",
+  "name": "ShellShock Live",
+  "negative": 2008,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 28834,
+  "price": "699",
+  "publisher": "kChamp Games",
+  "release_date": "2020/05/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 256,
+    "Action": 225,
+    "Casual": 157,
+    "Co-op": 102,
+    "Colorful": 111,
+    "Early Access": 155,
+    "Family Friendly": 51,
+    "Funny": 106,
+    "Great Soundtrack": 75,
+    "Indie": 117,
+    "Massively Multiplayer": 128,
+    "Multiplayer": 344,
+    "Online Co-Op": 137,
+    "Physics": 86,
+    "Shooter": 158,
+    "Singleplayer": 92,
+    "Strategy": 265,
+    "Tanks": 374,
+    "Turn-Based": 196,
+    "Turn-Based Strategy": 103
+  },
+  "type": "game"
 }

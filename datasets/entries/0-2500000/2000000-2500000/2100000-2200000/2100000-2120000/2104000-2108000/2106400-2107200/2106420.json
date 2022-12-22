@@ -1,62 +1,100 @@
 {
-  "appid": 2106420,
-  "name": "Magic Market",
-  "developer": "Rufalicious Gaming",
-  "publisher": "Rufalicious Gaming",
-  "tags": {
-    "Casual": 74,
-    "Strategy": 65,
-    "Arcade": 42,
-    "Fantasy": 40,
-    "Pixel Graphics": 38,
-    "Magic": 31,
-    "Clicker": 29,
-    "Point & Click": 28,
-    "Match 3": 24,
-    "Time Management": 22,
-    "2.5D": 21,
-    "Isometric": 20,
-    "Capitalism": 16,
-    "Economy": 14,
-    "Gambling": 13,
-    "Singleplayer": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2106420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2106420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2106420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2106420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2106420,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Spain, Spanish - Latin America, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2106420/header.jpg?t=1665373606",
+  "consensus_genre": "Casual",
+  "developer": "Rufalicious Gaming",
+  "discount": "0",
   "genre": [
     "Casual",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2106420/header.jpg?t=1665373606",
+  "initialprice": "399",
+  "languages": "English, Spanish - Spain, Spanish - Latin America, German",
+  "name": "Magic Market",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "Rufalicious Gaming",
+  "release_date": "2022/09/12",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 21,
+    "Arcade": 42,
+    "Capitalism": 16,
+    "Casual": 74,
+    "Clicker": 29,
+    "Economy": 14,
+    "Fantasy": 40,
+    "Gambling": 13,
+    "Isometric": 20,
+    "Magic": 31,
+    "Match 3": 24,
+    "Pixel Graphics": 38,
+    "Point & Click": 28,
+    "Singleplayer": 12,
+    "Strategy": 65,
+    "Time Management": 22
+  },
+  "type": "game"
 }

@@ -1,50 +1,63 @@
 {
-  "appid": 1616740,
-  "name": "Scraftion",
-  "developer": "M.R. Software",
-  "publisher": "M.R. Software",
-  "tags": {
-    "Early Access": 181,
-    "Survival Horror": 164,
-    "Multiplayer": 159,
-    "Crafting": 157,
-    "Survival": 154,
-    "Open World": 151,
-    "Resource Management": 143,
-    "Local Multiplayer": 139,
-    "Action-Adventure": 132,
-    "Local Co-Op": 129,
-    "Exploration": 125,
-    "First-Person": 124,
-    "PvE": 113,
-    "Realistic": 111,
-    "Colorful": 106,
-    "Online Co-Op": 103,
-    "Base-Building": 99,
-    "Simulation": 92,
-    "3D": 79,
-    "Dark": 70
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1616740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1616740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1616740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1616740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1616740,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1616740/header.jpg?t=1623526153",
+  "consensus_genre": "Early Access",
+  "developer": "M.R. Software",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -52,18 +65,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1616740/header.jpg?t=1623526153",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Scraftion",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1499",
+  "publisher": "M.R. Software",
+  "release_date": "2021/06/11",
+  "required_age": 0,
+  "tags": {
+    "3D": 79,
+    "Action-Adventure": 132,
+    "Base-Building": 99,
+    "Colorful": 106,
+    "Crafting": 157,
+    "Dark": 70,
+    "Early Access": 181,
+    "Exploration": 125,
+    "First-Person": 124,
+    "Local Co-Op": 129,
+    "Local Multiplayer": 139,
+    "Multiplayer": 159,
+    "Online Co-Op": 103,
+    "Open World": 151,
+    "PvE": 113,
+    "Realistic": 111,
+    "Resource Management": 143,
+    "Simulation": 92,
+    "Survival": 154,
+    "Survival Horror": 164
+  },
+  "type": "game"
 }

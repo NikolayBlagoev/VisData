@@ -1,62 +1,100 @@
 {
-  "appid": 1656740,
-  "name": "Mercenary Operator: Wolves",
-  "developer": "Dustin",
-  "publisher": "Dustin",
-  "tags": {
-    "Top-Down Shooter": 49,
-    "PvE": 42,
-    "Shooter": 40,
-    "Action": 39,
-    "Character Customization": 37,
-    "Top-Down": 33,
-    "Tactical": 28,
-    "2D": 27,
-    "Military": 24,
-    "Early Access": 21,
-    "Gore": 21,
-    "Indie": 21,
-    "Singleplayer": 21,
-    "Violent": 21,
-    "Dark": 17
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1656740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1656740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1656740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1656740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1656740,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/08/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1656740/header.jpg?t=1667530502",
+  "consensus_genre": "Action",
+  "developer": "Dustin",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1656740/header.jpg?t=1667530502",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Mercenary Operator: Wolves",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "999",
+  "publisher": "Dustin",
+  "release_date": "2021/08/16",
+  "required_age": 0,
+  "tags": {
+    "2D": 27,
+    "Action": 39,
+    "Character Customization": 37,
+    "Dark": 17,
+    "Early Access": 21,
+    "Gore": 21,
+    "Indie": 21,
+    "Military": 24,
+    "PvE": 42,
+    "Shooter": 40,
+    "Singleplayer": 21,
+    "Tactical": 28,
+    "Top-Down": 33,
+    "Top-Down Shooter": 49,
+    "Violent": 21
+  },
+  "type": "game"
 }

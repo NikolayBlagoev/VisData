@@ -1,68 +1,106 @@
 {
-  "appid": 1917460,
-  "name": "Underground Lords",
-  "developer": "Pixel Muffin Studios",
-  "publisher": "Pixel Muffin Studios",
-  "tags": {
-    "Action": 252,
-    "RPG": 246,
-    "Rogue-like": 220,
-    "Action Roguelike": 218,
-    "Action RPG": 211,
-    "2D": 201,
-    "Pixel Graphics": 195,
-    "Demons": 186,
-    "Fantasy": 177,
-    "Magic": 168,
-    "Dark": 158,
-    "Dark Fantasy": 146,
-    "Underground": 144,
-    "Character Customization": 130,
-    "Procedural Generation": 115,
-    "Hack and Slash": 99,
-    "Class-Based": 82,
-    "Perma Death": 64,
-    "Singleplayer": 45,
-    "Combat": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1917460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1917460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 63.849998474121094,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1917460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1917460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1917460,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917460/header.jpg?t=1655878758",
+  "consensus_genre": "Action",
+  "developer": "Pixel Muffin Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 63.849998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1917460/header.jpg?t=1655878758",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Underground Lords",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "599",
+  "publisher": "Pixel Muffin Studios",
+  "release_date": "2022/06/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 201,
+    "Action": 252,
+    "Action RPG": 211,
+    "Action Roguelike": 218,
+    "Character Customization": 130,
+    "Class-Based": 82,
+    "Combat": 27,
+    "Dark": 158,
+    "Dark Fantasy": 146,
+    "Demons": 186,
+    "Fantasy": 177,
+    "Hack and Slash": 99,
+    "Magic": 168,
+    "Perma Death": 64,
+    "Pixel Graphics": 195,
+    "Procedural Generation": 115,
+    "RPG": 246,
+    "Rogue-like": 220,
+    "Singleplayer": 45,
+    "Underground": 144
+  },
+  "type": "game"
 }

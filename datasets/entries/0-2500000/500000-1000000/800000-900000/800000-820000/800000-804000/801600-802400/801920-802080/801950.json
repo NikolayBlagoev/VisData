@@ -1,51 +1,94 @@
 {
-  "appid": 801950,
-  "name": "CryptoRIG",
-  "developer": "HASSI",
-  "publisher": "HASSI",
-  "tags": {
-    "Early Access": 256,
-    "Time Management": 232,
-    "Immersive Sim": 226,
-    "Artificial Intelligence": 222,
-    "Automation": 218,
-    "Capitalism": 212,
-    "Economy": 202,
-    "Management": 186,
-    "Programming": 177,
-    "Point & Click": 166,
-    "Strategy": 165,
-    "RTS": 157,
-    "Simulation": 150,
-    "2D": 144,
-    "Casual": 135,
-    "Pixel Graphics": 98,
-    "Tactical": 81,
-    "Gambling": 63,
-    "Old School": 44,
-    "Resource Management": 27
+  "Average Playtime - 2 Weeks": {
+    "app_id": 801950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 801950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 1,
+    "2022-12-22": 0
+  },
+  "Completion": 100.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 801950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 801950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 801950,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/801950/header.jpg?t=1664320346",
+  "consensus_genre": "Early Access",
+  "developer": "HASSI",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -53,48 +96,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 1,
-  "Completion": 100.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/801950/header.jpg?t=1664320346",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "CryptoRIG",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "699",
+  "publisher": "HASSI",
+  "release_date": "2022/09/27",
+  "required_age": 0,
+  "tags": {
+    "2D": 144,
+    "Artificial Intelligence": 222,
+    "Automation": 218,
+    "Capitalism": 212,
+    "Casual": 135,
+    "Early Access": 256,
+    "Economy": 202,
+    "Gambling": 63,
+    "Immersive Sim": 226,
+    "Management": 186,
+    "Old School": 44,
+    "Pixel Graphics": 98,
+    "Point & Click": 166,
+    "Programming": 177,
+    "RTS": 157,
+    "Resource Management": 27,
+    "Simulation": 150,
+    "Strategy": 165,
+    "Tactical": 81,
+    "Time Management": 232
+  },
+  "type": "game"
 }

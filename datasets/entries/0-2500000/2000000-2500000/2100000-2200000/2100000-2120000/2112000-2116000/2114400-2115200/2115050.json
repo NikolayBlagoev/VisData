@@ -1,67 +1,105 @@
 {
-  "appid": 2115050,
-  "name": "Puzzle: Nature 2",
-  "developer": "Louie Inc",
-  "publisher": "Louie Inc",
-  "tags": {
-    "Casual": 43,
-    "Puzzle": 37,
-    "2D": 34,
-    "Cute": 31,
-    "Logic": 28,
-    "Singleplayer": 22,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2115050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 10,
-  "negative": 0,
-  "price": "239",
-  "initialprice": "1199",
-  "discount": "80",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 2115050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/08/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2115050/header.jpg?t=1661876900",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 2
     },
     {
       "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 3
     },
     {
       "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 4
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2115050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2115050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 2115050,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Indie",
+  "developer": "Louie Inc",
+  "discount": "80",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2115050/header.jpg?t=1661876900",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Puzzle: Nature 2",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10,
+  "price": "239",
+  "publisher": "Louie Inc",
+  "release_date": "2022/08/30",
+  "required_age": 0,
+  "tags": {
+    "2D": 34,
+    "Casual": 43,
+    "Cute": 31,
+    "Indie": 21,
+    "Logic": 28,
+    "Puzzle": 37,
+    "Singleplayer": 22
+  },
+  "type": "game"
 }

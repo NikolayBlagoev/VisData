@@ -1,68 +1,106 @@
 {
-  "appid": 1687460,
-  "name": "Dumb Bomb Game",
-  "developer": "Banshee Cat",
-  "publisher": "Banshee Cat",
-  "tags": {
-    "Action": 272,
-    "Casual": 266,
-    "Arcade": 242,
-    "Platformer": 237,
-    "3D Platformer": 231,
-    "Precision Platformer": 221,
-    "Puzzle-Platformer": 214,
-    "2.5D": 206,
-    "3D": 197,
-    "Cartoony": 187,
-    "Colorful": 177,
-    "Minimalist": 166,
-    "Atmospheric": 153,
-    "Comedy": 151,
-    "Destruction": 136,
-    "Funny": 120,
-    "Memes": 103,
-    "Bullet Time": 85,
-    "Physics": 66,
-    "Time Manipulation": 46
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1687460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1687460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1687460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1687460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1687460,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1687460/header.jpg?t=1646935656",
+  "consensus_genre": "Action",
+  "developer": "Banshee Cat",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1687460/header.jpg?t=1646935656",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Dumb Bomb Game",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Banshee Cat",
+  "release_date": "2022/03/10",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 206,
+    "3D": 197,
+    "3D Platformer": 231,
+    "Action": 272,
+    "Arcade": 242,
+    "Atmospheric": 153,
+    "Bullet Time": 85,
+    "Cartoony": 187,
+    "Casual": 266,
+    "Colorful": 177,
+    "Comedy": 151,
+    "Destruction": 136,
+    "Funny": 120,
+    "Memes": 103,
+    "Minimalist": 166,
+    "Physics": 66,
+    "Platformer": 237,
+    "Precision Platformer": 221,
+    "Puzzle-Platformer": 214,
+    "Time Manipulation": 46
+  },
+  "type": "game"
 }

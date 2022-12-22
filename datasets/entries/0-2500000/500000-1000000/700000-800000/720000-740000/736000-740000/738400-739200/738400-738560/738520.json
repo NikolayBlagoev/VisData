@@ -1,31 +1,201 @@
 {
-  "appid": 738520,
-  "name": "Breathedge",
-  "developer": "RedRuins Softworks",
-  "publisher": "HypeTrain Digital, RedRuins Softworks",
-  "tags": {
-    "Open World Survival Craft": 299,
-    "Space": 276,
-    "Survival": 257,
-    "Singleplayer": 247,
-    "Indie": 244,
-    "Sandbox": 243,
-    "Base-Building": 234,
-    "Sci-fi": 226,
-    "Atmospheric": 215,
-    "First-Person": 211,
-    "Adventure": 206,
-    "Crafting": 187,
-    "Open World": 151,
-    "Exploration": 134,
-    "Action": 112,
-    "Early Access": 108,
-    "Aliens": 84,
-    "Simulation": 53,
-    "Action-Adventure": 43,
-    "Futuristic": 32
+  "Average Playtime - 2 Weeks": {
+    "app_id": 738520,
+    "average_2weeks": 9,
+    "average_forever": 598,
+    "median_2weeks": 9,
+    "median_forever": 323
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 738520,
+    "average_2weeks": 9,
+    "average_forever": 598,
+    "median_2weeks": 9,
+    "median_forever": 323
+  },
+  "CCU Histogram": {
+    "2022-12-08": 59,
+    "2022-12-09": 59,
+    "2022-12-10": 59,
+    "2022-12-13": 95,
+    "2022-12-15": 50,
+    "2022-12-18": 65,
+    "2022-12-21": 59,
+    "2022-12-22": 66
+  },
+  "Completion": 51.25,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 738520,
+    "average_2weeks": 9,
+    "average_forever": 598,
+    "median_2weeks": 9,
+    "median_forever": 323
+  },
+  "Median Playtime - Forever": {
+    "app_id": 738520,
+    "average_2weeks": 9,
+    "average_forever": 598,
+    "median_2weeks": 9,
+    "median_forever": 323
+  },
+  "Meta Score": "71",
+  "Rating": "ESRB T",
+  "Up 30 Days": 84,
+  "User Score": -1,
+  "appid": 738520,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -34,185 +204,53 @@
     "Steam Trading Cards",
     "Remote Play on Tablet"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 10504,
-  "negative": 1938,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 47,
-  "languages": "English, Russian, French, German, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Brazil, Spanish - Latin America, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/02/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/738520/header.jpg?t=1665656347",
+  "consensus_genre": "Indie",
+  "developer": "RedRuins Softworks",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": "71",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 84,
-  "Down 30 Days": 16,
-  "Completion": 51.25,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/738520/header.jpg?t=1665656347",
+  "initialprice": "2499",
+  "languages": "English, Russian, French, German, Simplified Chinese, Japanese, Korean, Polish, Portuguese - Brazil, Spanish - Latin America, Turkish",
+  "name": "Breathedge",
+  "negative": 1938,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10504,
+  "price": "2499",
+  "publisher": "HypeTrain Digital, RedRuins Softworks",
+  "release_date": "2021/02/25",
+  "required_age": 0,
+  "tags": {
+    "Action": 112,
+    "Action-Adventure": 43,
+    "Adventure": 206,
+    "Aliens": 84,
+    "Atmospheric": 215,
+    "Base-Building": 234,
+    "Crafting": 187,
+    "Early Access": 108,
+    "Exploration": 134,
+    "First-Person": 211,
+    "Futuristic": 32,
+    "Indie": 244,
+    "Open World": 151,
+    "Open World Survival Craft": 299,
+    "Sandbox": 243,
+    "Sci-fi": 226,
+    "Simulation": 53,
+    "Singleplayer": 247,
+    "Space": 276,
+    "Survival": 257
+  },
+  "type": "game"
 }

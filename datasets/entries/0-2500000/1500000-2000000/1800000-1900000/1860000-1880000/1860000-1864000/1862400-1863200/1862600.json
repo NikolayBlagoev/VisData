@@ -1,66 +1,104 @@
 {
-  "appid": 1862600,
-  "name": "Dino Island Adventure",
-  "developer": "Sergio Rodriguez Llaves",
-  "publisher": "Sergio Rodriguez Llaves",
-  "tags": {
-    "Action": 170,
-    "Adventure": 164,
-    "2D Platformer": 161,
-    "Dinosaurs": 154,
-    "Action-Adventure": 138,
-    "Platformer": 129,
-    "Side Scroller": 122,
-    "Hero Shooter": 114,
-    "2D": 107,
-    "Hand-drawn": 97,
-    "Colorful": 95,
-    "Nature": 83,
-    "Survival": 69,
-    "Combat": 56,
-    "Gun Customization": 41,
-    "Tutorial": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1862600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1862600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1862600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1862600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1862600,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1862600/header.jpg?t=1646121542",
+  "consensus_genre": "Action",
+  "developer": "Sergio Rodriguez Llaves",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1862600/header.jpg?t=1646121542",
+  "initialprice": "499",
+  "languages": "English, Spanish - Spain",
+  "name": "Dino Island Adventure",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "Sergio Rodriguez Llaves",
+  "release_date": "2022/02/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 107,
+    "2D Platformer": 161,
+    "Action": 170,
+    "Action-Adventure": 138,
+    "Adventure": 164,
+    "Colorful": 95,
+    "Combat": 56,
+    "Dinosaurs": 154,
+    "Gun Customization": 41,
+    "Hand-drawn": 97,
+    "Hero Shooter": 114,
+    "Indie": 21,
+    "Nature": 83,
+    "Platformer": 129,
+    "Side Scroller": 122,
+    "Singleplayer": 25,
+    "Survival": 69,
+    "Tutorial": 27
+  },
+  "type": "game"
 }

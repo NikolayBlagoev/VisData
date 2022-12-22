@@ -1,54 +1,92 @@
 {
-  "appid": 1389420,
-  "name": "Luise and Secret Basement Rooms",
-  "developer": "Gotcha Gotcha Games, KADOKAWA",
-  "publisher": "Gotcha Gotcha Games",
-  "tags": {
-    "RPG": 66,
-    "Adventure": 39,
-    "Action RPG": 35,
-    "JRPG": 35,
-    "2D": 31,
-    "Fantasy": 25,
-    "Turn-Based Tactics": 22,
-    "Singleplayer": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1389420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1389420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1389420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1389420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1389420,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2020/08/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1389420/header.jpg?t=1666080510",
+  "consensus_genre": "RPG",
+  "developer": "Gotcha Gotcha Games, KADOKAWA",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1389420/header.jpg?t=1666080510",
+  "initialprice": "0",
+  "languages": "English, Not supported, Japanese",
+  "name": "Luise and Secret Basement Rooms",
+  "negative": 1,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "0",
+  "publisher": "Gotcha Gotcha Games",
+  "release_date": "2020/08/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 31,
+    "Action RPG": 35,
+    "Adventure": 39,
+    "Fantasy": 25,
+    "JRPG": 35,
+    "RPG": 66,
+    "Singleplayer": 21,
+    "Turn-Based Tactics": 22
+  },
+  "type": "game"
 }

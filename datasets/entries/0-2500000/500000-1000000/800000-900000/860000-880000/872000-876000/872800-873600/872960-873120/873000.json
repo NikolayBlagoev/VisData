@@ -1,31 +1,56 @@
 {
-  "appid": 873000,
-  "name": "Stuck Together",
-  "developer": "Digital Pine Studios",
-  "publisher": "Digital Pine Studios",
-  "tags": {
-    "Early Access": 113,
-    "Action": 102,
-    "Casual": 96,
-    "Arcade": 92,
-    "Shooter": 89,
-    "Shoot 'Em Up": 85,
-    "Third-Person Shooter": 81,
-    "Top-Down Shooter": 78,
-    "Twin Stick Shooter": 76,
-    "3D": 74,
-    "Colorful": 72,
-    "Cute": 70,
-    "Comedy": 68,
-    "Family Friendly": 66,
-    "Funny": 64,
-    "Robots": 62,
-    "Survival": 59,
-    "Tactical": 58,
-    "Controller": 56,
-    "Physics": 54
+  "Average Playtime - 2 Weeks": {
+    "app_id": 873000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 873000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 873000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 873000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 873000,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -34,40 +59,53 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/07/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/873000/header.jpg?t=1627643799",
+  "consensus_genre": "Early Access",
+  "developer": "Digital Pine Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/873000/header.jpg?t=1627643799",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Stuck Together",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "399",
+  "publisher": "Digital Pine Studios",
+  "release_date": "2021/07/20",
+  "required_age": 0,
+  "tags": {
+    "3D": 74,
+    "Action": 102,
+    "Arcade": 92,
+    "Casual": 96,
+    "Colorful": 72,
+    "Comedy": 68,
+    "Controller": 56,
+    "Cute": 70,
+    "Early Access": 113,
+    "Family Friendly": 66,
+    "Funny": 64,
+    "Physics": 54,
+    "Robots": 62,
+    "Shoot 'Em Up": 85,
+    "Shooter": 89,
+    "Survival": 59,
+    "Tactical": 58,
+    "Third-Person Shooter": 81,
+    "Top-Down Shooter": 78,
+    "Twin Stick Shooter": 76
+  },
+  "type": "game"
 }

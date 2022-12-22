@@ -1,31 +1,201 @@
 {
-  "appid": 1799930,
-  "name": "Redout 2",
-  "developer": "34BigThings srl",
-  "publisher": "Saber Interactive",
-  "tags": {
-    "Flight": 423,
-    "Combat Racing": 416,
-    "Racing": 416,
-    "PvP": 413,
-    "Sports": 408,
-    "Driving": 404,
-    "Soundtrack": 400,
-    "Space": 396,
-    "Artificial Intelligence": 391,
-    "Physics": 387,
-    "Competitive": 383,
-    "Automobile Sim": 382,
-    "Space Sim": 377,
-    "Arcade": 376,
-    "e-sports": 371,
-    "Character Customization": 369,
-    "3D": 365,
-    "Controller": 362,
-    "Simulation": 357,
-    "Colorful": 348
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1799930,
+    "average_2weeks": 0,
+    "average_forever": 1551,
+    "median_2weeks": 0,
+    "median_forever": 2917
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1799930,
+    "average_2weeks": 0,
+    "average_forever": 1551,
+    "median_2weeks": 0,
+    "median_forever": 2917
+  },
+  "CCU Histogram": {
+    "2022-12-08": 13,
+    "2022-12-09": 9,
+    "2022-12-10": 18,
+    "2022-12-13": 15,
+    "2022-12-15": 34,
+    "2022-12-18": 37,
+    "2022-12-21": 22,
+    "2022-12-22": 24
+  },
+  "Completion": 48.85000038146973,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1799930,
+    "average_2weeks": 0,
+    "average_forever": 1551,
+    "median_2weeks": 0,
+    "median_forever": 2917
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1799930,
+    "average_2weeks": 0,
+    "average_forever": 1551,
+    "median_2weeks": 0,
+    "median_forever": 2917
+  },
+  "Meta Score": "78",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 30,
+  "User Score": -1,
+  "appid": 1799930,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,184 +206,52 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 486,
-  "negative": 136,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 19,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Portuguese - Portugal",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1799930/header.jpg?t=1666283371",
+  "consensus_genre": "Racing",
+  "developer": "34BigThings srl",
+  "discount": "0",
   "genre": [
     "Action",
     "Racing",
     "Sports"
   ],
-  "consensus_genre": "Racing",
-  "Meta Score": "78",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 30,
-  "Down 30 Days": 7,
-  "Completion": 48.85000038146973,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1799930/header.jpg?t=1666283371",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Portuguese - Portugal",
+  "name": "Redout 2",
+  "negative": 136,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 486,
+  "price": "2999",
+  "publisher": "Saber Interactive",
+  "release_date": "2022/06/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 365,
+    "Arcade": 376,
+    "Artificial Intelligence": 391,
+    "Automobile Sim": 382,
+    "Character Customization": 369,
+    "Colorful": 348,
+    "Combat Racing": 416,
+    "Competitive": 383,
+    "Controller": 362,
+    "Driving": 404,
+    "Flight": 423,
+    "Physics": 387,
+    "PvP": 413,
+    "Racing": 416,
+    "Simulation": 357,
+    "Soundtrack": 400,
+    "Space": 396,
+    "Space Sim": 377,
+    "Sports": 408,
+    "e-sports": 371
+  },
+  "type": "game"
 }

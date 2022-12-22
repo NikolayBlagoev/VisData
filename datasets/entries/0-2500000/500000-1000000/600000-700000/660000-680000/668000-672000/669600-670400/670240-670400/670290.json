@@ -1,31 +1,201 @@
 {
-  "appid": 670290,
-  "name": "Real Pool 3D - Poolians",
-  "developer": "Poolians.com",
-  "publisher": "ThankGame.com",
-  "tags": {
-    "Sports": 155,
-    "Pool": 151,
-    "Simulation": 147,
-    "Free to Play": 144,
-    "Casual": 131,
-    "Multiplayer": 128,
-    "Indie": 124,
-    "Massively Multiplayer": 121,
-    "Strategy": 105,
-    "Shooter": 100,
-    "Relaxing": 97,
-    "VR": 91,
-    "FPS": 90,
-    "Funny": 90,
-    "Action": 89,
-    "Singleplayer": 84,
-    "PvP": 79,
-    "3D": 58,
-    "Co-op": 53,
-    "Retro": 53
+  "Average Playtime - 2 Weeks": {
+    "app_id": 670290,
+    "average_2weeks": 67,
+    "average_forever": 158,
+    "median_2weeks": 128,
+    "median_forever": 56
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 670290,
+    "average_2weeks": 67,
+    "average_forever": 158,
+    "median_2weeks": 128,
+    "median_forever": 56
+  },
+  "CCU Histogram": {
+    "2022-12-08": 619,
+    "2022-12-09": 453,
+    "2022-12-10": 426,
+    "2022-12-13": 398,
+    "2022-12-15": 476,
+    "2022-12-18": 465,
+    "2022-12-21": 400,
+    "2022-12-22": 489
+  },
+  "Completion": -1,
+  "Down 30 Days": 49,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 670290,
+    "average_2weeks": 67,
+    "average_forever": 158,
+    "median_2weeks": 128,
+    "median_forever": 56
+  },
+  "Median Playtime - Forever": {
+    "app_id": 670290,
+    "average_2weeks": 67,
+    "average_forever": 158,
+    "median_2weeks": 128,
+    "median_forever": 56
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 241,
+  "User Score": -1,
+  "appid": 670290,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,22 +204,10 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 5924,
-  "negative": 1577,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 451,
-  "languages": "English, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Traditional Chinese, French, German, Korean, Portuguese - Brazil, Russian, Spanish - Latin America, Polish, Turkish, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/01/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/670290/header.jpg?t=1656026776",
+  "consensus_genre": "Sports",
+  "developer": "Poolians.com",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -60,163 +218,43 @@
     "Sports",
     "Strategy"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 8,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 25,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 241,
-  "Down 30 Days": 49,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/670290/header.jpg?t=1656026776",
+  "initialprice": "0",
+  "languages": "English, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Traditional Chinese, French, German, Korean, Portuguese - Brazil, Russian, Spanish - Latin America, Polish, Turkish, Vietnamese",
+  "name": "Real Pool 3D - Poolians",
+  "negative": 1577,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 5924,
+  "price": "0",
+  "publisher": "ThankGame.com",
+  "release_date": "2018/01/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 58,
+    "Action": 89,
+    "Casual": 131,
+    "Co-op": 53,
+    "FPS": 90,
+    "Free to Play": 144,
+    "Funny": 90,
+    "Indie": 124,
+    "Massively Multiplayer": 121,
+    "Multiplayer": 128,
+    "Pool": 151,
+    "PvP": 79,
+    "Relaxing": 97,
+    "Retro": 53,
+    "Shooter": 100,
+    "Simulation": 147,
+    "Singleplayer": 84,
+    "Sports": 155,
+    "Strategy": 105,
+    "VR": 91
+  },
+  "type": "game"
 }

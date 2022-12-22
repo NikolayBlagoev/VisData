@@ -1,31 +1,201 @@
 {
-  "appid": 529340,
-  "name": "Victoria 3",
-  "developer": "Paradox Development Studio",
-  "publisher": "Paradox Interactive",
-  "tags": {
-    "Grand Strategy": 499,
-    "Economy": 440,
-    "Strategy": 425,
-    "Historical": 412,
-    "Simulation": 387,
-    "Management": 350,
-    "Alternate History": 346,
-    "Diplomacy": 342,
-    "Political": 334,
-    "Singleplayer": 328,
-    "Real-Time with Pause": 326,
-    "Politics": 322,
-    "Multiplayer": 320,
-    "Moddable": 314,
-    "Political Sim": 314,
-    "Sandbox": 314,
-    "Resource Management": 309,
-    "Military": 305,
-    "Replay Value": 278,
-    "Capitalism": 266
+  "Average Playtime - 2 Weeks": {
+    "app_id": 529340,
+    "average_2weeks": 893,
+    "average_forever": 2711,
+    "median_2weeks": 876,
+    "median_forever": 1788
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 529340,
+    "average_2weeks": 893,
+    "average_forever": 2711,
+    "median_2weeks": 876,
+    "median_forever": 1788
+  },
+  "CCU Histogram": {
+    "2022-12-08": 13689,
+    "2022-12-09": 12624,
+    "2022-12-10": 13214,
+    "2022-12-13": 15869,
+    "2022-12-15": 10686,
+    "2022-12-18": 11340,
+    "2022-12-21": 10267,
+    "2022-12-22": 9771
+  },
+  "Completion": 54.19999885559082,
+  "Down 30 Days": 1884,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 175,
+      "recommendations_up": 372
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 149,
+      "recommendations_up": 262
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 121,
+      "recommendations_up": 248
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 156,
+      "recommendations_up": 238
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 133,
+      "recommendations_up": 204
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 96,
+      "recommendations_up": 203
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 87,
+      "recommendations_up": 135
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 59,
+      "recommendations_up": 120
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 71,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 63,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 58,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 66,
+      "recommendations_up": 115
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 47,
+      "recommendations_up": 94
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 45,
+      "recommendations_up": 73
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 33,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 32,
+      "recommendations_up": 61
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 32,
+      "recommendations_up": 77
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 52,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 40,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 33,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 48,
+      "recommendations_up": 235
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 72,
+      "recommendations_up": 485
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 39,
+      "recommendations_up": 309
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 32,
+      "recommendations_up": 208
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 40,
+      "recommendations_up": 201
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 36,
+      "recommendations_up": 146
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 24,
+      "recommendations_up": 126
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 32,
+      "recommendations_up": 106
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 13,
+      "recommendations_up": 46
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 529340,
+    "average_2weeks": 893,
+    "average_forever": 2711,
+    "median_2weeks": 876,
+    "median_forever": 1788
+  },
+  "Median Playtime - Forever": {
+    "app_id": 529340,
+    "average_2weeks": 893,
+    "average_forever": 2711,
+    "median_2weeks": 876,
+    "median_forever": 1788
+  },
+  "Meta Score": "83",
+  "Rating": "ESRB T",
+  "Up 30 Days": 4631,
+  "User Score": -1,
+  "appid": 529340,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,183 +206,51 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 10675,
-  "negative": 6517,
-  "price": "4999",
-  "initialprice": "4999",
-  "discount": "0",
   "ccu": 40364,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/529340/header.jpg?t=1667905309",
+  "consensus_genre": "Strategy",
+  "developer": "Paradox Development Studio",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "83",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 372,
-      "recommendations_down": 175
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 262,
-      "recommendations_down": 149
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 248,
-      "recommendations_down": 121
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 238,
-      "recommendations_down": 156
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 204,
-      "recommendations_down": 133
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 203,
-      "recommendations_down": 96
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 135,
-      "recommendations_down": 87
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 120,
-      "recommendations_down": 59
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 102,
-      "recommendations_down": 71
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 105,
-      "recommendations_down": 63
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 105,
-      "recommendations_down": 58
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 115,
-      "recommendations_down": 66
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 94,
-      "recommendations_down": 47
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 73,
-      "recommendations_down": 45
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 58,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 61,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 77,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 84,
-      "recommendations_down": 52
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 66,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 47,
-      "recommendations_down": 33
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 235,
-      "recommendations_down": 48
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 485,
-      "recommendations_down": 72
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 309,
-      "recommendations_down": 39
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 208,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 201,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 146,
-      "recommendations_down": 36
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 126,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 106,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 46,
-      "recommendations_down": 13
-    }
-  ],
-  "Up 30 Days": 4631,
-  "Down 30 Days": 1884,
-  "Completion": 54.19999885559082,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/529340/header.jpg?t=1667905309",
+  "initialprice": "4999",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
+  "name": "Victoria 3",
+  "negative": 6517,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 10675,
+  "price": "4999",
+  "publisher": "Paradox Interactive",
+  "release_date": "2022/10/25",
+  "required_age": 0,
+  "tags": {
+    "Alternate History": 346,
+    "Capitalism": 266,
+    "Diplomacy": 342,
+    "Economy": 440,
+    "Grand Strategy": 499,
+    "Historical": 412,
+    "Management": 350,
+    "Military": 305,
+    "Moddable": 314,
+    "Multiplayer": 320,
+    "Political": 334,
+    "Political Sim": 314,
+    "Politics": 322,
+    "Real-Time with Pause": 326,
+    "Replay Value": 278,
+    "Resource Management": 309,
+    "Sandbox": 314,
+    "Simulation": 387,
+    "Singleplayer": 328,
+    "Strategy": 425
+  },
+  "type": "game"
 }

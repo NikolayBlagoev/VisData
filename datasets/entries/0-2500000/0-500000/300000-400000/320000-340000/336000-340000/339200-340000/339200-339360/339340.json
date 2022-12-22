@@ -1,31 +1,201 @@
 {
-  "appid": 339340,
-  "name": "Resident Evil 0",
-  "developer": "CAPCOM Co., Ltd.",
-  "publisher": "CAPCOM Co., Ltd.",
-  "tags": {
-    "Horror": 207,
-    "Zombies": 180,
-    "Survival Horror": 171,
-    "Adventure": 139,
-    "Classic": 131,
-    "Action": 124,
-    "Singleplayer": 115,
-    "Remake": 97,
-    "Atmospheric": 90,
-    "Third Person": 87,
-    "Survival": 76,
-    "Female Protagonist": 68,
-    "Puzzle": 60,
-    "Difficult": 53,
-    "Story Rich": 53,
-    "Gore": 48,
-    "Third-Person Shooter": 38,
-    "Great Soundtrack": 32,
-    "Multiplayer": 28,
-    "Shooter": 28
+  "Average Playtime - 2 Weeks": {
+    "app_id": 339340,
+    "average_2weeks": 0,
+    "average_forever": 343,
+    "median_2weeks": 0,
+    "median_forever": 298
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 339340,
+    "average_2weeks": 0,
+    "average_forever": 343,
+    "median_2weeks": 0,
+    "median_forever": 298
+  },
+  "CCU Histogram": {
+    "2022-12-08": 80,
+    "2022-12-09": 79,
+    "2022-12-10": 80,
+    "2022-12-13": 140,
+    "2022-12-15": 103,
+    "2022-12-18": 86,
+    "2022-12-21": 100,
+    "2022-12-22": 86
+  },
+  "Completion": 27.200000762939453,
+  "Down 30 Days": 14,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 339340,
+    "average_2weeks": 0,
+    "average_forever": 343,
+    "median_2weeks": 0,
+    "median_forever": 298
+  },
+  "Median Playtime - Forever": {
+    "app_id": 339340,
+    "average_2weeks": 0,
+    "average_forever": 343,
+    "median_2weeks": 0,
+    "median_forever": 298
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 98,
+  "User Score": -1,
+  "appid": 339340,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,183 +203,51 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 7144,
-  "negative": 1407,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 166,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/01/19",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/339340/header.jpg?t=1659074657",
+  "consensus_genre": "Adventure",
+  "developer": "CAPCOM Co., Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 98,
-  "Down 30 Days": 14,
-  "Completion": 27.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/339340/header.jpg?t=1659074657",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Traditional Chinese",
+  "name": "Resident Evil 0",
+  "negative": 1407,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7144,
+  "price": "1999",
+  "publisher": "CAPCOM Co., Ltd.",
+  "release_date": "2016/01/19",
+  "required_age": "15",
+  "tags": {
+    "Action": 124,
+    "Adventure": 139,
+    "Atmospheric": 90,
+    "Classic": 131,
+    "Difficult": 53,
+    "Female Protagonist": 68,
+    "Gore": 48,
+    "Great Soundtrack": 32,
+    "Horror": 207,
+    "Multiplayer": 28,
+    "Puzzle": 60,
+    "Remake": 97,
+    "Shooter": 28,
+    "Singleplayer": 115,
+    "Story Rich": 53,
+    "Survival": 76,
+    "Survival Horror": 171,
+    "Third Person": 87,
+    "Third-Person Shooter": 38,
+    "Zombies": 180
+  },
+  "type": "game"
 }

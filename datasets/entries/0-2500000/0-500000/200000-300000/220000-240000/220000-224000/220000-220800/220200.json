@@ -1,31 +1,201 @@
 {
-  "appid": 220200,
-  "name": "Kerbal Space Program",
-  "developer": "Squad",
-  "publisher": "Private Division ",
-  "tags": {
-    "Space": 3185,
-    "Simulation": 2688,
-    "Sandbox": 2435,
-    "Physics": 2220,
-    "Science": 2016,
-    "Space Sim": 1884,
-    "Building": 1588,
-    "Moddable": 1374,
-    "Indie": 1272,
-    "Education": 1243,
-    "Open World": 1014,
-    "Singleplayer": 1011,
-    "Exploration": 984,
-    "Funny": 778,
-    "Sci-fi": 645,
-    "Difficult": 577,
-    "Adventure": 568,
-    "Replay Value": 556,
-    "Strategy": 555,
-    "Comedy": 493
+  "Average Playtime - 2 Weeks": {
+    "app_id": 220200,
+    "average_2weeks": 326,
+    "average_forever": 4877,
+    "median_2weeks": 606,
+    "median_forever": 798
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 220200,
+    "average_2weeks": 326,
+    "average_forever": 4877,
+    "median_2weeks": 606,
+    "median_forever": 798
+  },
+  "CCU Histogram": {
+    "2022-12-08": 3402,
+    "2022-12-09": 3617,
+    "2022-12-10": 3607,
+    "2022-12-13": 5079,
+    "2022-12-15": 3574,
+    "2022-12-18": 3900,
+    "2022-12-21": 4203,
+    "2022-12-22": 3984
+  },
+  "Completion": -1,
+  "Down 30 Days": 199,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 18,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 44,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 24,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 16,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 6,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 8,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 6,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 6,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 8,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 6,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 4,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 5,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 3,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 70
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 5,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 4,
+      "recommendations_up": 56
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 39
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 36
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 220200,
+    "average_2weeks": 326,
+    "average_forever": 4877,
+    "median_2weeks": 606,
+    "median_forever": 798
+  },
+  "Median Playtime - Forever": {
+    "app_id": 220200,
+    "average_2weeks": 326,
+    "average_forever": 4877,
+    "median_2weeks": 606,
+    "median_forever": 798
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 978,
+  "User Score": -1,
+  "appid": 220200,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,183 +203,51 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 102515,
-  "negative": 5577,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 5236,
-  "languages": "English, Spanish - Spain, Simplified Chinese, Japanese, Russian, French, Italian, German, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/04/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg?t=1663603925",
+  "consensus_genre": "Simulation",
+  "developer": "Squad",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 44,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 31,
-      "recommendations_down": 44
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 33,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 32,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 31,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 26,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 24,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 24,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 26,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 30,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 37,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 31,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 20,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 30,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 35,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 33,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 40,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 70,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 46,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 38,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 53,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 56,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 46,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 39,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 36,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 978,
-  "Down 30 Days": 199,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg?t=1663603925",
+  "initialprice": "3999",
+  "languages": "English, Spanish - Spain, Simplified Chinese, Japanese, Russian, French, Italian, German, Portuguese - Brazil",
+  "name": "Kerbal Space Program",
+  "negative": 5577,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 102515,
+  "price": "3999",
+  "publisher": "Private Division ",
+  "release_date": "2015/04/27",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 568,
+    "Building": 1588,
+    "Comedy": 493,
+    "Difficult": 577,
+    "Education": 1243,
+    "Exploration": 984,
+    "Funny": 778,
+    "Indie": 1272,
+    "Moddable": 1374,
+    "Open World": 1014,
+    "Physics": 2220,
+    "Replay Value": 556,
+    "Sandbox": 2435,
+    "Sci-fi": 645,
+    "Science": 2016,
+    "Simulation": 2688,
+    "Singleplayer": 1011,
+    "Space": 3185,
+    "Space Sim": 1884,
+    "Strategy": 555
+  },
+  "type": "game"
 }

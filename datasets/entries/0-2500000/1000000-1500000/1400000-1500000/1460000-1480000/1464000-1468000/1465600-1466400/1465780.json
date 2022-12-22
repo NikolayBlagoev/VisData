@@ -1,68 +1,106 @@
 {
-  "appid": 1465780,
-  "name": "Silver Vault",
-  "developer": "FrostHold Development",
-  "publisher": "FrostHold Development",
-  "tags": {
-    "Early Access": 182,
-    "Adventure": 165,
-    "RPG": 159,
-    "Dungeon Crawler": 157,
-    "Action RPG": 151,
-    "Fantasy": 150,
-    "Action-Adventure": 142,
-    "Mystery Dungeon": 141,
-    "3D": 138,
-    "First-Person": 133,
-    "Atmospheric": 130,
-    "Dark": 128,
-    "Demons": 121,
-    "Lore-Rich": 116,
-    "Medieval": 110,
-    "Swordplay": 103,
-    "Combat": 95,
-    "Hack and Slash": 93,
-    "Multiple Endings": 88,
-    "PvE": 83
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1465780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1465780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1465780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1465780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1465780,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/5",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465780/header.jpg?t=1617643139",
+  "consensus_genre": "Early Access",
+  "developer": "FrostHold Development",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465780/header.jpg?t=1617643139",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Silver Vault",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "FrostHold Development",
+  "release_date": "2021/04/5",
+  "required_age": 0,
+  "tags": {
+    "3D": 138,
+    "Action RPG": 151,
+    "Action-Adventure": 142,
+    "Adventure": 165,
+    "Atmospheric": 130,
+    "Combat": 95,
+    "Dark": 128,
+    "Demons": 121,
+    "Dungeon Crawler": 157,
+    "Early Access": 182,
+    "Fantasy": 150,
+    "First-Person": 133,
+    "Hack and Slash": 93,
+    "Lore-Rich": 116,
+    "Medieval": 110,
+    "Multiple Endings": 88,
+    "Mystery Dungeon": 141,
+    "PvE": 83,
+    "RPG": 159,
+    "Swordplay": 103
+  },
+  "type": "game"
 }

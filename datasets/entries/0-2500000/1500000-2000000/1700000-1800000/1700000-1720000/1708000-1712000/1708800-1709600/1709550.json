@@ -1,59 +1,97 @@
 {
-  "appid": 1709550,
-  "name": "Schizm: Mysterious Journey",
-  "developer": "DETALION",
-  "publisher": "LK Avalon",
-  "tags": {
-    "Exploration": 52,
-    "Adventure": 48,
-    "Puzzle": 45,
-    "Point & Click": 42,
-    "360 Video": 39,
-    "First-Person": 37,
-    "Sci-fi": 30,
-    "Atmospheric": 28,
-    "1990's": 24,
-    "Old School": 22,
-    "Retro": 21,
-    "Singleplayer": 19,
-    "Relaxing": 16,
-    "FMV": 5
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1709550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Hungarian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1709550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2021/10/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1709550/header.jpg?t=1633679635",
-  "genre": [
-    "Adventure"
-  ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1709550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1709550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1709550,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Adventure",
+  "developer": "DETALION",
+  "discount": "0",
+  "genre": [
+    "Adventure"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1709550/header.jpg?t=1633679635",
+  "initialprice": "899",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Hungarian",
+  "name": "Schizm: Mysterious Journey",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "899",
+  "publisher": "LK Avalon",
+  "release_date": "2021/10/8",
+  "required_age": 0,
+  "tags": {
+    "1990's": 24,
+    "360 Video": 39,
+    "Adventure": 48,
+    "Atmospheric": 28,
+    "Exploration": 52,
+    "FMV": 5,
+    "First-Person": 37,
+    "Old School": 22,
+    "Point & Click": 42,
+    "Puzzle": 45,
+    "Relaxing": 16,
+    "Retro": 21,
+    "Sci-fi": 30,
+    "Singleplayer": 19
+  },
+  "type": "game"
 }

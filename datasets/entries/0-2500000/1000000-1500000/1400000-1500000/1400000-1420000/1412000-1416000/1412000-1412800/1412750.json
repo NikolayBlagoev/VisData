@@ -1,65 +1,103 @@
 {
-  "appid": 1412750,
-  "name": "Gummy Bear Mafia",
-  "developer": "Sugar Bush Studios Inc.",
-  "publisher": "Sugar Bush Studios Inc.",
-  "tags": {
-    "Strategy": 181,
-    "Casual": 174,
-    "Board Game": 150,
-    "Management": 145,
-    "Turn-Based Strategy": 139,
-    "Colony Sim": 129,
-    "Immersive Sim": 120,
-    "Time Management": 115,
-    "Turn-Based Tactics": 107,
-    "Wargame": 97,
-    "2D": 95,
-    "Automation": 83,
-    "Inventory Management": 70,
-    "Resource Management": 56,
-    "Tabletop": 41,
-    "Turn-Based Combat": 27,
-    "Singleplayer": 25,
-    "Simulation": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1412750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1412750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1412750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1412750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1412750,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1412750/header.jpg?t=1616069782",
+  "consensus_genre": "Strategy",
+  "developer": "Sugar Bush Studios Inc.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1412750/header.jpg?t=1616069782",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "Gummy Bear Mafia",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "Sugar Bush Studios Inc.",
+  "release_date": "2020/09/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 95,
+    "Automation": 83,
+    "Board Game": 150,
+    "Casual": 174,
+    "Colony Sim": 129,
+    "Immersive Sim": 120,
+    "Inventory Management": 70,
+    "Management": 145,
+    "Resource Management": 56,
+    "Simulation": 21,
+    "Singleplayer": 25,
+    "Strategy": 181,
+    "Tabletop": 41,
+    "Time Management": 115,
+    "Turn-Based Combat": 27,
+    "Turn-Based Strategy": 139,
+    "Turn-Based Tactics": 107,
+    "Wargame": 97
+  },
+  "type": "game"
 }

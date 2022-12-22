@@ -1,28 +1,56 @@
 {
-  "appid": 2071020,
-  "name": "\u30dc\u30af\u3089\u306e\u6d88\u3057\u30b4\u30e0\u843d\u3068\u3057 \u65b0\u5b66\u671f",
-  "developer": "SAT-BOX",
-  "publisher": "SAT-BOX",
-  "tags": {
-    "Action": 73,
-    "Casual": 67,
-    "Racing": 64,
-    "Cute": 41,
-    "Cartoony": 38,
-    "Family Friendly": 32,
-    "Arcade": 30,
-    "3D Platformer": 28,
-    "3D": 26,
-    "Comedy": 24,
-    "Physics": 22,
-    "Indie": 21,
-    "Singleplayer": 20,
-    "Multiplayer": 18,
-    "Local Multiplayer": 16,
-    "Local Co-Op": 14,
-    "Co-op": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2071020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2071020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2071020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2071020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2071020,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -32,40 +60,50 @@
     "Shared/Split Screen Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2071020/header.jpg?t=1666221113",
+  "consensus_genre": "Action",
+  "developer": "SAT-BOX",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2071020/header.jpg?t=1666221113",
+  "initialprice": "999",
+  "languages": "English, Not supported, Japanese",
+  "name": "\u30dc\u30af\u3089\u306e\u6d88\u3057\u30b4\u30e0\u843d\u3068\u3057 \u65b0\u5b66\u671f",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "SAT-BOX",
+  "release_date": "2022/10/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 26,
+    "3D Platformer": 28,
+    "Action": 73,
+    "Arcade": 30,
+    "Cartoony": 38,
+    "Casual": 67,
+    "Co-op": 12,
+    "Comedy": 24,
+    "Cute": 41,
+    "Family Friendly": 32,
+    "Indie": 21,
+    "Local Co-Op": 14,
+    "Local Multiplayer": 16,
+    "Multiplayer": 18,
+    "Physics": 22,
+    "Racing": 64,
+    "Singleplayer": 20
+  },
+  "type": "game"
 }

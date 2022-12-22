@@ -1,209 +1,247 @@
 {
-  "appid": 1546320,
-  "name": "Your Chronicle",
-  "developer": "Samurai Games",
-  "publisher": "Samurai Games",
-  "tags": {
-    "RPG": 78,
-    "Idler": 69,
-    "Text-Based": 62,
-    "Clicker": 46,
-    "Adventure": 39,
-    "Auto Battler": 34,
-    "Free to Play": 34,
-    "Singleplayer": 29,
-    "Collectathon": 27,
-    "2D": 25,
-    "Fantasy": 25,
-    "Medieval": 23,
-    "Magic": 16,
-    "Swordplay": 16,
-    "Tactical": 15
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1546320,
+    "average_2weeks": 0,
+    "average_forever": 54245,
+    "median_2weeks": 0,
+    "median_forever": 60233
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1546320,
+    "average_2weeks": 0,
+    "average_forever": 54245,
+    "median_2weeks": 0,
+    "median_forever": 60233
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1575,
+    "2022-12-09": 1536,
+    "2022-12-10": 1553,
+    "2022-12-13": 1527,
+    "2022-12-15": 1454,
+    "2022-12-18": 1511,
+    "2022-12-21": 1642,
+    "2022-12-22": 1647
+  },
+  "Completion": 56.55000114440918,
+  "Down 30 Days": 7,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1546320,
+    "average_2weeks": 0,
+    "average_forever": 54245,
+    "median_2weeks": 0,
+    "median_forever": 60233
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1546320,
+    "average_2weeks": 0,
+    "average_forever": 54245,
+    "median_2weeks": 0,
+    "median_forever": 60233
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 20,
+  "User Score": -1,
+  "appid": 1546320,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "In-App Purchases"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 824,
-  "negative": 197,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 1769,
-  "languages": "English, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/04/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546320/header.jpg?t=1651460922",
+  "consensus_genre": "RPG",
+  "developer": "Samurai Games",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 20,
-  "Down 30 Days": 7,
-  "Completion": 56.55000114440918,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546320/header.jpg?t=1651460922",
+  "initialprice": "0",
+  "languages": "English, Japanese",
+  "name": "Your Chronicle",
+  "negative": 197,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 824,
+  "price": "0",
+  "publisher": "Samurai Games",
+  "release_date": "2021/04/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 25,
+    "Adventure": 39,
+    "Auto Battler": 34,
+    "Clicker": 46,
+    "Collectathon": 27,
+    "Fantasy": 25,
+    "Free to Play": 34,
+    "Idler": 69,
+    "Magic": 16,
+    "Medieval": 23,
+    "RPG": 78,
+    "Singleplayer": 29,
+    "Swordplay": 16,
+    "Tactical": 15,
+    "Text-Based": 62
+  },
+  "type": "game"
 }

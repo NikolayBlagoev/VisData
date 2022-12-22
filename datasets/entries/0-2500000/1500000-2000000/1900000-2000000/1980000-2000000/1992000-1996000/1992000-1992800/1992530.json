@@ -1,30 +1,66 @@
 {
-  "appid": 1992530,
-  "name": "Party Words",
-  "developer": "Kelsam",
-  "publisher": "Kelsam",
-  "tags": {
-    "Casual": 60,
-    "Word Game": 52,
-    "Party Game": 46,
-    "Party": 43,
-    "Funny": 37,
-    "Comedy": 29,
-    "Family Friendly": 27,
-    "4 Player Local": 23,
-    "Co-op": 21,
-    "Early Access": 21,
-    "Local Co-Op": 19,
-    "Local Multiplayer": 17,
-    "Multiplayer": 15,
-    "Online Co-Op": 13,
-    "Abstract": 10,
-    "Experimental": 10,
-    "Hand-drawn": 10,
-    "Minimalist": 10,
-    "PvP": 10
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1992530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1992530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1992530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1992530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1992530,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -36,48 +72,50 @@
     "Shared/Split Screen Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1992530/header.jpg?t=1664857000",
+  "consensus_genre": "Casual",
+  "developer": "Kelsam",
+  "discount": "0",
   "genre": [
     "Casual",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1992530/header.jpg?t=1664857000",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Party Words",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "Kelsam",
+  "release_date": "2022/07/1",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 23,
+    "Abstract": 10,
+    "Casual": 60,
+    "Co-op": 21,
+    "Comedy": 29,
+    "Early Access": 21,
+    "Experimental": 10,
+    "Family Friendly": 27,
+    "Funny": 37,
+    "Hand-drawn": 10,
+    "Local Co-Op": 19,
+    "Local Multiplayer": 17,
+    "Minimalist": 10,
+    "Multiplayer": 15,
+    "Online Co-Op": 13,
+    "Party": 43,
+    "Party Game": 46,
+    "PvP": 10,
+    "Word Game": 52
+  },
+  "type": "game"
 }

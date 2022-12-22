@@ -1,31 +1,201 @@
 {
-  "appid": 1172620,
-  "name": "Sea of Thieves",
-  "developer": "Rare Ltd",
-  "publisher": "Xbox Game Studios",
-  "tags": {
-    "Adventure": 909,
-    "Open World": 868,
-    "Multiplayer": 866,
-    "Pirates": 763,
-    "Co-op": 686,
-    "Action": 653,
-    "Online Co-Op": 621,
-    "Sailing": 578,
-    "PvP": 553,
-    "First-Person": 442,
-    "Exploration": 393,
-    "Naval": 351,
-    "Funny": 309,
-    "PvE": 298,
-    "Atmospheric": 269,
-    "Massively Multiplayer": 269,
-    "Swordplay": 243,
-    "Great Soundtrack": 242,
-    "FPS": 240,
-    "Singleplayer": 188
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1172620,
+    "average_2weeks": 559,
+    "average_forever": 3711,
+    "median_2weeks": 311,
+    "median_forever": 1312
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1172620,
+    "average_2weeks": 559,
+    "average_forever": 3711,
+    "median_2weeks": 311,
+    "median_forever": 1312
+  },
+  "CCU Histogram": {
+    "2022-12-08": 13302,
+    "2022-12-09": 13582,
+    "2022-12-10": 13341,
+    "2022-12-13": 16743,
+    "2022-12-15": 10708,
+    "2022-12-18": 14207,
+    "2022-12-21": 12749,
+    "2022-12-22": 11939
+  },
+  "Completion": 65.5999984741211,
+  "Down 30 Days": 376,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 11,
+      "recommendations_up": 63
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 9,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 7,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 23,
+      "recommendations_up": 93
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 16,
+      "recommendations_up": 165
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 31,
+      "recommendations_up": 186
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 20,
+      "recommendations_up": 189
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 26,
+      "recommendations_up": 683
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 31,
+      "recommendations_up": 762
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 30,
+      "recommendations_up": 525
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 21,
+      "recommendations_up": 500
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 27,
+      "recommendations_up": 439
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 57,
+      "recommendations_up": 486
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 22,
+      "recommendations_up": 356
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 26,
+      "recommendations_up": 282
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 19,
+      "recommendations_up": 197
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1172620,
+    "average_2weeks": 559,
+    "average_forever": 3711,
+    "median_2weeks": 311,
+    "median_forever": 1312
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1172620,
+    "average_2weeks": 559,
+    "average_forever": 3711,
+    "median_2weeks": 311,
+    "median_forever": 1312
+  },
+  "Meta Score": "67",
+  "Rating": "ESRB T",
+  "Up 30 Days": 5036,
+  "User Score": -1,
+  "appid": 1172620,
   "categories": [
     "Multi-player",
     "Co-op",
@@ -40,183 +210,51 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 223678,
-  "negative": 24137,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 11789,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean, Polish, Japanese, Turkish, Thai",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/06/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg?t=1667516027",
+  "consensus_genre": "Adventure",
+  "developer": "Rare Ltd",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": "67",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 63,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 57,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 53,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 93,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 165,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 186,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 189,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 683,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 762,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 525,
-      "recommendations_down": 30
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 500,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 439,
-      "recommendations_down": 27
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 486,
-      "recommendations_down": 57
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 356,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 282,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 197,
-      "recommendations_down": 19
-    }
-  ],
-  "Up 30 Days": 5036,
-  "Down 30 Days": 376,
-  "Completion": 65.5999984741211,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg?t=1667516027",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean, Polish, Japanese, Turkish, Thai",
+  "name": "Sea of Thieves",
+  "negative": 24137,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 223678,
+  "price": "3999",
+  "publisher": "Xbox Game Studios",
+  "release_date": "2020/06/3",
+  "required_age": 0,
+  "tags": {
+    "Action": 653,
+    "Adventure": 909,
+    "Atmospheric": 269,
+    "Co-op": 686,
+    "Exploration": 393,
+    "FPS": 240,
+    "First-Person": 442,
+    "Funny": 309,
+    "Great Soundtrack": 242,
+    "Massively Multiplayer": 269,
+    "Multiplayer": 866,
+    "Naval": 351,
+    "Online Co-Op": 621,
+    "Open World": 868,
+    "Pirates": 763,
+    "PvE": 298,
+    "PvP": 553,
+    "Sailing": 578,
+    "Singleplayer": 188,
+    "Swordplay": 243
+  },
+  "type": "game"
 }

@@ -1,80 +1,118 @@
 {
-  "appid": 1339370,
-  "name": "MV Mazes",
-  "developer": "MV Games",
-  "publisher": "MV Games",
-  "tags": {
-    "Choose Your Own Adventure": 295,
-    "Puzzle-Platformer": 289,
-    "Casual": 287,
-    "Clicker": 280,
-    "Walking Simulator": 275,
-    "Arcade": 264,
-    "Third Person": 258,
-    "2D": 250,
-    "Cute": 241,
-    "Top-Down": 232,
-    "Relaxing": 220,
-    "Puzzle": 209,
-    "Pixel Graphics": 197,
-    "Anime": 183,
-    "Minimalist": 182,
-    "Medieval": 164,
-    "Logic": 147,
-    "Investigation": 129,
-    "Mining": 110,
-    "Mystery": 90
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1339370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1339370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2020/06/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1339370/header.jpg?t=1597602212",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 1,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1339370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1339370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1339370,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "",
+  "developer": "MV Games",
+  "discount": "0",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1339370/header.jpg?t=1597602212",
+  "initialprice": "99",
+  "languages": "Russian",
+  "name": "MV Mazes",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "MV Games",
+  "release_date": "2020/06/18",
+  "required_age": 0,
+  "tags": {
+    "2D": 250,
+    "Anime": 183,
+    "Arcade": 264,
+    "Casual": 287,
+    "Choose Your Own Adventure": 295,
+    "Clicker": 280,
+    "Cute": 241,
+    "Investigation": 129,
+    "Logic": 147,
+    "Medieval": 164,
+    "Minimalist": 182,
+    "Mining": 110,
+    "Mystery": 90,
+    "Pixel Graphics": 197,
+    "Puzzle": 209,
+    "Puzzle-Platformer": 289,
+    "Relaxing": 220,
+    "Third Person": 258,
+    "Top-Down": 232,
+    "Walking Simulator": 275
+  },
+  "type": "game"
 }

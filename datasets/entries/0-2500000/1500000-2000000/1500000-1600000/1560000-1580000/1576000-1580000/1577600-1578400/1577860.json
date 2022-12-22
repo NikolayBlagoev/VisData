@@ -1,58 +1,96 @@
 {
-  "appid": 1577860,
-  "name": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
-  "developer": "Ardyn",
-  "publisher": "Ardyn",
-  "tags": {
-    "Simulation": 66,
-    "Strategy": 61,
-    "Sandbox": 38,
-    "Puzzle-Platformer": 34,
-    "3D": 33,
-    "Futuristic": 26,
-    "Robots": 24,
-    "Automation": 22,
-    "Indie": 21,
-    "Cyberpunk": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1577860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1577860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1577860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1577860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1577860,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/05/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1577860/header.jpg?t=1620033128",
+  "consensus_genre": "Simulation",
+  "developer": "Ardyn",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1577860/header.jpg?t=1620033128",
+  "initialprice": "299",
+  "languages": "English, Simplified Chinese",
+  "name": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "299",
+  "publisher": "Ardyn",
+  "release_date": "2021/05/3",
+  "required_age": 0,
+  "tags": {
+    "3D": 33,
+    "Automation": 22,
+    "Cyberpunk": 20,
+    "Futuristic": 26,
+    "Indie": 21,
+    "Puzzle-Platformer": 34,
+    "Robots": 24,
+    "Sandbox": 38,
+    "Simulation": 66,
+    "Singleplayer": 18,
+    "Strategy": 61
+  },
+  "type": "game"
 }

@@ -1,209 +1,247 @@
 {
-  "appid": 1559390,
-  "name": "Fate Seeker II",
-  "developer": "\u7532\u5c71\u6797\u5a1b\u6a02\u80a1\u4efd\u6709\u9650\u516c\u53f8",
-  "publisher": "\u7532\u5c71\u6797\u5a1b\u6a02\u80a1\u4efd\u6709\u9650\u516c\u53f8",
-  "tags": {
-    "RPG": 96,
-    "Action RPG": 63,
-    "Martial Arts": 60,
-    "Puzzle": 53,
-    "Exploration": 50,
-    "Hack and Slash": 44,
-    "Open World": 40,
-    "3D": 36,
-    "Singleplayer": 35,
-    "Third Person": 35,
-    "Drama": 33,
-    "Investigation": 32,
-    "Lore-Rich": 31,
-    "Historical": 27,
-    "Story Rich": 26,
-    "Sexual Content": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1559390,
+    "average_2weeks": 68,
+    "average_forever": 1101,
+    "median_2weeks": 68,
+    "median_forever": 1189
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1559390,
+    "average_2weeks": 68,
+    "average_forever": 1101,
+    "median_2weeks": 68,
+    "median_forever": 1189
+  },
+  "CCU Histogram": {
+    "2022-12-08": 532,
+    "2022-12-09": 312,
+    "2022-12-10": 312,
+    "2022-12-13": 503,
+    "2022-12-15": 966,
+    "2022-12-18": 802,
+    "2022-12-21": 800,
+    "2022-12-22": 869
+  },
+  "Completion": 61.400001525878906,
+  "Down 30 Days": 16,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1559390,
+    "average_2weeks": 68,
+    "average_forever": 1101,
+    "median_2weeks": 68,
+    "median_forever": 1189
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1559390,
+    "average_2weeks": 68,
+    "average_forever": 1101,
+    "median_2weeks": 68,
+    "median_forever": 1189
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 98,
+  "User Score": -1,
+  "appid": 1559390,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 10426,
-  "negative": 992,
-  "price": "2260",
-  "initialprice": "2260",
-  "discount": "0",
   "ccu": 248,
-  "languages": "English, Not supported, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1559390/header.jpg?t=1662608240",
+  "consensus_genre": "RPG",
+  "developer": "\u7532\u5c71\u6797\u5a1b\u6a02\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 98,
-  "Down 30 Days": 16,
-  "Completion": 61.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1559390/header.jpg?t=1662608240",
+  "initialprice": "2260",
+  "languages": "English, Not supported, Simplified Chinese, Traditional Chinese",
+  "name": "Fate Seeker II",
+  "negative": 992,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10426,
+  "price": "2260",
+  "publisher": "\u7532\u5c71\u6797\u5a1b\u6a02\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+  "release_date": "2021/11/22",
+  "required_age": 0,
+  "tags": {
+    "3D": 36,
+    "Action RPG": 63,
+    "Drama": 33,
+    "Exploration": 50,
+    "Hack and Slash": 44,
+    "Historical": 27,
+    "Investigation": 32,
+    "Lore-Rich": 31,
+    "Martial Arts": 60,
+    "Open World": 40,
+    "Puzzle": 53,
+    "RPG": 96,
+    "Sexual Content": 12,
+    "Singleplayer": 35,
+    "Story Rich": 26,
+    "Third Person": 35
+  },
+  "type": "game"
 }

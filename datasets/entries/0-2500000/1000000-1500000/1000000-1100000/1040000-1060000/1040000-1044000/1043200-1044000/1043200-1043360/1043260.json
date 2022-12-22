@@ -1,215 +1,253 @@
 {
-  "appid": 1043260,
-  "name": "Gladiator Guild Manager",
-  "developer": "Entertainment Forge",
-  "publisher": "GrabTheGames, Gamera Games",
-  "tags": {
-    "Auto Battler": 584,
-    "Strategy": 576,
-    "Rogue-lite": 568,
-    "Strategy RPG": 568,
-    "Tactical": 566,
-    "Rogue-like": 557,
-    "RPG": 554,
-    "Indie": 552,
-    "Turn-Based Strategy": 547,
-    "Replay Value": 542,
-    "Tactical RPG": 535,
-    "Early Access": 534,
-    "Management": 528,
-    "Base-Building": 520,
-    "Pixel Graphics": 506,
-    "Resource Management": 505,
-    "Medieval": 502,
-    "Turn-Based Tactics": 496,
-    "Singleplayer": 439,
-    "Trading": 436
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1043260,
+    "average_2weeks": 60,
+    "average_forever": 478,
+    "median_2weeks": 60,
+    "median_forever": 469
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1043260,
+    "average_2weeks": 60,
+    "average_forever": 478,
+    "median_2weeks": 60,
+    "median_forever": 469
+  },
+  "CCU Histogram": {
+    "2022-12-08": 45,
+    "2022-12-09": 37,
+    "2022-12-10": 23,
+    "2022-12-13": 33,
+    "2022-12-15": 25,
+    "2022-12-18": 40,
+    "2022-12-21": 24,
+    "2022-12-22": 73
+  },
+  "Completion": 27.899999618530273,
+  "Down 30 Days": 6,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1043260,
+    "average_2weeks": 60,
+    "average_forever": 478,
+    "median_2weeks": 60,
+    "median_forever": 469
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1043260,
+    "average_2weeks": 60,
+    "average_forever": 478,
+    "median_2weeks": 60,
+    "median_forever": 469
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 22,
+  "User Score": -1,
+  "appid": 1043260,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1376,
-  "negative": 255,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 32,
-  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/10/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1043260/header.jpg?t=1662122495",
+  "consensus_genre": "Strategy",
+  "developer": "Entertainment Forge",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 22,
-  "Down 30 Days": 6,
-  "Completion": 27.899999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1043260/header.jpg?t=1662122495",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+  "name": "Gladiator Guild Manager",
+  "negative": 255,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1376,
+  "price": "999",
+  "publisher": "GrabTheGames, Gamera Games",
+  "release_date": "2021/10/13",
+  "required_age": 0,
+  "tags": {
+    "Auto Battler": 584,
+    "Base-Building": 520,
+    "Early Access": 534,
+    "Indie": 552,
+    "Management": 528,
+    "Medieval": 502,
+    "Pixel Graphics": 506,
+    "RPG": 554,
+    "Replay Value": 542,
+    "Resource Management": 505,
+    "Rogue-like": 557,
+    "Rogue-lite": 568,
+    "Singleplayer": 439,
+    "Strategy": 576,
+    "Strategy RPG": 568,
+    "Tactical": 566,
+    "Tactical RPG": 535,
+    "Trading": 436,
+    "Turn-Based Strategy": 547,
+    "Turn-Based Tactics": 496
+  },
+  "type": "game"
 }

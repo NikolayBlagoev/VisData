@@ -1,212 +1,250 @@
 {
-  "appid": 611660,
-  "name": "Fallout 4 VR",
-  "developer": "Bethesda Game Studios",
-  "publisher": "Bethesda Softworks",
-  "tags": {
-    "VR": 130,
-    "Open World": 100,
-    "Post-apocalyptic": 97,
-    "RPG": 90,
-    "Singleplayer": 80,
-    "Shooter": 74,
-    "Survival": 57,
-    "FPS": 53,
-    "Action": 51,
-    "First-Person": 47,
-    "Violent": 43,
-    "Adventure": 42,
-    "Atmospheric": 38,
-    "Base-Building": 29,
-    "Character Customization": 26,
-    "Gore": 25,
-    "Great Soundtrack": 23,
-    "Stealth": 17,
-    "Building": 12,
-    "Sexual Content": 12
+  "Average Playtime - 2 Weeks": {
+    "app_id": 611660,
+    "average_2weeks": 0,
+    "average_forever": 743,
+    "median_2weeks": 0,
+    "median_forever": 208
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 611660,
+    "average_2weeks": 0,
+    "average_forever": 743,
+    "median_2weeks": 0,
+    "median_forever": 208
+  },
+  "CCU Histogram": {
+    "2022-12-08": 80,
+    "2022-12-09": 55,
+    "2022-12-10": 67,
+    "2022-12-13": 102,
+    "2022-12-15": 73,
+    "2022-12-18": 82,
+    "2022-12-21": 83,
+    "2022-12-22": 67
+  },
+  "Completion": 68.0,
+  "Down 30 Days": 13,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 611660,
+    "average_2weeks": 0,
+    "average_forever": 743,
+    "median_2weeks": 0,
+    "median_forever": 208
+  },
+  "Median Playtime - Forever": {
+    "app_id": 611660,
+    "average_2weeks": 0,
+    "average_forever": 743,
+    "median_2weeks": 0,
+    "median_forever": 208
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 16,
+  "User Score": -1,
+  "appid": 611660,
   "categories": [
     "Single-player",
     "VR Support",
     "SteamVR Collectibles"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 4240,
-  "negative": 2539,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 106,
-  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Japanese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2017/12/11",
-  "required_age": "17",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/611660/header.jpg?t=1607445202",
+  "consensus_genre": "RPG",
+  "developer": "Bethesda Game Studios",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 16,
-  "Down 30 Days": 13,
-  "Completion": 68.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/611660/header.jpg?t=1607445202",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Japanese, Traditional Chinese",
+  "name": "Fallout 4 VR",
+  "negative": 2539,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4240,
+  "price": "5999",
+  "publisher": "Bethesda Softworks",
+  "release_date": "2017/12/11",
+  "required_age": "17",
+  "tags": {
+    "Action": 51,
+    "Adventure": 42,
+    "Atmospheric": 38,
+    "Base-Building": 29,
+    "Building": 12,
+    "Character Customization": 26,
+    "FPS": 53,
+    "First-Person": 47,
+    "Gore": 25,
+    "Great Soundtrack": 23,
+    "Open World": 100,
+    "Post-apocalyptic": 97,
+    "RPG": 90,
+    "Sexual Content": 12,
+    "Shooter": 74,
+    "Singleplayer": 80,
+    "Stealth": 17,
+    "Survival": 57,
+    "VR": 130,
+    "Violent": 43
+  },
+  "type": "game"
 }

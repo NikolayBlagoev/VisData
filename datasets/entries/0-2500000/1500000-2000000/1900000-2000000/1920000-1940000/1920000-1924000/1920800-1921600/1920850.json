@@ -1,75 +1,113 @@
 {
-  "appid": 1920850,
-  "name": "Air Museum VR",
-  "developer": "Rubix Limited",
-  "publisher": "Rubix Limited",
-  "tags": {
-    "Flight": 46,
-    "Simulation": 41,
-    "Education": 40,
-    "Jet": 37,
-    "Military": 34,
-    "Stealth": 30,
-    "Walking Simulator": 26,
-    "VR": 25,
-    "Singleplayer": 19,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1920850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 6,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1920850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/03/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1920850/header.jpg?t=1647933829",
-  "genre": [
-    "Simulation"
-  ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 6,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 5
+      "recommendations_down": 5,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 1,
+      "recommendations_up": 0
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1920850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1920850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 2,
-  "Down 30 Days": 6,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1920850,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Simulation",
+  "developer": "Rubix Limited",
+  "discount": "0",
+  "genre": [
+    "Simulation"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1920850/header.jpg?t=1647933829",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Air Museum VR",
+  "negative": 6,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "1999",
+  "publisher": "Rubix Limited",
+  "release_date": "2022/03/22",
+  "required_age": 0,
+  "tags": {
+    "Education": 40,
+    "Flight": 46,
+    "Jet": 37,
+    "Military": 34,
+    "Simulation": 41,
+    "Singleplayer": 19,
+    "Stealth": 30,
+    "VR": 25,
+    "VR Only": 1,
+    "Walking Simulator": 26
+  },
+  "type": "game"
 }

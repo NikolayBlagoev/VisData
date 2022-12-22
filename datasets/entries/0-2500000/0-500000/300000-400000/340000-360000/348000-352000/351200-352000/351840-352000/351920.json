@@ -1,20 +1,201 @@
 {
-  "appid": 351920,
-  "name": "Crazy Machines 3",
-  "developer": "Fakt Software",
-  "publisher": "Daedalic Entertainment",
-  "tags": {
-    "Simulation": 64,
-    "Strategy": 62,
-    "Puzzle": 58,
-    "Physics": 56,
-    "Sandbox": 27,
-    "Singleplayer": 26,
-    "Multiplayer": 18,
-    "Casual": 14,
-    "Building": 13
+  "Average Playtime - 2 Weeks": {
+    "app_id": 351920,
+    "average_2weeks": 263,
+    "average_forever": 178,
+    "median_2weeks": 263,
+    "median_forever": 108
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 351920,
+    "average_2weeks": 263,
+    "average_forever": 178,
+    "median_2weeks": 263,
+    "median_forever": 108
+  },
+  "CCU Histogram": {
+    "2022-12-08": 96,
+    "2022-12-09": 85,
+    "2022-12-10": 54,
+    "2022-12-13": 47,
+    "2022-12-15": 48,
+    "2022-12-18": 50,
+    "2022-12-21": 47,
+    "2022-12-22": 49
+  },
+  "Completion": 42.099998474121094,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 35
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 351920,
+    "average_2weeks": 263,
+    "average_forever": 178,
+    "median_2weeks": 263,
+    "median_forever": 108
+  },
+  "Median Playtime - Forever": {
+    "app_id": 351920,
+    "average_2weeks": 263,
+    "average_forever": 178,
+    "median_2weeks": 263,
+    "median_forever": 108
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 74,
+  "User Score": -1,
+  "appid": 351920,
   "categories": [
     "Single-player",
     "Includes level editor",
@@ -23,183 +204,40 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 8324,
-  "negative": 456,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 21,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Polish, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/10/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1642456792",
+  "consensus_genre": "Simulation",
+  "developer": "Fakt Software",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 35,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 74,
-  "Down 30 Days": 4,
-  "Completion": 42.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1642456792",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Polish, Russian",
+  "name": "Crazy Machines 3",
+  "negative": 456,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 8324,
+  "price": "999",
+  "publisher": "Daedalic Entertainment",
+  "release_date": "2016/10/18",
+  "required_age": 0,
+  "tags": {
+    "Building": 13,
+    "Casual": 14,
+    "Multiplayer": 18,
+    "Physics": 56,
+    "Puzzle": 58,
+    "Sandbox": 27,
+    "Simulation": 64,
+    "Singleplayer": 26,
+    "Strategy": 62
+  },
+  "type": "game"
 }

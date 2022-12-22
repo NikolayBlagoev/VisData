@@ -1,66 +1,104 @@
 {
-  "appid": 1456870,
-  "name": "Stress Random",
-  "developer": "Your GG Project",
-  "publisher": "Your GG Project",
-  "tags": {
-    "Action": 214,
-    "Looter Shooter": 188,
-    "Top-Down": 184,
-    "Procedural Generation": 179,
-    "Gun Customization": 173,
-    "Character Customization": 163,
-    "Action RPG": 155,
-    "Singleplayer": 148,
-    "2D": 140,
-    "Hand-drawn": 131,
-    "RPG": 119,
-    "Shooter": 118,
-    "Top-Down Shooter": 106,
-    "Loot": 91,
-    "Dark Fantasy": 76,
-    "Cyberpunk": 60,
-    "Comedy": 43,
-    "Mars": 27,
-    "Casual": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1456870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1456870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1456870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1456870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1456870,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/11/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1456870/header.jpg?t=1606294836",
+  "consensus_genre": "Action",
+  "developer": "Your GG Project",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1456870/header.jpg?t=1606294836",
+  "initialprice": "99",
+  "languages": "English, Russian",
+  "name": "Stress Random",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Your GG Project",
+  "release_date": "2020/11/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 140,
+    "Action": 214,
+    "Action RPG": 155,
+    "Casual": 25,
+    "Character Customization": 163,
+    "Comedy": 43,
+    "Cyberpunk": 60,
+    "Dark Fantasy": 76,
+    "Gun Customization": 173,
+    "Hand-drawn": 131,
+    "Indie": 21,
+    "Loot": 91,
+    "Looter Shooter": 188,
+    "Mars": 27,
+    "Procedural Generation": 179,
+    "RPG": 119,
+    "Shooter": 118,
+    "Singleplayer": 148,
+    "Top-Down": 184,
+    "Top-Down Shooter": 106
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 516750,
-  "name": "My Summer Car",
-  "developer": "Amistech Games",
-  "publisher": "Amistech Games",
-  "tags": {
-    "Automobile Sim": 904,
-    "Simulation": 809,
-    "Driving": 742,
-    "Open World": 714,
-    "Survival": 577,
-    "Realistic": 554,
-    "Building": 511,
-    "First-Person": 495,
-    "Racing": 495,
-    "Singleplayer": 430,
-    "Early Access": 401,
-    "Funny": 381,
-    "Sandbox": 316,
-    "Difficult": 301,
-    "Perma Death": 294,
-    "Comedy": 292,
-    "Indie": 268,
-    "Adventure": 259,
-    "Puzzle": 210,
-    "Memes": 205
+  "Average Playtime - 2 Weeks": {
+    "app_id": 516750,
+    "average_2weeks": 278,
+    "average_forever": 2609,
+    "median_2weeks": 413,
+    "median_forever": 1187
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 516750,
+    "average_2weeks": 278,
+    "average_forever": 2609,
+    "median_2weeks": 413,
+    "median_forever": 1187
+  },
+  "CCU Histogram": {
+    "2022-12-08": 1593,
+    "2022-12-09": 1462,
+    "2022-12-10": 1604,
+    "2022-12-13": 1637,
+    "2022-12-15": 1748,
+    "2022-12-18": 1895,
+    "2022-12-21": 2079,
+    "2022-12-22": 2172
+  },
+  "Completion": 35.5,
+  "Down 30 Days": 46,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 7,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 84
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 57
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 49
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 28
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 516750,
+    "average_2weeks": 278,
+    "average_forever": 2609,
+    "median_2weeks": 413,
+    "median_forever": 1187
+  },
+  "Median Playtime - Forever": {
+    "app_id": 516750,
+    "average_2weeks": 278,
+    "average_forever": 2609,
+    "median_2weeks": 413,
+    "median_forever": 1187
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 892,
+  "User Score": -1,
+  "appid": 516750,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,185 +203,53 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 43712,
-  "negative": 2883,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 1419,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/10/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/516750/header.jpg?t=1603195332",
+  "consensus_genre": "Simulation",
+  "developer": "Amistech Games",
+  "discount": "0",
   "genre": [
     "Indie",
     "Racing",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 29,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 21,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 17,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 31,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 28,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 19,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 46,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 84,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 58,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 57,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 49,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 34,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 36,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 892,
-  "Down 30 Days": 46,
-  "Completion": 35.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/516750/header.jpg?t=1603195332",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "My Summer Car",
+  "negative": 2883,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 43712,
+  "price": "1499",
+  "publisher": "Amistech Games",
+  "release_date": "2016/10/24",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 259,
+    "Automobile Sim": 904,
+    "Building": 511,
+    "Comedy": 292,
+    "Difficult": 301,
+    "Driving": 742,
+    "Early Access": 401,
+    "First-Person": 495,
+    "Funny": 381,
+    "Indie": 268,
+    "Memes": 205,
+    "Open World": 714,
+    "Perma Death": 294,
+    "Puzzle": 210,
+    "Racing": 495,
+    "Realistic": 554,
+    "Sandbox": 316,
+    "Simulation": 809,
+    "Singleplayer": 430,
+    "Survival": 577
+  },
+  "type": "game"
 }

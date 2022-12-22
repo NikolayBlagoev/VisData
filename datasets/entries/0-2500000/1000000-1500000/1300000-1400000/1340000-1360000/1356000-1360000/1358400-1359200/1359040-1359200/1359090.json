@@ -1,31 +1,201 @@
 {
-  "appid": 1359090,
-  "name": "Zero Hour",
-  "developer": "M7 Productions, Attrito",
-  "publisher": "Attrito, M7 Productions",
-  "tags": {
-    "Tactical": 320,
-    "Shooter": 291,
-    "FPS": 264,
-    "Realistic": 252,
-    "Action": 235,
-    "Multiplayer": 233,
-    "Online Co-Op": 187,
-    "First-Person": 186,
-    "Military": 181,
-    "PvP": 146,
-    "Team-Based": 142,
-    "Strategy": 128,
-    "Immersive Sim": 120,
-    "Simulation": 118,
-    "Stealth": 112,
-    "3D": 111,
-    "Combat": 109,
-    "PvE": 104,
-    "Violent": 102,
-    "Early Access": 95
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1359090,
+    "average_2weeks": 35,
+    "average_forever": 399,
+    "median_2weeks": 37,
+    "median_forever": 216
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1359090,
+    "average_2weeks": 35,
+    "average_forever": 399,
+    "median_2weeks": 37,
+    "median_forever": 216
+  },
+  "CCU Histogram": {
+    "2022-12-08": 127,
+    "2022-12-09": 114,
+    "2022-12-10": 134,
+    "2022-12-13": 117,
+    "2022-12-15": 117,
+    "2022-12-18": 140,
+    "2022-12-21": 98,
+    "2022-12-22": 125
+  },
+  "Completion": 83.5,
+  "Down 30 Days": 54,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 5,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 3,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 5,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1359090,
+    "average_2weeks": 35,
+    "average_forever": 399,
+    "median_2weeks": 37,
+    "median_forever": 216
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1359090,
+    "average_2weeks": 35,
+    "average_forever": 399,
+    "median_2weeks": 37,
+    "median_forever": 216
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 301,
+  "User Score": -1,
+  "appid": 1359090,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,185 +208,53 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 18961,
-  "negative": 4572,
-  "price": "599",
-  "initialprice": "1199",
-  "discount": "50",
   "ccu": 379,
-  "languages": "English, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/08/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1359090/header.jpg?t=1662566436",
+  "consensus_genre": "Action",
+  "developer": "M7 Productions, Attrito",
+  "discount": "50",
   "genre": [
     "Action",
     "Simulation",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 17,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 21,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 8,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 11,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 301,
-  "Down 30 Days": 54,
-  "Completion": 83.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1359090/header.jpg?t=1662566436",
+  "initialprice": "1199",
+  "languages": "English, French",
+  "name": "Zero Hour",
+  "negative": 4572,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 18961,
+  "price": "599",
+  "publisher": "Attrito, M7 Productions",
+  "release_date": "2020/08/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 111,
+    "Action": 235,
+    "Combat": 109,
+    "Early Access": 95,
+    "FPS": 264,
+    "First-Person": 186,
+    "Immersive Sim": 120,
+    "Military": 181,
+    "Multiplayer": 233,
+    "Online Co-Op": 187,
+    "PvE": 104,
+    "PvP": 146,
+    "Realistic": 252,
+    "Shooter": 291,
+    "Simulation": 118,
+    "Stealth": 112,
+    "Strategy": 128,
+    "Tactical": 320,
+    "Team-Based": 142,
+    "Violent": 102
+  },
+  "type": "game"
 }

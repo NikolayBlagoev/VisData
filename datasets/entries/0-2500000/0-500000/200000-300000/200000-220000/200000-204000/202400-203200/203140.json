@@ -1,31 +1,201 @@
 {
-  "appid": 203140,
-  "name": "Hitman: Absolution",
-  "developer": "Io-Interactive A/S",
-  "publisher": "Io-Interactive A/S",
-  "tags": {
-    "Stealth": 1085,
-    "Action": 777,
-    "Third Person": 475,
-    "Assassin": 463,
-    "Singleplayer": 452,
-    "Third-Person Shooter": 357,
-    "Tactical": 316,
-    "Shooter": 242,
-    "Replay Value": 225,
-    "Crime": 207,
-    "Story Rich": 193,
-    "Cinematic": 182,
-    "Multiplayer": 179,
-    "Difficult": 165,
-    "Atmospheric": 159,
-    "Adventure": 141,
-    "Strategy": 134,
-    "Score Attack": 97,
-    "Linear": 95,
-    "Controller": 77
+  "Average Playtime - 2 Weeks": {
+    "app_id": 203140,
+    "average_2weeks": 45,
+    "average_forever": 887,
+    "median_2weeks": 45,
+    "median_forever": 522
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 203140,
+    "average_2weeks": 45,
+    "average_forever": 887,
+    "median_2weeks": 45,
+    "median_forever": 522
+  },
+  "CCU Histogram": {
+    "2022-12-08": 305,
+    "2022-12-09": 287,
+    "2022-12-10": 257,
+    "2022-12-13": 340,
+    "2022-12-15": 279,
+    "2022-12-18": 260,
+    "2022-12-21": 273,
+    "2022-12-22": 256
+  },
+  "Completion": 54.29999923706055,
+  "Down 30 Days": 17,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 203140,
+    "average_2weeks": 45,
+    "average_forever": 887,
+    "median_2weeks": 45,
+    "median_forever": 522
+  },
+  "Median Playtime - Forever": {
+    "app_id": 203140,
+    "average_2weeks": 45,
+    "average_forever": 887,
+    "median_2weeks": 45,
+    "median_forever": 522
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 331,
+  "User Score": -1,
+  "appid": 203140,
   "categories": [
     "Single-player",
     "Partial Controller Support",
@@ -33,182 +203,50 @@
     "Steam Cloud",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 36095,
-  "negative": 3318,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 317,
-  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2012/11/19",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203140/header.jpg?t=1667311063",
+  "consensus_genre": "Action",
+  "developer": "Io-Interactive A/S",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 38,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 331,
-  "Down 30 Days": 17,
-  "Completion": 54.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203140/header.jpg?t=1667311063",
+  "initialprice": "1999",
+  "languages": "English, French, German, Italian, Spanish - Spain, Polish, Russian, Turkish",
+  "name": "Hitman: Absolution",
+  "negative": 3318,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 36095,
+  "price": "1999",
+  "publisher": "Io-Interactive A/S",
+  "release_date": "2012/11/19",
+  "required_age": "15",
+  "tags": {
+    "Action": 777,
+    "Adventure": 141,
+    "Assassin": 463,
+    "Atmospheric": 159,
+    "Cinematic": 182,
+    "Controller": 77,
+    "Crime": 207,
+    "Difficult": 165,
+    "Linear": 95,
+    "Multiplayer": 179,
+    "Replay Value": 225,
+    "Score Attack": 97,
+    "Shooter": 242,
+    "Singleplayer": 452,
+    "Stealth": 1085,
+    "Story Rich": 193,
+    "Strategy": 134,
+    "Tactical": 316,
+    "Third Person": 475,
+    "Third-Person Shooter": 357
+  },
+  "type": "game"
 }

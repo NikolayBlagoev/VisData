@@ -1,31 +1,66 @@
 {
-  "appid": 1580040,
-  "name": "Trial of Two",
-  "developer": "Oilcatz",
-  "publisher": "Oilcatz",
-  "tags": {
-    "Action": 223,
-    "3D Fighter": 196,
-    "Beat 'em up": 195,
-    "Local Co-Op": 192,
-    "Action Roguelike": 184,
-    "Dungeon Crawler": 174,
-    "Rogue-lite": 168,
-    "3D": 165,
-    "Cartoony": 162,
-    "Colorful": 155,
-    "Split Screen": 153,
-    "Stylized": 145,
-    "Third Person": 141,
-    "Voxel": 136,
-    "Team-Based": 128,
-    "Boxing": 123,
-    "Family Friendly": 119,
-    "Physics": 109,
-    "Martial Arts": 101,
-    "Procedural Generation": 99
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1580040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1580040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1580040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1580040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1580040,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,47 +71,50 @@
     "Shared/Split Screen Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1580040/header.jpg?t=1642429278",
+  "consensus_genre": "Action",
+  "developer": "Oilcatz",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1580040/header.jpg?t=1642429278",
+  "initialprice": "899",
+  "languages": "English",
+  "name": "Trial of Two",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "899",
+  "publisher": "Oilcatz",
+  "release_date": "2021/12/23",
+  "required_age": 0,
+  "tags": {
+    "3D": 165,
+    "3D Fighter": 196,
+    "Action": 223,
+    "Action Roguelike": 184,
+    "Beat 'em up": 195,
+    "Boxing": 123,
+    "Cartoony": 162,
+    "Colorful": 155,
+    "Dungeon Crawler": 174,
+    "Family Friendly": 119,
+    "Local Co-Op": 192,
+    "Martial Arts": 101,
+    "Physics": 109,
+    "Procedural Generation": 99,
+    "Rogue-lite": 168,
+    "Split Screen": 153,
+    "Stylized": 145,
+    "Team-Based": 128,
+    "Third Person": 141,
+    "Voxel": 136
+  },
+  "type": "game"
 }

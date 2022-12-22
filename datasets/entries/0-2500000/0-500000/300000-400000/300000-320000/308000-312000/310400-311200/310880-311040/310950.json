@@ -1,31 +1,201 @@
 {
-  "appid": 310950,
-  "name": "Street Fighter V",
-  "developer": "Capcom",
-  "publisher": "Capcom",
-  "tags": {
-    "Fighting": 805,
-    "Action": 404,
-    "2D Fighter": 380,
-    "Multiplayer": 371,
-    "Competitive": 323,
-    "Arcade": 299,
-    "Local Multiplayer": 248,
-    "e-sports": 176,
-    "Anime": 135,
-    "2.5D": 125,
-    "Controller": 124,
-    "Singleplayer": 92,
-    "Great Soundtrack": 89,
-    "Classic": 71,
-    "2D": 61,
-    "Nudity": 46,
-    "Female Protagonist": 36,
-    "Early Access": 34,
-    "Beat 'em up": 21,
-    "Funny": 18
+  "Average Playtime - 2 Weeks": {
+    "app_id": 310950,
+    "average_2weeks": 685,
+    "average_forever": 3390,
+    "median_2weeks": 1021,
+    "median_forever": 564
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 310950,
+    "average_2weeks": 685,
+    "average_forever": 3390,
+    "median_2weeks": 1021,
+    "median_forever": 564
+  },
+  "CCU Histogram": {
+    "2022-12-08": 2353,
+    "2022-12-09": 2195,
+    "2022-12-10": 2278,
+    "2022-12-13": 1910,
+    "2022-12-15": 2490,
+    "2022-12-18": 1645,
+    "2022-12-21": 1887,
+    "2022-12-22": 2121
+  },
+  "Completion": 49.89999961853027,
+  "Down 30 Days": 41,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 2,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 310950,
+    "average_2weeks": 685,
+    "average_forever": 3390,
+    "median_2weeks": 1021,
+    "median_forever": 564
+  },
+  "Median Playtime - Forever": {
+    "app_id": 310950,
+    "average_2weeks": 685,
+    "average_forever": 3390,
+    "median_2weeks": 1021,
+    "median_forever": 564
+  },
+  "Meta Score": "74",
+  "Rating": "ESRB T",
+  "Up 30 Days": 195,
+  "User Score": -1,
+  "appid": 310950,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -37,182 +207,50 @@
     "Remote Play on Tablet",
     "Remote Play on TV"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 25807,
-  "negative": 13548,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 2170,
-  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2016/02/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310950/header.jpg?t=1662087954",
+  "consensus_genre": "Action",
+  "developer": "Capcom",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "74",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 23,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 13,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    }
-  ],
-  "Up 30 Days": 195,
-  "Down 30 Days": 41,
-  "Completion": 49.89999961853027,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/310950/header.jpg?t=1662087954",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America",
+  "name": "Street Fighter V",
+  "negative": 13548,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 25807,
+  "price": "1999",
+  "publisher": "Capcom",
+  "release_date": "2016/02/15",
+  "required_age": 0,
+  "tags": {
+    "2.5D": 125,
+    "2D": 61,
+    "2D Fighter": 380,
+    "Action": 404,
+    "Anime": 135,
+    "Arcade": 299,
+    "Beat 'em up": 21,
+    "Classic": 71,
+    "Competitive": 323,
+    "Controller": 124,
+    "Early Access": 34,
+    "Female Protagonist": 36,
+    "Fighting": 805,
+    "Funny": 18,
+    "Great Soundtrack": 89,
+    "Local Multiplayer": 248,
+    "Multiplayer": 371,
+    "Nudity": 46,
+    "Singleplayer": 92,
+    "e-sports": 176
+  },
+  "type": "game"
 }

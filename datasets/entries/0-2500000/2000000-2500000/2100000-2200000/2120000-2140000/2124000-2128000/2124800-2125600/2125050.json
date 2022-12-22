@@ -1,92 +1,130 @@
 {
-  "appid": 2125050,
-  "name": "Out of the Cube",
-  "developer": "Pudding Studio",
-  "publisher": "Pudding Studio",
-  "tags": {
-    "Casual": 214,
-    "Puzzle-Platformer": 188,
-    "Colorful": 184,
-    "Mouse only": 179,
-    "8-bit Music": 173,
-    "Pixel Graphics": 163,
-    "Retro": 156,
-    "Collectathon": 148,
-    "Silent Protagonist": 140,
-    "Cute": 131,
-    "Puzzle": 120,
-    "Family Friendly": 118,
-    "Minimalist": 105,
-    "Physics": 91,
-    "1980s": 76,
-    "Platformer": 60,
-    "2D": 43,
-    "Singleplayer": 25,
-    "Strategy": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2125050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 2125050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 59.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2125050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2125050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 12,
+  "User Score": -1,
+  "appid": 2125050,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 12,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2125050/header.jpg?t=1666660993",
+  "consensus_genre": "Casual",
+  "developer": "Pudding Studio",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 12,
-  "Down 30 Days": 0,
-  "Completion": 59.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2125050/header.jpg?t=1666660993",
+  "initialprice": "99",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Out of the Cube",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 12,
+  "price": "99",
+  "publisher": "Pudding Studio",
+  "release_date": "2022/10/21",
+  "required_age": 0,
+  "tags": {
+    "1980s": 76,
+    "2D": 43,
+    "8-bit Music": 173,
+    "Casual": 214,
+    "Collectathon": 148,
+    "Colorful": 184,
+    "Cute": 131,
+    "Family Friendly": 118,
+    "Indie": 21,
+    "Minimalist": 105,
+    "Mouse only": 179,
+    "Physics": 91,
+    "Pixel Graphics": 163,
+    "Platformer": 60,
+    "Puzzle": 120,
+    "Puzzle-Platformer": 188,
+    "Retro": 156,
+    "Silent Protagonist": 140,
+    "Singleplayer": 25,
+    "Strategy": 25
+  },
+  "type": "game"
 }

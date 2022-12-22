@@ -1,90 +1,128 @@
 {
-  "appid": 2169050,
-  "name": "Never Rain",
-  "developer": "Carl Lyon",
-  "publisher": "Carl Lyon",
-  "tags": {
-    "Horror": 96,
-    "Atmospheric": 90,
-    "Mystery": 87,
-    "Medieval": 83,
-    "Exploration": 81,
-    "Dark": 75,
-    "Survival Horror": 73,
-    "Psychological Horror": 71,
-    "Investigation": 68,
-    "Historical": 66,
-    "Open World": 64,
-    "Hidden Object": 62,
-    "First-Person": 61,
-    "Realistic": 58,
-    "Singleplayer": 57,
-    "Thriller": 54,
-    "Action-Adventure": 53,
-    "Casual": 50,
-    "3D": 49,
-    "Indie": 47
+  "Average Playtime - 2 Weeks": {
+    "app_id": 2169050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 1,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 2169050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/10/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2169050/header.jpg?t=1667577477",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 0
     },
     {
       "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 2169050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 2169050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 2169050,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Indie",
+  "developer": "Carl Lyon",
+  "discount": "0",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2169050/header.jpg?t=1667577477",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Never Rain",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "599",
+  "publisher": "Carl Lyon",
+  "release_date": "2022/10/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 49,
+    "Action-Adventure": 53,
+    "Atmospheric": 90,
+    "Casual": 50,
+    "Dark": 75,
+    "Exploration": 81,
+    "First-Person": 61,
+    "Hidden Object": 62,
+    "Historical": 66,
+    "Horror": 96,
+    "Indie": 47,
+    "Investigation": 68,
+    "Medieval": 83,
+    "Mystery": 87,
+    "Open World": 64,
+    "Psychological Horror": 71,
+    "Realistic": 58,
+    "Singleplayer": 57,
+    "Survival Horror": 73,
+    "Thriller": 54
+  },
+  "type": "game"
 }

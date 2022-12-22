@@ -1,31 +1,201 @@
 {
-  "appid": 70300,
-  "name": "VVVVVV",
-  "developer": "Terry Cavanagh",
-  "publisher": "Terry Cavanagh",
-  "tags": {
-    "Pixel Graphics": 841,
-    "Precision Platformer": 692,
-    "Platformer": 675,
-    "Indie": 617,
-    "2D Platformer": 583,
-    "Great Soundtrack": 501,
-    "Difficult": 481,
-    "Retro": 413,
-    "2D": 378,
-    "Singleplayer": 303,
-    "Exploration": 246,
-    "Action": 221,
-    "Sci-fi": 141,
-    "Adventure": 128,
-    "Short": 117,
-    "Metroidvania": 100,
-    "Minimalist": 98,
-    "Puzzle": 79,
-    "Open World": 73,
-    "Space": 70
+  "Average Playtime - 2 Weeks": {
+    "app_id": 70300,
+    "average_2weeks": 0,
+    "average_forever": 198,
+    "median_2weeks": 0,
+    "median_forever": 93
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 70300,
+    "average_2weeks": 0,
+    "average_forever": 198,
+    "median_2weeks": 0,
+    "median_forever": 93
+  },
+  "CCU Histogram": {
+    "2022-12-08": 14,
+    "2022-12-09": 12,
+    "2022-12-10": 16,
+    "2022-12-13": 16,
+    "2022-12-15": 14,
+    "2022-12-18": 15,
+    "2022-12-21": 13,
+    "2022-12-22": 14
+  },
+  "Completion": 16.100000381469727,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 70300,
+    "average_2weeks": 0,
+    "average_forever": 198,
+    "median_2weeks": 0,
+    "median_forever": 93
+  },
+  "Median Playtime - Forever": {
+    "app_id": 70300,
+    "average_2weeks": 0,
+    "average_forever": 198,
+    "median_2weeks": 0,
+    "median_forever": 93
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 36,
+  "User Score": -1,
+  "appid": 70300,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,183 +203,51 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 8586,
-  "negative": 331,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 17,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2010/09/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/70300/header.jpg?t=1630337860",
+  "consensus_genre": "Indie",
+  "developer": "Terry Cavanagh",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 36,
-  "Down 30 Days": 0,
-  "Completion": 16.100000381469727,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/70300/header.jpg?t=1630337860",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "VVVVVV",
+  "negative": 331,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 8586,
+  "price": "499",
+  "publisher": "Terry Cavanagh",
+  "release_date": "2010/09/7",
+  "required_age": 0,
+  "tags": {
+    "2D": 378,
+    "2D Platformer": 583,
+    "Action": 221,
+    "Adventure": 128,
+    "Difficult": 481,
+    "Exploration": 246,
+    "Great Soundtrack": 501,
+    "Indie": 617,
+    "Metroidvania": 100,
+    "Minimalist": 98,
+    "Open World": 73,
+    "Pixel Graphics": 841,
+    "Platformer": 675,
+    "Precision Platformer": 692,
+    "Puzzle": 79,
+    "Retro": 413,
+    "Sci-fi": 141,
+    "Short": 117,
+    "Singleplayer": 303,
+    "Space": 70
+  },
+  "type": "game"
 }

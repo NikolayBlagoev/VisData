@@ -1,62 +1,100 @@
 {
-  "appid": 1441010,
-  "name": "The Pacifist's Great and Final Nightmare",
-  "developer": "J. J. A",
-  "publisher": "J. J. A",
-  "tags": {
-    "Horror": 49,
-    "Action": 48,
-    "3D Platformer": 43,
-    "Adventure": 40,
-    "Platformer": 40,
-    "3D": 37,
-    "First-Person": 35,
-    "Indie": 31,
-    "Puzzle": 27,
-    "Artificial Intelligence": 23,
-    "Physics": 22,
-    "Dark": 18,
-    "Singleplayer": 16
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1441010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1441010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": 54.099998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1441010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1441010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1441010,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/10/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1441010/header.jpg?t=1656527256",
+  "consensus_genre": "Action",
+  "developer": "J. J. A",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 54.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1441010/header.jpg?t=1656527256",
+  "initialprice": "0",
+  "languages": "English",
+  "name": "The Pacifist's Great and Final Nightmare",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "0",
+  "publisher": "J. J. A",
+  "release_date": "2020/10/29",
+  "required_age": 0,
+  "tags": {
+    "3D": 37,
+    "3D Platformer": 43,
+    "Action": 48,
+    "Adventure": 40,
+    "Artificial Intelligence": 23,
+    "Dark": 18,
+    "First-Person": 35,
+    "Horror": 49,
+    "Indie": 31,
+    "Physics": 22,
+    "Platformer": 40,
+    "Puzzle": 27,
+    "Singleplayer": 16
+  },
+  "type": "game"
 }

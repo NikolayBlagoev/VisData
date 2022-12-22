@@ -1,60 +1,98 @@
 {
-  "appid": 1965050,
-  "name": "Mortificare",
-  "developer": "ira3ck, lio121",
-  "publisher": "DC Waifu Dynamite",
-  "tags": {
-    "Casual": 51,
-    "Action-Adventure": 46,
-    "Arcade": 42,
-    "Precision Platformer": 39,
-    "2D": 36,
-    "3D": 30,
-    "Cartoony": 28,
-    "Top-Down": 26,
-    "Pixel Graphics": 24,
-    "Fantasy": 22,
-    "Indie": 21,
-    "Magic": 20,
-    "Survival": 19,
-    "Grid-Based Movement": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1965050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
+  "Average Playtime - Forever": {
+    "app_id": 1965050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
   },
-  "release_date": "2022/05/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1965050/header.jpg?t=1653071393",
-  "genre": [
-    "Indie"
-  ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-13": 0,
+    "2022-12-15": 0,
+    "2022-12-18": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
+      "recommendations_down": 0,
+      "recommendations_up": 1
     }
   ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1965050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1965050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "median_2weeks": 0,
+    "median_forever": 0
+  },
+  "Meta Score": -1,
+  "Rating": "?",
   "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "User Score": -1,
+  "appid": 1965050,
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Indie",
+  "developer": "ira3ck, lio121",
+  "discount": "0",
+  "genre": [
+    "Indie"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1965050/header.jpg?t=1653071393",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Mortificare",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "DC Waifu Dynamite",
+  "release_date": "2022/05/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 36,
+    "3D": 30,
+    "Action-Adventure": 46,
+    "Arcade": 42,
+    "Cartoony": 28,
+    "Casual": 51,
+    "Fantasy": 22,
+    "Grid-Based Movement": 16,
+    "Indie": 21,
+    "Magic": 20,
+    "Pixel Graphics": 24,
+    "Precision Platformer": 39,
+    "Singleplayer": 14,
+    "Survival": 19,
+    "Top-Down": 26
+  },
+  "type": "game"
 }

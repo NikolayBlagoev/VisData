@@ -1,212 +1,250 @@
 {
-  "appid": 1392820,
-  "name": "Milk inside a bag of milk inside a bag of milk",
-  "developer": "Nikita Kryukov",
-  "publisher": "Missing Calm",
-  "tags": {
-    "Visual Novel": 295,
-    "Horror": 241,
-    "Psychological Horror": 234,
-    "Experimental": 230,
-    "Adventure": 209,
-    "Abstract": 208,
-    "Interactive Fiction": 197,
-    "Psychological": 186,
-    "Text-Based": 179,
-    "Anime": 161,
-    "Drama": 129,
-    "Retro": 116,
-    "Philosophical": 110,
-    "Emotional": 98,
-    "Story Rich": 72,
-    "LGBTQ+": 70,
-    "Indie": 68,
-    "Singleplayer": 68,
-    "Pixel Graphics": 63,
-    "Perma Death": 34
+  "Average Playtime - 2 Weeks": {
+    "app_id": 1392820,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 25
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 1392820,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 25
+  },
+  "CCU Histogram": {
+    "2022-12-08": 8,
+    "2022-12-09": 10,
+    "2022-12-10": 13,
+    "2022-12-13": 13,
+    "2022-12-15": 10,
+    "2022-12-18": 12,
+    "2022-12-21": 11,
+    "2022-12-22": 10
+  },
+  "Completion": 95.80000305175781,
+  "Down 30 Days": 9,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 1392820,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 25
+  },
+  "Median Playtime - Forever": {
+    "app_id": 1392820,
+    "average_2weeks": 0,
+    "average_forever": 22,
+    "median_2weeks": 0,
+    "median_forever": 25
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 407,
+  "User Score": -1,
+  "appid": 1392820,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 13563,
-  "negative": 389,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 11,
-  "languages": "English, Russian, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Polish, Turkish, French, Italian, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/08/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1392820/header.jpg?t=1658470407",
+  "consensus_genre": "Adventure",
+  "developer": "Nikita Kryukov",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 27,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 17,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 407,
-  "Down 30 Days": 9,
-  "Completion": 95.80000305175781,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1392820/header.jpg?t=1658470407",
+  "initialprice": "99",
+  "languages": "English, Russian, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Polish, Turkish, French, Italian, Japanese",
+  "name": "Milk inside a bag of milk inside a bag of milk",
+  "negative": 389,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 13563,
+  "price": "99",
+  "publisher": "Missing Calm",
+  "release_date": "2020/08/26",
+  "required_age": 0,
+  "tags": {
+    "Abstract": 208,
+    "Adventure": 209,
+    "Anime": 161,
+    "Drama": 129,
+    "Emotional": 98,
+    "Experimental": 230,
+    "Horror": 241,
+    "Indie": 68,
+    "Interactive Fiction": 197,
+    "LGBTQ+": 70,
+    "Perma Death": 34,
+    "Philosophical": 110,
+    "Pixel Graphics": 63,
+    "Psychological": 186,
+    "Psychological Horror": 234,
+    "Retro": 116,
+    "Singleplayer": 68,
+    "Story Rich": 72,
+    "Text-Based": 179,
+    "Visual Novel": 295
+  },
+  "type": "game"
 }

@@ -1,31 +1,201 @@
 {
-  "appid": 346110,
-  "name": "ARK: Survival Evolved",
-  "developer": "Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",
-  "publisher": "Studio Wildcard",
-  "tags": {
-    "Open World Survival Craft": 12302,
-    "Survival": 11589,
-    "Open World": 9014,
-    "Multiplayer": 8943,
-    "Dinosaurs": 8528,
-    "Crafting": 7475,
-    "Building": 7116,
-    "Adventure": 6303,
-    "Base-Building": 5631,
-    "Co-op": 5161,
-    "Action": 4705,
-    "First-Person": 4288,
-    "Sandbox": 4228,
-    "Massively Multiplayer": 4079,
-    "Singleplayer": 3795,
-    "Early Access": 3467,
-    "RPG": 3087,
-    "Dragons": 3058,
-    "Sci-fi": 2489,
-    "Indie": 2052
+  "Average Playtime - 2 Weeks": {
+    "app_id": 346110,
+    "average_2weeks": 1112,
+    "average_forever": 10717,
+    "median_2weeks": 773,
+    "median_forever": 1048
   },
-  "type": "game",
+  "Average Playtime - Forever": {
+    "app_id": 346110,
+    "average_2weeks": 1112,
+    "average_forever": 10717,
+    "median_2weeks": 773,
+    "median_forever": 1048
+  },
+  "CCU Histogram": {
+    "2022-12-08": 67424,
+    "2022-12-09": 66257,
+    "2022-12-10": 64231,
+    "2022-12-13": 78296,
+    "2022-12-15": 54358,
+    "2022-12-18": 62699,
+    "2022-12-21": 63758,
+    "2022-12-22": 62096
+  },
+  "Completion": 51.29999923706055,
+  "Down 30 Days": 420,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 9,
+      "recommendations_up": 85
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 9,
+      "recommendations_up": 80
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 14,
+      "recommendations_up": 87
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 21,
+      "recommendations_up": 149
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 11,
+      "recommendations_up": 196
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 13,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 10,
+      "recommendations_up": 107
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 12,
+      "recommendations_up": 120
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 13,
+      "recommendations_up": 133
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 14,
+      "recommendations_up": 143
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 20,
+      "recommendations_up": 160
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 16,
+      "recommendations_up": 162
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 13,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 9,
+      "recommendations_up": 114
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 9,
+      "recommendations_up": 90
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 8,
+      "recommendations_up": 114
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 8,
+      "recommendations_up": 102
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 6,
+      "recommendations_up": 143
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 10,
+      "recommendations_up": 124
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 18,
+      "recommendations_up": 98
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 14,
+      "recommendations_up": 243
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 17,
+      "recommendations_up": 352
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 22,
+      "recommendations_up": 249
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 25,
+      "recommendations_up": 199
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 23,
+      "recommendations_up": 265
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 21,
+      "recommendations_up": 291
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 15,
+      "recommendations_up": 217
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 21,
+      "recommendations_up": 204
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 19,
+      "recommendations_up": 144
+    }
+  ],
+  "Median Playtime - 2 Weeks": {
+    "app_id": 346110,
+    "average_2weeks": 1112,
+    "average_forever": 10717,
+    "median_2weeks": 773,
+    "median_forever": 1048
+  },
+  "Median Playtime - Forever": {
+    "app_id": 346110,
+    "average_2weeks": 1112,
+    "average_forever": 10717,
+    "median_2weeks": 773,
+    "median_forever": 1048
+  },
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4584,
+  "User Score": -1,
+  "appid": 346110,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -39,22 +209,10 @@
     "Steam Workshop",
     "Remote Play on Tablet"
   ],
-  "owners": "10,000,000 .. 20,000,000",
-  "positive": 481318,
-  "negative": 101298,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 70578,
-  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Portuguese - Brazil, Simplified Chinese, Czech, Danish, Dutch, Hungarian, Polish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Finnish, Japanese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2017/08/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/346110/header.jpg?t=1667429152",
+  "consensus_genre": "Adventure",
+  "developer": "Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -62,163 +220,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 85,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 80,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 87,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 149,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 196,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 105,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 107,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 120,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 133,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 143,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 160,
-      "recommendations_down": 20
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 162,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 108,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 114,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 90,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 114,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 102,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 143,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 124,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 98,
-      "recommendations_down": 18
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 243,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 352,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 249,
-      "recommendations_down": 22
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 199,
-      "recommendations_down": 25
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 265,
-      "recommendations_down": 23
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 291,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 217,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 204,
-      "recommendations_down": 21
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 144,
-      "recommendations_down": 19
-    }
-  ],
-  "Up 30 Days": 4584,
-  "Down 30 Days": 420,
-  "Completion": 51.29999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/346110/header.jpg?t=1667429152",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Russian, Portuguese - Brazil, Simplified Chinese, Czech, Danish, Dutch, Hungarian, Polish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Finnish, Japanese, Korean",
+  "name": "ARK: Survival Evolved",
+  "negative": 101298,
+  "owners": "10,000,000 .. 20,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 481318,
+  "price": "1999",
+  "publisher": "Studio Wildcard",
+  "release_date": "2017/08/27",
+  "required_age": 0,
+  "tags": {
+    "Action": 4705,
+    "Adventure": 6303,
+    "Base-Building": 5631,
+    "Building": 7116,
+    "Co-op": 5161,
+    "Crafting": 7475,
+    "Dinosaurs": 8528,
+    "Dragons": 3058,
+    "Early Access": 3467,
+    "First-Person": 4288,
+    "Indie": 2052,
+    "Massively Multiplayer": 4079,
+    "Multiplayer": 8943,
+    "Open World": 9014,
+    "Open World Survival Craft": 12302,
+    "RPG": 3087,
+    "Sandbox": 4228,
+    "Sci-fi": 2489,
+    "Singleplayer": 3795,
+    "Survival": 11589
+  },
+  "type": "game"
 }
