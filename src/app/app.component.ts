@@ -6,6 +6,8 @@ import initialGame from "../assets/initial_game.json";
 import {KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
 
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -53,7 +55,7 @@ export class AppComponent implements OnInit {
     this.currentGenre = newGenreSelection;
   }
 
-  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
+  supportToIconName(isSupported: boolean) { return isSupported ? "check" : "close"; }
 
   test() {console.log("test");}
 

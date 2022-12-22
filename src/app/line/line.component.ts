@@ -12,6 +12,8 @@ export class LineComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
   private svg;
+  @Input() height: number  = 500;
+  @Input() width: number = 900;
   private margin = 120;
   private h = 500;
   private w = 900;
@@ -24,6 +26,8 @@ export class LineComponent implements AfterViewInit {
   }
 
   ngAfterViewInit(): void {
+    this.w = this.width - (this.margin * 2);
+    this.h = this.height - (this.margin * 2);
     this.createSvg();
     this.drawLine(this.dset, 1500);
 
@@ -36,7 +40,7 @@ export class LineComponent implements AfterViewInit {
       .attr("height", this.h + (this.margin * 2))
       .append("g")
       .style("user-select", "none").attr("transform",
-        "translate(" + this.margin + "," + this.margin + ")");
+        "translate(" + this.margin + ",60)");
   }
 
   private drawLine(data_in: LineDataIn[], initial_likes: number): void {
@@ -55,12 +59,12 @@ export class LineComponent implements AfterViewInit {
       .range([0, this.w])
       .domain([min_el, max_el]);
     this.svg.append("g")
-      .attr("transform", "translate(0," + (this.h - 10) + ")")
+      .attr("transform", "translate(0," + (this.h ) + ")")
       .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y %H:%M")).selectAll("text")
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
-      .domain([0, data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
+      .domain([data.reduce((acc, e1) => acc = acc < e1.value ? acc : e1.value - 500, 0), data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
       .range([this.h, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));

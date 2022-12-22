@@ -44,23 +44,27 @@ export class BarComponent implements AfterViewInit {
   
   @Input() instanceId!: string;
   private svg;
-  private margin = 80;
-  private width = 1200 - (this.margin * 2);
-  private height = 600 - (this.margin * 4);
+  @Input()  margin: number = 80;
+  @Input()  width: number = 600;
+  @Input()  height: number = 400;
   
   // Control width, height, margin
   public setValues(width, height, margin): void {
     this.margin = margin;
     this.width = width - (this.margin * 2);
-    this.height = height - (this.margin * 4);
+    this.height = height - (this.margin * 2);
   }
 
   public make_with_data(data: BarData[], highlighted: string[]){
+    
     this.createSvg();
     this.drawBars(data, highlighted);
   }
   
   ngAfterViewInit(): void {
+    
+    this.width = this.width - (this.margin * 2);
+    this.height = this.height - (this.margin * 2);
     this.createSvg();
     this.drawBars(this.data, ["Indie", "Strategy"]);
   }
@@ -69,9 +73,9 @@ export class BarComponent implements AfterViewInit {
     this.svg = d3.select("figure#" + this.instanceId)
     .append("svg")
     .attr("width", this.width + (this.margin * 2))
-    .attr("height", this.height + (this.margin * 4))
+    .attr("height", this.height + (this.margin * 2))
     .append("g")
-    .attr("transform", "translate(" + this.margin + "," + this.margin + ")").style("user-select","none");
+    .attr("transform", "translate(" + this.margin + "," + 0 + ")").style("user-select","none");
   }
 
   private drawBars(data: BarData[], highlighted: string[]): void {
@@ -86,7 +90,7 @@ export class BarComponent implements AfterViewInit {
 
     // Draw the X-axis on the DOM
     this.svg.append("g")
-    .attr("transform", "translate(0," + this.height + ")")
+    .attr("transform", "translate(0," + (this.height) + ")")
     .call(d3.axisBottom(x).ticks(10))
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")

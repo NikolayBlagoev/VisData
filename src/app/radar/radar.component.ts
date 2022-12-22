@@ -32,7 +32,7 @@ export class RadarComponent implements AfterViewInit {
     .attr("height", this.h + (this.margin * 2) )
     .append("g")
     .style("user-select","none").attr("transform",
-    "translate(" + this.margin + "," + this.margin + ")");
+    "translate(" + this.margin*3/4 + "," + -10 + ")");
   }
 
 
@@ -43,7 +43,7 @@ export class RadarComponent implements AfterViewInit {
   private drawRadar(data: any[], features: any[]): void{
     const rscale = d3.scaleLinear()
                   .domain([0,10])
-                  .range([0,200]);
+                  .range([0,250]);
 
     const angler = (angle, value, name, attr_value) =>{
                     const x = Math.cos(angle) * rscale(value);

@@ -12,9 +12,9 @@ export class DonutComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
   private svg;
-  private margin = 80;
-  private w = 1200 - (this.margin * 2);
-  private h = 600 - (this.margin * 2);
+  @Input() margin!: number;
+  @Input() w !: number;
+  @Input() h!: number;
 
   // Control width, height, margin
   public setValues(width, height, margin): void {
@@ -24,8 +24,10 @@ export class DonutComponent implements AfterViewInit {
   }
 
   ngAfterViewInit(): void {
+    this.w = this.w - (this.margin * 2);
+    this.h = this.h - (this.margin * 2);
     this.createSvg();
-    this.drawDonut(this.data, 200, this.data[0].val+"%", 130, "not");
+    this.drawDonut(this.data, 150, this.data[0].val+"%", 100, "not");
   }
 
   private createSvg(): void {
@@ -47,13 +49,13 @@ export class DonutComponent implements AfterViewInit {
                   .range(["green","red"]);
     
     const pie = d3.pie()
-      .value((d:any) => d.value);
+      .value((d:any) => d.val);
 
     data = pie(data);
 
     this.svg.append("g")
             .attr("transform", "translate(" + this.w / 2 + "," + this.h / 2 + ")")
-            .selectAll('pies')
+            .selectAll('pieses')
             .data(data)
             .enter()
             .append('path')
@@ -62,7 +64,6 @@ export class DonutComponent implements AfterViewInit {
               .outerRadius(radius)
             )
             .attr('fill', (d) => d.data.name == name_of_red? "red":"green" )
-            .attr("stroke", "black")
             .style("stroke-width", "0px")
             .style("opacity", 0.7);
     
