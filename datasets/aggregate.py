@@ -1,6 +1,13 @@
+from bisect import bisect_left
+from datetime import datetime, timedelta
 from os import getcwd, path, scandir
+from tqdm import tqdm
 import json
 import numpy as np
+import utils
+
+
+INTERPOLATE_DATES = True
 
 
 # ========== CORE STEAM KAGGLE DATASET DATA ==========
@@ -198,6 +205,14 @@ def get_ownership_counts(raw):
 
 
 # ========== STEAMSPY DATA ==========
+def _compute_genre_set(steam_data) -> set[str]:
+    genre_set = set()
+    for game in steam_data:
+        for genre in game["genre"]:
+            genre_set.add(genre)
+    return genre_set
+    
+
 def get_stats_steamspy_static():
     # Gather all data points together
     STEAMSPY_STATIC_DATA_PATH = path.join(getcwd(), "steamspy", "static_data")
@@ -240,17 +255,14 @@ def get_stats_steamspy_static_per_genre():
     # Compute set of all genres for use as keys in stats dict
     with open("data_set.json") as steam_data_file:
         steam_data = json.load(steam_data_file)
-    genre_set = set()
-    for game in steam_data:
-        for genre in game["genre"]:
-            genre_set.add(genre)
+    genre_set = _compute_genre_set(steam_data)
 
     # Acquire genre info on per game basis
     STEAMSPY_STATIC_DATA_PATH = path.join(getcwd(), "steamspy", "static_data")
     genre_data_points = {genre: {"avg_forever": [], "avg_2_weeks": [], "median_forever": [], "median_2_weeks": []} 
                         for genre in genre_set}
     steam_data_offset = 0
-    for file_path in sorted(scandir(STEAMSPY_STATIC_DATA_PATH), key=lambda elem: path.getmtime(elem)):
+    for file_path in sorted(scandir(STEAMSPY_STATIC_DATA_PATH), key=utils.fetch_tmp_start_idx_as_int):
         with open(file_path, 'r') as temp_file:
             data = json.load(temp_file)
             for idx, steamspy_data in enumerate(data):
@@ -284,19 +296,103 @@ def get_stats_steamspy_static_per_genre():
         json.dump(aggregates, file, indent=2, sort_keys=True)
 
 
+def get_stats_steamspy_ccu_per_genre():
+    # Compute set of all genres for use as keys in stats dict
+    with open("data_set.json") as steam_data_file:
+        steam_data = json.load(steam_data_file)
+    genre_set = _compute_genre_set(steam_data)
+
+    # Enumerate collected dates
+    STEAMSPY_DATA_PATH = path.join(getcwd(), "steamspy")
+    collected_dates = [f.name for f in scandir(STEAMSPY_DATA_PATH) if f.is_dir() and (f.name != "static_data")]
+    date_folder_paths = [f.path for f in scandir(STEAMSPY_DATA_PATH) if f.is_dir() and (f.name != "static_data")]
+
+    # Fetch existing data
+    genre_ccus_by_date = {genre: {date: [] for date in collected_dates}
+                        for genre in genre_set}
+    for date_folder in tqdm(date_folder_paths, desc="Fetching collected data"):
+        steam_data_offset = 0
+        for file_path in sorted(scandir(date_folder), key=utils.fetch_tmp_start_idx_as_int):
+            with open(file_path, 'r') as temp_file:
+                data = json.load(temp_file)
+                for idx, steamspy_data in enumerate(data):
+                    kaggle_data = steam_data[idx + steam_data_offset]
+                    for genre in kaggle_data["genre"]:
+                        genre_ccus_by_date[genre][steamspy_data["retrieval_date"]]\
+                        .append(steamspy_data["ccu"])
+            steam_data_offset += 1000
+    
+    # Convert data to numpy arrays and compute statistics
+    aggregates = {genre: {date: dict() for date in collected_dates}
+                  for genre in genre_set}
+    for genre in tqdm(genre_set, desc="Computing genre statistics"):
+        for date in collected_dates:
+            dp_arr = np.array(genre_ccus_by_date[genre][date])
+            dp_aggregates = {
+            "mean": dp_arr.mean(), "std": dp_arr.std(), "median": np.median(dp_arr),
+            "max": float(dp_arr.max()), "min": float(dp_arr.min()),
+            "10th": np.percentile(dp_arr, 10),
+            "20th": np.percentile(dp_arr, 20), "25th": np.percentile(dp_arr, 25), "30th": np.percentile(dp_arr, 30), 
+            "40th": np.percentile(dp_arr, 40), "50th": np.percentile(dp_arr, 50),
+            "60th": np.percentile(dp_arr, 60), "70th": np.percentile(dp_arr, 70), "75th": np.percentile(dp_arr, 75),
+            "80th": np.percentile(dp_arr, 80), "90th": np.percentile(dp_arr, 90), "99th": np.percentile(dp_arr, 99)}
+            aggregates[genre][date] = dp_aggregates
+
+    if INTERPOLATE_DATES:
+        # Find earliest and latest start dates to interpolate values only within that range
+        dates = []
+        for date_folder in collected_dates:
+            date = datetime.strptime(date_folder, "%Y-%m-%d").date()
+            dates.append(date)
+        min_date, max_date = min(dates), max(dates)
+
+        num_days = ((max_date - min_date) + timedelta(days=1)).days
+        all_dates = [min_date + timedelta(days=x) for x in range(num_days)]
+        collected_dates_conv = sorted([datetime.strptime(date, "%Y-%m-%d").date() for date in collected_dates])
+        for current_date in tqdm(all_dates, desc="Interpolating data for missing dates"):
+            current_date_str = str(current_date)
+            for genre in genre_set:
+                # Only check the first genre because the date is present or not in ALL of them
+                if current_date_str in aggregates[genre]:
+                    break
+
+                # Find collected data for dates immediately before and after
+                insert_position     = bisect_left(collected_dates_conv, current_date)
+                first_before_date   = collected_dates_conv[insert_position - 1]
+                first_after_date    = collected_dates_conv[insert_position]
+                first_before        = aggregates[genre][str(first_before_date)]
+                first_after         = aggregates[genre][str(first_after_date)]
+
+                # Compute interpolation factor
+                dist_to_before          = current_date - first_before_date
+                dist_to_after           = first_after_date - current_date
+                before_interp_factor    = dist_to_before / (dist_to_before + dist_to_after)
+
+                # Interpolate all quantities
+                aggregates[genre][current_date_str] = {}
+                for quantity in first_before:
+                    aggregates[genre][current_date_str][quantity] = utils.linear_interp(
+                        first_before[quantity], first_after[quantity], before_interp_factor)
+
+    # Store aggregates
+    with open("steamspy_daily_ccu_per_genre.json", "w") as file:
+        json.dump(aggregates, file, indent=2, sort_keys=True)
+
+
 if __name__ == "__main__":
-    # # Core Steam data
-    # with open("data_set.json") as fl:
-    #     raw = json.load(fl)
-    #     get_std_median_likes_per_genre(raw)
-    #     get_std_median_like_count_per_genre(raw)
-    #     get_count_price(raw)
-    #     get_std_median_likes_total(raw)
-    #     get_std_median_likes_last_30_days(raw)
-    #     get_std_median_like_count_30_days_per_genre(raw)
-    #     get_std_median_likes_last_30_days(raw)
-    #     get_ownership_counts(raw)
+    # Core Steam data
+    with open("data_set.json") as fl:
+        raw = json.load(fl)
+        get_std_median_likes_per_genre(raw)
+        get_std_median_like_count_per_genre(raw)
+        get_count_price(raw)
+        get_std_median_likes_total(raw)
+        get_std_median_likes_last_30_days(raw)
+        get_std_median_like_count_30_days_per_genre(raw)
+        get_std_median_likes_last_30_days(raw)
+        get_ownership_counts(raw)
 
     # SteamSpy data
     get_stats_steamspy_static()
     get_stats_steamspy_static_per_genre()
+    get_stats_steamspy_ccu_per_genre()
