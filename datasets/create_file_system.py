@@ -1,6 +1,7 @@
 import json
-
+from sklearn.cluster import AgglomerativeClustering
 from pathlib import Path
+import numpy as np
 class Fold(object):
     def __init__(self, smallest, largest, parent = None) -> None:
         self.smallest = smallest
@@ -84,37 +85,68 @@ with open("normalised_likes/tmp_0-999.json") as fl:
 with open("metareviews/tmp_0-999.json") as fl:
     meta = json.load(fl)
 minim = 100
+file_count = 0
 for d in processed_data:
+    
     if count == 1000:
         count = 0
         i = 0
         j = 0
-        with open(f"normalised_likes/tmp_{int(i/10)}-{i+999}.json") as fl:
+        with open(f"normalised_likes/tmp_{int(file_count/10)}-{file_count+999}.json") as fl:
             norm = json.load(fl)
-        with open(f"metareviews/tmp_{j}-{j+999}.json") as fl:
+            print(f"normalised_likes/tmp_{int(file_count/10)}-{file_count+999}.json")
+        with open(f"metareviews/tmp_{file_count}-{file_count+999}.json") as fl:
             meta = json.load(fl)
-    
-    d["Meta Score"] = meta[j]["Meta Score"]
-    d["Like Histogram"] = norm[i]["fixed_date"]
-    acc_up = 0
-    acc_down = 0
-    for entr in norm[i]["fixed_date"]:
-        acc_up += entr["recommendations_up"]
-        acc_down += entr["recommendations_down"]
-    d["Up 30 Days"] = acc_up
-    d["Down 30 Days"] = acc_down
-    total_like_change.append({"appid": d["appid"], "acc_up": acc_up, "acc_down": acc_down, "genre": d["genre"]})
-    
-    d["Completion"] = norm[i]["completion"]
-    try:
-        d["Rating"] = meta[j]["Rating"]
-        
-    except KeyError:
-        d["Rating"] = "?"
-    add_item(parent, d)
+    # DS - 374320
+    # CIV v - 8930
+    # PayDay 2 - 218620
+    # CSGO - 730
+    if d["appid"] > 0:
+        # print("MADE IT")
+        d["Meta Score"] = meta[j]["Meta Score"]
+        d["Like Histogram"] = norm[i]["fixed_date"]
+        acc_up = 0
+        acc_down = 0
+        for entr in norm[i]["fixed_date"]:
+            acc_up += entr["recommendations_up"]
+            acc_down += entr["recommendations_down"]
+        d["Up 30 Days"] = acc_up
+        d["Down 30 Days"] = acc_down
+        total_like_change.append({"appid": d["appid"], "acc_up": acc_up, "acc_down": acc_down, "genre": d["genre"]})
+        if norm[i]["completion"] != -1 and len(norm[i]["completion"])>1:
+            each_completed = [achvm_prog["percent"] for achvm_prog in norm[i]["completion"]]
+            each_completed = [a for a in each_completed if a > 0]
+            if len(each_completed) < 2:
+                d["Completion"] = -1
+            else:
+                each_completed_cop = np.array(each_completed)
+                
+                each_completed_cop = each_completed_cop.reshape(-1, 1)
+                model = AgglomerativeClustering(linkage="ward", affinity = "euclidean")
+                model.fit(each_completed_cop)
+                # print(model.labels_)
+                counter = 0
+                each_completed_cop = []
+                while counter<len(model.labels_) and model.labels_[counter] == model.labels_[0]:
+                    each_completed_cop.append(each_completed[counter])
+                    counter += 1
+                # print(each_completed_cop)
+                # print(np.median(each_completed_cop))
+                # print(np.mean(each_completed_cop))
+                d["Completion"] = np.median(each_completed_cop)
+            # exit()
+        else:
+            d["Completion"] = -1
+        try:
+            d["Rating"] = meta[j]["Rating"]
+            
+        except KeyError:
+            d["Rating"] = "?"
+        add_item(parent, d)
     i += 1
     count += 1
     j += 1
+    file_count += 1
     # if d["appid"] < minim:
     #     minim = d["appid"]
 

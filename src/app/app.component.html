@@ -7,7 +7,7 @@
   <span class="spacer"></span>
   <form (submit)="$event.preventDefault()" style="margin-top: 20px">
     <mat-form-field>
-      <mat-label>Game name</mat-label>
+      <mat-label style="user-select: none;">Game name</mat-label>
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
       <mat-autocomplete #auto="matAutocomplete" panelWidth="500px"
                         [displayWith]="extractGameName"
@@ -26,7 +26,7 @@
 </mat-toolbar>
 
 <!-- CONTAINER FOR ENTIRE PAGE WITHOUT NAV BAR -->
-<div style="width: 90%; margin-left: 5%; margin-right: 5%;">
+<div class="container-whole">
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
 
@@ -36,73 +36,127 @@
   <mat-card class="game-card">
     <mat-card-header>
       <!-- WHY IS THIS IN REVERSE?!?!?!??!? IT REFUSES TO DISPLAY THEM IN THE RIGHT ORDER? -->
-      <img mat-card-xl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
+      
 
-      <mat-card-title #gameName><h2>{{currentGame.name}}</h2></mat-card-title>
+      <img mat-card-xxl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
+      <div style="display: flex; width: 100%;">
+        <div class="header-card">
+          <h1>{{currentGame.name}}</h1>
+          <b>Genres:</b>
+          <div class="round-bordered">
+            <ul  class = "general-list" #genreList>
+              <li class = "general-item" *ngFor="let genre of currentGame.genre">{{genre}}</li>
+            </ul>
+          </div>
+        </div>
+        <div class="right-header-card">
+          <h1>Platforms</h1>
+          <div class="round-bordered">
+            <mat-list>
+              <mat-list-item>
+                <b>Windows: </b>
+                <mat-icon #winSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+              <mat-list-item>
+                <b>Linux: </b>
+                <mat-icon #linuxSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+              <mat-list-item>
+                <b>Mac: </b>
+                <mat-icon #macSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+              </mat-list-item>
+            </mat-list>
+          </div>  
+        </div>
+      </div>
     </mat-card-header>
 
     <mat-card-content>
-      <b>Genres</b>
-      <mat-list #genreList>
-        <mat-list-item *ngFor="let genre of currentGame.genre">{{genre}}</mat-list-item>
-      </mat-list>
-      <b>Categories</b>
-      <mat-list #categoryList>
-        <mat-list-item *ngFor="let category of currentGame.categories">{{category}}</mat-list-item>
-      </mat-list>
-      <b>Tags</b>
-      <mat-list #tagList>
-        <mat-list-item *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}: {{tag.value}}</mat-list-item>
-      </mat-list>
-      <b>Languages</b>
-      <mat-list #languageList>
-        <mat-list-item *ngFor="let language of currentGame.languages.split(', ')">{{language}}</mat-list-item>
-      </mat-list>
-      <b>Platforms</b>
-      <mat-list>
-        <mat-list-item>
-          <b>Windows: </b>
-          <mat-icon #winSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-        <mat-list-item>
-          <b>Linux: </b>
-          <mat-icon #linuxSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-        <mat-list-item>
-          <b>Mac: </b>
-          <mat-icon #macSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
-        </mat-list-item>
-      </mat-list>
+      
+      <h2>Categories:</h2>
+      <div class="round-bordered">
+        <ul class = "general-list" #categoryList>
+          <li class = "general-item" *ngFor="let category of currentGame.categories">{{category}}</li>
+        </ul>
+      </div>
+      <h2>Tags:</h2>
+      <div class="round-bordered">
+        <ul  class = "general-list"  #tagList>
+          <li class = "general-item" *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}</li>
+        </ul >
+      </div>
+      <h2>Languages:</h2>
+      <div class="round-bordered">
+        <ul class = "general-list"  #languageList>
+          <li class = "general-item" *ngFor="let language of currentGame.languages.split(', ')">{{language}}</li>
+        </ul>
+      </div>
+      
     </mat-card-content>
   </mat-card>
 
+  <span style="margin-block-end: 5%;"></span>
   <!-- First row -->
-  <div class="two-col-container">
-    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>
-
-    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>
-  </div>
+  <mat-card class="game-card">
+    <div class="two-col-container vis-parent">
+      <div class="first-col">
+        
+        <h2 style="margin-inline-start: 10%;">GAME RATINGS:</h2>
+        <app-radar instanceId="categoricalDataRadar" class="vis-component"></app-radar>
+      </div>
+      <div class="second-col">
+        <app-box instanceId="categoricalDataBox" class="vis-component"></app-box>
+      </div>
+    </div>
+  </mat-card>
 
   <!-- Second row -->
-  <div class="two-col-container">
+  <div class="two-col-container game-card">
     <!-- TODO: Replace testing dummy with check of existence of Metacritic data once processing is complete -->
-    <app-bar instanceId="scoresBar" class="first-col" *ngIf="hasMetaDummy; else steamReviewsPie"></app-bar>
-    <ng-template #steamReviewsPie>
-      <app-pie instanceId="steamReviewsPie" class="first-col"></app-pie>
-    </ng-template>
-
-    <app-pie instanceId="gameCompletionPie" class="second-col"></app-pie>
+    <mat-card class="first-col">
+      <h2 style="margin-inline-start: 10%;">Game Reviews:</h2>
+      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie" [margin] = 80 [width]=600 [height]=300></app-bar>
+    
+      <ng-template #steamReviewsPie>
+        <app-pie instanceId="steamReviewsPie"></app-pie>
+      </ng-template>
+    </mat-card>
+    <mat-card class="second-col">
+      <h2 style="margin-inline-start: 10%;">Game Completion:</h2>
+      <app-donut instanceId="gameCompletionPie" [margin] = 80 [w]=300 [h]=300></app-donut>
+    </mat-card>
   </div>
 
   <!-- Third row -->
-  <div>
-    <app-line instanceId="likesOverTimeLine"></app-line>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <app-line instanceId="likesOverTimeLine" [width] = 1400></app-line>
+      </div>  
+    </mat-card>
   </div>
 
   <!-- Fourth row -->
-  <div>
-    <app-line instanceId="ccuOverTimeLine"></app-line>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <app-line instanceId="ccuOverTimeLine" [width] = 1400></app-line>
+      </div>  
+    </mat-card>
   </div>
+
 
 
   <!-- ========== MULTIPLE GAME INFO ========== -->

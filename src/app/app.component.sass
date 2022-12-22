@@ -1,0 +1,66 @@
+.container-whole
+    position: relative
+    margin-block-start: 0%
+    margin-block-end: 0%
+    width: 100%
+    max-width: 100%
+
+.game-card
+    position: relative
+    margin-inline-start: auto
+    margin-inline-end: auto
+    width: 80%
+    max-width: 80%
+    margin-block-end: 1%
+
+.general-list
+    width: 100%
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    // overlow-x: hidden
+
+
+.general-item
+    list-style: none
+    margin-inline-end: 1%
+    
+    padding-inline-start: 0%
+    margin-block-end: 0.4%
+
+.general-item:after
+    
+    content: ",   "
+
+.general-item:last-child:after
+    content: ""
+
+.header-card
+    margin-inline-start: 2%
+    width: auto
+
+.right-header-card
+    width: 25%
+    margin-left: auto
+    margin-right: 0
+
+
+.round-bordered
+    
+    margin-block-start: 0.75%
+    padding-top: 0.25%
+    width: 100%
+    padding-bottom: 0.25%
+    background: rgba(255,255,255,0.1)
+    border-radius: 15px
+
+.vis-component
+    margin-inline-start: auto
+    margin-inline-end: auto
+    width:100%
+
+.vis-parent
+    margin-inline-start: auto
+    margin-inline-end: auto
+    width:100%
+    max-width: 100%

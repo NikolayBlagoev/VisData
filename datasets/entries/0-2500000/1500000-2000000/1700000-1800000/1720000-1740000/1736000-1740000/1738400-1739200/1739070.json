@@ -72,18 +72,18 @@
     },
     {
       "date": 1667354400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1667440800,
-      "recommendations_up": 0,
+      "recommendations_up": 2,
       "recommendations_down": 0
     },
     {
       "date": 1667527200,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667613600,
@@ -92,13 +92,13 @@
     },
     {
       "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_up": 3,
+      "recommendations_down": 0
     },
     {
       "date": 1667786400,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1667872800,
@@ -112,22 +112,22 @@
     },
     {
       "date": 1668045600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668132000,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668218400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668304800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -182,8 +182,8 @@
     },
     {
       "date": 1669255200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_up": 3,
+      "recommendations_down": 1
     },
     {
       "date": 1669341600,
@@ -192,7 +192,7 @@
     },
     {
       "date": 1669428000,
-      "recommendations_up": 0,
+      "recommendations_up": 2,
       "recommendations_down": 0
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "date": 1669600800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -212,33 +212,12 @@
     },
     {
       "date": 1669773600,
-      "recommendations_up": 1,
+      "recommendations_up": 2,
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 3,
-  "Completion": [
-    {
-      "name": "ACH_CONTAIN_CN",
-      "percent": 88.19999694824219
-    },
-    {
-      "name": "ACH_PROTECT_CN",
-      "percent": 88
-    },
-    {
-      "name": "ACH_BREACH_CN",
-      "percent": 24.899999618530273
-    },
-    {
-      "name": "ACH_SECURE_CN",
-      "percent": 24.799999237060547
-    },
-    {
-      "name": "ACH_ESCAPE_CN",
-      "percent": 24.5
-    }
-  ],
+  "Up 30 Days": 18,
+  "Down 30 Days": 1,
+  "Completion": 60.400001525878906,
   "Rating": "?"
 }

@@ -48,7 +48,7 @@
   "Like Histogram": [
     {
       "date": 1667268000,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
@@ -88,12 +88,12 @@
     },
     {
       "date": 1667959200,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
       "date": 1668045600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -104,7 +104,7 @@
     {
       "date": 1668218400,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668304800,
@@ -113,7 +113,7 @@
     },
     {
       "date": 1668391200,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "date": 1668823200,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "date": 1669341600,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
@@ -193,33 +193,12 @@
     },
     {
       "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_up": 1,
+      "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 2,
+  "Up 30 Days": 5,
   "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "achievement_beginner",
-      "percent": 82.5
-    },
-    {
-      "name": "achievement_gentleman",
-      "percent": 59.5
-    },
-    {
-      "name": "achievement_calm",
-      "percent": 53.400001525878906
-    },
-    {
-      "name": "achievement_winner",
-      "percent": 30.200000762939453
-    },
-    {
-      "name": "achievement_superman",
-      "percent": 18.600000381469727
-    }
-  ],
+  "Completion": -1,
   "Rating": "?"
 }

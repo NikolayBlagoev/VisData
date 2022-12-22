@@ -69,12 +69,12 @@
     {
       "date": 1667700000,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1667786400,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1667872800,
@@ -98,7 +98,7 @@
     },
     {
       "date": 1668218400,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "date": 1669168800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -163,7 +163,7 @@
     },
     {
       "date": 1669341600,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -184,7 +184,7 @@
     {
       "date": 1669687200,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1669773600,
@@ -192,37 +192,8 @@
       "recommendations_down": 1
     }
   ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "ACH_START_ROLLING",
-      "percent": 69.69999694824219
-    },
-    {
-      "name": "ACH_TOWER_ONE",
-      "percent": 67.0999984741211
-    },
-    {
-      "name": "ACH_TOWER_TWO",
-      "percent": 65.9000015258789
-    },
-    {
-      "name": "ACH_TOWER_FIVE",
-      "percent": 65.4000015258789
-    },
-    {
-      "name": "ACH_TOWER_FOUR",
-      "percent": 65.4000015258789
-    },
-    {
-      "name": "ACH_GAME_WON",
-      "percent": 65.0999984741211
-    },
-    {
-      "name": "ACH_TOWER_THREE",
-      "percent": 65.0999984741211
-    }
-  ],
+  "Up 30 Days": 3,
+  "Down 30 Days": 4,
+  "Completion": 10.199999809265137,
   "Rating": "?"
 }

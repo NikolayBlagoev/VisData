@@ -6,6 +6,8 @@ import initialGame from "../assets/initial_game.json";
 import {KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
 
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

@@ -108,11 +108,11 @@
     {
       "date": 1668218400,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668304800,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -133,7 +133,7 @@
     {
       "date": 1668650400,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668736800,
@@ -143,7 +143,7 @@
     {
       "date": 1668823200,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1668909600,
@@ -152,8 +152,8 @@
     },
     {
       "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_up": 2,
+      "recommendations_down": 1
     },
     {
       "date": 1669082400,
@@ -163,7 +163,7 @@
     {
       "date": 1669168800,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1669255200,
@@ -183,7 +183,7 @@
     {
       "date": 1669514400,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1669600800,
@@ -192,82 +192,17 @@
     },
     {
       "date": 1669687200,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     },
     {
       "date": 1669773600,
-      "recommendations_up": 1,
+      "recommendations_up": 0,
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": [
-    {
-      "name": "API_achv_warming",
-      "percent": 83.5
-    },
-    {
-      "name": "API_achv_basics",
-      "percent": 39.70000076293945
-    },
-    {
-      "name": "API_achv_better",
-      "percent": 24.600000381469727
-    },
-    {
-      "name": "API_achv_chameleon",
-      "percent": 23.200000762939453
-    },
-    {
-      "name": "API_achv_reaching",
-      "percent": 23.200000762939453
-    },
-    {
-      "name": "API_achv_contributor",
-      "percent": 20.5
-    },
-    {
-      "name": "API_achv_ascension",
-      "percent": 19.100000381469727
-    },
-    {
-      "name": "API_achv_challenge",
-      "percent": 19.100000381469727
-    },
-    {
-      "name": "API_achv_resourceful",
-      "percent": 17.799999237060547
-    },
-    {
-      "name": "API_achv_destroyer",
-      "percent": 16.399999618530273
-    },
-    {
-      "name": "API_achv_enough",
-      "percent": 15
-    },
-    {
-      "name": "API_achv_astronomer",
-      "percent": 13.600000381469727
-    },
-    {
-      "name": "API_achv_flawless",
-      "percent": 12.300000190734863
-    },
-    {
-      "name": "API_achv_congratulations",
-      "percent": 9.5
-    },
-    {
-      "name": "API_achv_superstar",
-      "percent": 9.5
-    },
-    {
-      "name": "API_achv_perfection",
-      "percent": 8.199999809265137
-    }
-  ],
+  "Up 30 Days": 3,
+  "Down 30 Days": 6,
+  "Completion": 42.20000076293945,
   "Rating": "?"
 }

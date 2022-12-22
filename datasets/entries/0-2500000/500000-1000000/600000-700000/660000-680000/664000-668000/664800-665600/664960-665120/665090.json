@@ -80,7 +80,7 @@
     {
       "date": 1667700000,
       "recommendations_up": 0,
-      "recommendations_down": 0
+      "recommendations_down": 1
     },
     {
       "date": 1667786400,
@@ -199,33 +199,12 @@
     },
     {
       "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_up": 1,
+      "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 0,
+  "Up 30 Days": 1,
   "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "ACH_turn_on_lights",
-      "percent": 23.799999237060547
-    },
-    {
-      "name": "ACH_no_lights_run",
-      "percent": 1.600000023841858
-    },
-    {
-      "name": "ACH_no_flashlight_run",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "ACH_finish_coop",
-      "percent": 1.399999976158142
-    },
-    {
-      "name": "ACH_finish_solo",
-      "percent": 0.800000011920929
-    }
-  ],
+  "Completion": 67.1500015258789,
   "Rating": "?"
 }

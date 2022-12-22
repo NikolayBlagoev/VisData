@@ -144,7 +144,7 @@
     {
       "date": 1668736800,
       "recommendations_up": 0,
-      "recommendations_down": 1
+      "recommendations_down": 0
     },
     {
       "date": 1668823200,
@@ -198,7 +198,7 @@
     },
     {
       "date": 1669687200,
-      "recommendations_up": 0,
+      "recommendations_up": 1,
       "recommendations_down": 0
     },
     {
@@ -207,57 +207,8 @@
       "recommendations_down": 0
     }
   ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 1,
-  "Completion": [
-    {
-      "name": "PLAY_ONE_GAME",
-      "percent": 30.899999618530273
-    },
-    {
-      "name": "PLAY_EPI_ONE",
-      "percent": 29.799999237060547
-    },
-    {
-      "name": "SUPER_ONE_GAME",
-      "percent": 24.799999237060547
-    },
-    {
-      "name": "FAIL_ONE_GAME",
-      "percent": 21.100000381469727
-    },
-    {
-      "name": "PLAY_EPI_TWO",
-      "percent": 18.5
-    },
-    {
-      "name": "MIDDLE_ONE_GAME",
-      "percent": 17.799999237060547
-    },
-    {
-      "name": "PLAY_EPI_THREE",
-      "percent": 13.899999618530273
-    },
-    {
-      "name": "PLAY_ALL_GAMES",
-      "percent": 13
-    },
-    {
-      "name": "SUPER_THREE",
-      "percent": 11.800000190734863
-    },
-    {
-      "name": "FAIL_THREE",
-      "percent": 10.300000190734863
-    },
-    {
-      "name": "PLAY_EPI_FIVE",
-      "percent": 9.699999809265137
-    },
-    {
-      "name": "PLAY_EPI_FOUR",
-      "percent": 9.300000190734863
-    }
-  ],
+  "Up 30 Days": 2,
+  "Down 30 Days": 0,
+  "Completion": 10.850000381469727,
   "Rating": "?"
 }
