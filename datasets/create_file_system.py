@@ -110,7 +110,7 @@ def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: d
             # No interpolation needed if date already has data
             current_date_str = str(current_date)
             if current_date_str in date_to_ccu:
-                break
+                continue
 
             # Find collected data for dates immediately before and after
             insert_position     = bisect_left(collected_dates_conv, current_date)
@@ -120,10 +120,10 @@ def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: d
             first_after_ccu     = date_to_ccu[str(first_after_date)]
 
             # Compute interpolation factor and interpolate
-            dist_to_before              = current_date - first_before_date
-            dist_to_after               = first_after_date - current_date
-            before_interp_factor        = dist_to_before / (dist_to_before + dist_to_after)
-            date_to_ccu[current_date]   = int(utils.linear_interp(first_before_ccu, first_after_ccu, before_interp_factor))
+            dist_to_before                  = (current_date - first_before_date).days
+            dist_to_after                   = (first_after_date - current_date).days
+            before_interp_factor            = dist_to_before / (dist_to_before + dist_to_after)
+            date_to_ccu[current_date_str]   = int(utils.linear_interp(first_before_ccu, first_after_ccu, before_interp_factor))
 
     return date_to_ccu
 
@@ -174,10 +174,10 @@ if __name__ == "__main__":
             d["Like Histogram"] = norm[i]["fixed_date"]
 
             # Steam Spy data
-            d["Average Playtime - Forever"] = steamspy_static[j]
-            d["Average Playtime - 2 Weeks"] = steamspy_static[j]
-            d["Median Playtime - Forever"]  = steamspy_static[j]
-            d["Median Playtime - 2 Weeks"]  = steamspy_static[j]
+            d["Average Playtime - Forever"] = steamspy_static[j]["average_forever"]
+            d["Average Playtime - 2 Weeks"] = steamspy_static[j]["average_2weeks"]
+            d["Median Playtime - Forever"]  = steamspy_static[j]["median_forever"]
+            d["Median Playtime - 2 Weeks"]  = steamspy_static[j]["median_2weeks"]
             d["CCU Histogram"]              = _get_steamspy_ccus(file_count, steamspy_end_point, d)
 
             acc_up = 0

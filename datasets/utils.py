@@ -9,20 +9,20 @@ def fetch_tmp_start_idx_as_int(elem: DirEntry[str]) -> int:
     return int(elem.name[4:elem.name.find('-')])
 
 
-def linear_interp(lhs, rhs, left_frac: float):
+def linear_interp(lhs, rhs, left_walk: float):
     """
     Linear interpolation between the two given quantities
 
     Args:
         lhs: Left-hand side interpolant
         rhs: Right-hand side interpolant
-        left_frac: Fraction of left hand side that contributes to interpolation
+        left_frac: How much of the way to 'walk' along the value from left to right
 
     Returns:
         Interpolated value between lhs and rhs
     """
-    left_frac = clamp(left_frac, 0, 1)
-    return (lhs * left_frac) + (rhs * (1 - left_frac))
+    left_frac = clamp(left_walk, 0, 1)
+    return (lhs * (1 - left_walk)) + (rhs * left_walk)
 
 
 def compute_genre_set(steam_data: dict) -> set[str]:

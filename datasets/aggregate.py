@@ -357,8 +357,8 @@ def get_stats_steamspy_ccu_per_genre():
                 first_after         = aggregates[genre][str(first_after_date)]
 
                 # Compute interpolation factor
-                dist_to_before          = current_date - first_before_date
-                dist_to_after           = first_after_date - current_date
+                dist_to_before          = (current_date - first_before_date).days
+                dist_to_after           = (first_after_date - current_date).days
                 before_interp_factor    = dist_to_before / (dist_to_before + dist_to_after)
 
                 # Interpolate all quantities
