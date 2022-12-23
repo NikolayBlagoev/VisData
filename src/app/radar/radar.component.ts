@@ -1,4 +1,4 @@
-import { Component, AfterViewInit, Input } from '@angular/core';
+import { Component, AfterViewInit, Input, ViewEncapsulation } from '@angular/core';
 import * as d3 from 'd3';
 import { TooltipComponent } from '../tooltip/tooltip.component';
 
@@ -6,7 +6,8 @@ import { TooltipComponent } from '../tooltip/tooltip.component';
 @Component({
   selector: 'app-radar',
   templateUrl: './radar.component.html',
-  styleUrls: ['./radar.component.sass']
+  styleUrls: ['./radar.component.sass'],
+  encapsulation: ViewEncapsulation.None
 })
 export class RadarComponent implements AfterViewInit {
   // TODO: Make these an input
@@ -20,9 +21,14 @@ export class RadarComponent implements AfterViewInit {
   @Input() height     = 600;
 
   // Drawing parameters
-  @Input() maxRadius              = 100;
-  @Input() centerHorizontalOffset = 300;
-  @Input() centerVerticalOffset   = 300;
+  @Input() attrDotRadius              = 5;
+  @Input() scaleStrokeWidth           = 2;
+  @Input() scaleHighlightStrokeWidth  = 3;
+  @Input() maxRadius                  = 100;
+  @Input() centerHorizontalOffset     = 300;
+  @Input() centerVerticalOffset       = 300;
+  private fillColors                  = ["#9C27B0", "#2196F3", "#009688", "FF9800"];
+  private pointColors                 = ["#4A148C", "#0D47A1", "#004D40", "E65100"];
   
   private svg;
   
@@ -66,9 +72,10 @@ export class RadarComponent implements AfterViewInit {
       };
     const shape_maker = (d) => {
         const coordinates: any = [];
-        for (let i = 0; i < features.length; i++){
-          const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-          coordinates.push(angler(angle,d[features[i]], features[i], d[features[i]]));
+        for (let i = 0; i <= features.length; i++){
+          const iMod = i % features.length; // Allows for first point to be added again to circularly connect path for styling
+          const angle = (Math.PI / 2) + (2 * Math.PI * iMod / features.length);
+          coordinates.push(angler(angle,d[features[iMod]], features[iMod], d[features[iMod]]));
         }
         return coordinates;
       };
@@ -82,13 +89,11 @@ export class RadarComponent implements AfterViewInit {
           coordinates.push(angler(angle,t, features[i],0));
         }
         coordinates.push(coordinates[0]);
-          this.svg.append("path")
+        this.svg.append("path")
           .datum(coordinates)
           .attr("d",line)
-          .attr("stroke-width",  t%5==0? "3px":"1px")
-          .attr("stroke", "black")
-          .attr("fill", "none")
-          .attr("stroke-opacity", 1);
+          .attr("stroke-width", (t % 5) == 0 ? this.scaleHighlightStrokeWidth : this.scaleStrokeWidth)
+          .classed("poly-outlines", true);
       });
       
       for (let i = 0; i < features.length; i++) {
@@ -102,7 +107,7 @@ export class RadarComponent implements AfterViewInit {
         .attr("y1", this.centerVerticalOffset)
         .attr("x2", line_coordinate.x)
         .attr("y2", line_coordinate.y)
-        .attr("stroke","black");
+        .classed("axes", true);
         
         this.svg.append("text")
         .attr("x", label_coordinate.x)
@@ -113,33 +118,30 @@ export class RadarComponent implements AfterViewInit {
     
     const tooltip = new TooltipComponent();
 
-    data.forEach(d => {
-      const color = "green";
+    data.forEach((d, i) => {
       const coordinates = shape_maker(d);
-  
+      const fillColor   = this.fillColors[i % this.fillColors.length];
+      const pointColor  = this.pointColors[i % this.pointColors.length];
+
       this.svg.append("path")
         .datum(coordinates)
         .attr("d",line)
-        .attr("stroke-width", 3)
-        .attr("stroke", color)
-        .attr("fill", color)
-        .attr("opacity", 0.5)
-        .attr("stroke-opacity", 1);
+        .attr("fill", fillColor)
+        .classed("interior-fill", true);
 
       this.svg.selectAll("dot")
         .data(coordinates).enter()
         .append("circle")
         .attr("cx", d => d.x)
         .attr("cy", d => d.y)
-        .attr("r", 3)
-        .style("fill", "green")
+        .attr("r", this.attrDotRadius)
+        .attr("fill", pointColor)
+        .classed("data-point", true)
         .on("mouseover", (_,d) => {
-          
           tooltip.setText(`${d.name}: ${d.val}`).setVisible();
         })
         .on("mouseout",  (_) =>{
           tooltip.setHidden();
-          
         });
     });                                                           
   }

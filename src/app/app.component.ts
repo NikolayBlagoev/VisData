@@ -5,6 +5,7 @@ import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
 import {KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
+import { TooltipComponent } from './tooltip/tooltip.component';
 
 
 
@@ -16,7 +17,7 @@ import {EntryTreeService} from "./entry-tree.service";
 
 export class AppComponent implements OnInit {
   title = 'VisData';
-
+  t = new TooltipComponent();
   readonly optionsLength = 50;
 
   data: KaggleGame[] = [];
@@ -65,14 +66,53 @@ export class AppComponent implements OnInit {
 
   onGameSelection(option: MatOption<KaggleGame>) {
     this.currentGame = option.value;
-    // console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
     this.filteredData = this.searchControl.valueChanges.pipe(
       startWith(option.value.name),
       map(value => this._filter(value))
     );
   }
+  
+  onEnterGameReviews(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows positive reviews as percentage of total reviews for Steam user scores, Metacritic critic scores, and Metacritic user scores");
+  }
 
+  onEnterLikes30Days(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows ????");
+  }
+
+  onEnterGenreCount(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows the number of games made per genre (limited to genres above certain threshold). Highlighted are the genres of the selected game NOTE: A game can be in multiple genres");
+  }
+
+  onEnterCCU30Days(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows peak active players for each day for the given time period");
+  }
+
+  onEnterGameCompletion(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows expected percentage of total players who have completed the game");
+  }
+
+  onLeaveGameReviews(){
+    const t = new TooltipComponent();
+    t.setHidden();
+
+  }
   private _filter(value: string): KaggleGame[] {
     // noinspection SuspiciousTypeOfGuard
     if (typeof value !== "string") {
