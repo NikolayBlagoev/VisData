@@ -10,24 +10,28 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
   })
 
 export class BoxComponent implements AfterViewInit {
-
-    @Input() inputData: Array<BoxData> = ExampleData;
+    // Core input data
     @Input() instanceId!: string;
+    @Input() inputData: Array<BoxData>  = ExampleData;
+    @Input() width                      = 768;
+    @Input() height                     = 768;
+
+    // Drawing parameters
+    @Input() boxHeight: number = 50;
 
     private svg;
 
     // Set the dimensions and margins of the graph
-    private margin = {top: 10, right: 30, bottom: 30, left: 40};
-    private text_margin = {top: 0, right: 40, bottom: 0, left: 100};
-    private width = 768 - this.margin.left - this.margin.right;
-    private height = 768 - this.margin.top - this.margin.bottom;
+    @Input() margin          = {top: 25, right: 25, bottom: 25, left: 10};
+    @Input() text_margin     = {top: 0, right: 0, bottom: 0, left: 75};
+    private marginedWidth!: number;
+    private marginedHeight!: number;
+    
 
     // X and Y scales
+    private x_scale_domains!: Array<[number, number]>;
+    private x_scale_range!: [number, number];
     private x_scales;
-    private x_scale_domains = d3.map(this.inputData, datum => [datum.min, datum.max]);
-    private x_scale_range = [
-        0 + this.text_margin.left + this.text_margin.right,
-        this.width - this.text_margin.left - this.text_margin.right];
     private y_scale;
 
     ngAfterViewInit(): void {
@@ -41,22 +45,31 @@ export class BoxComponent implements AfterViewInit {
     }
 
     private createSvg(): void {
+        // Compute margined dimensions from DOM input
+        this.marginedWidth   = this.width - this.margin.left - this.margin.right;
+        this.marginedHeight  = this.height - this.margin.top - this.margin.bottom;
+
         this.svg = d3.select("figure#" + this.instanceId)
         .append("svg")
-        .attr("width", this.width)
-        .attr("height", this.height)
+        .attr("width", this.marginedWidth)
+        .attr("height", this.marginedHeight)
         .append("g")
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")").style("user-select","none");
     }
 
     private initScales(): void {
+        // Compute X axis domain and range from DOM input
+        this.x_scale_domains    = d3.map(this.inputData, datum => [datum.min, datum.max]);
+        this.x_scale_range      = [0 + this.text_margin.left + this.text_margin.right,
+                                   this.marginedWidth - this.text_margin.left - this.text_margin.right];
+
         this.x_scales = d3.map(this.x_scale_domains, domain => {
             return d3.scaleLinear()
                      .domain(domain)
                      .range(this.x_scale_range);});
         this.y_scale = d3.scaleBand()
         .domain(ExampleLabels)
-        .range([0, this.height])
+        .range([0, this.marginedHeight])
         .paddingOuter(0.5);
     }
 
@@ -75,15 +88,14 @@ export class BoxComponent implements AfterViewInit {
             .style("width", 40);
 
         // Rectangle for the main box
-        const boxHeight = 50;
         this.svg
         .selectAll("boxes")
         .data(this.inputData)
         .enter()
         .append("rect")
             .attr("x", (d, idx) => {return this.x_scales[idx](d.lower_quartile);})
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
             .attr("width", (d, idx) => {return this.x_scales[idx](d.upper_quartile) - this.x_scales[idx](d.lower_quartile);})
             .attr("stroke", "black")
             .style("fill", "#69b3a2");
@@ -96,8 +108,8 @@ export class BoxComponent implements AfterViewInit {
         .append("line")
             .attr("x1", (d, idx) => {return this.x_scales[idx](d.median);})
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.median);})
-            .attr("y1", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("y2", (d) => {return this.y_scale(d.label)! + (boxHeight / 2);})
+            .attr("y1", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("y2", (d) => {return this.y_scale(d.label)! + (this.boxHeight / 2);})
             .attr("stroke", "black")
             .style("width", 80);
 
@@ -113,15 +125,15 @@ export class BoxComponent implements AfterViewInit {
         .enter();
         selection.append("rect") // Left border
             .attr("x", this.x_scale_range[0] + borderWidth)
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
             .attr("width", borderWidth)
             .attr("stroke", "black")
             .style("fill", "black");
         selection.append("rect") // Right border
             .attr("x", this.x_scale_range[1] - borderWidth)
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
             .attr("width", borderWidth)
             .attr("stroke", "black")
             .style("fill", "black");

@@ -99,12 +99,12 @@
   <!-- First row -->
   <mat-card class="game-card">
     <div class="two-col-container vis-parent">
-      <div class="first-col">
-        
-        <h2 style="margin-inline-start: 10%;">GAME RATINGS:</h2>
-        <app-radar instanceId="categoricalDataRadar" class="vis-component"></app-radar>
+      <div class="col">
+        <h2 style="margin-inline-start: 5%;">Popularity Metrics</h2>
+        <app-radar instanceId="categoricalDataRadar" class="vis-component" [maxRadius]=175></app-radar>
       </div>
-      <div class="second-col">
+
+      <div class="col">
         <app-box instanceId="categoricalDataBox" class="vis-component"></app-box>
       </div>
     </div>
@@ -113,16 +113,16 @@
   <!-- Second row -->
   <div class="two-col-container game-card">
     <!-- TODO: Replace testing dummy with check of existence of Metacritic data once processing is complete -->
-    <mat-card class="first-col">
-      <h2 style="margin-inline-start: 10%;">Game Reviews:</h2>
+    <mat-card class="col">
+      <h2 style="margin-inline-start: 5%;">Game Reviews</h2>
       <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie" [margin] = 80 [width]=600 [height]=300></app-bar>
     
       <ng-template #steamReviewsPie>
         <app-pie instanceId="steamReviewsPie"></app-pie>
       </ng-template>
     </mat-card>
-    <mat-card class="second-col">
-      <h2 style="margin-inline-start: 10%;">Game Completion:</h2>
+    <mat-card class="col">
+      <h2 style="margin-inline-start: 5%;">Game Completion</h2>
       <app-donut instanceId="gameCompletionPie" [margin] = 80 [w]=300 [h]=300></app-donut>
     </mat-card>
   </div>
@@ -175,9 +175,9 @@
   <!-- Price brackets pie chart and placeholder -->
   <!-- TODO: Figure out something to put instead of the placeholder -->
   <div class="two-col-container">
-    <app-pie instanceId="priceBracketsPie" class="first-col"></app-pie>
+    <app-pie instanceId="priceBracketsPie" class="col"></app-pie>
 
-    <h3 class="second-col">PLACEHOLDER</h3>
+    <h3 class="col">PLACEHOLDER</h3>
   </div>
 
 
@@ -188,28 +188,76 @@
   <div style="height: 20px"></div>
   <div style="margin: auto; width: 50%; text-align: center;">
     <mat-form-field appearance="fill" color="primary">
-      <mat-label>{{currentGenre}}</mat-label>
-      <mat-select (selectionChange)="onGenreSelection($event.value)">
+      <mat-label>Genre</mat-label>
+      <mat-select [(value)]="currentGenre" (selectionChange)="onGenreSelection($event.value)" placeholder="Mode">
         <mat-option *ngFor="let genre of currentGame.genre" [value]="genre">{{genre}}</mat-option>
       </mat-select>
       <mat-hint align="start">Select a genre</mat-hint>
     </mat-form-field>
   </div>
+  <div style="height: 20px"></div>
 
   <!-- Game release date timeline -->
-  <div>
-    <app-line instanceId="gameReleaseLine"></app-line>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+  ">
+    <mat-card>
+        <div>
+          <h2 style="margin-inline-start: 5%;">Genre Releases Timeline</h2>
+          <app-line instanceId="gameReleaseLine" [width]=1100></app-line>
+        </div>
+    </mat-card>
   </div>
 
-  <div class="three-col-container">
-    <app-radar instanceId="genreCategoricalDataRadar" class="first-col"></app-radar>
+  <!-- Genre version of game info -->
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+  ">
+    <mat-card>
+      <div mat-card class="three-col-container vis-parent">
+        <h2 style="margin-inline-start: 5%;">Genre Data</h2>
+        
+        <div class="col">
+          <app-radar instanceId="genreCategoricalDataRadar" class="vis-component"
+                      [centerVerticalOffset]=150 [centerHorizontalOffset]=200 [width]=400 [height]=300 [margin]=0 [maxRadius]=100>
+          </app-radar>
+        </div>
 
-    <app-box instanceId="genreCategoricalDataBox" class="second-col"></app-box>
-
-    <app-pie instanceId="genreCompletionPie" class="third-col"></app-pie>
+        <div class="col">
+          <app-box  instanceId="genreCategoricalDataBox" class="vis-component" [width]=500 [height]=400 [boxHeight]=35
+                    [margin]="{top: 40, right: 25, bottom: 40, left: 10}">
+          </app-box>
+        </div>
+        
+        <div class="col">
+          <app-pie instanceId="genreCompletionPie" class="vis-component" [height]=400 [horizontalMargin]=500 [legendHorizontalOffset]=300></app-pie>
+        </div>
+      </div>
+    </mat-card>
   </div>
 
-  <div>
-    <app-line instanceId="genreCcuLine"></app-line>
+  <!-- Genre CCU timeline w/ game CCU data -->
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+  ">
+    <mat-card>
+      <div>
+        <h2 style="margin-inline-start: 5%;">Genre CCU Timeline</h2>
+        <app-line instanceId="genreCcuLine" [width]=1100></app-line>
+      </div>
+    </mat-card>
   </div>
+
 </div>

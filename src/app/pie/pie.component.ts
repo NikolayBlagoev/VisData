@@ -15,6 +15,15 @@ export class PieComponent implements AfterViewInit {
   @Input() data: PieData[] | undefined;
   @Input() instanceId!: string;
 
+  @Input() width: number  = 350;
+  @Input() height: number = 350;
+
+  // Margining parameters
+  @Input() horizontalMargin: number       = 400;
+  @Input() verticalMargin: number         = 400;
+  @Input() legendHorizontalOffset: number = 250;
+  @Input() legendVerticalOffset: number   = 20;
+
 
   ngAfterViewInit(): void {
     if (this.data == undefined) {
@@ -46,7 +55,7 @@ export class PieComponent implements AfterViewInit {
     const svg = d3.select("svg." + this.instanceId);
 
     const arcGroup = svg.append("g")
-      .attr("transform", "translate(150,200)");
+      .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
 
     const pie = d3.pie<PieData>()
       .sort(null)
@@ -102,7 +111,7 @@ export class PieComponent implements AfterViewInit {
       });
 
     const legendGroup = svg.append("g")
-      .attr("transform", "translate(200,20)");
+      .attr("transform", `translate(${this.legendHorizontalOffset}, ${this.legendVerticalOffset})`);
 
     legendGroup.selectAll("labelSquare")
       .data(this.data)
