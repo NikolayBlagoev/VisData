@@ -28,8 +28,8 @@ export class RadarComponent implements AfterViewInit {
   @Input() centerHorizontalOffset     = 300;
   @Input() centerVerticalOffset       = 300;
   @Input() labelTextSize              = 15;
-  private fillColors                  = ["#9C27B0", "#2196F3", "#009688", "FF9800"];
-  private pointColors                 = ["#4A148C", "#0D47A1", "#004D40", "E65100"];
+  readonly fillColors                  = ["#9C27B0", "#2196F3", "#009688", "FF9800"];
+  readonly pointColors                 = ["#4A148C", "#0D47A1", "#004D40", "E65100"];
   
   private svg;
   
