@@ -12,17 +12,16 @@ import exampleData from "./example-data.json";
   })
 
 export class BinScatterComponent implements AfterViewInit {
-
     @Input() instanceId!: string;
-    @Input() totalWidth: number     = 1024;
-    @Input() totalHeight: number    = 450;
-    @Input() currentAppId: number   = 10;
-    @Input() binRadius              = 5; // Controls radius of each hexagon, i.e. bin granularity
+    @Input() totalWidth     = 1300;
+    @Input() totalHeight    = 450;
+    @Input() currentAppId   = 10;
+    @Input() binRadius      = 3; // Controls radius of each hexagon, i.e. bin granularity
 
     // Axis data selection
     availableNumerics: Array<string> = availableNumerics;
-    currentXAxis: string = "Median Playtime - Forever";
-    currentYAxis: string  = "Like Percentage";
+    currentXAxis = "Median Playtime - Forever";
+    currentYAxis  = "Like Percentage";
 
     private plotData: Array<Point> = exampleData;
     private gameData?: Point;
@@ -43,7 +42,7 @@ export class BinScatterComponent implements AfterViewInit {
     private colourPalette = d3.interpolateReds;
     private colourScaleWidth = 75;
     private colourScaleHeight = 300;
-    private colourScaleHorizontalOffset = 150;
+    private colourScaleHorizontalOffset = 125;
     private colourScaleVerticalOffset = 50;
     private colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
         
@@ -65,8 +64,8 @@ export class BinScatterComponent implements AfterViewInit {
 
     private async constructGraph(): Promise<void> {
         // Construct file paths
-        const xPath = `assets/numerics/${this.labelToFileName(this.currentXAxis)}`
-        const yPath = `assets/numerics/${this.labelToFileName(this.currentYAxis)}`
+        const xPath = `assets/numerics/${this.labelToFileName(this.currentXAxis)}`;
+        const yPath = `assets/numerics/${this.labelToFileName(this.currentYAxis)}`;
 
         // Load, process and assign data
         const xRes                          = await fetch(xPath);
@@ -153,6 +152,7 @@ export class BinScatterComponent implements AfterViewInit {
         .data(bins)
         .enter()
         .append("path")
+            // Draw hexagons
             .attr("d", (d) => `M${d.x},${d.y}${this.hexBin.hexagon()}`)
             .attr("transform", `translate(${this.margin.left + this.hexBin.radius()}, ${this.margin.top - this.hexBin.radius()})`) // God in heaven, please forgive me
             .attr("fill", (d) => this.densityScale(d.length))
@@ -162,13 +162,11 @@ export class BinScatterComponent implements AfterViewInit {
             // Tooltip registration
             .on("mouseover", (event, d) => {
                 d3.select(event.target).attr("fill", "#22bb33");
-
                 tooltip.setText(d.length);
                 tooltip.setVisible();
             })
             .on("mouseout", (event, d) => {
                 d3.select(event.target).attr("fill", this.densityScale(d.length));
-
                 tooltip.setHidden();
             });
     }
@@ -226,6 +224,7 @@ export class BinScatterComponent implements AfterViewInit {
 
     /**
      * Compute the index of the hexagon bin containing the currently selected game's data
+     * 
      * @returns Index of the bin contained in the return value of the call to `hexBin`,
      * -1 if the game does not have a value in either of the two selected categories
      * (i.e. `this.gameData === undefined`)
@@ -235,8 +234,8 @@ export class BinScatterComponent implements AfterViewInit {
         const gamePoint: Point = {x: this.xScale(this.gameData.x), y: this.yScale(this.gameData.y)};
 
         // Uses Manhattan distance
-        let closestHexagonIdx: number = 0;
-        let closestDist: number = 1e10;
+        let closestHexagonIdx = 0;
+        let closestDist = 1e10;
         for (const [idx, center] of this.hexBin.centers().entries()) {
             const currentDist = Math.abs(center.x - gamePoint.x) + Math.abs(center.y - gamePoint.y);
             if (currentDist < closestDist) {

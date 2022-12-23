@@ -23,4 +23,4 @@ export const numericsFiles: Array<string> = [
     "required_age.json", "completion_percentage.json",
     // Metacritic
     "metacritic_score.json", "metacritic_user_score.json"
-]
+];
