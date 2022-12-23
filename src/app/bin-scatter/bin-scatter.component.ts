@@ -2,7 +2,7 @@ import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
 import * as d3HexBin from 'd3-hexbin';
 import { TooltipComponent } from '../tooltip/tooltip.component';
-import { Point } from './binScatterData';
+import { Point, availableNumerics, numericsFiles } from './binScatterData';
 import exampleData from "./example-data.json";
 
 @Component({
@@ -13,17 +13,26 @@ import exampleData from "./example-data.json";
 
 export class BinScatterComponent implements AfterViewInit {
 
-    @Input() inputData: Array<Point> = exampleData;
     @Input() instanceId!: string;
-    @Input() binRadius = 15; // Controls radius of each hexagon, i.e. bin granularity
+    @Input() totalWidth: number     = 1024;
+    @Input() totalHeight: number    = 450;
+    @Input() currentAppId: number   = 10;
+    @Input() binRadius              = 5; // Controls radius of each hexagon, i.e. bin granularity
 
+    // Axis data selection
+    availableNumerics: Array<string> = availableNumerics;
+    currentXAxis: string = "Median Playtime - Forever";
+    currentYAxis: string  = "Like Percentage";
+
+    private plotData: Array<Point> = exampleData;
+    private gameData?: Point;
     private hexBin;
     private svg;
 
     // Set the dimensions and margins of the graph
-    private margin = {top: 50, right: 300, bottom: 100, left: 50};
-    private width = 1024 - this.margin.left - this.margin.right;
-    private height = 768 - this.margin.top - this.margin.bottom;
+    private margin = {top: 50, right: 350, bottom: 100, left: 50};
+    private width = this.totalWidth - this.margin.left - this.margin.right;
+    private height = this.totalHeight - this.margin.top - this.margin.bottom;
 
     // Scale objects for access by several methods
     private xScale;
@@ -31,9 +40,9 @@ export class BinScatterComponent implements AfterViewInit {
     private densityScale;
 
     // Parameters for the colour-to-density scale
-    private colourPalette = d3.interpolateInferno;
+    private colourPalette = d3.interpolateReds;
     private colourScaleWidth = 75;
-    private colourScaleHeight = 400;
+    private colourScaleHeight = 300;
     private colourScaleHorizontalOffset = 150;
     private colourScaleVerticalOffset = 50;
     private colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
@@ -41,9 +50,52 @@ export class BinScatterComponent implements AfterViewInit {
 
     ngAfterViewInit(): void {
         this.createSvg();
-        this.initScales();
-        this.drawBins();
-        this.drawColourScale();
+        this.constructGraph();
+    }
+
+    onXChange(newXLabel: string) {
+        this.currentXAxis = newXLabel;
+        this.constructGraph();
+    }
+
+    onYChange(newYLabel: string) {
+        this.currentYAxis = newYLabel;
+        this.constructGraph();
+    }
+
+    private async constructGraph(): Promise<void> {
+        // Construct file paths
+        const xPath = `assets/numerics/${this.labelToFileName(this.currentXAxis)}`
+        const yPath = `assets/numerics/${this.labelToFileName(this.currentYAxis)}`
+
+        // Load, process and assign data
+        const xRes                          = await fetch(xPath);
+        const xValue                        = await xRes.text();
+        const xData: Record<string, number> = JSON.parse(xValue);
+        const yRes                          = await fetch(yPath);
+        const yValue                        = await yRes.text();
+        const yData: Record<string, number> = JSON.parse(yValue);
+        this.plotData = this.zipToPoints(xData, yData);
+
+        this.gameData = this.currentAppId in xData && this.currentAppId in yData    ?
+                        {x: xData[this.currentAppId], y: yData[this.currentAppId]}  :
+                        undefined;
+
+        this.svg.selectAll("*").remove();
+        this.drawVisuals();
+    }
+
+    private labelToFileName(label: string) : string { return numericsFiles[availableNumerics.indexOf(label)]; }
+
+    private zipToPoints(xData: Record<string, number>, yData: Record<string, number>): Array<Point> {
+        // Find shortest of the two to add games having both attributes ONLY
+        const xSize     = Object.keys(xData).length;
+        const ySize     = Object.keys(yData).length;
+        const shortest  = xSize <= ySize ? xData : yData;
+
+        const points: Array<Point> = [];
+        for (const appId of Object.keys(shortest)) { points.push({x: xData[appId], y: yData[appId]}); }
+        return points;
     }
 
     private createSvg(): void {
@@ -55,13 +107,19 @@ export class BinScatterComponent implements AfterViewInit {
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")").style("user-select","none");
     }
 
+    private drawVisuals(): void {
+        this.initScales();
+        this.drawBins();
+        this.drawColourScale();
+    }
+
     private initScales(): void {
         // Define ranges
         this.xScale = d3.scaleLinear()
-            .domain([0, d3.max(this.inputData, (d) => d.x) as number])
+            .domain([0, d3.max(this.plotData, (d) => d.x) as number])
             .range([0, this.width]);
         this.yScale = d3.scaleLinear()
-            .domain([0, d3.max(this.inputData, (d) => d.y) as number])
+            .domain([0, d3.max(this.plotData, (d) => d.y) as number])
             .range([this.height, 0]);
 
         // Draw axes
@@ -82,12 +140,13 @@ export class BinScatterComponent implements AfterViewInit {
             .radius(this.binRadius * (this.width / this.height));
 
         // Literal vomit
-        const bins = this.hexBin(this.inputData) as Array<Array<any>>;
+        const bins = this.hexBin(this.plotData) as Array<Array<any>>;
         this.densityScale = d3.scaleSequential()
         .domain([0, d3.max(bins, d => d.length) as number])
         .interpolator(this.colourPalette);
 
         const tooltip = new TooltipComponent();
+        const gameDatumHexagonIdx = this.findChosenGameIdx();
 
         this.svg
         .selectAll("hexagons")
@@ -97,6 +156,10 @@ export class BinScatterComponent implements AfterViewInit {
             .attr("d", (d) => `M${d.x},${d.y}${this.hexBin.hexagon()}`)
             .attr("transform", `translate(${this.margin.left + this.hexBin.radius()}, ${this.margin.top - this.hexBin.radius()})`) // God in heaven, please forgive me
             .attr("fill", (d) => this.densityScale(d.length))
+            // Highlight current game bin
+            .attr("stroke", (d, i) => i == gameDatumHexagonIdx ? "#33aa22" : "")
+            .attr("stroke-width", (d, i) => i == gameDatumHexagonIdx ? "2" : "")
+            // Tooltip registration
             .on("mouseover", (event, d) => {
                 d3.select(event.target).attr("fill", "#22bb33");
 
@@ -159,5 +222,28 @@ export class BinScatterComponent implements AfterViewInit {
         .attr("transform", `translate(${this.margin.left + this.width + this.colourScaleHorizontalOffset + this.colourScaleWidth},\
                                ${this.colourScaleVerticalOffset})`)
         .call(d3.axisRight(densityToCoord));
+    }
+
+    /**
+     * Compute the index of the hexagon bin containing the currently selected game's data
+     * @returns Index of the bin contained in the return value of the call to `hexBin`,
+     * -1 if the game does not have a value in either of the two selected categories
+     * (i.e. `this.gameData === undefined`)
+     */
+    private findChosenGameIdx(): number {
+        if (this.gameData === undefined) { return -1; }
+        const gamePoint: Point = {x: this.xScale(this.gameData.x), y: this.yScale(this.gameData.y)};
+
+        // Uses Manhattan distance
+        let closestHexagonIdx: number = 0;
+        let closestDist: number = 1e10;
+        for (const [idx, center] of this.hexBin.centers().entries()) {
+            const currentDist = Math.abs(center.x - gamePoint.x) + Math.abs(center.y - gamePoint.y);
+            if (currentDist < closestDist) {
+                closestDist = currentDist;
+                closestHexagonIdx = idx;
+            }
+        }
+        return closestHexagonIdx;
     }
 }
