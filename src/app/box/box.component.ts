@@ -1,4 +1,4 @@
-import { Component, Input, AfterViewInit } from '@angular/core';
+import { Component, Input, AfterViewInit, ViewEncapsulation } from '@angular/core';
 import * as d3 from 'd3';
 import {BoxData, ExampleData, ExampleLabels} from './boxData';
 import { TooltipComponent } from "../tooltip/tooltip.component";
@@ -6,7 +6,8 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
 @Component({
     selector: 'app-box',
     templateUrl: './box.component.html',
-    styleUrls: ['./box.component.sass']
+    styleUrls: ['./box.component.sass'],
+    encapsulation: ViewEncapsulation.None
   })
 
 export class BoxComponent implements AfterViewInit {
@@ -17,13 +18,19 @@ export class BoxComponent implements AfterViewInit {
     @Input() height                     = 768;
 
     // Drawing parameters
-    @Input() boxHeight: number = 50;
+    @Input() boxHeight          = 50;
+    @Input() labelTextSize      = 20;
+    @Input() scaleTextSize      = 12;
+    @Input() textVerticalOffset = 5;
+    @Input() leftTextOffset     = 25;
+    @Input() rightTextOffset    = 10;
+    @Input() borderWidth        = 1;
 
     private svg;
 
     // Set the dimensions and margins of the graph
-    @Input() margin          = {top: 25, right: 25, bottom: 25, left: 10};
-    @Input() text_margin     = {top: 0, right: 0, bottom: 0, left: 75};
+    @Input() margin          = {top: 25, right: 0, bottom: 25, left: 0};
+    @Input() text_margin     = {top: 0, right: 0, bottom: 0, left: 90};
     private marginedWidth!: number;
     private marginedHeight!: number;
     
@@ -84,8 +91,7 @@ export class BoxComponent implements AfterViewInit {
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.max);})
             .attr("y1", (d) => {return this.y_scale(d.label);})
             .attr("y2", (d) => {return this.y_scale(d.label);})
-            .attr("stroke", "black")
-            .style("width", 40);
+            .classed("main-line", true)
 
         // Rectangle for the main box
         this.svg
@@ -97,8 +103,7 @@ export class BoxComponent implements AfterViewInit {
             .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
             .attr("height", this.boxHeight)
             .attr("width", (d, idx) => {return this.x_scales[idx](d.upper_quartile) - this.x_scales[idx](d.lower_quartile);})
-            .attr("stroke", "black")
-            .style("fill", "#69b3a2");
+            .classed("box", true);
 
         // Show the median
         this.svg
@@ -110,41 +115,36 @@ export class BoxComponent implements AfterViewInit {
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.median);})
             .attr("y1", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
             .attr("y2", (d) => {return this.y_scale(d.label)! + (this.boxHeight / 2);})
-            .attr("stroke", "black")
-            .style("width", 80);
+            .classed("median-line", true);
 
         // Left and right borders + text
         // TODO: Change hardcoded values for offsets
-        const textVerticalOffset = 3;
-        const leftTextOffset = 20;
-        const rightTextOffset = 5;
-        const borderWidth = 1;
         const selection = this.svg
         .selectAll("borderVisuals")
         .data(this.inputData)
         .enter();
         selection.append("rect") // Left border
-            .attr("x", this.x_scale_range[0] + borderWidth)
+            .attr("x", this.x_scale_range[0] + this.borderWidth)
             .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
             .attr("height", this.boxHeight)
-            .attr("width", borderWidth)
-            .attr("stroke", "black")
-            .style("fill", "black");
+            .attr("width", this.borderWidth)
+            .classed("border", true);
         selection.append("rect") // Right border
-            .attr("x", this.x_scale_range[1] - borderWidth)
+            .attr("x", this.x_scale_range[1] - this.borderWidth)
             .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
             .attr("height", this.boxHeight)
-            .attr("width", borderWidth)
-            .attr("stroke", "black")
-            .style("fill", "black");
+            .attr("width", this.borderWidth)
+            .classed("border", true);
         selection.append("text") // Min value
             .text((d) => {return d.min;})
-            .attr("x", this.x_scale_range[0] - leftTextOffset)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("x", this.x_scale_range[0] - this.leftTextOffset)
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.scaleTextSize);
         selection.append("text") // Max value
             .text((d) => {return d.max;})
-            .attr("x", this.x_scale_range[1] + rightTextOffset)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("x", this.x_scale_range[1] + this.rightTextOffset)
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.scaleTextSize);
 
         // Category labels
         this.svg
@@ -154,7 +154,8 @@ export class BoxComponent implements AfterViewInit {
         .append("text")
             .text((d) => {return d.label;})
             .attr("x", this.x_scale_range[0] - this.text_margin.left)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.labelTextSize);
     }
 
     private drawPoint(label: string, value: number): void {
@@ -166,7 +167,7 @@ export class BoxComponent implements AfterViewInit {
             .attr("cx", this.x_scales[scaleIdx](value))
             .attr("cy", this.y_scale(label))
             .attr("r", 10)
-            .attr("fill", "#f568fcc8")
+            .classed("highlight-circle", true)
             .on("mouseover", () => {
                 tooltip.setText(value.toString());
                 tooltip.setVisible();

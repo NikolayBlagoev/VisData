@@ -48,7 +48,7 @@ $primary-palette: (
   )
 );
 
-$VisData-primary: mat.define-palette($primary-palette, 400, 200, 500, 100);
+$VisData-primary: mat.define-palette($primary-palette, 400, 100, 500, 50);
 $VisData-accent: mat.define-palette(mat.$blue-palette, 600, 300, 900, 50);
 
 // The warn palette is optional (defaults to red).

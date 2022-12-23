@@ -3,7 +3,7 @@
 
 <!-- ========== NAVIGATION BAR ========== -->
 <mat-toolbar color="primary" style="position: fixed; top: 0; height: 80px; z-index: 100;">
-  <span style = "margin-left: 5%;"><h2>Steam Monkey</h2></span>
+  <span style = "margin-left: 5%;"><h1>Steam Monkey</h1></span>
   <span class="spacer"></span>
   <form (submit)="$event.preventDefault()" style="margin-top: 20px">
     <mat-form-field>
@@ -21,7 +21,7 @@
     </mat-form-field>
   </form>
   <a href="https://store.steampowered.com/app/{{currentGame.appid}}" target="_blank">
-    <img src="assets/icon.png" alt="Steam icon"  style="height: 30px; width: 30px; margin-left: 30px; ">
+    <img src="assets/icon.png" alt="Steam icon"  style="height: 50px; width: 50px; margin-left: 30px; ">
   </a>
 </mat-toolbar>
 
@@ -102,11 +102,15 @@
     <div class="two-col-container vis-parent">
       <div class="col">
         <h2 style="margin-inline-start: 5%;">Popularity Metrics</h2>
-        <app-radar instanceId="categoricalDataRadar" class="vis-component" [maxRadius]=175></app-radar>
+        <app-radar instanceId="categoricalDataRadar" class="vis-component" [height]=400
+                   [centerHorizontalOffset]=225 [centerVerticalOffset]=200 [maxRadius]=150>
+        </app-radar>
       </div>
 
       <div class="col">
-        <app-box instanceId="categoricalDataBox" class="vis-component"></app-box>
+        <app-box instanceId="categoricalDataBox" class="vis-component" [height]=500 [width]=550
+                 >
+        </app-box>
       </div>
     </div>
   </mat-card>
@@ -219,6 +223,7 @@
 
   <!-- ========== GENRE INFO ========== -->
   <mat-divider></mat-divider>
+  <h1 style="text-align: center;">Genre-specific Information</h1>
 
   <!-- Genre selector -->
   <div style="height: 20px"></div>
