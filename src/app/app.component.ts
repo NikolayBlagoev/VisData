@@ -5,6 +5,7 @@ import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
 import {KaggleGame} from "./data-types";
 import {EntryTreeService} from "./entry-tree.service";
+import { TooltipComponent } from './tooltip/tooltip.component';
 
 
 
@@ -16,7 +17,7 @@ import {EntryTreeService} from "./entry-tree.service";
 
 export class AppComponent implements OnInit {
   title = 'VisData';
-
+  t = new TooltipComponent();
   readonly optionsLength = 50;
 
   data: KaggleGame[] = [];
@@ -72,7 +73,51 @@ export class AppComponent implements OnInit {
       map(value => this._filter(value))
     );
   }
+  onEnterGameReviews(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows positive reviews as percentage of total reviews for Steam user scores, Metacritic critic scores, and Metacritic user scores");
+    // console.log("AAA");
+  }
 
+  onEnterLikes30Days(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows ????");
+    // console.log("AAA");
+  }
+
+  onEnterGenreCount(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows the number of games made per genre (limited to genres above certain threshold). Highlighted are the genres of the selected game NOTE: A game can be in multiple genres");
+    // console.log("AAA");
+  }
+
+  onEnterCCU30Days(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows peak active players for each day for the given time period");
+    // console.log("AAA");
+  }
+
+  onEnterGameCompletion(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows expected percentage of total players who have completed the game");
+    // console.log("AAA");
+  }
+
+  onLeaveGameReviews(){
+    const t = new TooltipComponent();
+    t.setHidden();
+    // console.log("BBB");
+  }
   private _filter(value: string): KaggleGame[] {
     // noinspection SuspiciousTypeOfGuard
     if (typeof value !== "string") {

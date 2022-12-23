@@ -74,6 +74,7 @@ export class BarComponent implements AfterViewInit {
     .append("svg")
     .attr("width", this.width + (this.margin * 2))
     .attr("height", this.height + (this.margin * 2))
+    .attr("transform", "translate(" + -this.margin/2 + "," + 0 + ")").style("user-select","none")
     .append("g")
     .attr("transform", "translate(" + this.margin + "," + 0 + ")").style("user-select","none");
   }
@@ -81,7 +82,7 @@ export class BarComponent implements AfterViewInit {
   private drawBars(data: BarData[], highlighted: string[]): void {
     data.sort((e1, e2) => e2.Value - e1.Value);
     const max_el = data.reduce((acc, e1) => acc = acc > e1.Value ? acc : e1.Value, -1000);
-
+    data = data.filter((el) => el.Value > max_el/200);
     // Create the X-axis band scale
     const x = d3.scaleBand()
     .range([0, this.width])
