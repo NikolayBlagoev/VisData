@@ -91,7 +91,7 @@ def _fetch_user_score(game_name: str) -> float:
         if user_score_anchor is None:
             return -1
         user_score = user_score_anchor.find('div').text
-        if (user_score is None) or not (user_score.isnumeric()):
+        if (user_score is None) or (user_score == "tbd"):
             return -1
         return float(user_score)
 
@@ -100,7 +100,7 @@ def _fetch_user_score(game_name: str) -> float:
         print(f'===== ERROR {BASE_URL + create_url(game_name)} =====')
         print(f"GAME NAME: {game_name}")
         print(e)
-        sleep(2)
+        sleep(1)
         return _fetch_user_score(game_name)
 
 
@@ -118,7 +118,7 @@ def add_user_scores():
                 if metacritic_datum["Meta Score"] != -1:
                     game_name = steam_data[idx + steam_data_offset]["name"]
                     metacritic_datum["User Score"] = _fetch_user_score(game_name)
-                    sleep(2)
+                    sleep(1)
                 else:
                     metacritic_datum["User Score"] = -1
                 data[idx] = metacritic_datum
