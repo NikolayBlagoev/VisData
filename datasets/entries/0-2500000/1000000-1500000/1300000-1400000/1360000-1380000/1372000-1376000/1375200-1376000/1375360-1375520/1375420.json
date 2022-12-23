@@ -1,59 +1,80 @@
 {
-  "appid": 1375420,
-  "name": "Messier111",
-  "developer": "MELPOT, inc.",
-  "publisher": "MELPOT, inc.",
-  "tags": {
-    "Action": 48,
-    "Twin Stick Shooter": 44,
-    "Top-Down Shooter": 38,
-    "Shooter": 34,
-    "Top-Down": 31,
-    "Singleplayer": 22
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 38.54999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1375420,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Japanese, French, Italian, Spanish - Spain, Arabic, Dutch, Portuguese - Portugal, Russian, Simplified Chinese, Korean, German",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/10/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1375420/header.jpg?t=1606208899",
+  "consensus_genre": "Action",
+  "developer": "MELPOT, inc.",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 38.54999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1375420/header.jpg?t=1606208899",
+  "initialprice": "499",
+  "languages": "English, Japanese, French, Italian, Spanish - Spain, Arabic, Dutch, Portuguese - Portugal, Russian, Simplified Chinese, Korean, German",
+  "name": "Messier111",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "499",
+  "publisher": "MELPOT, inc.",
+  "release_date": "2020/10/21",
+  "required_age": 0,
+  "tags": {
+    "Action": 48,
+    "Shooter": 34,
+    "Singleplayer": 22,
+    "Top-Down": 31,
+    "Top-Down Shooter": 38,
+    "Twin Stick Shooter": 44
+  },
+  "type": "game"
 }

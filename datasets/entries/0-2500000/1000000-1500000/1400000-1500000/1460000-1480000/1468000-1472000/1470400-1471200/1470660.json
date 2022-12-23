@@ -1,91 +1,112 @@
 {
-  "appid": 1470660,
-  "name": "Amborettio",
-  "developer": "Wanech",
-  "publisher": "Wanech",
-  "tags": {
-    "CRPG": 392,
-    "Survival Horror": 386,
-    "Dungeon Crawler": 383,
-    "Tutorial": 377,
-    "Building": 372,
-    "Mining": 363,
-    "RPG": 359,
-    "Survival": 356,
-    "Strategy": 347,
-    "Action RPG": 346,
-    "2D": 318,
-    "Top-Down": 306,
-    "Alternate History": 292,
-    "Post-apocalyptic": 279,
-    "Surreal": 265,
-    "Nonlinear": 249,
-    "Procedural Generation": 247,
-    "Sci-fi": 229,
-    "Atmospheric": 210,
-    "Crafting": 191
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 38.900001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1470660,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Leaderboards"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "49",
-  "initialprice": "499",
-  "discount": "90",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/12/21",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1470660/header.jpg?t=1619168352",
+  "consensus_genre": "RPG",
+  "developer": "Wanech",
+  "discount": "90",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 38.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1470660/header.jpg?t=1619168352",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Amborettio",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "49",
+  "publisher": "Wanech",
+  "release_date": "2020/12/21",
+  "required_age": 0,
+  "tags": {
+    "2D": 318,
+    "Action RPG": 346,
+    "Alternate History": 292,
+    "Atmospheric": 210,
+    "Building": 372,
+    "CRPG": 392,
+    "Crafting": 191,
+    "Dungeon Crawler": 383,
+    "Mining": 363,
+    "Nonlinear": 249,
+    "Post-apocalyptic": 279,
+    "Procedural Generation": 247,
+    "RPG": 359,
+    "Sci-fi": 229,
+    "Strategy": 347,
+    "Surreal": 265,
+    "Survival": 356,
+    "Survival Horror": 386,
+    "Top-Down": 306,
+    "Tutorial": 377
+  },
+  "type": "game"
 }

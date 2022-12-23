@@ -1,31 +1,184 @@
 {
-  "appid": 418530,
-  "name": "Spelunky 2",
-  "developer": "Mossmouth, BlitWorks",
-  "publisher": "Mossmouth",
-  "tags": {
-    "Platformer": 549,
-    "2D Platformer": 500,
-    "Perma Death": 463,
-    "Action Roguelike": 445,
-    "Online Co-Op": 445,
-    "Difficult": 440,
-    "Co-op": 435,
-    "Indie": 419,
-    "Replay Value": 415,
-    "Procedural Generation": 402,
-    "4 Player Local": 399,
-    "Rogue-lite": 390,
-    "PvP": 381,
-    "Local Co-Op": 379,
-    "Action": 356,
-    "2D": 348,
-    "Rogue-like": 339,
-    "Cute": 317,
-    "Side Scroller": 316,
-    "Funny": 291
+  "Average Playtime - 2 Weeks": 13,
+  "Average Playtime - Forever": 1665,
+  "CCU Histogram": {
+    "2022-12-08": 514,
+    "2022-12-09": 524,
+    "2022-12-10": 545,
+    "2022-12-11": 562,
+    "2022-12-12": 580,
+    "2022-12-13": 598,
+    "2022-12-14": 588,
+    "2022-12-15": 578,
+    "2022-12-16": 582,
+    "2022-12-17": 586,
+    "2022-12-18": 590,
+    "2022-12-19": 582,
+    "2022-12-20": 574,
+    "2022-12-21": 567,
+    "2022-12-22": 614
   },
-  "type": "game",
+  "Completion": 36.900001525878906,
+  "Down 30 Days": 19,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 3,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    }
+  ],
+  "Median Playtime - 2 Weeks": 13,
+  "Median Playtime - Forever": 593,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 223,
+  "User Score": -1,
+  "appid": 418530,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -46,183 +199,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 14529,
-  "negative": 1068,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 562,
-  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Catalan",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/418530/header.jpg?t=1663719294",
+  "consensus_genre": "Indie",
+  "developer": "Mossmouth, BlitWorks",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 14,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 13,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 223,
-  "Down 30 Days": 19,
-  "Completion": 36.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/418530/header.jpg?t=1663719294",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese, Catalan",
+  "name": "Spelunky 2",
+  "negative": 1068,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 14529,
+  "price": "1999",
+  "publisher": "Mossmouth",
+  "release_date": "2020/09/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 348,
+    "2D Platformer": 500,
+    "4 Player Local": 399,
+    "Action": 356,
+    "Action Roguelike": 445,
+    "Co-op": 435,
+    "Cute": 317,
+    "Difficult": 440,
+    "Funny": 291,
+    "Indie": 419,
+    "Local Co-Op": 379,
+    "Online Co-Op": 445,
+    "Perma Death": 463,
+    "Platformer": 549,
+    "Procedural Generation": 402,
+    "PvP": 381,
+    "Replay Value": 415,
+    "Rogue-like": 339,
+    "Rogue-lite": 390,
+    "Side Scroller": 316
+  },
+  "type": "game"
 }

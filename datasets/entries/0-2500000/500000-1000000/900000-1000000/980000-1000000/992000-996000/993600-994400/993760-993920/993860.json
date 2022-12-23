@@ -1,52 +1,73 @@
 {
-  "appid": 993860,
-  "name": "\u5708\u5708\u5de5\u574a OO.Inc",
-  "developer": "\u897f\u74dc\u5de5\u4f5c\u5ba4",
-  "publisher": "\u897f\u74dc\u5de5\u4f5c\u5ba4",
-  "tags": {
-    "Early Access": 31,
-    "Casual": 22,
-    "Indie": 20,
-    "Strategy": 19
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 31.200000762939453,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 993860,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/12/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/993860/header.jpg?t=1548922150",
+  "consensus_genre": "Early Access",
+  "developer": "\u897f\u74dc\u5de5\u4f5c\u5ba4",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 31.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/993860/header.jpg?t=1548922150",
+  "initialprice": "99",
+  "languages": "English, Simplified Chinese, Traditional Chinese",
+  "name": "\u5708\u5708\u5de5\u574a OO.Inc",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "\u897f\u74dc\u5de5\u4f5c\u5ba4",
+  "release_date": "2018/12/28",
+  "required_age": 0,
+  "tags": {
+    "Casual": 22,
+    "Early Access": 31,
+    "Indie": 20,
+    "Strategy": 19
+  },
+  "type": "game"
 }

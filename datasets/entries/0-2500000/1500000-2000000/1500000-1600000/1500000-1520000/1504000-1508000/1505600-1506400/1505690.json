@@ -1,76 +1,97 @@
 {
-  "appid": 1505690,
-  "name": "Lux mina",
-  "developer": "JOIS Games",
-  "publisher": "JOIS Games",
-  "tags": {
-    "Early Access": 107,
-    "Rogue-lite": 97,
-    "2D Platformer": 92,
-    "Side Scroller": 88,
-    "Flight": 84,
-    "Dungeon Crawler": 82,
-    "Perma Death": 76,
-    "PvE": 74,
-    "Action Roguelike": 73,
-    "Platformer": 70,
-    "2D Fighter": 68,
-    "Action-Adventure": 65,
-    "Character Customization": 64,
-    "RPG": 61,
-    "2D": 60,
-    "Action": 58,
-    "Minimalist": 56,
-    "Pixel Graphics": 54,
-    "Adventure": 51,
-    "Dark": 50
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 48.20000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1505690,
   "categories": [
     "Single-player",
     "Stats",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Norwegian, Russian, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2021/04/11",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1505690/header.jpg?t=1662970528",
+  "consensus_genre": "Early Access",
+  "developer": "JOIS Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 48.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1505690/header.jpg?t=1662970528",
+  "initialprice": "999",
+  "languages": "English, French, German, Norwegian, Russian, Spanish - Latin America",
+  "name": "Lux mina",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "999",
+  "publisher": "JOIS Games",
+  "release_date": "2021/04/11",
+  "required_age": 0,
+  "tags": {
+    "2D": 60,
+    "2D Fighter": 68,
+    "2D Platformer": 92,
+    "Action": 58,
+    "Action Roguelike": 73,
+    "Action-Adventure": 65,
+    "Adventure": 51,
+    "Character Customization": 64,
+    "Dark": 50,
+    "Dungeon Crawler": 82,
+    "Early Access": 107,
+    "Flight": 84,
+    "Minimalist": 56,
+    "Perma Death": 76,
+    "Pixel Graphics": 54,
+    "Platformer": 70,
+    "PvE": 74,
+    "RPG": 61,
+    "Rogue-lite": 97,
+    "Side Scroller": 88
+  },
+  "type": "game"
 }

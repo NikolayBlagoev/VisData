@@ -1,56 +1,77 @@
 {
-  "appid": 1273060,
-  "name": "Aliens Love Beefs",
-  "developer": "Blob Lab",
-  "publisher": "Blob Lab",
-  "tags": {
-    "Casual": 32,
-    "Action": 31,
-    "Indie": 31,
-    "VR": 13,
-    "Aliens": 12,
-    "Sci-fi": 12,
-    "Family Friendly": 11,
-    "Funny": 11
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 35.70000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1273060,
   "categories": [
     "Single-player",
     "Steam Leaderboards"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/05/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1273060/header.jpg?t=1590801316",
+  "consensus_genre": "Casual",
+  "developer": "Blob Lab",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 35.70000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1273060/header.jpg?t=1590801316",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Aliens Love Beefs",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "999",
+  "publisher": "Blob Lab",
+  "release_date": "2020/05/29",
+  "required_age": 0,
+  "tags": {
+    "Action": 31,
+    "Aliens": 12,
+    "Casual": 32,
+    "Family Friendly": 11,
+    "Funny": 11,
+    "Indie": 31,
+    "Sci-fi": 12,
+    "VR": 13
+  },
+  "type": "game"
 }

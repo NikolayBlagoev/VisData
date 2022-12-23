@@ -1,60 +1,81 @@
 {
-  "appid": 1857640,
-  "name": "Forest Kingdom",
-  "developer": "AbyssalHunter",
-  "publisher": "AbyssalHunter",
-  "tags": {
-    "Adventure": 70,
-    "2D Fighter": 44,
-    "Indie": 41,
-    "Hidden Object": 39,
-    "2D": 38,
-    "Action": 35,
-    "Nature": 35,
-    "PvE": 29,
-    "Singleplayer": 27,
-    "Crafting": 25,
-    "Exploration": 23,
-    "2D Platformer": 19,
-    "Trading": 17
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1857640,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Thai",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1857640/header.jpg?t=1644407451",
+  "consensus_genre": "Adventure",
+  "developer": "AbyssalHunter",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1857640/header.jpg?t=1644407451",
+  "initialprice": "499",
+  "languages": "English, Thai",
+  "name": "Forest Kingdom",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "499",
+  "publisher": "AbyssalHunter",
+  "release_date": "2022/01/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 38,
+    "2D Fighter": 44,
+    "2D Platformer": 19,
+    "Action": 35,
+    "Adventure": 70,
+    "Crafting": 25,
+    "Exploration": 23,
+    "Hidden Object": 39,
+    "Indie": 41,
+    "Nature": 35,
+    "PvE": 29,
+    "Singleplayer": 27,
+    "Trading": 17
+  },
+  "type": "game"
 }

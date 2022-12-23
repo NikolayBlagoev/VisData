@@ -1,64 +1,85 @@
 {
-  "appid": 1641820,
-  "name": "Abyss King",
-  "developer": "Long Pot",
-  "publisher": "Long Pot",
-  "tags": {
-    "Adventure": 71,
-    "Action": 65,
-    "RPG": 62,
-    "Action-Adventure": 39,
-    "Action Roguelike": 36,
-    "Platformer": 30,
-    "Pixel Graphics": 28,
-    "Drama": 26,
-    "Post-apocalyptic": 24,
-    "Survival": 22,
-    "Indie": 21,
-    "Linear": 20,
-    "Female Protagonist": 18,
-    "Controller": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 13.300000190734863,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1641820,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1099",
-  "initialprice": "1099",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1641820/header.jpg?t=1651755283",
+  "consensus_genre": "Adventure",
+  "developer": "Long Pot",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 13.300000190734863,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1641820/header.jpg?t=1651755283",
+  "initialprice": "1099",
+  "languages": "English, Traditional Chinese, Japanese",
+  "name": "Abyss King",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1099",
+  "publisher": "Long Pot",
+  "release_date": "2022/05/3",
+  "required_age": 0,
+  "tags": {
+    "Action": 65,
+    "Action Roguelike": 36,
+    "Action-Adventure": 39,
+    "Adventure": 71,
+    "Controller": 16,
+    "Drama": 26,
+    "Female Protagonist": 18,
+    "Indie": 21,
+    "Linear": 20,
+    "Pixel Graphics": 28,
+    "Platformer": 30,
+    "Post-apocalyptic": 24,
+    "RPG": 62,
+    "Singleplayer": 14,
+    "Survival": 22
+  },
+  "type": "game"
 }

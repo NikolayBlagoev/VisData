@@ -1,99 +1,120 @@
 {
-  "appid": 2147640,
-  "name": "Chacara",
-  "developer": "David Pateti",
-  "publisher": "David Pateti",
-  "tags": {
-    "Action": 100,
-    "Casual": 94,
-    "Retro": 91,
-    "Horror": 88,
-    "3D": 85,
-    "Pixel Graphics": 79,
-    "First-Person": 77,
-    "Noir": 75,
-    "Assassin": 73,
-    "Drama": 71,
-    "Gothic": 69,
-    "Mystery": 67,
-    "Survival Horror": 65,
-    "Thriller": 63,
-    "Psychological Horror": 61,
-    "Multiple Endings": 59,
-    "Inventory Management": 57,
-    "Open World": 55,
-    "Nonlinear": 53,
-    "Singleplayer": 51
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 56.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2147640,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, German, Spanish - Spain, Simplified Chinese, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal, Russian, Italian, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/10/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2147640/header.jpg?t=1666188818",
+  "consensus_genre": "Action",
+  "developer": "David Pateti",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 56.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2147640/header.jpg?t=1666188818",
+  "initialprice": "299",
+  "languages": "English, German, Spanish - Spain, Simplified Chinese, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal, Russian, Italian, Japanese",
+  "name": "Chacara",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "299",
+  "publisher": "David Pateti",
+  "release_date": "2022/10/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 85,
+    "Action": 100,
+    "Assassin": 73,
+    "Casual": 94,
+    "Drama": 71,
+    "First-Person": 77,
+    "Gothic": 69,
+    "Horror": 88,
+    "Inventory Management": 57,
+    "Multiple Endings": 59,
+    "Mystery": 67,
+    "Noir": 75,
+    "Nonlinear": 53,
+    "Open World": 55,
+    "Pixel Graphics": 79,
+    "Psychological Horror": 61,
+    "Retro": 91,
+    "Singleplayer": 51,
+    "Survival Horror": 65,
+    "Thriller": 63
+  },
+  "type": "game"
 }

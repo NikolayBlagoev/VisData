@@ -1,50 +1,191 @@
 {
-  "appid": 1069660,
-  "name": "Ultimate Admiral: Dreadnoughts",
-  "developer": "Game-Labs",
-  "publisher": "Game-Labs",
-  "tags": {
-    "Naval Combat": 186,
-    "Naval": 172,
-    "Simulation": 162,
-    "Early Access": 146,
-    "World War II": 139,
-    "Building": 136,
-    "Indie": 133,
-    "World War I": 130,
-    "Sandbox": 129,
-    "Military": 125,
-    "Realistic": 119,
-    "RTS": 111,
-    "Wargame": 107,
-    "Historical": 103,
-    "War": 96,
-    "Singleplayer": 88,
-    "Turn-Based Strategy": 64,
-    "Strategy": 58,
-    "3D": 57,
-    "Atmospheric": 49
+  "Average Playtime - 2 Weeks": 28,
+  "Average Playtime - Forever": 2054,
+  "CCU Histogram": {
+    "2022-12-08": 564,
+    "2022-12-09": 679,
+    "2022-12-10": 722,
+    "2022-12-11": 695,
+    "2022-12-12": 669,
+    "2022-12-13": 643,
+    "2022-12-14": 614,
+    "2022-12-15": 586,
+    "2022-12-16": 599,
+    "2022-12-17": 613,
+    "2022-12-18": 627,
+    "2022-12-19": 606,
+    "2022-12-20": 586,
+    "2022-12-21": 566,
+    "2022-12-22": 544
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 63,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 4,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 4,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 3,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 5,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 4,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": 28,
+  "Median Playtime - Forever": 2150,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 162,
+  "User Score": -1,
+  "appid": 1069660,
   "categories": [
     "Single-player"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 1904,
-  "negative": 542,
-  "price": "3499",
-  "initialprice": "3499",
-  "discount": "0",
   "ccu": 1201,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1069660/header.jpg?t=1667571112",
+  "consensus_genre": "Simulation",
+  "developer": "Game-Labs",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
@@ -52,163 +193,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 5,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 5,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 12,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 6,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 162,
-  "Down 30 Days": 63,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1069660/header.jpg?t=1667571112",
+  "initialprice": "3499",
+  "languages": "English",
+  "name": "Ultimate Admiral: Dreadnoughts",
+  "negative": 542,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1904,
+  "price": "3499",
+  "publisher": "Game-Labs",
+  "release_date": "2021/12/10",
+  "required_age": 0,
+  "tags": {
+    "3D": 57,
+    "Atmospheric": 49,
+    "Building": 136,
+    "Early Access": 146,
+    "Historical": 103,
+    "Indie": 133,
+    "Military": 125,
+    "Naval": 172,
+    "Naval Combat": 186,
+    "RTS": 111,
+    "Realistic": 119,
+    "Sandbox": 129,
+    "Simulation": 162,
+    "Singleplayer": 88,
+    "Strategy": 58,
+    "Turn-Based Strategy": 64,
+    "War": 96,
+    "Wargame": 107,
+    "World War I": 130,
+    "World War II": 139
+  },
+  "type": "game"
 }

@@ -1,90 +1,111 @@
 {
-  "appid": 2062300,
-  "name": "I am Bjorn : Escape Room",
-  "developer": "Bernard van Wyk",
-  "publisher": "Bernard van Wyk",
-  "tags": {
-    "Indie": 190,
-    "Escape Room": 184,
-    "Puzzle": 180,
-    "First-Person": 177,
-    "Short": 171,
-    "Colorful": 162,
-    "Story Rich": 155,
-    "Adventure": 147,
-    "Point & Click": 138,
-    "Singleplayer": 130,
-    "Walking Simulator": 127,
-    "3D Platformer": 116,
-    "Hidden Object": 103,
-    "1990's": 89,
-    "Simulation": 75,
-    "Clicker": 59,
-    "Puzzle-Platformer": 43,
-    "Physics": 27,
-    "Time Attack": 25
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 2062300,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2062300/header.jpg?t=1664380685",
+  "consensus_genre": "Indie",
+  "developer": "Bernard van Wyk",
+  "discount": "0",
   "genre": [
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2062300/header.jpg?t=1664380685",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "I am Bjorn : Escape Room",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "299",
+  "publisher": "Bernard van Wyk",
+  "release_date": "2022/09/28",
+  "required_age": 0,
+  "tags": {
+    "1990's": 89,
+    "3D Platformer": 116,
+    "Adventure": 147,
+    "Clicker": 59,
+    "Colorful": 162,
+    "Escape Room": 184,
+    "First-Person": 177,
+    "Hidden Object": 103,
+    "Indie": 190,
+    "Physics": 27,
+    "Point & Click": 138,
+    "Puzzle": 180,
+    "Puzzle-Platformer": 43,
+    "Short": 171,
+    "Simulation": 75,
+    "Singleplayer": 130,
+    "Story Rich": 155,
+    "Time Attack": 25,
+    "Walking Simulator": 127
+  },
+  "type": "game"
 }

@@ -1,31 +1,184 @@
 {
-  "appid": 1687950,
-  "name": "Persona 5 Royal",
-  "developer": "ATLUS",
-  "publisher": "SEGA",
-  "tags": {
-    "JRPG": 434,
-    "Anime": 366,
-    "Story Rich": 366,
-    "RPG": 356,
-    "Party-Based RPG": 337,
-    "Turn-Based Combat": 326,
-    "Great Soundtrack": 303,
-    "Turn-Based Strategy": 286,
-    "Singleplayer": 281,
-    "Emotional": 264,
-    "Colorful": 257,
-    "Multiple Endings": 254,
-    "Visual Novel": 239,
-    "Dating Sim": 214,
-    "Adventure": 181,
-    "Sexual Content": 152,
-    "Heist": 146,
-    "Detective": 117,
-    "Soundtrack": 117,
-    "Violent": 53
+  "Average Playtime - 2 Weeks": 1769,
+  "Average Playtime - Forever": 4603,
+  "CCU Histogram": {
+    "2022-12-08": 16786,
+    "2022-12-09": 15757,
+    "2022-12-10": 13627,
+    "2022-12-11": 12921,
+    "2022-12-12": 12215,
+    "2022-12-13": 11510,
+    "2022-12-14": 12022,
+    "2022-12-15": 12535,
+    "2022-12-16": 11768,
+    "2022-12-17": 11001,
+    "2022-12-18": 10234,
+    "2022-12-19": 10166,
+    "2022-12-20": 10099,
+    "2022-12-21": 10032,
+    "2022-12-22": 10680
   },
-  "type": "game",
+  "Completion": 52.0,
+  "Down 30 Days": 157,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 189
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 181
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 188
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 4,
+      "recommendations_up": 204
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 5,
+      "recommendations_up": 191
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 8,
+      "recommendations_up": 183
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 6,
+      "recommendations_up": 156
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 5,
+      "recommendations_up": 147
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 3,
+      "recommendations_up": 125
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 178
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 8,
+      "recommendations_up": 173
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 5,
+      "recommendations_up": 137
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 114
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 124
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 6,
+      "recommendations_up": 110
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 149
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 118
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 5,
+      "recommendations_up": 116
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 4,
+      "recommendations_up": 127
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 6,
+      "recommendations_up": 572
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 28,
+      "recommendations_up": 1256
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 7,
+      "recommendations_up": 678
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 491
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 10,
+      "recommendations_up": 458
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 11,
+      "recommendations_up": 488
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 397
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 343
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 5,
+      "recommendations_up": 157
+    }
+  ],
+  "Median Playtime - 2 Weeks": 1257,
+  "Median Playtime - Forever": 3883,
+  "Meta Score": "95",
+  "Rating": "ESRB M",
+  "Up 30 Days": 7750,
+  "User Score": -1,
+  "appid": 1687950,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,182 +186,50 @@
     "Full controller support",
     "Steam Trading Cards"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 9002,
-  "negative": 255,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 21495,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg?t=1666698742",
+  "consensus_genre": "RPG",
+  "developer": "ATLUS",
+  "discount": "0",
   "genre": [
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": "95",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 189,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 181,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 188,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 204,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 191,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 183,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 156,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 147,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 125,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 178,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 173,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 137,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 114,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 124,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 110,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 149,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 118,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 116,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 127,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 572,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1256,
-      "recommendations_down": 28
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 678,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 491,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 458,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 488,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 397,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 343,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 157,
-      "recommendations_down": 5
-    }
-  ],
-  "Up 30 Days": 7750,
-  "Down 30 Days": 157,
-  "Completion": 52.0,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg?t=1666698742",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+  "name": "Persona 5 Royal",
+  "negative": 255,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9002,
+  "price": "5999",
+  "publisher": "SEGA",
+  "release_date": "2022/10/20",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 181,
+    "Anime": 366,
+    "Colorful": 257,
+    "Dating Sim": 214,
+    "Detective": 117,
+    "Emotional": 264,
+    "Great Soundtrack": 303,
+    "Heist": 146,
+    "JRPG": 434,
+    "Multiple Endings": 254,
+    "Party-Based RPG": 337,
+    "RPG": 356,
+    "Sexual Content": 152,
+    "Singleplayer": 281,
+    "Soundtrack": 117,
+    "Story Rich": 366,
+    "Turn-Based Combat": 326,
+    "Turn-Based Strategy": 286,
+    "Violent": 53,
+    "Visual Novel": 239
+  },
+  "type": "game"
 }

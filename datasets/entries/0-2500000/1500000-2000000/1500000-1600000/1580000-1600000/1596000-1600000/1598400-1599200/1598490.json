@@ -1,21 +1,75 @@
 {
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
+  },
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
   "appid": 1598490,
-  "name": "EyeRoll",
+  "categories": [
+    "Single-player"
+  ],
+  "ccu": 0,
+  "consensus_genre": "Adventure",
   "developer": "Etienne Andlau",
+  "discount": "0",
+  "genre": [
+    "Adventure",
+    "Casual"
+  ],
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1598490/header.jpg?t=1667001383",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "EyeRoll",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
   "publisher": "Pencilgun",
+  "release_date": "2021/04/23",
+  "required_age": 0,
   "tags": {
+    "3D": 283,
     "Adventure": 339,
     "Casual": 334,
-    "Strategy": 308,
-    "Puzzle": 306,
-    "Exploration": 299,
-    "Puzzle-Platformer": 288,
-    "3D": 283,
     "Colorful": 273,
     "Cute": 264,
-    "Top-Down": 256,
     "Dark Humor": 244,
     "Detective": 232,
+    "Exploration": 299,
     "Family Friendly": 221,
     "Fantasy": 206,
     "Funny": 204,
@@ -23,44 +77,11 @@
     "Logic": 171,
     "Magic": 153,
     "Mystery": 134,
-    "Relaxing": 115
+    "Puzzle": 306,
+    "Puzzle-Platformer": 288,
+    "Relaxing": 115,
+    "Strategy": 308,
+    "Top-Down": 256
   },
-  "type": "game",
-  "categories": [
-    "Single-player"
-  ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
-  "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/23",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1598490/header.jpg?t=1667001383",
-  "genre": [
-    "Adventure",
-    "Casual"
-  ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "type": "game"
 }

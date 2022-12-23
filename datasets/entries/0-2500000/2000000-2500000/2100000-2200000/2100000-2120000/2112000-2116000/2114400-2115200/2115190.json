@@ -1,83 +1,104 @@
 {
-  "appid": 2115190,
-  "name": "Unify",
-  "developer": "William Hancock, Oscar Finbow",
-  "publisher": "FHB Studios",
-  "tags": {
-    "Relaxing": 476,
-    "Singleplayer": 470,
-    "PvE": 466,
-    "Top-Down Shooter": 461,
-    "Bullet Hell": 455,
-    "Arena Shooter": 445,
-    "Cartoon": 438,
-    "2D Fighter": 430,
-    "Survival": 421,
-    "Top-Down": 411,
-    "FPS": 400,
-    "Casual": 395,
-    "2D": 388,
-    "Shoot 'Em Up": 361,
-    "Stylized": 347,
-    "Tactical": 332,
-    "Assassin": 315,
-    "Dark": 313,
-    "Tutorial": 294,
-    "Local Co-Op": 274
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2115190,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2115190/header.jpg?t=1661954809",
+  "consensus_genre": "Casual",
+  "developer": "William Hancock, Oscar Finbow",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2115190/header.jpg?t=1661954809",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Unify",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "99",
+  "publisher": "FHB Studios",
+  "release_date": "2022/08/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 388,
+    "2D Fighter": 430,
+    "Arena Shooter": 445,
+    "Assassin": 315,
+    "Bullet Hell": 455,
+    "Cartoon": 438,
+    "Casual": 395,
+    "Dark": 313,
+    "FPS": 400,
+    "Local Co-Op": 274,
+    "PvE": 466,
+    "Relaxing": 476,
+    "Shoot 'Em Up": 361,
+    "Singleplayer": 470,
+    "Stylized": 347,
+    "Survival": 421,
+    "Tactical": 332,
+    "Top-Down": 411,
+    "Top-Down Shooter": 461,
+    "Tutorial": 294
+  },
+  "type": "game"
 }

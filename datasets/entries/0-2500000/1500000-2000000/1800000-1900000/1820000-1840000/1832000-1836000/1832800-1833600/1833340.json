@@ -1,65 +1,86 @@
 {
-  "appid": 1833340,
-  "name": "Anima",
-  "developer": "Jean Pierre Arteaga",
-  "publisher": "Psi Studios",
-  "tags": {
-    "Action-Adventure": 161,
-    "Singleplayer": 155,
-    "3D": 152,
-    "Female Protagonist": 146,
-    "Third Person": 141,
-    "Action": 137,
-    "Hack and Slash": 131,
-    "Adventure": 127,
-    "Exploration": 123,
-    "Colorful": 98,
-    "Atmospheric": 96,
-    "Fantasy": 84,
-    "Magic": 71,
-    "Combat": 57,
-    "Controller": 42,
-    "Hidden Object": 28,
-    "Multiple Endings": 26
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1833340,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1833340/header.jpg?t=1640869741",
+  "consensus_genre": "Action",
+  "developer": "Jean Pierre Arteaga",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1833340/header.jpg?t=1640869741",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Anima",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1999",
+  "publisher": "Psi Studios",
+  "release_date": "2021/12/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 152,
+    "Action": 137,
+    "Action-Adventure": 161,
+    "Adventure": 127,
+    "Atmospheric": 96,
+    "Colorful": 98,
+    "Combat": 57,
+    "Controller": 42,
+    "Exploration": 123,
+    "Fantasy": 84,
+    "Female Protagonist": 146,
+    "Hack and Slash": 131,
+    "Hidden Object": 28,
+    "Magic": 71,
+    "Multiple Endings": 26,
+    "Singleplayer": 155,
+    "Third Person": 141
+  },
+  "type": "game"
 }

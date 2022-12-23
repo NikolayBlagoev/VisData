@@ -1,78 +1,99 @@
 {
-  "appid": 1867930,
-  "name": "Mini Putt Camelot",
-  "developer": "Arctic Arcade",
-  "publisher": "Arctic Arcade",
-  "tags": {
-    "Mini Golf": 50,
-    "Medieval": 44,
-    "Sports": 43,
-    "Golf": 41,
-    "Fantasy": 38,
-    "Relaxing": 35,
-    "Cute": 29,
-    "Casual": 27,
-    "Female Protagonist": 24,
-    "Family Friendly": 21,
-    "Physics": 19,
-    "Singleplayer": 17
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 66.5999984741211,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 6,
+  "User Score": -1,
+  "appid": 1867930,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 6,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/06/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1867930/header.jpg?t=1654077623",
+  "consensus_genre": "Sports",
+  "developer": "Arctic Arcade",
+  "discount": "0",
   "genre": [
     "Sports"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 6,
-  "Down 30 Days": 0,
-  "Completion": 66.5999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1867930/header.jpg?t=1654077623",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "Mini Putt Camelot",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 6,
+  "price": "999",
+  "publisher": "Arctic Arcade",
+  "release_date": "2022/06/1",
+  "required_age": 0,
+  "tags": {
+    "Casual": 27,
+    "Cute": 29,
+    "Family Friendly": 21,
+    "Fantasy": 38,
+    "Female Protagonist": 24,
+    "Golf": 41,
+    "Medieval": 44,
+    "Mini Golf": 50,
+    "Physics": 19,
+    "Relaxing": 35,
+    "Singleplayer": 17,
+    "Sports": 43
+  },
+  "type": "game"
 }

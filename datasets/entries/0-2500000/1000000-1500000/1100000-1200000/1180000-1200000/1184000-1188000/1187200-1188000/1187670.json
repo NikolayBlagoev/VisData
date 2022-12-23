@@ -1,51 +1,72 @@
 {
-  "appid": 1187670,
-  "name": "Holo Views",
-  "developer": "Prometheus Vision Technology Co., Ltd.",
-  "publisher": "Prometheus Vision Technology Co., Ltd.",
-  "tags": {
-    "Free to Play": 107,
-    "Action": 106,
-    "Casual": 106
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1187670,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/12/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1187670/header.jpg?t=1619789272",
+  "consensus_genre": "Free to Play",
+  "developer": "Prometheus Vision Technology Co., Ltd.",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Free to Play"
   ],
-  "consensus_genre": "Free to Play",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1187670/header.jpg?t=1619789272",
+  "initialprice": "0",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "Holo Views",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "0",
+  "publisher": "Prometheus Vision Technology Co., Ltd.",
+  "release_date": "2019/12/9",
+  "required_age": 0,
+  "tags": {
+    "Action": 106,
+    "Casual": 106,
+    "Free to Play": 107
+  },
+  "type": "game"
 }

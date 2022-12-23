@@ -1,211 +1,232 @@
 {
-  "appid": 19900,
-  "name": "Far Cry 2",
-  "developer": "Ubisoft Montreal",
-  "publisher": "Ubisoft",
-  "tags": {
-    "Open World": 455,
-    "FPS": 405,
-    "Action": 316,
-    "Shooter": 220,
-    "Singleplayer": 202,
-    "First-Person": 191,
-    "Multiplayer": 184,
-    "Adventure": 141,
-    "Sandbox": 124,
-    "Realistic": 119,
-    "Atmospheric": 117,
-    "Stealth": 110,
-    "Survival": 98,
-    "Exploration": 93,
-    "Level Editor": 68,
-    "Story Rich": 61,
-    "Immersive Sim": 58,
-    "Controller": 47,
-    "Co-op": 46,
-    "Great Soundtrack": 46
+  "Average Playtime - 2 Weeks": 288,
+  "Average Playtime - Forever": 525,
+  "CCU Histogram": {
+    "2022-12-08": 107,
+    "2022-12-09": 120,
+    "2022-12-10": 132,
+    "2022-12-11": 124,
+    "2022-12-12": 116,
+    "2022-12-13": 109,
+    "2022-12-14": 99,
+    "2022-12-15": 90,
+    "2022-12-16": 96,
+    "2022-12-17": 102,
+    "2022-12-18": 108,
+    "2022-12-19": 113,
+    "2022-12-20": 118,
+    "2022-12-21": 124,
+    "2022-12-22": 97
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 33,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 3,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 4,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 3,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    }
+  ],
+  "Median Playtime - 2 Weeks": 288,
+  "Median Playtime - Forever": 137,
+  "Meta Score": "85",
+  "Rating": "ESRB M",
+  "Up 30 Days": 102,
+  "User Score": -1,
+  "appid": 19900,
   "categories": [
     "Multi-player",
     "Single-player"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 10010,
-  "negative": 2913,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 88,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2008/10/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/19900/header.jpg?t=1645563388",
+  "consensus_genre": "Action",
+  "developer": "Ubisoft Montreal",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "85",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 1,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 7,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 102,
-  "Down 30 Days": 33,
-  "Completion": -1,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/19900/header.jpg?t=1645563388",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "Far Cry 2",
+  "negative": 2913,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10010,
+  "price": "999",
+  "publisher": "Ubisoft",
+  "release_date": "2008/10/22",
+  "required_age": 0,
+  "tags": {
+    "Action": 316,
+    "Adventure": 141,
+    "Atmospheric": 117,
+    "Co-op": 46,
+    "Controller": 47,
+    "Exploration": 93,
+    "FPS": 405,
+    "First-Person": 191,
+    "Great Soundtrack": 46,
+    "Immersive Sim": 58,
+    "Level Editor": 68,
+    "Multiplayer": 184,
+    "Open World": 455,
+    "Realistic": 119,
+    "Sandbox": 124,
+    "Shooter": 220,
+    "Singleplayer": 202,
+    "Stealth": 110,
+    "Story Rich": 61,
+    "Survival": 98
+  },
+  "type": "game"
 }

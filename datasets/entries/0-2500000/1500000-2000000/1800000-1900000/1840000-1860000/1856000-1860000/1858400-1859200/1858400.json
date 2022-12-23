@@ -1,30 +1,54 @@
 {
-  "appid": 1858400,
-  "name": "Squarena",
-  "developer": "Codeaclysm Games",
-  "publisher": "Codeaclysm Games",
-  "tags": {
-    "Action": 146,
-    "Physics": 140,
-    "Party Game": 137,
-    "2D Platformer": 132,
-    "4 Player Local": 126,
-    "Local Multiplayer": 117,
-    "Arena Shooter": 113,
-    "PvP": 108,
-    "Platformer": 106,
-    "Shooter": 100,
-    "2D": 93,
-    "Colorful": 83,
-    "Family Friendly": 72,
-    "Indie": 65,
-    "Sci-fi": 56,
-    "Futuristic": 42,
-    "Combat": 29,
-    "Multiplayer": 27,
-    "Party": 25
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 38.79999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1858400,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,53 +60,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1858400/header.jpg?t=1664869706",
+  "consensus_genre": "Action",
+  "developer": "Codeaclysm Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 38.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1858400/header.jpg?t=1664869706",
+  "initialprice": "899",
+  "languages": "English",
+  "name": "Squarena",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "899",
+  "publisher": "Codeaclysm Games",
+  "release_date": "2022/03/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 93,
+    "2D Platformer": 132,
+    "4 Player Local": 126,
+    "Action": 146,
+    "Arena Shooter": 113,
+    "Colorful": 83,
+    "Combat": 29,
+    "Family Friendly": 72,
+    "Futuristic": 42,
+    "Indie": 65,
+    "Local Multiplayer": 117,
+    "Multiplayer": 27,
+    "Party": 25,
+    "Party Game": 137,
+    "Physics": 140,
+    "Platformer": 106,
+    "PvP": 108,
+    "Sci-fi": 56,
+    "Shooter": 100
+  },
+  "type": "game"
 }

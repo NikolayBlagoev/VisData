@@ -1,51 +1,192 @@
 {
-  "appid": 1360000,
-  "name": "The Infected",
-  "developer": "DigX Studios",
-  "publisher": "DigX Studios",
-  "tags": {
-    "Survival": 265,
-    "Base-Building": 235,
-    "Open World": 231,
-    "Open World Survival Craft": 207,
-    "Building": 206,
-    "Action": 190,
-    "Exploration": 178,
-    "Simulation": 173,
-    "Horror": 171,
-    "Sandbox": 171,
-    "Mining": 163,
-    "FPS": 155,
-    "Survival Horror": 152,
-    "Singleplayer": 147,
-    "First-Person": 138,
-    "Realistic": 130,
-    "3D": 129,
-    "Early Access": 112,
-    "Indie": 107,
-    "City Builder": 85
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 1365,
+  "CCU Histogram": {
+    "2022-12-08": 210,
+    "2022-12-09": 212,
+    "2022-12-10": 219,
+    "2022-12-11": 210,
+    "2022-12-12": 202,
+    "2022-12-13": 194,
+    "2022-12-14": 179,
+    "2022-12-15": 165,
+    "2022-12-16": 171,
+    "2022-12-17": 177,
+    "2022-12-18": 183,
+    "2022-12-19": 197,
+    "2022-12-20": 212,
+    "2022-12-21": 227,
+    "2022-12-22": 151
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 11,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 1395,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 48,
+  "User Score": -1,
+  "appid": 1360000,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 4178,
-  "negative": 610,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 225,
-  "languages": "English, French, Italian, German, Spanish - Spain, Finnish, Korean, Portuguese - Brazil, Simplified Chinese, Swedish, Turkish, Russian, Czech, Greek, Japanese, Polish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/08/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1360000/header.jpg?t=1648402244",
+  "consensus_genre": "Action",
+  "developer": "DigX Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -53,163 +194,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 48,
-  "Down 30 Days": 11,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1360000/header.jpg?t=1648402244",
+  "initialprice": "1399",
+  "languages": "English, French, Italian, German, Spanish - Spain, Finnish, Korean, Portuguese - Brazil, Simplified Chinese, Swedish, Turkish, Russian, Czech, Greek, Japanese, Polish",
+  "name": "The Infected",
+  "negative": 610,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4178,
+  "price": "1399",
+  "publisher": "DigX Studios",
+  "release_date": "2020/08/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 129,
+    "Action": 190,
+    "Base-Building": 235,
+    "Building": 206,
+    "City Builder": 85,
+    "Early Access": 112,
+    "Exploration": 178,
+    "FPS": 155,
+    "First-Person": 138,
+    "Horror": 171,
+    "Indie": 107,
+    "Mining": 163,
+    "Open World": 231,
+    "Open World Survival Craft": 207,
+    "Realistic": 130,
+    "Sandbox": 171,
+    "Simulation": 173,
+    "Singleplayer": 147,
+    "Survival": 265,
+    "Survival Horror": 152
+  },
+  "type": "game"
 }

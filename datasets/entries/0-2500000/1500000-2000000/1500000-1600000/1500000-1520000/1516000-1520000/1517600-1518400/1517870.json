@@ -1,31 +1,79 @@
 {
-  "appid": 1517870,
-  "name": "StalakMiner",
-  "developer": "Heats Inc",
-  "publisher": "Heats Inc",
-  "tags": {
-    "Early Access": 685,
-    "Character Customization": 622,
-    "Procedural Generation": 495,
-    "Exploration": 493,
-    "Strategy": 490,
-    "Puzzle": 489,
-    "Platformer": 485,
-    "Arcade": 481,
-    "Casual": 475,
-    "3D": 467,
-    "Third Person": 465,
-    "Mars": 462,
-    "Choices Matter": 459,
-    "Colorful": 453,
-    "Stylized": 449,
-    "Capitalism": 447,
-    "Action": 444,
-    "Loot": 441,
-    "Sci-fi": 439,
-    "Economy": 437
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 63.20000076293945,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 4,
+  "User Score": -1,
+  "appid": 1517870,
   "categories": [
     "Single-player",
     "Stats",
@@ -34,22 +82,10 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 8,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 3,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/10/7",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1517870/header.jpg?t=1633617618",
+  "consensus_genre": "Early Access",
+  "developer": "Heats Inc",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -58,58 +94,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 4,
-  "Down 30 Days": 0,
-  "Completion": 63.20000076293945,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1517870/header.jpg?t=1633617618",
+  "initialprice": "999",
+  "languages": "English",
+  "name": "StalakMiner",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 8,
+  "price": "999",
+  "publisher": "Heats Inc",
+  "release_date": "2021/10/7",
+  "required_age": 0,
+  "tags": {
+    "3D": 467,
+    "Action": 444,
+    "Arcade": 481,
+    "Capitalism": 447,
+    "Casual": 475,
+    "Character Customization": 622,
+    "Choices Matter": 459,
+    "Colorful": 453,
+    "Early Access": 685,
+    "Economy": 437,
+    "Exploration": 493,
+    "Loot": 441,
+    "Mars": 462,
+    "Platformer": 485,
+    "Procedural Generation": 495,
+    "Puzzle": 489,
+    "Sci-fi": 439,
+    "Strategy": 490,
+    "Stylized": 449,
+    "Third Person": 465
+  },
+  "type": "game"
 }

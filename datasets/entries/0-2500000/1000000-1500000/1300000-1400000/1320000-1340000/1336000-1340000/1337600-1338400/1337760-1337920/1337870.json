@@ -1,27 +1,59 @@
 {
-  "appid": 1337870,
-  "name": "Argy Bargy Legends",
-  "developer": "TWO B SOFT",
-  "publisher": "TWO B SOFT",
-  "tags": {
-    "Strategy": 73,
-    "PvP": 47,
-    "Multiplayer": 44,
-    "Singleplayer": 41,
-    "Card Game": 39,
-    "2D": 32,
-    "Colorful": 30,
-    "Cartoon": 28,
-    "Cute": 26,
-    "Beautiful": 24,
-    "Hand-drawn": 22,
-    "Fantasy": 20,
-    "Alternate History": 18,
-    "Relaxing": 16,
-    "Comedy": 14,
-    "Funny": 12
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 2.5,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1337870,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -30,57 +62,46 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/07/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337870/header.jpg?t=1612873823",
+  "consensus_genre": "Strategy",
+  "developer": "TWO B SOFT",
+  "discount": "0",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 2.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1337870/header.jpg?t=1612873823",
+  "initialprice": "799",
+  "languages": "English, Russian",
+  "name": "Argy Bargy Legends",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "799",
+  "publisher": "TWO B SOFT",
+  "release_date": "2020/07/17",
+  "required_age": 0,
+  "tags": {
+    "2D": 32,
+    "Alternate History": 18,
+    "Beautiful": 24,
+    "Card Game": 39,
+    "Cartoon": 28,
+    "Colorful": 30,
+    "Comedy": 14,
+    "Cute": 26,
+    "Fantasy": 20,
+    "Funny": 12,
+    "Hand-drawn": 22,
+    "Multiplayer": 44,
+    "PvP": 47,
+    "Relaxing": 16,
+    "Singleplayer": 41,
+    "Strategy": 73
+  },
+  "type": "game"
 }

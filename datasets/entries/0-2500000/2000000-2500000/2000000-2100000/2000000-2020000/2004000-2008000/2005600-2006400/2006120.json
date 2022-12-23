@@ -1,23 +1,39 @@
 {
-  "appid": 2006120,
-  "name": "GameZero",
-  "developer": "Tomas",
-  "publisher": "mas3d",
-  "tags": {
-    "Hack and Slash": 47,
-    "Massively Multiplayer": 42,
-    "MMORPG": 41,
-    "RPG": 38,
-    "Swordplay": 35,
-    "Stylized": 32,
-    "Tactical": 26,
-    "Combat": 24,
-    "Adventure": 21,
-    "Violent": 21,
-    "Multiplayer": 20,
-    "Singleplayer": 18
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 75.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2006120,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -27,38 +43,43 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1599",
-  "initialprice": "1599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2006120/header.jpg?t=1659223968",
+  "consensus_genre": "Massively Multiplayer",
+  "developer": "Tomas",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Massively Multiplayer"
   ],
-  "consensus_genre": "Massively Multiplayer",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 75.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2006120/header.jpg?t=1659223968",
+  "initialprice": "1599",
+  "languages": "English",
+  "name": "GameZero",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1599",
+  "publisher": "mas3d",
+  "release_date": "2022/07/14",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 21,
+    "Combat": 24,
+    "Hack and Slash": 47,
+    "MMORPG": 41,
+    "Massively Multiplayer": 42,
+    "Multiplayer": 20,
+    "RPG": 38,
+    "Singleplayer": 18,
+    "Stylized": 32,
+    "Swordplay": 35,
+    "Tactical": 26,
+    "Violent": 21
+  },
+  "type": "game"
 }

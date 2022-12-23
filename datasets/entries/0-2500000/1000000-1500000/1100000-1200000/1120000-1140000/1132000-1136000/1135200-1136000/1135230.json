@@ -1,31 +1,184 @@
 {
-  "appid": 1135230,
-  "name": "Ember Knights",
-  "developer": "Doom Turtle",
-  "publisher": "Twin Sails Interactive",
-  "tags": {
-    "Early Access": 174,
-    "Action Roguelike": 158,
-    "Rogue-lite": 147,
-    "Pixel Graphics": 142,
-    "Dungeon Crawler": 134,
-    "Hack and Slash": 130,
-    "Adventure": 125,
-    "RPG": 120,
-    "Action": 109,
-    "Co-op": 108,
-    "Multiplayer": 105,
-    "Singleplayer": 103,
-    "Online Co-Op": 98,
-    "2D": 96,
-    "Local Co-Op": 88,
-    "Rogue-like": 86,
-    "Local Multiplayer": 82,
-    "Top-Down": 75,
-    "Procedural Generation": 70,
-    "Combat": 68
+  "Average Playtime - 2 Weeks": 218,
+  "Average Playtime - Forever": 405,
+  "CCU Histogram": {
+    "2022-12-08": 118,
+    "2022-12-09": 85,
+    "2022-12-10": 107,
+    "2022-12-11": 123,
+    "2022-12-12": 140,
+    "2022-12-13": 157,
+    "2022-12-14": 108,
+    "2022-12-15": 60,
+    "2022-12-16": 77,
+    "2022-12-17": 95,
+    "2022-12-18": 113,
+    "2022-12-19": 144,
+    "2022-12-20": 175,
+    "2022-12-21": 207,
+    "2022-12-22": 318
   },
-  "type": "game",
+  "Completion": 16.449999809265137,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 218,
+  "Median Playtime - Forever": 551,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 169,
+  "User Score": -1,
+  "appid": 1135230,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -36,185 +189,53 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 1169,
-  "negative": 77,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 145,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1135230/header_alt_assets_2.jpg?t=1668097037",
+  "consensus_genre": "Early Access",
+  "developer": "Doom Turtle",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 169,
-  "Down 30 Days": 3,
-  "Completion": 16.449999809265137,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1135230/header_alt_assets_2.jpg?t=1668097037",
+  "initialprice": "1499",
+  "languages": "English",
+  "name": "Ember Knights",
+  "negative": 77,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1169,
+  "price": "1499",
+  "publisher": "Twin Sails Interactive",
+  "release_date": "2022/04/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 96,
+    "Action": 109,
+    "Action Roguelike": 158,
+    "Adventure": 125,
+    "Co-op": 108,
+    "Combat": 68,
+    "Dungeon Crawler": 134,
+    "Early Access": 174,
+    "Hack and Slash": 130,
+    "Local Co-Op": 88,
+    "Local Multiplayer": 82,
+    "Multiplayer": 105,
+    "Online Co-Op": 98,
+    "Pixel Graphics": 142,
+    "Procedural Generation": 70,
+    "RPG": 120,
+    "Rogue-like": 86,
+    "Rogue-lite": 147,
+    "Singleplayer": 103,
+    "Top-Down": 75
+  },
+  "type": "game"
 }

@@ -1,86 +1,107 @@
 {
-  "appid": 2117190,
-  "name": "Spliced",
-  "developer": "Orrito",
-  "publisher": "Orrito",
-  "tags": {
-    "Roguelike Deckbuilder": 107,
-    "Card Game": 102,
-    "Turn-Based": 99,
-    "Rogue-lite": 96,
-    "Indie": 92,
-    "Rogue-like": 85,
-    "Colorful": 81,
-    "Deckbuilding": 73,
-    "Fantasy": 64,
-    "Strategy": 55,
-    "2D": 41,
-    "Singleplayer": 39,
-    "Casual": 37,
-    "Card Battler": 35,
-    "Difficult": 33,
-    "Cartoony": 31,
-    "Mouse only": 29,
-    "Replay Value": 27,
-    "Turn-Based Combat": 25
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 46.099998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2117190,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2117190/header.jpg?t=1667237709",
+  "consensus_genre": "Indie",
+  "developer": "Orrito",
+  "discount": "0",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 46.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2117190/header.jpg?t=1667237709",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Spliced",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "699",
+  "publisher": "Orrito",
+  "release_date": "2022/10/31",
+  "required_age": 0,
+  "tags": {
+    "2D": 41,
+    "Card Battler": 35,
+    "Card Game": 102,
+    "Cartoony": 31,
+    "Casual": 37,
+    "Colorful": 81,
+    "Deckbuilding": 73,
+    "Difficult": 33,
+    "Fantasy": 64,
+    "Indie": 92,
+    "Mouse only": 29,
+    "Replay Value": 27,
+    "Rogue-like": 85,
+    "Rogue-lite": 96,
+    "Roguelike Deckbuilder": 107,
+    "Singleplayer": 39,
+    "Strategy": 55,
+    "Turn-Based": 99,
+    "Turn-Based Combat": 25
+  },
+  "type": "game"
 }

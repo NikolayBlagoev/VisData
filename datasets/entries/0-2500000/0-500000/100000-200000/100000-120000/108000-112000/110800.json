@@ -1,213 +1,234 @@
 {
-  "appid": 110800,
-  "name": "L.A. Noire",
-  "developer": "Team Bondi, Rockstar Leeds",
-  "publisher": "Rockstar Games",
-  "tags": {
-    "Detective": 919,
-    "Crime": 654,
-    "Open World": 629,
-    "Noir": 624,
-    "Adventure": 545,
-    "Story Rich": 486,
-    "Mystery": 414,
-    "Third Person": 391,
-    "Investigation": 381,
-    "Cinematic": 335,
-    "Singleplayer": 334,
-    "Action": 322,
-    "Atmospheric": 293,
-    "Mature": 253,
-    "Nudity": 136,
-    "Strategy": 120,
-    "Puzzle": 118,
-    "Third-Person Shooter": 113,
-    "Thriller": 101,
-    "3D Vision": 54
+  "Average Playtime - 2 Weeks": 152,
+  "Average Playtime - Forever": 993,
+  "CCU Histogram": {
+    "2022-12-08": 146,
+    "2022-12-09": 165,
+    "2022-12-10": 184,
+    "2022-12-11": 210,
+    "2022-12-12": 236,
+    "2022-12-13": 262,
+    "2022-12-14": 212,
+    "2022-12-15": 162,
+    "2022-12-16": 173,
+    "2022-12-17": 185,
+    "2022-12-18": 197,
+    "2022-12-19": 199,
+    "2022-12-20": 202,
+    "2022-12-21": 205,
+    "2022-12-22": 151
   },
-  "type": "game",
+  "Completion": 38.5,
+  "Down 30 Days": 21,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 6,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": 152,
+  "Median Playtime - Forever": 465,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 122,
+  "User Score": -1,
+  "appid": 110800,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 23952,
-  "negative": 4151,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 222,
-  "languages": "English, French, German, Italian, Russian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2011/11/8",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/110800/header.jpg?t=1648581040",
+  "consensus_genre": "Adventure",
+  "developer": "Team Bondi, Rockstar Leeds",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 14,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 6,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 9,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 9,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 122,
-  "Down 30 Days": 21,
-  "Completion": 38.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/110800/header.jpg?t=1648581040",
+  "initialprice": "1999",
+  "languages": "English, French, German, Italian, Russian, Spanish - Spain",
+  "name": "L.A. Noire",
+  "negative": 4151,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 23952,
+  "price": "1999",
+  "publisher": "Rockstar Games",
+  "release_date": "2011/11/8",
+  "required_age": "15",
+  "tags": {
+    "3D Vision": 54,
+    "Action": 322,
+    "Adventure": 545,
+    "Atmospheric": 293,
+    "Cinematic": 335,
+    "Crime": 654,
+    "Detective": 919,
+    "Investigation": 381,
+    "Mature": 253,
+    "Mystery": 414,
+    "Noir": 624,
+    "Nudity": 136,
+    "Open World": 629,
+    "Puzzle": 118,
+    "Singleplayer": 334,
+    "Story Rich": 486,
+    "Strategy": 120,
+    "Third Person": 391,
+    "Third-Person Shooter": 113,
+    "Thriller": 101
+  },
+  "type": "game"
 }

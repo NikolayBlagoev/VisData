@@ -1,74 +1,95 @@
 {
-  "appid": 2010930,
-  "name": "TRESPASSER 2",
-  "developer": "dsdev games",
-  "publisher": "dsdev games",
-  "tags": {
-    "Horror": 128,
-    "First-Person": 122,
-    "Action-Adventure": 119,
-    "Exploration": 115,
-    "Multiple Endings": 111,
-    "Mystery": 104,
-    "Action": 102,
-    "Dark Fantasy": 100,
-    "Strategy": 98,
-    "Stealth": 93,
-    "Realistic": 91,
-    "Atmospheric": 89,
-    "Controller": 86,
-    "Story Rich": 79,
-    "Fantasy": 77,
-    "Artificial Intelligence": 73,
-    "Survival": 66,
-    "Nature": 61,
-    "Arcade": 59,
-    "Adventure": 57
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2010930,
   "categories": [
     "Single-player",
     "Partial Controller Support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2010930/header.jpg?t=1664359218",
+  "consensus_genre": "Action",
+  "developer": "dsdev games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2010930/header.jpg?t=1664359218",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "TRESPASSER 2",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "499",
+  "publisher": "dsdev games",
+  "release_date": "2022/09/28",
+  "required_age": 0,
+  "tags": {
+    "Action": 102,
+    "Action-Adventure": 119,
+    "Adventure": 57,
+    "Arcade": 59,
+    "Artificial Intelligence": 73,
+    "Atmospheric": 89,
+    "Controller": 86,
+    "Dark Fantasy": 100,
+    "Exploration": 115,
+    "Fantasy": 77,
+    "First-Person": 122,
+    "Horror": 128,
+    "Multiple Endings": 111,
+    "Mystery": 104,
+    "Nature": 61,
+    "Realistic": 91,
+    "Stealth": 93,
+    "Story Rich": 79,
+    "Strategy": 98,
+    "Survival": 66
+  },
+  "type": "game"
 }

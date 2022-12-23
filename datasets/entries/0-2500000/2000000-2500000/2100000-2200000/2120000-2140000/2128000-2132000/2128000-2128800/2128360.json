@@ -1,31 +1,54 @@
 {
-  "appid": 2128360,
-  "name": "Waking Knightmare",
-  "developer": "Synectix Studios Games",
-  "publisher": "Synectix Studios Games",
-  "tags": {
-    "Survival Horror": 455,
-    "Co-op": 449,
-    "Local Co-Op": 446,
-    "Local Multiplayer": 443,
-    "Shoot 'Em Up": 440,
-    "Zombies": 433,
-    "Singleplayer": 431,
-    "Top-Down Shooter": 429,
-    "Twin Stick Shooter": 423,
-    "Action": 417,
-    "Shooter": 414,
-    "Arcade": 410,
-    "Split Screen": 408,
-    "Top-Down": 406,
-    "Horror": 404,
-    "Psychological Horror": 402,
-    "Demons": 400,
-    "Score Attack": 388,
-    "4 Player Local": 369,
-    "Atmospheric": 367
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 1,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2128360,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,52 +64,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1299",
-  "initialprice": "1299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2128360/header.jpg?t=1667859926",
+  "consensus_genre": "Action",
+  "developer": "Synectix Studios Games",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2128360/header.jpg?t=1667859926",
+  "initialprice": "1299",
+  "languages": "English",
+  "name": "Waking Knightmare",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1299",
+  "publisher": "Synectix Studios Games",
+  "release_date": "2022/10/30",
+  "required_age": 0,
+  "tags": {
+    "4 Player Local": 369,
+    "Action": 417,
+    "Arcade": 410,
+    "Atmospheric": 367,
+    "Co-op": 449,
+    "Demons": 400,
+    "Horror": 404,
+    "Local Co-Op": 446,
+    "Local Multiplayer": 443,
+    "Psychological Horror": 402,
+    "Score Attack": 388,
+    "Shoot 'Em Up": 440,
+    "Shooter": 414,
+    "Singleplayer": 431,
+    "Split Screen": 408,
+    "Survival Horror": 455,
+    "Top-Down": 406,
+    "Top-Down Shooter": 429,
+    "Twin Stick Shooter": 423,
+    "Zombies": 433
+  },
+  "type": "game"
 }

@@ -1,55 +1,76 @@
 {
-  "appid": 869580,
-  "name": "Keep Running",
-  "developer": "Kayo Carvalho",
-  "publisher": "Harris Pipocas",
-  "tags": {
-    "Casual": 31,
-    "Indie": 31,
-    "Adventure": 30,
-    "Racing": 30
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 52.5,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 869580,
   "categories": [
     "Single-player",
     "Commentary available",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/06/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/869580/header.jpg?t=1586762730",
+  "consensus_genre": "Casual",
+  "developer": "Kayo Carvalho",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": 52.5,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/869580/header.jpg?t=1586762730",
+  "initialprice": "99",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Keep Running",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Harris Pipocas",
+  "release_date": "2018/06/13",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 30,
+    "Casual": 31,
+    "Indie": 31,
+    "Racing": 30
+  },
+  "type": "game"
 }

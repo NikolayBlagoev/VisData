@@ -1,53 +1,194 @@
 {
-  "appid": 1942280,
-  "name": "Brotato",
-  "developer": "Blobfish",
-  "publisher": "Blobfish",
-  "tags": {
-    "Early Access": 486,
-    "Action Roguelike": 441,
-    "Rogue-lite": 436,
-    "Arena Shooter": 429,
-    "Bullet Hell": 421,
-    "Top-Down Shooter": 418,
-    "Casual": 403,
-    "2D": 393,
-    "RPG": 376,
-    "Top-Down": 359,
-    "Action": 334,
-    "Post-apocalyptic": 334,
-    "Procedural Generation": 325,
-    "Hand-drawn": 317,
-    "Funny": 294,
-    "Aliens": 278,
-    "Cartoony": 272,
-    "Controller": 262,
-    "Combat": 252,
-    "Perma Death": 227
+  "Average Playtime - 2 Weeks": 291,
+  "Average Playtime - Forever": 1071,
+  "CCU Histogram": {
+    "2022-12-08": 12522,
+    "2022-12-09": 12049,
+    "2022-12-10": 12004,
+    "2022-12-11": 11895,
+    "2022-12-12": 11786,
+    "2022-12-13": 11678,
+    "2022-12-14": 11562,
+    "2022-12-15": 11446,
+    "2022-12-16": 11077,
+    "2022-12-17": 10708,
+    "2022-12-18": 10339,
+    "2022-12-19": 10064,
+    "2022-12-20": 9790,
+    "2022-12-21": 9516,
+    "2022-12-22": 9743
   },
-  "type": "game",
+  "Completion": 90.5999984741211,
+  "Down 30 Days": 205,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 13,
+      "recommendations_up": 166
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 17,
+      "recommendations_up": 170
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 11,
+      "recommendations_up": 177
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 8,
+      "recommendations_up": 157
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 8,
+      "recommendations_up": 151
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 8,
+      "recommendations_up": 140
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 4,
+      "recommendations_up": 128
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 8,
+      "recommendations_up": 134
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 5,
+      "recommendations_up": 166
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 7,
+      "recommendations_up": 150
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 10,
+      "recommendations_up": 177
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 7,
+      "recommendations_up": 163
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 4,
+      "recommendations_up": 146
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 131
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 6,
+      "recommendations_up": 119
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 7,
+      "recommendations_up": 114
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 128
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 148
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 137
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 7,
+      "recommendations_up": 117
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 8,
+      "recommendations_up": 1075
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 17,
+      "recommendations_up": 2378
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 8,
+      "recommendations_up": 1042
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 4,
+      "recommendations_up": 704
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 8,
+      "recommendations_up": 622
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 582
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 5,
+      "recommendations_up": 497
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 5,
+      "recommendations_up": 364
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 6,
+      "recommendations_up": 92
+    }
+  ],
+  "Median Playtime - 2 Weeks": 265,
+  "Median Playtime - Forever": 738,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10275,
+  "User Score": -1,
+  "appid": 1942280,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Full controller support"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 7657,
-  "negative": 341,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 22398,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Italian, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1942280/header.jpg?t=1667171053",
+  "consensus_genre": "Early Access",
+  "developer": "Blobfish",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
@@ -55,163 +196,43 @@
     "RPG",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 166,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 170,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 177,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 157,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 151,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 140,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 128,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 134,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 166,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 150,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 177,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 163,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 146,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 131,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 119,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 114,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 128,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 148,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 137,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 117,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 1075,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2378,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1042,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 704,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 622,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 582,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 497,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 364,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 92,
-      "recommendations_down": 6
-    }
-  ],
-  "Up 30 Days": 10275,
-  "Down 30 Days": 205,
-  "Completion": 90.5999984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1942280/header.jpg?t=1667171053",
+  "initialprice": "499",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Italian, Turkish",
+  "name": "Brotato",
+  "negative": 341,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 7657,
+  "price": "499",
+  "publisher": "Blobfish",
+  "release_date": "2022/09/27",
+  "required_age": 0,
+  "tags": {
+    "2D": 393,
+    "Action": 334,
+    "Action Roguelike": 441,
+    "Aliens": 278,
+    "Arena Shooter": 429,
+    "Bullet Hell": 421,
+    "Cartoony": 272,
+    "Casual": 403,
+    "Combat": 252,
+    "Controller": 262,
+    "Early Access": 486,
+    "Funny": 294,
+    "Hand-drawn": 317,
+    "Perma Death": 227,
+    "Post-apocalyptic": 334,
+    "Procedural Generation": 325,
+    "RPG": 376,
+    "Rogue-lite": 436,
+    "Top-Down": 359,
+    "Top-Down Shooter": 418
+  },
+  "type": "game"
 }

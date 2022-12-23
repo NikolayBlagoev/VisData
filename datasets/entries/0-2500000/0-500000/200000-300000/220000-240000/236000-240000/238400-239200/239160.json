@@ -1,31 +1,184 @@
 {
-  "appid": 239160,
-  "name": "Thief",
-  "developer": "Eidos-Montr\u00e9al, Feral Interactive (Mac)",
-  "publisher": "Square Enix, Feral Interactive (Mac)",
-  "tags": {
-    "Stealth": 2698,
-    "Action": 1191,
-    "Adventure": 1052,
-    "First-Person": 1044,
-    "Singleplayer": 851,
-    "Dark": 766,
-    "Reboot": 621,
-    "Steampunk": 571,
-    "Atmospheric": 467,
-    "Horror": 426,
-    "Parkour": 343,
-    "Open World": 298,
-    "Assassin": 290,
-    "Heist": 238,
-    "Medieval": 186,
-    "Nudity": 165,
-    "RPG": 162,
-    "FPS": 136,
-    "Fantasy": 130,
-    "Remake": 109
+  "Average Playtime - 2 Weeks": 423,
+  "Average Playtime - Forever": 487,
+  "CCU Histogram": {
+    "2022-12-08": 122,
+    "2022-12-09": 119,
+    "2022-12-10": 112,
+    "2022-12-11": 115,
+    "2022-12-12": 118,
+    "2022-12-13": 122,
+    "2022-12-14": 124,
+    "2022-12-15": 127,
+    "2022-12-16": 137,
+    "2022-12-17": 148,
+    "2022-12-18": 159,
+    "2022-12-19": 162,
+    "2022-12-20": 165,
+    "2022-12-21": 168,
+    "2022-12-22": 196
   },
-  "type": "game",
+  "Completion": 48.05000114440918,
+  "Down 30 Days": 12,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 423,
+  "Median Playtime - Forever": 218,
+  "Meta Score": "70",
+  "Rating": "ESRB M",
+  "Up 30 Days": 68,
+  "User Score": -1,
+  "appid": 239160,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -35,183 +188,51 @@
     "Steam Trading Cards",
     "Remote Play on TV"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 15785,
-  "negative": 5548,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 139,
-  "languages": "English, German, French, Italian, Spanish - Spain, Polish, Russian, Czech",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2014/02/27",
-  "required_age": "15",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/239160/header.jpg?t=1661271512",
+  "consensus_genre": "Action",
+  "developer": "Eidos-Montr\u00e9al, Feral Interactive (Mac)",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "70",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 68,
-  "Down 30 Days": 12,
-  "Completion": 48.05000114440918,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/239160/header.jpg?t=1661271512",
+  "initialprice": "1999",
+  "languages": "English, German, French, Italian, Spanish - Spain, Polish, Russian, Czech",
+  "name": "Thief",
+  "negative": 5548,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 15785,
+  "price": "1999",
+  "publisher": "Square Enix, Feral Interactive (Mac)",
+  "release_date": "2014/02/27",
+  "required_age": "15",
+  "tags": {
+    "Action": 1191,
+    "Adventure": 1052,
+    "Assassin": 290,
+    "Atmospheric": 467,
+    "Dark": 766,
+    "FPS": 136,
+    "Fantasy": 130,
+    "First-Person": 1044,
+    "Heist": 238,
+    "Horror": 426,
+    "Medieval": 186,
+    "Nudity": 165,
+    "Open World": 298,
+    "Parkour": 343,
+    "RPG": 162,
+    "Reboot": 621,
+    "Remake": 109,
+    "Singleplayer": 851,
+    "Stealth": 2698,
+    "Steampunk": 571
+  },
+  "type": "game"
 }

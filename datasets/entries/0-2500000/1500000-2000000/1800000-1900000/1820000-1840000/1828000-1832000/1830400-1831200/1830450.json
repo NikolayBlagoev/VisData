@@ -1,62 +1,83 @@
 {
-  "appid": 1830450,
-  "name": "Square Farm",
-  "developer": "Big Red Games",
-  "publisher": "Big Red Games",
-  "tags": {
-    "Casual": 67,
-    "Puzzle": 41,
-    "Collectathon": 38,
-    "Pixel Graphics": 35,
-    "2D": 32,
-    "Agriculture": 26,
-    "Family Friendly": 24,
-    "Base-Building": 22,
-    "Indie": 21,
-    "Singleplayer": 20,
-    "Clicker": 18
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 2,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 1,
+    "2022-12-13": 2,
+    "2022-12-14": 1,
+    "2022-12-15": 1,
+    "2022-12-16": 5,
+    "2022-12-17": 10,
+    "2022-12-18": 15,
+    "2022-12-19": 13,
+    "2022-12-20": 11,
+    "2022-12-21": 9,
+    "2022-12-22": 9
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1830450,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1830450/header.jpg?t=1667904674",
+  "consensus_genre": "Casual",
+  "developer": "Big Red Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1830450/header.jpg?t=1667904674",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Square Farm",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "699",
+  "publisher": "Big Red Games",
+  "release_date": "2022/10/27",
+  "required_age": 0,
+  "tags": {
+    "2D": 32,
+    "Agriculture": 26,
+    "Base-Building": 22,
+    "Casual": 67,
+    "Clicker": 18,
+    "Collectathon": 38,
+    "Family Friendly": 24,
+    "Indie": 21,
+    "Pixel Graphics": 35,
+    "Puzzle": 41,
+    "Singleplayer": 20
+  },
+  "type": "game"
 }

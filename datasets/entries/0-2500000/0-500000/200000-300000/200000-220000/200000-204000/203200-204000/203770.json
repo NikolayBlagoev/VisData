@@ -1,215 +1,236 @@
 {
-  "appid": 203770,
-  "name": "Crusader Kings II",
-  "developer": "Paradox Development Studio",
-  "publisher": "Paradox Interactive",
-  "tags": {
-    "Grand Strategy": 4142,
-    "Strategy": 2009,
-    "Medieval": 1963,
-    "Historical": 1659,
-    "Political Sim": 1597,
-    "Simulation": 1268,
-    "RPG": 1040,
-    "Sandbox": 882,
-    "Multiplayer": 640,
-    "Politics": 594,
-    "Diplomacy": 553,
-    "Singleplayer": 526,
-    "Replay Value": 525,
-    "Real-Time with Pause": 491,
-    "Moddable": 415,
-    "Political": 359,
-    "Character Customization": 310,
-    "Free to Play": 310,
-    "RTS": 268,
-    "Great Soundtrack": 263
+  "Average Playtime - 2 Weeks": 285,
+  "Average Playtime - Forever": 1563,
+  "CCU Histogram": {
+    "2022-12-08": 2738,
+    "2022-12-09": 3000,
+    "2022-12-10": 3185,
+    "2022-12-11": 3388,
+    "2022-12-12": 3591,
+    "2022-12-13": 3795,
+    "2022-12-14": 3436,
+    "2022-12-15": 3077,
+    "2022-12-16": 3124,
+    "2022-12-17": 3172,
+    "2022-12-18": 3220,
+    "2022-12-19": 3288,
+    "2022-12-20": 3356,
+    "2022-12-21": 3424,
+    "2022-12-22": 3308
   },
-  "type": "game",
+  "Completion": 5.800000190734863,
+  "Down 30 Days": 31,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 1,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    }
+  ],
+  "Median Playtime - 2 Weeks": 285,
+  "Median Playtime - Forever": 208,
+  "Meta Score": "82",
+  "Rating": "ESRB T",
+  "Up 30 Days": 321,
+  "User Score": -1,
+  "appid": 203770,
   "categories": [
     "Multi-player",
     "Single-player",
     "Steam Trading Cards"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 61860,
-  "negative": 6806,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 4234,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2012/02/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg?t=1615973075",
+  "consensus_genre": "Strategy",
+  "developer": "Paradox Development Studio",
+  "discount": "0",
   "genre": [
     "Free to Play",
     "RPG",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": "82",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 27,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 321,
-  "Down 30 Days": 31,
-  "Completion": 5.800000190734863,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203770/header.jpg?t=1615973075",
+  "initialprice": "0",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "Crusader Kings II",
+  "negative": 6806,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 61860,
+  "price": "0",
+  "publisher": "Paradox Interactive",
+  "release_date": "2012/02/14",
+  "required_age": 0,
+  "tags": {
+    "Character Customization": 310,
+    "Diplomacy": 553,
+    "Free to Play": 310,
+    "Grand Strategy": 4142,
+    "Great Soundtrack": 263,
+    "Historical": 1659,
+    "Medieval": 1963,
+    "Moddable": 415,
+    "Multiplayer": 640,
+    "Political": 359,
+    "Political Sim": 1597,
+    "Politics": 594,
+    "RPG": 1040,
+    "RTS": 268,
+    "Real-Time with Pause": 491,
+    "Replay Value": 525,
+    "Sandbox": 882,
+    "Simulation": 1268,
+    "Singleplayer": 526,
+    "Strategy": 2009
+  },
+  "type": "game"
 }

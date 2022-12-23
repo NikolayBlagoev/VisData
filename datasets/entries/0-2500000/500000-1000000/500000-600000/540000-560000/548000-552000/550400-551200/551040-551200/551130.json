@@ -1,24 +1,39 @@
 {
-  "appid": 551130,
-  "name": "Tiki Brawl",
-  "developer": "Last Five",
-  "publisher": "RAWR Lab",
-  "tags": {
-    "Action": 69,
-    "Casual": 63,
-    "Arcade": 41,
-    "Top-Down Shooter": 37,
-    "2D": 34,
-    "Hand-drawn": 28,
-    "PvP": 27,
-    "PvE": 24,
-    "Multiplayer": 22,
-    "Indie": 21,
-    "Singleplayer": 20,
-    "4 Player Local": 18,
-    "Local Multiplayer": 16
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 551130,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -29,39 +44,45 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/10/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/551130/header.jpg?t=1666982928",
+  "consensus_genre": "Action",
+  "developer": "Last Five",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/551130/header.jpg?t=1666982928",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Tiki Brawl",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "RAWR Lab",
+  "release_date": "2020/10/8",
+  "required_age": 0,
+  "tags": {
+    "2D": 34,
+    "4 Player Local": 18,
+    "Action": 69,
+    "Arcade": 41,
+    "Casual": 63,
+    "Hand-drawn": 28,
+    "Indie": 21,
+    "Local Multiplayer": 16,
+    "Multiplayer": 22,
+    "PvE": 24,
+    "PvP": 27,
+    "Singleplayer": 20,
+    "Top-Down Shooter": 37
+  },
+  "type": "game"
 }

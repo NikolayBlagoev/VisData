@@ -1,53 +1,54 @@
 {
-  "appid": 1631950,
-  "name": "Fimbul Winter VR",
-  "developer": "Success Games",
-  "publisher": "Success Games",
-  "tags": {
-    "Sports": 69,
-    "Action": 47,
-    "Simulation": 44,
-    "3D Fighter": 43,
-    "Adventure": 43,
-    "Action-Adventure": 40,
-    "Asymmetric VR": 37,
-    "Horror": 37,
-    "VR": 32,
-    "Strategy": 31,
-    "Indie": 21,
-    "Survival Horror": 21,
-    "Singleplayer": 19,
-    "Open World Survival Craft": 18,
-    "Exploration": 15,
-    "Atmospheric": 11,
-    "Family Friendly": 11,
-    "First-Person": 11,
-    "Old School": 11,
-    "Realistic": 11
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1631950,
   "categories": [
     "Single-player",
     "Full controller support",
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1631950/header.jpg?t=1637604083",
+  "consensus_genre": "Sports",
+  "developer": "Success Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -56,23 +57,43 @@
     "Sports",
     "Strategy"
   ],
-  "consensus_genre": "Sports",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1631950/header.jpg?t=1637604083",
+  "initialprice": "99",
+  "languages": "English, Russian, Simplified Chinese",
+  "name": "Fimbul Winter VR",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "Success Games",
+  "release_date": "2021/06/3",
+  "required_age": 0,
+  "tags": {
+    "3D Fighter": 43,
+    "Action": 47,
+    "Action-Adventure": 40,
+    "Adventure": 43,
+    "Asymmetric VR": 37,
+    "Atmospheric": 11,
+    "Exploration": 15,
+    "Family Friendly": 11,
+    "First-Person": 11,
+    "Horror": 37,
+    "Indie": 21,
+    "Old School": 11,
+    "Open World Survival Craft": 18,
+    "Realistic": 11,
+    "Simulation": 44,
+    "Singleplayer": 19,
+    "Sports": 69,
+    "Strategy": 31,
+    "Survival Horror": 21,
+    "VR": 32
+  },
+  "type": "game"
 }

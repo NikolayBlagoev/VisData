@@ -1,31 +1,184 @@
 {
-  "appid": 269210,
-  "name": "Hero Siege",
-  "developer": "Elias Viglione, Jussi Kukkonen",
-  "publisher": "Panic Art Studios",
-  "tags": {
-    "RPG": 567,
-    "Action Roguelike": 537,
-    "Hack and Slash": 419,
-    "Pixel Graphics": 381,
-    "Rogue-like": 375,
-    "Multiplayer": 345,
-    "Indie": 332,
-    "Action": 294,
-    "Co-op": 250,
-    "Adventure": 234,
-    "Local Co-Op": 220,
-    "2D": 215,
-    "Rogue-lite": 190,
-    "Top-Down": 149,
-    "Action RPG": 145,
-    "Massively Multiplayer": 117,
-    "Bullet Hell": 108,
-    "Singleplayer": 104,
-    "Difficult": 102,
-    "Controller": 101
+  "Average Playtime - 2 Weeks": 174,
+  "Average Playtime - Forever": 1227,
+  "CCU Histogram": {
+    "2022-12-08": 643,
+    "2022-12-09": 632,
+    "2022-12-10": 631,
+    "2022-12-11": 591,
+    "2022-12-12": 552,
+    "2022-12-13": 513,
+    "2022-12-14": 499,
+    "2022-12-15": 485,
+    "2022-12-16": 477,
+    "2022-12-17": 470,
+    "2022-12-18": 463,
+    "2022-12-19": 490,
+    "2022-12-20": 517,
+    "2022-12-21": 545,
+    "2022-12-22": 539
   },
-  "type": "game",
+  "Completion": 68.69999694824219,
+  "Down 30 Days": 56,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 4,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 3,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 3,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 21
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 2,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    }
+  ],
+  "Median Playtime - 2 Weeks": 174,
+  "Median Playtime - Forever": 301,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 222,
+  "User Score": -1,
+  "appid": 269210,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,22 +194,10 @@
     "Remote Play on TV",
     "Remote Play Together"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 25699,
-  "negative": 8486,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 1180,
-  "languages": "English, Finnish, Portuguese - Brazil, Russian, Simplified Chinese, Japanese, Korean, German",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2014/01/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/269210/header.jpg?t=1628765735",
+  "consensus_genre": "RPG",
+  "developer": "Elias Viglione, Jussi Kukkonen",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -64,163 +205,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 10,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 6,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 10,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 4,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 6,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 2,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 3,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 11,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 21,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 22,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 12,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 13,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 222,
-  "Down 30 Days": 56,
-  "Completion": 68.69999694824219,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/269210/header.jpg?t=1628765735",
+  "initialprice": "699",
+  "languages": "English, Finnish, Portuguese - Brazil, Russian, Simplified Chinese, Japanese, Korean, German",
+  "name": "Hero Siege",
+  "negative": 8486,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 25699,
+  "price": "699",
+  "publisher": "Panic Art Studios",
+  "release_date": "2014/01/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 215,
+    "Action": 294,
+    "Action RPG": 145,
+    "Action Roguelike": 537,
+    "Adventure": 234,
+    "Bullet Hell": 108,
+    "Co-op": 250,
+    "Controller": 101,
+    "Difficult": 102,
+    "Hack and Slash": 419,
+    "Indie": 332,
+    "Local Co-Op": 220,
+    "Massively Multiplayer": 117,
+    "Multiplayer": 345,
+    "Pixel Graphics": 381,
+    "RPG": 567,
+    "Rogue-like": 375,
+    "Rogue-lite": 190,
+    "Singleplayer": 104,
+    "Top-Down": 149
+  },
+  "type": "game"
 }

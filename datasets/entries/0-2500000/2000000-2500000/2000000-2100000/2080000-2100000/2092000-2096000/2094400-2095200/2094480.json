@@ -1,25 +1,69 @@
 {
-  "appid": 2094480,
-  "name": "Senet",
-  "developer": "Crinoid",
-  "publisher": "Crinoid",
-  "tags": {
-    "Strategy": 69,
-    "Board Game": 45,
-    "Historical": 42,
-    "Tabletop": 39,
-    "Controller": 36,
-    "Turn-Based Strategy": 29,
-    "Turn-Based Tactics": 28,
-    "Family Friendly": 26,
-    "Cinematic": 23,
-    "Mythology": 22,
-    "3D": 20,
-    "Singleplayer": 18,
-    "Local Multiplayer": 16,
-    "PvP": 14
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 37.0,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2094480,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -31,67 +75,44 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "999",
-  "initialprice": "1249",
-  "discount": "20",
   "ccu": 1,
-  "languages": "English, Russian, Simplified Chinese, Spanish - Spain, French, German, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2022/11/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2094480/header.jpg?t=1667570320",
+  "consensus_genre": "Strategy",
+  "developer": "Crinoid",
+  "discount": "20",
   "genre": [
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": 37.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2094480/header.jpg?t=1667570320",
+  "initialprice": "1249",
+  "languages": "English, Russian, Simplified Chinese, Spanish - Spain, French, German, Portuguese - Brazil",
+  "name": "Senet",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "999",
+  "publisher": "Crinoid",
+  "release_date": "2022/11/4",
+  "required_age": 0,
+  "tags": {
+    "3D": 20,
+    "Board Game": 45,
+    "Cinematic": 23,
+    "Controller": 36,
+    "Family Friendly": 26,
+    "Historical": 42,
+    "Local Multiplayer": 16,
+    "Mythology": 22,
+    "PvP": 14,
+    "Singleplayer": 18,
+    "Strategy": 69,
+    "Tabletop": 39,
+    "Turn-Based Strategy": 29,
+    "Turn-Based Tactics": 28
+  },
+  "type": "game"
 }

@@ -1,69 +1,90 @@
 {
-  "appid": 2166600,
-  "name": "Dear Nostalgia",
-  "developer": "ExoDark Studios",
-  "publisher": "ExoDark Studios",
-  "tags": {
-    "Adventure": 68,
-    "RPG": 62,
-    "Interactive Fiction": 39,
-    "Mystery Dungeon": 36,
-    "Typing": 33,
-    "Abstract": 27,
-    "Text-Based": 25,
-    "1980s": 23,
-    "Dark": 21,
-    "Indie": 21,
-    "Horror": 19,
-    "Singleplayer": 17
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 4,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2166600,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 4,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2166600/header.jpg?t=1666641639",
+  "consensus_genre": "Adventure",
+  "developer": "ExoDark Studios",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 4,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2166600/header.jpg?t=1666641639",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Dear Nostalgia",
+  "negative": 4,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "ExoDark Studios",
+  "release_date": "2022/10/24",
+  "required_age": 0,
+  "tags": {
+    "1980s": 23,
+    "Abstract": 27,
+    "Adventure": 68,
+    "Dark": 21,
+    "Horror": 19,
+    "Indie": 21,
+    "Interactive Fiction": 39,
+    "Mystery Dungeon": 36,
+    "RPG": 62,
+    "Singleplayer": 17,
+    "Text-Based": 25,
+    "Typing": 33
+  },
+  "type": "game"
 }

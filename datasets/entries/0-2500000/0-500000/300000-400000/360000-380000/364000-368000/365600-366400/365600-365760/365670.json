@@ -1,210 +1,231 @@
 {
+  "Average Playtime - 2 Weeks": 832,
+  "Average Playtime - Forever": 5630,
+  "CCU Histogram": {
+    "2022-12-08": 5437,
+    "2022-12-09": 6584,
+    "2022-12-10": 6063,
+    "2022-12-11": 6183,
+    "2022-12-12": 6304,
+    "2022-12-13": 6425,
+    "2022-12-14": 6380,
+    "2022-12-15": 6335,
+    "2022-12-16": 6123,
+    "2022-12-17": 5911,
+    "2022-12-18": 5700,
+    "2022-12-19": 5855,
+    "2022-12-20": 6011,
+    "2022-12-21": 6167,
+    "2022-12-22": 6155
+  },
+  "Completion": -1,
+  "Down 30 Days": 36,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 32
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 2,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 4,
+      "recommendations_up": 28
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 42
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 4,
+      "recommendations_up": 108
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 34
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 2,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 3,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 28
+    }
+  ],
+  "Median Playtime - 2 Weeks": 383,
+  "Median Playtime - Forever": 121,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 884,
+  "User Score": -1,
   "appid": 365670,
-  "name": "Blender",
-  "developer": "Blender Foundation",
-  "publisher": "Blender Foundation",
-  "tags": {
-    "Animation & Modeling": 543,
-    "Design & Illustration": 359,
-    "Free to Play": 344,
-    "Software": 342,
-    "Game Development": 330,
-    "Video Production": 308,
-    "3D": 202,
-    "Psychological Horror": 189,
-    "Difficult": 111,
-    "GameMaker": 110,
-    "Singleplayer": 88,
-    "Utilities": 77,
-    "Physics": 67,
-    "3D Vision": 62,
-    "2D": 52,
-    "Moddable": 47,
-    "Sandbox": 47,
-    "Souls-like": 37,
-    "Building": 35,
-    "Crafting": 29
-  },
-  "type": "game",
   "categories": [],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 36892,
-  "negative": 1108,
-  "price": "0",
-  "initialprice": "0",
-  "discount": "0",
   "ccu": 6656,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Russian, Ukrainian, Korean, Simplified Chinese, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2015/04/24",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/365670/header.jpg?t=1662545741",
+  "consensus_genre": "Animation & Modeling",
+  "developer": "Blender Foundation",
+  "discount": "0",
   "genre": [
     "Animation & Modeling",
     "Design & Illustration",
     "Video Production"
   ],
-  "consensus_genre": "Animation & Modeling",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 10,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 32,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 31,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 28,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 42,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 23,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 108,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 52,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 34,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 23,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 33,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 25,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 27,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 28,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 884,
-  "Down 30 Days": 36,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/365670/header.jpg?t=1662545741",
+  "initialprice": "0",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Russian, Ukrainian, Korean, Simplified Chinese, Vietnamese",
+  "name": "Blender",
+  "negative": 1108,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 36892,
+  "price": "0",
+  "publisher": "Blender Foundation",
+  "release_date": "2015/04/24",
+  "required_age": 0,
+  "tags": {
+    "2D": 52,
+    "3D": 202,
+    "3D Vision": 62,
+    "Animation & Modeling": 543,
+    "Building": 35,
+    "Crafting": 29,
+    "Design & Illustration": 359,
+    "Difficult": 111,
+    "Free to Play": 344,
+    "Game Development": 330,
+    "GameMaker": 110,
+    "Moddable": 47,
+    "Physics": 67,
+    "Psychological Horror": 189,
+    "Sandbox": 47,
+    "Singleplayer": 88,
+    "Software": 342,
+    "Souls-like": 37,
+    "Utilities": 77,
+    "Video Production": 308
+  },
+  "type": "game"
 }

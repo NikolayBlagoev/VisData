@@ -1,90 +1,111 @@
 {
-  "appid": 1556430,
-  "name": "Deep Therapy",
-  "developer": "Difranal Studio",
-  "publisher": "Difranal Studio",
-  "tags": {
-    "Platformer": 52,
-    "Pixel Graphics": 46,
-    "Exploration": 43,
-    "Adventure": 40,
-    "Drama": 40,
-    "Investigation": 37,
-    "Philosophical": 31,
-    "Retro": 30,
-    "2D Platformer": 28,
-    "Text-Based": 24,
-    "Action-Adventure": 22,
-    "Action": 21,
-    "Indie": 21,
-    "Puzzle-Platformer": 19,
-    "2D": 17,
-    "Nonlinear": 15,
-    "Singleplayer": 13
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 43.099998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1556430,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/03/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556430/header.jpg?t=1616275033",
+  "consensus_genre": "Adventure",
+  "developer": "Difranal Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 43.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1556430/header.jpg?t=1616275033",
+  "initialprice": "199",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Deep Therapy",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "199",
+  "publisher": "Difranal Studio",
+  "release_date": "2021/03/15",
+  "required_age": 0,
+  "tags": {
+    "2D": 17,
+    "2D Platformer": 28,
+    "Action": 21,
+    "Action-Adventure": 22,
+    "Adventure": 40,
+    "Drama": 40,
+    "Exploration": 43,
+    "Indie": 21,
+    "Investigation": 37,
+    "Nonlinear": 15,
+    "Philosophical": 31,
+    "Pixel Graphics": 46,
+    "Platformer": 52,
+    "Puzzle-Platformer": 19,
+    "Retro": 30,
+    "Singleplayer": 13,
+    "Text-Based": 24
+  },
+  "type": "game"
 }

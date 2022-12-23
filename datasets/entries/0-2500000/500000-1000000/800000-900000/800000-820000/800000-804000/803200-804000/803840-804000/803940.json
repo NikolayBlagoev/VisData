@@ -1,28 +1,49 @@
 {
-  "appid": 803940,
-  "name": "Collapsion",
-  "developer": "Chris Corkill",
-  "publisher": "Chris Corkill",
-  "tags": {
-    "Action": 180,
-    "Casual": 174,
-    "Arcade": 151,
-    "Shooter": 146,
-    "Shoot 'Em Up": 138,
-    "2D": 130,
-    "Pixel Graphics": 122,
-    "Aliens": 115,
-    "Destruction": 107,
-    "Sci-fi": 97,
-    "Space": 96,
-    "Combat": 83,
-    "Score Attack": 70,
-    "Multiplayer": 56,
-    "Indie": 45,
-    "Singleplayer": 41,
-    "Local Co-Op": 27
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 803940,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -30,49 +51,49 @@
     "Shared/Split Screen PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/803940/header.jpg?t=1645281435",
+  "consensus_genre": "Action",
+  "developer": "Chris Corkill",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/803940/header.jpg?t=1645281435",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Collapsion",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "99",
+  "publisher": "Chris Corkill",
+  "release_date": "2022/02/19",
+  "required_age": 0,
+  "tags": {
+    "2D": 130,
+    "Action": 180,
+    "Aliens": 115,
+    "Arcade": 151,
+    "Casual": 174,
+    "Combat": 83,
+    "Destruction": 107,
+    "Indie": 45,
+    "Local Co-Op": 27,
+    "Multiplayer": 56,
+    "Pixel Graphics": 122,
+    "Sci-fi": 97,
+    "Score Attack": 70,
+    "Shoot 'Em Up": 138,
+    "Shooter": 146,
+    "Singleplayer": 41,
+    "Space": 96
+  },
+  "type": "game"
 }

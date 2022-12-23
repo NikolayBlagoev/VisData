@@ -1,31 +1,44 @@
 {
-  "appid": 2062660,
-  "name": "Cyber Drift",
-  "developer": "Meng Games",
-  "publisher": "Meng Games",
-  "tags": {
-    "Early Access": 226,
-    "Cyberpunk": 212,
-    "1980s": 202,
-    "Surreal": 197,
-    "Fast-Paced": 191,
-    "Driving": 182,
-    "Replay Value": 174,
-    "Arcade": 166,
-    "Retro": 157,
-    "Stylized": 148,
-    "Atmospheric": 138,
-    "Relaxing": 126,
-    "Psychedelic": 124,
-    "Automobile Sim": 110,
-    "Simulation": 99,
-    "1990's": 95,
-    "Racing": 82,
-    "Sports": 44,
-    "Futuristic": 27,
-    "Singleplayer": 25
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 50.0,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 2062660,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,45 +46,53 @@
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "449",
-  "initialprice": "899",
-  "discount": "50",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Russian, Polish, Simplified Chinese, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/07/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2062660/header.jpg?t=1659763498",
+  "consensus_genre": "Early Access",
+  "developer": "Meng Games",
+  "discount": "50",
   "genre": [
     "Indie",
     "Racing",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 50.0,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2062660/header.jpg?t=1659763498",
+  "initialprice": "899",
+  "languages": "English, French, German, Spanish - Spain, Russian, Polish, Simplified Chinese, Portuguese - Brazil",
+  "name": "Cyber Drift",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "449",
+  "publisher": "Meng Games",
+  "release_date": "2022/07/4",
+  "required_age": 0,
+  "tags": {
+    "1980s": 202,
+    "1990's": 95,
+    "Arcade": 166,
+    "Atmospheric": 138,
+    "Automobile Sim": 110,
+    "Cyberpunk": 212,
+    "Driving": 182,
+    "Early Access": 226,
+    "Fast-Paced": 191,
+    "Futuristic": 27,
+    "Psychedelic": 124,
+    "Racing": 82,
+    "Relaxing": 126,
+    "Replay Value": 174,
+    "Retro": 157,
+    "Simulation": 99,
+    "Singleplayer": 25,
+    "Sports": 44,
+    "Stylized": 148,
+    "Surreal": 197
+  },
+  "type": "game"
 }

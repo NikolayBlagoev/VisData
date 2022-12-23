@@ -1,15 +1,39 @@
 {
-  "appid": 1172640,
-  "name": "Parcel Panic",
-  "developer": "Hernes Hunters Productions",
-  "publisher": "Hernes Hunters Productions",
-  "tags": {
-    "Action": 21,
-    "Casual": 21,
-    "Indie": 21,
-    "Racing": 21
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 41.099998474121094,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1172640,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -17,40 +41,37 @@
     "Steam Achievements",
     "Shared/Split Screen Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/11/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172640/header.jpg?t=1573030910",
+  "consensus_genre": "Action",
+  "developer": "Hernes Hunters Productions",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Racing"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 41.099998474121094,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172640/header.jpg?t=1573030910",
+  "initialprice": "599",
+  "languages": "English, French, German, Spanish - Spain",
+  "name": "Parcel Panic",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "599",
+  "publisher": "Hernes Hunters Productions",
+  "release_date": "2019/11/6",
+  "required_age": 0,
+  "tags": {
+    "Action": 21,
+    "Casual": 21,
+    "Indie": 21,
+    "Racing": 21
+  },
+  "type": "game"
 }

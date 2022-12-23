@@ -1,55 +1,76 @@
 {
-  "appid": 1014660,
-  "name": "Baby Bee",
-  "developer": "Momentum, Patito",
-  "publisher": "Momentum Games",
-  "tags": {
-    "Casual": 22,
-    "Indie": 20,
-    "Adventure": 19,
-    "Strategy": 19,
-    "Puzzle": 13,
-    "Turn-Based": 9
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 64.69999694824219,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1014660,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Portuguese - Portugal, Russian, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2019/02/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1014660/header.jpg?t=1549027177",
+  "consensus_genre": "Casual",
+  "developer": "Momentum, Patito",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 64.69999694824219,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1014660/header.jpg?t=1549027177",
+  "initialprice": "399",
+  "languages": "English, French, Portuguese - Portugal, Russian, Spanish - Spain",
+  "name": "Baby Bee",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "Momentum Games",
+  "release_date": "2019/02/1",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 19,
+    "Casual": 22,
+    "Indie": 20,
+    "Puzzle": 13,
+    "Strategy": 19,
+    "Turn-Based": 9
+  },
+  "type": "game"
 }

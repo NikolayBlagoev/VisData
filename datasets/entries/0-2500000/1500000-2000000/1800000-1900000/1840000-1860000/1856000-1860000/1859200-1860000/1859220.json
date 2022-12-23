@@ -1,60 +1,81 @@
 {
-  "appid": 1859220,
-  "name": "\u75af\u72c2\u53a8\u623fVR",
-  "developer": "703 Studio",
-  "publisher": "703 Studio",
-  "tags": {
-    "Casual": 65,
-    "VR": 53,
-    "Simulation": 47,
-    "Funny": 42,
-    "Stylized": 39,
-    "Cooking": 37,
-    "Immersive Sim": 28,
-    "Life Sim": 26,
-    "3D": 24,
-    "First-Person": 22,
-    "Fantasy": 20,
-    "Relaxing": 18,
-    "Controller": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1859220,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "799",
-  "initialprice": "799",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/01/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1859220/header.jpg?t=1642066918",
+  "consensus_genre": "Casual",
+  "developer": "703 Studio",
+  "discount": "0",
   "genre": [
     "Casual",
     "Simulation"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1859220/header.jpg?t=1642066918",
+  "initialprice": "799",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u75af\u72c2\u53a8\u623fVR",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "799",
+  "publisher": "703 Studio",
+  "release_date": "2022/01/13",
+  "required_age": 0,
+  "tags": {
+    "3D": 24,
+    "Casual": 65,
+    "Controller": 16,
+    "Cooking": 37,
+    "Fantasy": 20,
+    "First-Person": 22,
+    "Funny": 42,
+    "Immersive Sim": 28,
+    "Life Sim": 26,
+    "Relaxing": 18,
+    "Simulation": 47,
+    "Singleplayer": 14,
+    "Stylized": 39,
+    "VR": 53
+  },
+  "type": "game"
 }

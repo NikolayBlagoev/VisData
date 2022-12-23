@@ -1,49 +1,70 @@
 {
-  "appid": 905270,
-  "name": "Merlin Soccer",
-  "developer": "Educational Games",
-  "publisher": "Educational Games",
-  "tags": {
-    "Casual": 21,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 24.200000762939453,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 905270,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2018/08/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/905270/header.jpg?t=1666096762",
+  "consensus_genre": "Casual",
+  "developer": "Educational Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": 24.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/905270/header.jpg?t=1666096762",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Merlin Soccer",
+  "negative": 1,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "Educational Games",
+  "release_date": "2018/08/3",
+  "required_age": 0,
+  "tags": {
+    "Casual": 21,
+    "Indie": 21
+  },
+  "type": "game"
 }

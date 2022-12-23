@@ -1,73 +1,94 @@
 {
-  "appid": 1970700,
-  "name": "CowboysShowdown",
-  "developer": "Gamesforgames",
-  "publisher": "Gamesforgames",
-  "tags": {
-    "Action": 341,
-    "Casual": 334,
-    "Simulation": 309,
-    "2D Fighter": 304,
-    "Action RPG": 298,
-    "Shooter": 289,
-    "Walking Simulator": 281,
-    "2D Platformer": 273,
-    "Action Roguelike": 264,
-    "Arena Shooter": 254,
-    "Hack and Slash": 243,
-    "2D": 234,
-    "Cartoon": 221,
-    "Colorful": 206,
-    "Pixel Graphics": 206,
-    "1990's": 188,
-    "Atmospheric": 171,
-    "Old School": 153,
-    "Zombies": 135,
-    "Choices Matter": 113
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 1,
+    "2022-12-09": 1,
+    "2022-12-10": 1,
+    "2022-12-11": 1,
+    "2022-12-12": 1,
+    "2022-12-13": 1,
+    "2022-12-14": 1,
+    "2022-12-15": 1,
+    "2022-12-16": 1,
+    "2022-12-17": 1,
+    "2022-12-18": 1,
+    "2022-12-19": 1,
+    "2022-12-20": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
   },
-  "type": "game",
+  "Completion": 20.299999237060547,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1970700,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 10,
-  "negative": 0,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970700/header.jpg?t=1653503709",
+  "consensus_genre": "Action",
+  "developer": "Gamesforgames",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": 20.299999237060547,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970700/header.jpg?t=1653503709",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "CowboysShowdown",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10,
+  "price": "2499",
+  "publisher": "Gamesforgames",
+  "release_date": "2022/05/25",
+  "required_age": 0,
+  "tags": {
+    "1990's": 188,
+    "2D": 234,
+    "2D Fighter": 304,
+    "2D Platformer": 273,
+    "Action": 341,
+    "Action RPG": 298,
+    "Action Roguelike": 264,
+    "Arena Shooter": 254,
+    "Atmospheric": 171,
+    "Cartoon": 221,
+    "Casual": 334,
+    "Choices Matter": 113,
+    "Colorful": 206,
+    "Hack and Slash": 243,
+    "Old School": 153,
+    "Pixel Graphics": 206,
+    "Shooter": 289,
+    "Simulation": 309,
+    "Walking Simulator": 281,
+    "Zombies": 135
+  },
+  "type": "game"
 }

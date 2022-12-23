@@ -1,216 +1,237 @@
 {
-  "appid": 1094520,
-  "name": "Sands of Salzaar",
-  "developer": "\u6c49\u5bb6\u677e\u9f20Han-Squirrel Studio",
-  "publisher": "XD",
-  "tags": {
-    "Open World": 209,
-    "RPG": 185,
-    "Strategy": 181,
-    "War": 179,
-    "Indie": 170,
-    "Adventure": 139,
-    "Sandbox": 105,
-    "Singleplayer": 104,
-    "Character Customization": 101,
-    "Hack and Slash": 96,
-    "Early Access": 90,
-    "Story Rich": 85,
-    "Action RPG": 84,
-    "Top-Down": 78,
-    "Multiplayer": 74,
-    "Martial Arts": 62,
-    "Anime": 59,
-    "Mature": 59,
-    "Moddable": 46,
-    "Action": 38
+  "Average Playtime - 2 Weeks": 13,
+  "Average Playtime - Forever": 1081,
+  "CCU Histogram": {
+    "2022-12-08": 364,
+    "2022-12-09": 333,
+    "2022-12-10": 288,
+    "2022-12-11": 285,
+    "2022-12-12": 282,
+    "2022-12-13": 280,
+    "2022-12-14": 319,
+    "2022-12-15": 359,
+    "2022-12-16": 352,
+    "2022-12-17": 345,
+    "2022-12-18": 338,
+    "2022-12-19": 337,
+    "2022-12-20": 336,
+    "2022-12-21": 335,
+    "2022-12-22": 322
   },
-  "type": "game",
+  "Completion": 65.3499984741211,
+  "Down 30 Days": 20,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 105
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 26
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 24
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 2,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": 13,
+  "Median Playtime - Forever": 865,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 309,
+  "User Score": -1,
+  "appid": 1094520,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Cloud",
     "Steam Workshop"
   ],
-  "owners": "500,000 .. 1,000,000",
-  "positive": 16386,
-  "negative": 3084,
-  "price": "1499",
-  "initialprice": "1499",
-  "discount": "0",
   "ccu": 343,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1094520/header.jpg?t=1661931296",
+  "consensus_genre": "RPG",
+  "developer": "\u6c49\u5bb6\u677e\u9f20Han-Squirrel Studio",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Indie",
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 105,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 37,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 26,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 24,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 25,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 18,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 309,
-  "Down 30 Days": 20,
-  "Completion": 65.3499984741211,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1094520/header.jpg?t=1661931296",
+  "initialprice": "1499",
+  "languages": "English, Simplified Chinese",
+  "name": "Sands of Salzaar",
+  "negative": 3084,
+  "owners": "500,000 .. 1,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 16386,
+  "price": "1499",
+  "publisher": "XD",
+  "release_date": "2021/12/15",
+  "required_age": 0,
+  "tags": {
+    "Action": 38,
+    "Action RPG": 84,
+    "Adventure": 139,
+    "Anime": 59,
+    "Character Customization": 101,
+    "Early Access": 90,
+    "Hack and Slash": 96,
+    "Indie": 170,
+    "Martial Arts": 62,
+    "Mature": 59,
+    "Moddable": 46,
+    "Multiplayer": 74,
+    "Open World": 209,
+    "RPG": 185,
+    "Sandbox": 105,
+    "Singleplayer": 104,
+    "Story Rich": 85,
+    "Strategy": 181,
+    "Top-Down": 78,
+    "War": 179
+  },
+  "type": "game"
 }

@@ -1,31 +1,184 @@
 {
-  "appid": 493340,
-  "name": "Planet Coaster",
-  "developer": "Frontier Developments, Aspyr (Mac)",
-  "publisher": "Frontier Developments, Aspyr (Mac)",
-  "tags": {
-    "Simulation": 1156,
-    "Building": 1074,
-    "Management": 899,
-    "Family Friendly": 848,
-    "Sandbox": 827,
-    "Relaxing": 588,
-    "Strategy": 576,
-    "Realistic": 575,
-    "Funny": 573,
-    "Economy": 572,
-    "Great Soundtrack": 571,
-    "Atmospheric": 560,
-    "Singleplayer": 558,
-    "Colorful": 554,
-    "Third Person": 547,
-    "City Builder": 321,
-    "Casual": 306,
-    "God Game": 297,
-    "3D": 293,
-    "First-Person": 291
+  "Average Playtime - 2 Weeks": 66,
+  "Average Playtime - Forever": 1350,
+  "CCU Histogram": {
+    "2022-12-08": 1428,
+    "2022-12-09": 1385,
+    "2022-12-10": 1473,
+    "2022-12-11": 1457,
+    "2022-12-12": 1442,
+    "2022-12-13": 1427,
+    "2022-12-14": 1357,
+    "2022-12-15": 1288,
+    "2022-12-16": 1327,
+    "2022-12-17": 1366,
+    "2022-12-18": 1406,
+    "2022-12-19": 1432,
+    "2022-12-20": 1459,
+    "2022-12-21": 1486,
+    "2022-12-22": 1511
   },
-  "type": "game",
+  "Completion": 42.599998474121094,
+  "Down 30 Days": 111,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 11
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 10,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 47,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 17,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 7,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 4,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 2,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 3,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 9
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 3,
+      "recommendations_up": 30
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 4,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 2,
+      "recommendations_up": 9
+    }
+  ],
+  "Median Playtime - 2 Weeks": 83,
+  "Median Playtime - Forever": 381,
+  "Meta Score": "84",
+  "Rating": "ESRB E",
+  "Up 30 Days": 363,
+  "User Score": -1,
+  "appid": 493340,
   "categories": [
     "Single-player",
     "Steam Achievements",
@@ -33,22 +186,10 @@
     "Steam Trading Cards",
     "Steam Workshop"
   ],
-  "owners": "1,000,000 .. 2,000,000",
-  "positive": 51854,
-  "negative": 4908,
-  "price": "4499",
-  "initialprice": "4499",
-  "discount": "0",
   "ccu": 1841,
-  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2016/11/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493340/header.jpg?t=1667404274",
+  "consensus_genre": "Simulation",
+  "developer": "Frontier Developments, Aspyr (Mac)",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -56,163 +197,43 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": "84",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 11,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 16,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 16,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 11,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 5,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 9,
-      "recommendations_down": 47
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 12,
-      "recommendations_down": 17
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 10,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 7,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 17,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 15,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 9,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 10,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 30,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 12,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 9,
-      "recommendations_down": 2
-    }
-  ],
-  "Up 30 Days": 363,
-  "Down 30 Days": 111,
-  "Completion": 42.599998474121094,
-  "Rating": "ESRB E"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493340/header.jpg?t=1667404274",
+  "initialprice": "4499",
+  "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
+  "name": "Planet Coaster",
+  "negative": 4908,
+  "owners": "1,000,000 .. 2,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 51854,
+  "price": "4499",
+  "publisher": "Frontier Developments, Aspyr (Mac)",
+  "release_date": "2016/11/17",
+  "required_age": 0,
+  "tags": {
+    "3D": 293,
+    "Atmospheric": 560,
+    "Building": 1074,
+    "Casual": 306,
+    "City Builder": 321,
+    "Colorful": 554,
+    "Economy": 572,
+    "Family Friendly": 848,
+    "First-Person": 291,
+    "Funny": 573,
+    "God Game": 297,
+    "Great Soundtrack": 571,
+    "Management": 899,
+    "Realistic": 575,
+    "Relaxing": 588,
+    "Sandbox": 827,
+    "Simulation": 1156,
+    "Singleplayer": 558,
+    "Strategy": 576,
+    "Third Person": 547
+  },
+  "type": "game"
 }

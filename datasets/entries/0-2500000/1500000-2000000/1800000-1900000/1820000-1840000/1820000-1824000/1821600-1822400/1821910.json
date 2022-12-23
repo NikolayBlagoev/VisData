@@ -1,82 +1,103 @@
 {
-  "appid": 1821910,
-  "name": "Adamanta View",
-  "developer": "Avis Games",
-  "publisher": "Avis Games",
-  "tags": {
-    "Action": 71,
-    "Open World Survival Craft": 46,
-    "Singleplayer": 42,
-    "Exploration": 39,
-    "Colony Sim": 35,
-    "Adventure": 33,
-    "Building": 30,
-    "Atmospheric": 28,
-    "3D": 26,
-    "Shooter": 24,
-    "Open World": 22,
-    "FPS": 21,
-    "Indie": 21,
-    "Base-Building": 18,
-    "Choices Matter": 16
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1821910,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/12/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1821910/header.jpg?t=1667194205",
+  "consensus_genre": "Action",
+  "developer": "Avis Games",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1821910/header.jpg?t=1667194205",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Adamanta View",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1199",
+  "publisher": "Avis Games",
+  "release_date": "2021/12/1",
+  "required_age": 0,
+  "tags": {
+    "3D": 26,
+    "Action": 71,
+    "Adventure": 33,
+    "Atmospheric": 28,
+    "Base-Building": 18,
+    "Building": 30,
+    "Choices Matter": 16,
+    "Colony Sim": 35,
+    "Exploration": 39,
+    "FPS": 21,
+    "Indie": 21,
+    "Open World": 22,
+    "Open World Survival Craft": 46,
+    "Shooter": 24,
+    "Singleplayer": 42
+  },
+  "type": "game"
 }

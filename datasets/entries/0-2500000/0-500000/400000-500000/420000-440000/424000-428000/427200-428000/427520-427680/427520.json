@@ -1,31 +1,184 @@
 {
-  "appid": 427520,
-  "name": "Factorio",
-  "developer": "Wube Software LTD.",
-  "publisher": "Wube Software LTD.",
-  "tags": {
-    "Automation": 3915,
-    "Base-Building": 3631,
-    "Resource Management": 3134,
-    "Sandbox": 2617,
-    "Crafting": 2366,
-    "Strategy": 1981,
-    "Multiplayer": 1838,
-    "Survival": 1795,
-    "Management": 1602,
-    "Open World": 1577,
-    "Co-op": 1334,
-    "Building": 1327,
-    "2D": 1251,
-    "Moddable": 1156,
-    "Singleplayer": 1132,
-    "Simulation": 1126,
-    "Trains": 1121,
-    "Pixel Graphics": 1100,
-    "City Builder": 1095,
-    "Indie": 972
+  "Average Playtime - 2 Weeks": 865,
+  "Average Playtime - Forever": 7755,
+  "CCU Histogram": {
+    "2022-12-08": 12886,
+    "2022-12-09": 13185,
+    "2022-12-10": 13759,
+    "2022-12-11": 15088,
+    "2022-12-12": 16417,
+    "2022-12-13": 17746,
+    "2022-12-14": 15249,
+    "2022-12-15": 12753,
+    "2022-12-16": 13661,
+    "2022-12-17": 14570,
+    "2022-12-18": 15479,
+    "2022-12-19": 16053,
+    "2022-12-20": 16628,
+    "2022-12-21": 17203,
+    "2022-12-22": 16605
   },
-  "type": "game",
+  "Completion": 57.79999923706055,
+  "Down 30 Days": 35,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 33
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 44
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 3,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 2,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 46
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 35
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 3,
+      "recommendations_up": 160
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 251
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 128
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 136
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 149
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 122
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 1,
+      "recommendations_up": 90
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 90
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 53
+    }
+  ],
+  "Median Playtime - 2 Weeks": 756,
+  "Median Playtime - Forever": 3390,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1949,
+  "User Score": -1,
+  "appid": 427520,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -38,185 +191,53 @@
     "Remote Play on Tablet",
     "LAN Co-op"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 149859,
-  "negative": 5342,
-  "price": "3000",
-  "initialprice": "3000",
-  "discount": "0",
   "ccu": 18597,
-  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Dutch, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean, Turkish, Greek, Spanish - Latin America, Thai, Vietnamese, Belarusian, Catalan, Kazakh",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/08/14",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg?t=1664264081",
+  "consensus_genre": "Strategy",
+  "developer": "Wube Software LTD.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 48,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 33,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 45,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 44,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 37,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 40,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 38,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 52,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 46,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 46,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 31,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 27,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 31,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 41,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 35,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 160,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 251,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 128,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 136,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 149,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 122,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 90,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 90,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 53,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1949,
-  "Down 30 Days": 35,
-  "Completion": 57.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg?t=1664264081",
+  "initialprice": "3000",
+  "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Dutch, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean, Turkish, Greek, Spanish - Latin America, Thai, Vietnamese, Belarusian, Catalan, Kazakh",
+  "name": "Factorio",
+  "negative": 5342,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 149859,
+  "price": "3000",
+  "publisher": "Wube Software LTD.",
+  "release_date": "2020/08/14",
+  "required_age": 0,
+  "tags": {
+    "2D": 1251,
+    "Automation": 3915,
+    "Base-Building": 3631,
+    "Building": 1327,
+    "City Builder": 1095,
+    "Co-op": 1334,
+    "Crafting": 2366,
+    "Indie": 972,
+    "Management": 1602,
+    "Moddable": 1156,
+    "Multiplayer": 1838,
+    "Open World": 1577,
+    "Pixel Graphics": 1100,
+    "Resource Management": 3134,
+    "Sandbox": 2617,
+    "Simulation": 1126,
+    "Singleplayer": 1132,
+    "Strategy": 1981,
+    "Survival": 1795,
+    "Trains": 1121
+  },
+  "type": "game"
 }

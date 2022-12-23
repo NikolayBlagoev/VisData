@@ -1,68 +1,89 @@
 {
-  "appid": 1222230,
-  "name": "Space Ranger VR",
-  "developer": "IBE",
-  "publisher": "IBE",
-  "tags": {
-    "Simulation": 130,
-    "Early Access": 21,
-    "Multiplayer": 12,
-    "Space": 12,
-    "Vehicular Combat": 12,
-    "Massively Multiplayer": 11,
-    "Space Sim": 11,
-    "VR": 7,
-    "VR Only": 1
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1222230,
   "categories": [
     "Multi-player",
     "Single-player",
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/02/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222230/header.jpg?t=1587440930",
+  "consensus_genre": "Simulation",
+  "developer": "IBE",
+  "discount": "0",
   "genre": [
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222230/header.jpg?t=1587440930",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Space Ranger VR",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "1999",
+  "publisher": "IBE",
+  "release_date": "2020/02/25",
+  "required_age": 0,
+  "tags": {
+    "Early Access": 21,
+    "Massively Multiplayer": 11,
+    "Multiplayer": 12,
+    "Simulation": 130,
+    "Space": 12,
+    "Space Sim": 11,
+    "VR": 7,
+    "VR Only": 1,
+    "Vehicular Combat": 12
+  },
+  "type": "game"
 }

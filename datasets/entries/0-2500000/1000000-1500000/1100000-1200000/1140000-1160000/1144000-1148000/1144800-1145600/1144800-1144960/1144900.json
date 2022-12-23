@@ -1,55 +1,76 @@
 {
-  "appid": 1144900,
-  "name": "Pension Day",
-  "developer": "Julian Henley",
-  "publisher": "Julian Henley",
-  "tags": {
-    "Action": 67,
-    "Casual": 61,
-    "Arcade": 40,
-    "Pixel Graphics": 37,
-    "2D": 34,
-    "Cartoony": 28,
-    "Funny": 26,
-    "Linear": 24,
-    "Singleplayer": 22
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1144900,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/09/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1144900/header.jpg?t=1651033778",
+  "consensus_genre": "Action",
+  "developer": "Julian Henley",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1144900/header.jpg?t=1651033778",
+  "initialprice": "99",
+  "languages": "English",
+  "name": "Pension Day",
+  "negative": 1,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "99",
+  "publisher": "Julian Henley",
+  "release_date": "2019/09/3",
+  "required_age": 0,
+  "tags": {
+    "2D": 34,
+    "Action": 67,
+    "Arcade": 40,
+    "Cartoony": 28,
+    "Casual": 61,
+    "Funny": 26,
+    "Linear": 24,
+    "Pixel Graphics": 37,
+    "Singleplayer": 22
+  },
+  "type": "game"
 }

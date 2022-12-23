@@ -1,31 +1,184 @@
 {
-  "appid": 252490,
-  "name": "Rust",
-  "developer": "Facepunch Studios",
-  "publisher": "Facepunch Studios",
-  "tags": {
-    "Survival": 16641,
-    "Crafting": 10517,
-    "Multiplayer": 10359,
-    "Open World": 9844,
-    "Open World Survival Craft": 7631,
-    "Building": 7296,
-    "PvP": 6616,
-    "Sandbox": 6603,
-    "Adventure": 5294,
-    "First-Person": 4594,
-    "Action": 4312,
-    "FPS": 4099,
-    "Nudity": 4051,
-    "Co-op": 3285,
-    "Shooter": 3266,
-    "Online Co-Op": 3223,
-    "Indie": 2886,
-    "Early Access": 2779,
-    "Post-apocalyptic": 2565,
-    "Simulation": 2259
+  "Average Playtime - 2 Weeks": 1151,
+  "Average Playtime - Forever": 20508,
+  "CCU Histogram": {
+    "2022-12-08": 92469,
+    "2022-12-09": 86104,
+    "2022-12-10": 97894,
+    "2022-12-11": 101545,
+    "2022-12-12": 105196,
+    "2022-12-13": 108848,
+    "2022-12-14": 96685,
+    "2022-12-15": 84522,
+    "2022-12-16": 94162,
+    "2022-12-17": 103803,
+    "2022-12-18": 113444,
+    "2022-12-19": 110911,
+    "2022-12-20": 108378,
+    "2022-12-21": 105846,
+    "2022-12-22": 98891
   },
-  "type": "game",
+  "Completion": 27.649999618530273,
+  "Down 30 Days": 1235,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 44,
+      "recommendations_up": 270
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 63,
+      "recommendations_up": 563
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 62,
+      "recommendations_up": 374
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 37,
+      "recommendations_up": 286
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 43,
+      "recommendations_up": 272
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 31,
+      "recommendations_up": 214
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 26,
+      "recommendations_up": 202
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 32,
+      "recommendations_up": 231
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 40,
+      "recommendations_up": 214
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 34,
+      "recommendations_up": 264
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 37,
+      "recommendations_up": 268
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 38,
+      "recommendations_up": 233
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 24,
+      "recommendations_up": 214
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 32,
+      "recommendations_up": 194
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 31,
+      "recommendations_up": 187
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 35,
+      "recommendations_up": 200
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 29,
+      "recommendations_up": 197
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 56,
+      "recommendations_up": 245
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 57,
+      "recommendations_up": 259
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 38,
+      "recommendations_up": 208
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 40,
+      "recommendations_up": 691
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 72,
+      "recommendations_up": 1332
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 63,
+      "recommendations_up": 879
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 64,
+      "recommendations_up": 708
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 63,
+      "recommendations_up": 797
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 41,
+      "recommendations_up": 698
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 41,
+      "recommendations_up": 524
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 38,
+      "recommendations_up": 433
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 24,
+      "recommendations_up": 221
+    }
+  ],
+  "Median Playtime - 2 Weeks": 244,
+  "Median Playtime - Forever": 2668,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 11378,
+  "User Score": -1,
+  "appid": 252490,
   "categories": [
     "Multi-player",
     "Valve Anti-Cheat enabled",
@@ -42,22 +195,10 @@
     "Remote Play on Tablet",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 732513,
-  "negative": 112154,
-  "price": "3999",
-  "initialprice": "3999",
-  "discount": "0",
   "ccu": 121146,
-  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Ukrainian, Polish, Portuguese - Portugal, Turkish, Arabic, Czech, Danish, Dutch, Finnish, Greek, Norwegian, Portuguese - Brazil, Spanish - Latin America, Swedish, Traditional Chinese, Vietnamese",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2018/02/8",
-  "required_age": "17",
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1666865208",
+  "consensus_genre": "Adventure",
+  "developer": "Facepunch Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -65,163 +206,43 @@
     "Massively Multiplayer",
     "RPG"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 270,
-      "recommendations_down": 44
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 563,
-      "recommendations_down": 63
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 374,
-      "recommendations_down": 62
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 286,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 272,
-      "recommendations_down": 43
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 214,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 202,
-      "recommendations_down": 26
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 231,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 214,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 264,
-      "recommendations_down": 34
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 268,
-      "recommendations_down": 37
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 233,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 214,
-      "recommendations_down": 24
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 194,
-      "recommendations_down": 32
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 187,
-      "recommendations_down": 31
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 200,
-      "recommendations_down": 35
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 197,
-      "recommendations_down": 29
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 245,
-      "recommendations_down": 56
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 259,
-      "recommendations_down": 57
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 208,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 691,
-      "recommendations_down": 40
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 1332,
-      "recommendations_down": 72
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 879,
-      "recommendations_down": 63
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 708,
-      "recommendations_down": 64
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 797,
-      "recommendations_down": 63
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 698,
-      "recommendations_down": 41
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 524,
-      "recommendations_down": 41
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 433,
-      "recommendations_down": 38
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 221,
-      "recommendations_down": 24
-    }
-  ],
-  "Up 30 Days": 11378,
-  "Down 30 Days": 1235,
-  "Completion": 27.649999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1666865208",
+  "initialprice": "3999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Ukrainian, Polish, Portuguese - Portugal, Turkish, Arabic, Czech, Danish, Dutch, Finnish, Greek, Norwegian, Portuguese - Brazil, Spanish - Latin America, Swedish, Traditional Chinese, Vietnamese",
+  "name": "Rust",
+  "negative": 112154,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 732513,
+  "price": "3999",
+  "publisher": "Facepunch Studios",
+  "release_date": "2018/02/8",
+  "required_age": "17",
+  "tags": {
+    "Action": 4312,
+    "Adventure": 5294,
+    "Building": 7296,
+    "Co-op": 3285,
+    "Crafting": 10517,
+    "Early Access": 2779,
+    "FPS": 4099,
+    "First-Person": 4594,
+    "Indie": 2886,
+    "Multiplayer": 10359,
+    "Nudity": 4051,
+    "Online Co-Op": 3223,
+    "Open World": 9844,
+    "Open World Survival Craft": 7631,
+    "Post-apocalyptic": 2565,
+    "PvP": 6616,
+    "Sandbox": 6603,
+    "Shooter": 3266,
+    "Simulation": 2259,
+    "Survival": 16641
+  },
+  "type": "game"
 }

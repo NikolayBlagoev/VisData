@@ -1,31 +1,49 @@
 {
-  "appid": 1464630,
-  "name": "Gravity in Space",
-  "developer": "Cross and Dot Products",
-  "publisher": "Cross and Dot Products",
-  "tags": {
-    "Flight": 213,
-    "Indie": 211,
-    "Space": 209,
-    "Shooter": 202,
-    "Physics": 199,
-    "Difficult": 181,
-    "PvP": 174,
-    "3D": 166,
-    "Action": 158,
-    "Realistic": 157,
-    "Space Sim": 148,
-    "Simulation": 147,
-    "Sci-fi": 124,
-    "6DOF": 110,
-    "Combat": 95,
-    "Singleplayer": 79,
-    "Multiplayer": 62,
-    "Early Access": 46,
-    "Spaceships": 44,
-    "Science": 27
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1464630,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,50 +51,53 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "1399",
-  "initialprice": "1399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": true
-  },
-  "release_date": "2021/01/27",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1464630/header.jpg?t=1627830686",
+  "consensus_genre": "Indie",
+  "developer": "Cross and Dot Products",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1464630/header.jpg?t=1627830686",
+  "initialprice": "1399",
+  "languages": "English",
+  "name": "Gravity in Space",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "1399",
+  "publisher": "Cross and Dot Products",
+  "release_date": "2021/01/27",
+  "required_age": 0,
+  "tags": {
+    "3D": 166,
+    "6DOF": 110,
+    "Action": 158,
+    "Combat": 95,
+    "Difficult": 181,
+    "Early Access": 46,
+    "Flight": 213,
+    "Indie": 211,
+    "Multiplayer": 62,
+    "Physics": 199,
+    "PvP": 174,
+    "Realistic": 157,
+    "Sci-fi": 124,
+    "Science": 27,
+    "Shooter": 202,
+    "Simulation": 147,
+    "Singleplayer": 79,
+    "Space": 209,
+    "Space Sim": 148,
+    "Spaceships": 44
+  },
+  "type": "game"
 }

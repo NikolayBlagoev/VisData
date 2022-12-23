@@ -1,63 +1,84 @@
 {
-  "appid": 1882350,
-  "name": "Sweet Surge",
-  "developer": "Chocolate Ship Games",
-  "publisher": "Chocolate Ship Games",
-  "tags": {
-    "Casual": 73,
-    "Strategy": 47,
-    "Auto Battler": 44,
-    "Turn-Based Strategy": 41,
-    "Tactical RPG": 38,
-    "3D": 32,
-    "Cartoon": 30,
-    "Isometric": 28,
-    "Automation": 26,
-    "Relaxing": 24,
-    "Early Access": 22,
-    "Fantasy": 22,
-    "PvE": 20,
-    "Turn-Based Tactics": 18,
-    "Turn-Based Combat": 16,
-    "Gun Customization": 14,
-    "Singleplayer": 12
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1882350,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/30",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1882350/header.jpg?t=1648668792",
+  "consensus_genre": "Casual",
+  "developer": "Chocolate Ship Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Early Access"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1882350/header.jpg?t=1648668792",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Sweet Surge",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "399",
+  "publisher": "Chocolate Ship Games",
+  "release_date": "2022/03/30",
+  "required_age": 0,
+  "tags": {
+    "3D": 32,
+    "Auto Battler": 44,
+    "Automation": 26,
+    "Cartoon": 30,
+    "Casual": 73,
+    "Early Access": 22,
+    "Fantasy": 22,
+    "Gun Customization": 14,
+    "Isometric": 28,
+    "PvE": 20,
+    "Relaxing": 24,
+    "Singleplayer": 12,
+    "Strategy": 47,
+    "Tactical RPG": 38,
+    "Turn-Based Combat": 16,
+    "Turn-Based Strategy": 41,
+    "Turn-Based Tactics": 18
+  },
+  "type": "game"
 }

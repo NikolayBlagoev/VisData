@@ -1,63 +1,84 @@
 {
-  "appid": 1979610,
-  "name": "The FED",
-  "developer": "Britnet Media",
-  "publisher": "Britnet Media",
-  "tags": {
-    "Time Management": 52,
-    "RPG": 51,
-    "Crime": 46,
-    "Investigation": 43,
-    "Immersive Sim": 39,
-    "Conversation": 37,
-    "Simulation": 37,
-    "Life Sim": 29,
-    "Singleplayer": 27,
-    "Alternate History": 25,
-    "Parody ": 23,
-    "Choices Matter": 21,
-    "Indie": 21,
-    "Conspiracy": 19,
-    "First-Person": 15,
-    "3D": 13
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1979610,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979610/header.jpg?t=1652367345",
+  "consensus_genre": "RPG",
+  "developer": "Britnet Media",
+  "discount": "0",
   "genre": [
     "Indie",
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1979610/header.jpg?t=1652367345",
+  "initialprice": "899",
+  "languages": "English",
+  "name": "The FED",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "899",
+  "publisher": "Britnet Media",
+  "release_date": "2022/05/12",
+  "required_age": 0,
+  "tags": {
+    "3D": 13,
+    "Alternate History": 25,
+    "Choices Matter": 21,
+    "Conspiracy": 19,
+    "Conversation": 37,
+    "Crime": 46,
+    "First-Person": 15,
+    "Immersive Sim": 39,
+    "Indie": 21,
+    "Investigation": 43,
+    "Life Sim": 29,
+    "Parody ": 23,
+    "RPG": 51,
+    "Simulation": 37,
+    "Singleplayer": 27,
+    "Time Management": 52
+  },
+  "type": "game"
 }

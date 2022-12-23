@@ -1,213 +1,234 @@
 {
-  "appid": 256190,
-  "name": "Enemy Front",
-  "developer": "CI Games",
-  "publisher": "CI Games",
-  "tags": {
-    "Action": 189,
-    "FPS": 172,
-    "World War II": 153,
-    "Shooter": 111,
-    "Singleplayer": 101,
-    "Multiplayer": 99,
-    "War": 72,
-    "Stealth": 69,
-    "First-Person": 67,
-    "Open World": 54,
-    "Adventure": 39,
-    "Military": 38,
-    "Simulation": 25,
-    "Atmospheric": 24,
-    "Tactical": 18,
-    "Historical": 17,
-    "Survival": 17,
-    "Co-op": 13,
-    "Gore": 10,
-    "Great Soundtrack": 7
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 1155,
+  "CCU Histogram": {
+    "2022-12-08": 19,
+    "2022-12-09": 19,
+    "2022-12-10": 17,
+    "2022-12-11": 16,
+    "2022-12-12": 15,
+    "2022-12-13": 14,
+    "2022-12-14": 22,
+    "2022-12-15": 31,
+    "2022-12-16": 28,
+    "2022-12-17": 26,
+    "2022-12-18": 24,
+    "2022-12-19": 26,
+    "2022-12-20": 28,
+    "2022-12-21": 31,
+    "2022-12-22": 24
   },
-  "type": "game",
+  "Completion": 62.10000038146973,
+  "Down 30 Days": 10,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 1641,
+  "Meta Score": "52",
+  "Rating": "ESRB M",
+  "Up 30 Days": 39,
+  "User Score": -1,
+  "appid": 256190,
   "categories": [
     "Multi-player",
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 3172,
-  "negative": 1691,
-  "price": "199",
-  "initialprice": "1999",
-  "discount": "90",
   "ccu": 12,
-  "languages": "English, French, Italian, Spanish - Spain, Polish, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2014/06/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/256190/header.jpg?t=1589357228",
+  "consensus_genre": "Action",
+  "developer": "CI Games",
+  "discount": "90",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "52",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 2,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 39,
-  "Down 30 Days": 10,
-  "Completion": 62.10000038146973,
-  "Rating": "ESRB M"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/256190/header.jpg?t=1589357228",
+  "initialprice": "1999",
+  "languages": "English, French, Italian, Spanish - Spain, Polish, Portuguese - Brazil",
+  "name": "Enemy Front",
+  "negative": 1691,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3172,
+  "price": "199",
+  "publisher": "CI Games",
+  "release_date": "2014/06/10",
+  "required_age": 0,
+  "tags": {
+    "Action": 189,
+    "Adventure": 39,
+    "Atmospheric": 24,
+    "Co-op": 13,
+    "FPS": 172,
+    "First-Person": 67,
+    "Gore": 10,
+    "Great Soundtrack": 7,
+    "Historical": 17,
+    "Military": 38,
+    "Multiplayer": 99,
+    "Open World": 54,
+    "Shooter": 111,
+    "Simulation": 25,
+    "Singleplayer": 101,
+    "Stealth": 69,
+    "Survival": 17,
+    "Tactical": 18,
+    "War": 72,
+    "World War II": 153
+  },
+  "type": "game"
 }

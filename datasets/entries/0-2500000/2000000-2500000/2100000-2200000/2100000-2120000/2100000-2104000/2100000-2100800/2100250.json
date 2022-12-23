@@ -1,76 +1,97 @@
 {
-  "appid": 2100250,
-  "name": "Stanislav",
-  "developer": "Sumo Studio",
-  "publisher": "Sumo Studio",
-  "tags": {
-    "Precision Platformer": 176,
-    "Indie": 175,
-    "Difficult": 170,
-    "Pixel Graphics": 166,
-    "Platformer": 161,
-    "2D Platformer": 145,
-    "2D": 138,
-    "Adventure": 133,
-    "Singleplayer": 130,
-    "Story Rich": 122,
-    "Action": 107,
-    "Cute": 102,
-    "Puzzle-Platformer": 100,
-    "Atmospheric": 73,
-    "Exploration": 58,
-    "Soundtrack": 42,
-    "Side Scroller": 27,
-    "Controller": 25
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2100250,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 4,
-  "negative": 0,
-  "price": "899",
-  "initialprice": "899",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/20",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2100250/header.jpg?t=1666280627",
+  "consensus_genre": "Indie",
+  "developer": "Sumo Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
     "Indie"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2100250/header.jpg?t=1666280627",
+  "initialprice": "899",
+  "languages": "English",
+  "name": "Stanislav",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 4,
+  "price": "899",
+  "publisher": "Sumo Studio",
+  "release_date": "2022/10/20",
+  "required_age": 0,
+  "tags": {
+    "2D": 138,
+    "2D Platformer": 145,
+    "Action": 107,
+    "Adventure": 133,
+    "Atmospheric": 73,
+    "Controller": 25,
+    "Cute": 102,
+    "Difficult": 170,
+    "Exploration": 58,
+    "Indie": 175,
+    "Pixel Graphics": 166,
+    "Platformer": 161,
+    "Precision Platformer": 176,
+    "Puzzle-Platformer": 100,
+    "Side Scroller": 27,
+    "Singleplayer": 130,
+    "Soundtrack": 42,
+    "Story Rich": 122
+  },
+  "type": "game"
 }

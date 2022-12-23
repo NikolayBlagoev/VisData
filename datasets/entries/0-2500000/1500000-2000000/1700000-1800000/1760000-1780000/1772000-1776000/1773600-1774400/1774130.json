@@ -1,61 +1,82 @@
 {
-  "appid": 1774130,
-  "name": "QontoWars",
-  "developer": "QontoLabs",
-  "publisher": "QontoLabs",
-  "tags": {
-    "FPS": 49,
-    "Multiplayer": 42,
-    "3D": 39,
-    "Team-Based": 36,
-    "First-Person": 33,
-    "Gun Customization": 27,
-    "Action": 25,
-    "Artificial Intelligence": 22,
-    "Early Access": 21,
-    "Indie": 21,
-    "Local Multiplayer": 21,
-    "Singleplayer": 19,
-    "Wargame": 16
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1774130,
   "categories": [
     "Multi-player",
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1774130/header.jpg?t=1635591319",
+  "consensus_genre": "Early Access",
+  "developer": "QontoLabs",
+  "discount": "0",
   "genre": [
     "Indie",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1774130/header.jpg?t=1635591319",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "QontoWars",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "QontoLabs",
+  "release_date": "2021/10/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 39,
+    "Action": 25,
+    "Artificial Intelligence": 22,
+    "Early Access": 21,
+    "FPS": 49,
+    "First-Person": 33,
+    "Gun Customization": 27,
+    "Indie": 21,
+    "Local Multiplayer": 21,
+    "Multiplayer": 42,
+    "Singleplayer": 19,
+    "Team-Based": 36,
+    "Wargame": 16
+  },
+  "type": "game"
 }

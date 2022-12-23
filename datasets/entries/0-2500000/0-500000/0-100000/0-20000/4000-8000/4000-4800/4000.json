@@ -1,31 +1,184 @@
 {
-  "appid": 4000,
-  "name": "Garry's Mod",
-  "developer": "Facepunch Studios",
-  "publisher": "Valve",
-  "tags": {
-    "Sandbox": 17628,
-    "Multiplayer": 13726,
-    "Funny": 12249,
-    "Moddable": 9861,
-    "Building": 9610,
-    "Comedy": 8298,
-    "Mod": 8239,
-    "Co-op": 8167,
-    "First-Person": 7937,
-    "Physics": 6867,
-    "Simulation": 6650,
-    "Online Co-Op": 6469,
-    "FPS": 6127,
-    "Singleplayer": 6055,
-    "Action": 5509,
-    "Animation & Modeling": 5339,
-    "Shooter": 5339,
-    "Indie": 4975,
-    "Adventure": 4651,
-    "Massively Multiplayer": 4650
+  "Average Playtime - 2 Weeks": 457,
+  "Average Playtime - Forever": 12525,
+  "CCU Histogram": {
+    "2022-12-08": 26453,
+    "2022-12-09": 26339,
+    "2022-12-10": 25422,
+    "2022-12-11": 28288,
+    "2022-12-12": 31154,
+    "2022-12-13": 34020,
+    "2022-12-14": 29447,
+    "2022-12-15": 24875,
+    "2022-12-16": 26012,
+    "2022-12-17": 27149,
+    "2022-12-18": 28287,
+    "2022-12-19": 28313,
+    "2022-12-20": 28339,
+    "2022-12-21": 28366,
+    "2022-12-22": 29611
   },
-  "type": "game",
+  "Completion": 80.9000015258789,
+  "Down 30 Days": 292,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 11,
+      "recommendations_up": 249
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 6,
+      "recommendations_up": 250
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 7,
+      "recommendations_up": 281
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 12,
+      "recommendations_up": 389
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 14,
+      "recommendations_up": 409
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 7,
+      "recommendations_up": 239
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 5,
+      "recommendations_up": 254
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 10,
+      "recommendations_up": 230
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 7,
+      "recommendations_up": 232
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 9,
+      "recommendations_up": 305
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 14,
+      "recommendations_up": 397
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 13,
+      "recommendations_up": 403
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 6,
+      "recommendations_up": 249
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 8,
+      "recommendations_up": 250
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 10,
+      "recommendations_up": 196
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 218
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 8,
+      "recommendations_up": 261
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 10,
+      "recommendations_up": 338
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 11,
+      "recommendations_up": 328
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 7,
+      "recommendations_up": 252
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 11,
+      "recommendations_up": 528
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 15,
+      "recommendations_up": 949
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 12,
+      "recommendations_up": 713
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 15,
+      "recommendations_up": 620
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 13,
+      "recommendations_up": 719
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 16,
+      "recommendations_up": 685
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 11,
+      "recommendations_up": 511
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 13,
+      "recommendations_up": 436
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 9,
+      "recommendations_up": 307
+    }
+  ],
+  "Median Playtime - 2 Weeks": 209,
+  "Median Playtime - Forever": 1327,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 11198,
+  "User Score": -1,
+  "appid": 4000,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -45,183 +198,51 @@
     "LAN Co-op",
     "PvP"
   ],
-  "owners": "20,000,000 .. 50,000,000",
-  "positive": 861240,
-  "negative": 29998,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 39043,
-  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2006/11/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg?t=1663621793",
+  "consensus_genre": "Simulation",
+  "developer": "Facepunch Studios",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 249,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 250,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 281,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 389,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 409,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 239,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 254,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 230,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 232,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 305,
-      "recommendations_down": 9
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 397,
-      "recommendations_down": 14
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 403,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 249,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 250,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 196,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 218,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 261,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 338,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 328,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 252,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 528,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 949,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 713,
-      "recommendations_down": 12
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 620,
-      "recommendations_down": 15
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 719,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 685,
-      "recommendations_down": 16
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 511,
-      "recommendations_down": 11
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 436,
-      "recommendations_down": 13
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 307,
-      "recommendations_down": 9
-    }
-  ],
-  "Up 30 Days": 11198,
-  "Down 30 Days": 292,
-  "Completion": 80.9000015258789,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg?t=1663621793",
+  "initialprice": "999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+  "name": "Garry's Mod",
+  "negative": 29998,
+  "owners": "20,000,000 .. 50,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 861240,
+  "price": "999",
+  "publisher": "Valve",
+  "release_date": "2006/11/29",
+  "required_age": 0,
+  "tags": {
+    "Action": 5509,
+    "Adventure": 4651,
+    "Animation & Modeling": 5339,
+    "Building": 9610,
+    "Co-op": 8167,
+    "Comedy": 8298,
+    "FPS": 6127,
+    "First-Person": 7937,
+    "Funny": 12249,
+    "Indie": 4975,
+    "Massively Multiplayer": 4650,
+    "Mod": 8239,
+    "Moddable": 9861,
+    "Multiplayer": 13726,
+    "Online Co-Op": 6469,
+    "Physics": 6867,
+    "Sandbox": 17628,
+    "Shooter": 5339,
+    "Simulation": 6650,
+    "Singleplayer": 6055
+  },
+  "type": "game"
 }

@@ -1,31 +1,184 @@
 {
-  "appid": 678950,
-  "name": "DRAGON BALL FighterZ",
-  "developer": "Arc System Works",
-  "publisher": "BANDAI NAMCO Entertainment",
-  "tags": {
-    "Fighting": 666,
-    "Anime": 554,
-    "Action": 467,
-    "2D Fighter": 421,
-    "Multiplayer": 368,
-    "Local Multiplayer": 283,
-    "Competitive": 281,
-    "Controller": 248,
-    "Singleplayer": 222,
-    "Arcade": 219,
-    "e-sports": 215,
-    "PvP": 214,
-    "Difficult": 211,
-    "Fast-Paced": 208,
-    "Spectacle fighter": 204,
-    "Beat 'em up": 203,
-    "Third Person": 203,
-    "Adventure": 201,
-    "Combat": 197,
-    "Comic Book": 197
+  "Average Playtime - 2 Weeks": 177,
+  "Average Playtime - Forever": 2755,
+  "CCU Histogram": {
+    "2022-12-08": 1468,
+    "2022-12-09": 1266,
+    "2022-12-10": 1434,
+    "2022-12-11": 1429,
+    "2022-12-12": 1424,
+    "2022-12-13": 1420,
+    "2022-12-14": 1390,
+    "2022-12-15": 1361,
+    "2022-12-16": 1310,
+    "2022-12-17": 1259,
+    "2022-12-18": 1208,
+    "2022-12-19": 1206,
+    "2022-12-20": 1205,
+    "2022-12-21": 1204,
+    "2022-12-22": 1247
   },
-  "type": "game",
+  "Completion": 31.649999618530273,
+  "Down 30 Days": 52,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 2,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 10
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 2,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 2,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 2,
+      "recommendations_up": 14
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 13
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 12
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 4,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 29
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 31
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 4,
+      "recommendations_up": 38
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 37
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 4,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 3,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 6,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 50
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 4,
+      "recommendations_up": 54
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 48
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 36
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 0,
+      "recommendations_up": 12
+    }
+  ],
+  "Median Playtime - 2 Weeks": 263,
+  "Median Playtime - Forever": 472,
+  "Meta Score": "85",
+  "Rating": "ESRB T",
+  "Up 30 Days": 725,
+  "User Score": -1,
+  "appid": 678950,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -42,182 +195,50 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "2,000,000 .. 5,000,000",
-  "positive": 50581,
-  "negative": 5491,
-  "price": "5999",
-  "initialprice": "5999",
-  "discount": "0",
   "ccu": 1527,
-  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2018/01/26",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1653936849",
+  "consensus_genre": "Action",
+  "developer": "Arc System Works",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "85",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 10,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 7,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 14,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 13,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 8,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 12,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 15,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 31,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 38,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 37,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 54,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 64,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 50,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 45,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 50,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 54,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 48,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 36,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 12,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 725,
-  "Down 30 Days": 52,
-  "Completion": 31.649999618530273,
-  "Rating": "ESRB T"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1653936849",
+  "initialprice": "5999",
+  "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America",
+  "name": "DRAGON BALL FighterZ",
+  "negative": 5491,
+  "owners": "2,000,000 .. 5,000,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 50581,
+  "price": "5999",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "release_date": "2018/01/26",
+  "required_age": 0,
+  "tags": {
+    "2D Fighter": 421,
+    "Action": 467,
+    "Adventure": 201,
+    "Anime": 554,
+    "Arcade": 219,
+    "Beat 'em up": 203,
+    "Combat": 197,
+    "Comic Book": 197,
+    "Competitive": 281,
+    "Controller": 248,
+    "Difficult": 211,
+    "Fast-Paced": 208,
+    "Fighting": 666,
+    "Local Multiplayer": 283,
+    "Multiplayer": 368,
+    "PvP": 214,
+    "Singleplayer": 222,
+    "Spectacle fighter": 204,
+    "Third Person": 203,
+    "e-sports": 215
+  },
+  "type": "game"
 }

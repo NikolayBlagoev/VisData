@@ -1,36 +1,46 @@
 {
-  "appid": 1241180,
-  "name": "\u964d\u795e\u6218\u5f79 -A Story of the usurpers-",
-  "developer": "\u841d\u8389\u7684\u9a91\u58eb",
-  "publisher": "Lycian Studio",
-  "tags": {
-    "Casual": 32,
-    "Indie": 31,
-    "Adventure": 30,
-    "RPG": 30,
-    "Strategy": 30,
-    "Simulation": 28
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1241180,
   "categories": [
     "Single-player"
   ],
-  "owners": "20,000 .. 50,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2020/03/10",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1241180/header.jpg?t=1583928165",
+  "consensus_genre": "Casual",
+  "developer": "\u841d\u8389\u7684\u9a91\u58eb",
+  "discount": "0",
   "genre": [
     "Adventure",
     "Casual",
@@ -39,18 +49,29 @@
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1241180/header.jpg?t=1583928165",
+  "initialprice": "99",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u964d\u795e\u6218\u5f79 -A Story of the usurpers-",
+  "negative": 0,
+  "owners": "20,000 .. 50,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "99",
+  "publisher": "Lycian Studio",
+  "release_date": "2020/03/10",
+  "required_age": 0,
+  "tags": {
+    "Adventure": 30,
+    "Casual": 32,
+    "Indie": 31,
+    "RPG": 30,
+    "Simulation": 28,
+    "Strategy": 30
+  },
+  "type": "game"
 }

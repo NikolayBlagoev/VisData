@@ -1,74 +1,95 @@
 {
-  "appid": 1970740,
-  "name": "Magic War",
-  "developer": "Gamesforgames",
-  "publisher": "Gamesforgames",
-  "tags": {
-    "Action": 363,
-    "Casual": 357,
-    "Simulation": 353,
-    "Arcade": 328,
-    "Beat 'em up": 321,
-    "Platformer": 311,
-    "Shooter": 305,
-    "Action Roguelike": 297,
-    "Arena Shooter": 288,
-    "Hack and Slash": 278,
-    "Hero Shooter": 267,
-    "2D": 256,
-    "Cartoon": 243,
-    "Colorful": 230,
-    "Cute": 215,
-    "Pixel Graphics": 213,
-    "Demons": 196,
-    "Mystery": 178,
-    "Superhero": 159,
-    "Survival": 139
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 33.89999961853027,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 10,
+  "User Score": -1,
+  "appid": 1970740,
   "categories": [
     "Single-player",
     "Steam Achievements"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 10,
-  "negative": 0,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/25",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970740/header.jpg?t=1653503666",
+  "consensus_genre": "Action",
+  "developer": "Gamesforgames",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 10,
-  "Down 30 Days": 0,
-  "Completion": 33.89999961853027,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1970740/header.jpg?t=1653503666",
+  "initialprice": "2499",
+  "languages": "English",
+  "name": "Magic War",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 10,
+  "price": "2499",
+  "publisher": "Gamesforgames",
+  "release_date": "2022/05/25",
+  "required_age": 0,
+  "tags": {
+    "2D": 256,
+    "Action": 363,
+    "Action Roguelike": 297,
+    "Arcade": 328,
+    "Arena Shooter": 288,
+    "Beat 'em up": 321,
+    "Cartoon": 243,
+    "Casual": 357,
+    "Colorful": 230,
+    "Cute": 215,
+    "Demons": 196,
+    "Hack and Slash": 278,
+    "Hero Shooter": 267,
+    "Mystery": 178,
+    "Pixel Graphics": 213,
+    "Platformer": 311,
+    "Shooter": 305,
+    "Simulation": 353,
+    "Superhero": 159,
+    "Survival": 139
+  },
+  "type": "game"
 }

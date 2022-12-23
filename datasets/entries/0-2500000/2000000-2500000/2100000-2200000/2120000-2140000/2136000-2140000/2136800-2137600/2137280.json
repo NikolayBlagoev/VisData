@@ -1,63 +1,84 @@
 {
-  "appid": 2137280,
-  "name": "Graviton - A Relaxing Sand Simulation",
-  "developer": "Okko Hakola",
-  "publisher": "Okko Hakola",
-  "tags": {
-    "Simulation": 64,
-    "Relaxing": 50,
-    "Casual": 49,
-    "Sandbox": 41,
-    "Pixel Graphics": 38,
-    "Physics": 35,
-    "Abstract": 27,
-    "Colorful": 25,
-    "Atmospheric": 23,
-    "Early Access": 21,
-    "Indie": 21,
-    "Nature": 21,
-    "Procedural Generation": 19,
-    "Singleplayer": 17,
-    "Minimalist": 15
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2137280,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "399",
-  "initialprice": "399",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2022/10/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2137280/header.jpg?t=1666963239",
+  "consensus_genre": "Simulation",
+  "developer": "Okko Hakola",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2137280/header.jpg?t=1666963239",
+  "initialprice": "399",
+  "languages": "English",
+  "name": "Graviton - A Relaxing Sand Simulation",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "399",
+  "publisher": "Okko Hakola",
+  "release_date": "2022/10/28",
+  "required_age": 0,
+  "tags": {
+    "Abstract": 27,
+    "Atmospheric": 23,
+    "Casual": 49,
+    "Colorful": 25,
+    "Early Access": 21,
+    "Indie": 21,
+    "Minimalist": 15,
+    "Nature": 21,
+    "Physics": 35,
+    "Pixel Graphics": 38,
+    "Procedural Generation": 19,
+    "Relaxing": 50,
+    "Sandbox": 41,
+    "Simulation": 64,
+    "Singleplayer": 17
+  },
+  "type": "game"
 }

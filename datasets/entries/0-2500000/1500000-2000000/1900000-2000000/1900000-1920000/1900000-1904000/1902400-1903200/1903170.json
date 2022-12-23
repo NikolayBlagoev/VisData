@@ -1,27 +1,39 @@
 {
-  "appid": 1903170,
-  "name": "The Quest For Excalibur - Puy Du Fou",
-  "developer": "Balio Studios",
-  "publisher": "Microids",
-  "tags": {
-    "Sports": 115,
-    "Arcade": 109,
-    "Action-Adventure": 105,
-    "Action": 102,
-    "Rhythm": 101,
-    "3D": 97,
-    "Adventure": 94,
-    "Third Person": 88,
-    "Historical": 87,
-    "Open World": 83,
-    "Cartoony": 79,
-    "Fantasy": 77,
-    "Combat": 69,
-    "Singleplayer": 68,
-    "Word Game": 64,
-    "Multiplayer": 54
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 31.200000762939453,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1903170,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -31,38 +43,47 @@
     "Shared/Split Screen Co-op",
     "Remote Play Together"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "2999",
-  "initialprice": "2999",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": false
-  },
-  "release_date": "2022/07/19",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1903170/header.jpg?t=1659965486",
+  "consensus_genre": "Action",
+  "developer": "Balio Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 31.200000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1903170/header.jpg?t=1659965486",
+  "initialprice": "2999",
+  "languages": "English, French, Italian, German, Spanish - Spain",
+  "name": "The Quest For Excalibur - Puy Du Fou",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "2999",
+  "publisher": "Microids",
+  "release_date": "2022/07/19",
+  "required_age": 0,
+  "tags": {
+    "3D": 97,
+    "Action": 102,
+    "Action-Adventure": 105,
+    "Adventure": 94,
+    "Arcade": 109,
+    "Cartoony": 79,
+    "Combat": 69,
+    "Fantasy": 77,
+    "Historical": 87,
+    "Multiplayer": 54,
+    "Open World": 83,
+    "Rhythm": 101,
+    "Singleplayer": 68,
+    "Sports": 115,
+    "Third Person": 88,
+    "Word Game": 64
+  },
+  "type": "game"
 }

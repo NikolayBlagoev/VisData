@@ -1,30 +1,44 @@
 {
-  "appid": 1253760,
-  "name": "Little Adventures",
-  "developer": "Pennie Entertainment Aps",
-  "publisher": "Pennie Entertainment Aps",
-  "tags": {
-    "Indie": 32,
-    "Action": 31,
-    "Early Access": 31,
-    "RPG": 30,
-    "Strategy": 30,
-    "Action Roguelike": 12,
-    "Co-op": 12,
-    "Dungeon Crawler": 12,
-    "Local Co-Op": 12,
-    "Pixel Graphics": 12,
-    "Rogue-lite": 12,
-    "2D": 11,
-    "Atmospheric": 11,
-    "Difficult": 11,
-    "Gore": 11,
-    "Procedural Generation": 11,
-    "Replay Value": 11,
-    "Singleplayer": 11,
-    "Rogue-like": 9
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 30.700000762939453,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1253760,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -34,22 +48,10 @@
     "Shared/Split Screen",
     "Shared/Split Screen Co-op"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Portuguese - Brazil, Russian, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2020/09/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1253760/header.jpg?t=1601395275",
+  "consensus_genre": "Indie",
+  "developer": "Pennie Entertainment Aps",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
@@ -57,23 +59,42 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Indie",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 30.700000762939453,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1253760/header.jpg?t=1601395275",
+  "initialprice": "699",
+  "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Korean, Portuguese - Brazil, Russian, Turkish",
+  "name": "Little Adventures",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "699",
+  "publisher": "Pennie Entertainment Aps",
+  "release_date": "2020/09/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 11,
+    "Action": 31,
+    "Action Roguelike": 12,
+    "Atmospheric": 11,
+    "Co-op": 12,
+    "Difficult": 11,
+    "Dungeon Crawler": 12,
+    "Early Access": 31,
+    "Gore": 11,
+    "Indie": 32,
+    "Local Co-Op": 12,
+    "Pixel Graphics": 12,
+    "Procedural Generation": 11,
+    "RPG": 30,
+    "Replay Value": 11,
+    "Rogue-like": 9,
+    "Rogue-lite": 12,
+    "Singleplayer": 11,
+    "Strategy": 30
+  },
+  "type": "game"
 }

@@ -1,53 +1,79 @@
 {
-  "appid": 1595300,
-  "name": "Kells",
-  "developer": "Paul Drummond",
-  "publisher": "Paul Drummond",
-  "tags": {
-    "Lemmings": 236,
-    "Puzzle": 230,
-    "Casual": 227,
-    "1990's": 224,
-    "Retro": 221,
-    "Pixel Graphics": 215,
-    "2D": 210,
-    "Strategy": 205,
-    "Old School": 197,
-    "Choices Matter": 188,
-    "Singleplayer": 181,
-    "Tactical": 178,
-    "Indie": 175,
-    "Action": 170,
-    "Adventure": 167,
-    "Difficult": 163,
-    "Logic": 160,
-    "Creature Collector": 156,
-    "Puzzle-Platformer": 150,
-    "Cartoon": 140
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 24.399999618530273,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1595300,
   "categories": [
     "Single-player",
     "Steam Achievements",
     "Steam Leaderboards",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "599",
-  "initialprice": "599",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/06/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1595300/header.jpg?t=1662285421",
+  "consensus_genre": "Casual",
+  "developer": "Paul Drummond",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -55,48 +81,43 @@
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": 24.399999618530273,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1595300/header.jpg?t=1662285421",
+  "initialprice": "599",
+  "languages": "English",
+  "name": "Kells",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "599",
+  "publisher": "Paul Drummond",
+  "release_date": "2021/06/1",
+  "required_age": 0,
+  "tags": {
+    "1990's": 224,
+    "2D": 210,
+    "Action": 170,
+    "Adventure": 167,
+    "Cartoon": 140,
+    "Casual": 227,
+    "Choices Matter": 188,
+    "Creature Collector": 156,
+    "Difficult": 163,
+    "Indie": 175,
+    "Lemmings": 236,
+    "Logic": 160,
+    "Old School": 197,
+    "Pixel Graphics": 215,
+    "Puzzle": 230,
+    "Puzzle-Platformer": 150,
+    "Retro": 221,
+    "Singleplayer": 181,
+    "Strategy": 205,
+    "Tactical": 178
+  },
+  "type": "game"
 }

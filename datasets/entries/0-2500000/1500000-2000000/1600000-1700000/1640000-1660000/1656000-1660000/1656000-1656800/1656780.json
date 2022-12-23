@@ -1,31 +1,184 @@
 {
-  "appid": 1656780,
-  "name": "Hero's Hour",
-  "developer": "Benjamin \"ThingOnItsOwn\" Hauer",
-  "publisher": "Goblinz Publishing, Maple Whispering Limited",
-  "tags": {
-    "Turn-Based": 540,
-    "Singleplayer": 529,
-    "Strategy": 506,
-    "Turn-Based Strategy": 498,
-    "Fantasy": 494,
-    "Turn-Based Tactics": 489,
-    "Pixel Graphics": 485,
-    "Strategy RPG": 481,
-    "Procedural Generation": 480,
-    "Level Editor": 479,
-    "Multiplayer": 476,
-    "RPG": 466,
-    "2D": 456,
-    "Tactical": 451,
-    "Auto Battler": 449,
-    "PvP": 444,
-    "Local Co-Op": 433,
-    "Atmospheric": 260,
-    "4X": 256,
-    "Grand Strategy": 253
+  "Average Playtime - 2 Weeks": 174,
+  "Average Playtime - Forever": 372,
+  "CCU Histogram": {
+    "2022-12-08": 138,
+    "2022-12-09": 270,
+    "2022-12-10": 432,
+    "2022-12-11": 424,
+    "2022-12-12": 417,
+    "2022-12-13": 410,
+    "2022-12-14": 350,
+    "2022-12-15": 291,
+    "2022-12-16": 272,
+    "2022-12-17": 253,
+    "2022-12-18": 234,
+    "2022-12-19": 273,
+    "2022-12-20": 312,
+    "2022-12-21": 352,
+    "2022-12-22": 268
   },
-  "type": "game",
+  "Completion": 32.400001525878906,
+  "Down 30 Days": 21,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 3,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 2,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 22
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 40
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 23
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 0,
+      "recommendations_up": 25
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 2,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 1,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 0,
+      "recommendations_up": 18
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    }
+  ],
+  "Median Playtime - 2 Weeks": 174,
+  "Median Playtime - Forever": 498,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 230,
+  "User Score": -1,
+  "appid": 1656780,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -41,183 +194,51 @@
     "Remote Play Together",
     "PvP"
   ],
-  "owners": "200,000 .. 500,000",
-  "positive": 2243,
-  "negative": 652,
-  "price": "1799",
-  "initialprice": "1799",
-  "discount": "0",
   "ccu": 105,
-  "languages": "English, Spanish - Spain, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1656780/header.jpg?t=1664357654",
+  "consensus_genre": "Strategy",
+  "developer": "Benjamin \"ThingOnItsOwn\" Hauer",
+  "discount": "0",
   "genre": [
     "RPG",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 2,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 1,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 1,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 22,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 40,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 23,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 25,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 230,
-  "Down 30 Days": 21,
-  "Completion": 32.400001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1656780/header.jpg?t=1664357654",
+  "initialprice": "1799",
+  "languages": "English, Spanish - Spain, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+  "name": "Hero's Hour",
+  "negative": 652,
+  "owners": "200,000 .. 500,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2243,
+  "price": "1799",
+  "publisher": "Goblinz Publishing, Maple Whispering Limited",
+  "release_date": "2022/03/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 456,
+    "4X": 256,
+    "Atmospheric": 260,
+    "Auto Battler": 449,
+    "Fantasy": 494,
+    "Grand Strategy": 253,
+    "Level Editor": 479,
+    "Local Co-Op": 433,
+    "Multiplayer": 476,
+    "Pixel Graphics": 485,
+    "Procedural Generation": 480,
+    "PvP": 444,
+    "RPG": 466,
+    "Singleplayer": 529,
+    "Strategy": 506,
+    "Strategy RPG": 481,
+    "Tactical": 451,
+    "Turn-Based": 540,
+    "Turn-Based Strategy": 498,
+    "Turn-Based Tactics": 489
+  },
+  "type": "game"
 }

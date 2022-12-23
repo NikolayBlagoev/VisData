@@ -1,50 +1,61 @@
 {
-  "appid": 1305250,
-  "name": "Grand Theft Rome",
-  "developer": "Elon3D",
-  "publisher": "Elon3D",
-  "tags": {
-    "Action": 440,
-    "Adventure": 433,
-    "Simulation": 430,
-    "Action RPG": 404,
-    "Action-Adventure": 398,
-    "Life Sim": 388,
-    "Action Roguelike": 381,
-    "FPS": 373,
-    "Rogue-lite": 364,
-    "Wargame": 354,
-    "3D": 345,
-    "Colorful": 332,
-    "First-Person": 319,
-    "Realistic": 306,
-    "Third Person": 292,
-    "Historical": 275,
-    "VR": 275,
-    "Management": 256,
-    "Medieval": 237,
-    "Military": 217
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1305250,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/02/16",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1305250/header.jpg?t=1645134221",
+  "consensus_genre": "Action",
+  "developer": "Elon3D",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -52,33 +63,43 @@
     "RPG",
     "Simulation"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1305250/header.jpg?t=1645134221",
+  "initialprice": "499",
+  "languages": "English",
+  "name": "Grand Theft Rome",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "499",
+  "publisher": "Elon3D",
+  "release_date": "2022/02/16",
+  "required_age": 0,
+  "tags": {
+    "3D": 345,
+    "Action": 440,
+    "Action RPG": 404,
+    "Action Roguelike": 381,
+    "Action-Adventure": 398,
+    "Adventure": 433,
+    "Colorful": 332,
+    "FPS": 373,
+    "First-Person": 319,
+    "Historical": 275,
+    "Life Sim": 388,
+    "Management": 256,
+    "Medieval": 237,
+    "Military": 217,
+    "Realistic": 306,
+    "Rogue-lite": 364,
+    "Simulation": 430,
+    "Third Person": 292,
+    "VR": 275,
+    "Wargame": 354
+  },
+  "type": "game"
 }

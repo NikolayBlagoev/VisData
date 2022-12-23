@@ -1,50 +1,66 @@
 {
-  "appid": 1770630,
-  "name": "Fear in The Modern House - CH3",
-  "developer": "Samuka Gomes",
-  "publisher": "Samuka Gomes",
-  "tags": {
-    "Adventure": 403,
-    "Singleplayer": 393,
-    "Horror": 388,
-    "Action": 382,
-    "Psychological Horror": 378,
-    "PvE": 372,
-    "Casual": 358,
-    "Survival Horror": 355,
-    "Narration": 347,
-    "Arcade": 328,
-    "Action-Adventure": 316,
-    "Exploration": 305,
-    "Hidden Object": 291,
-    "FPS": 279,
-    "3D": 265,
-    "First-Person": 249,
-    "Realistic": 247,
-    "Atmospheric": 229,
-    "Demons": 210,
-    "Investigation": 190
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1770630,
   "categories": [
     "Single-player"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 0,
-  "negative": 2,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/10/8",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1770630/header.jpg?t=1634176759",
+  "consensus_genre": "Adventure",
+  "developer": "Samuka Gomes",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -52,38 +68,43 @@
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1770630/header.jpg?t=1634176759",
+  "initialprice": "299",
+  "languages": "English, Portuguese - Brazil",
+  "name": "Fear in The Modern House - CH3",
+  "negative": 2,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "299",
+  "publisher": "Samuka Gomes",
+  "release_date": "2021/10/8",
+  "required_age": 0,
+  "tags": {
+    "3D": 265,
+    "Action": 382,
+    "Action-Adventure": 316,
+    "Adventure": 403,
+    "Arcade": 328,
+    "Atmospheric": 229,
+    "Casual": 358,
+    "Demons": 210,
+    "Exploration": 305,
+    "FPS": 279,
+    "First-Person": 249,
+    "Hidden Object": 291,
+    "Horror": 388,
+    "Investigation": 190,
+    "Narration": 347,
+    "Psychological Horror": 378,
+    "PvE": 372,
+    "Realistic": 247,
+    "Singleplayer": 393,
+    "Survival Horror": 355
+  },
+  "type": "game"
 }

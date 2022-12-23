@@ -1,27 +1,49 @@
 {
-  "appid": 1416770,
-  "name": "Modulo",
-  "developer": "Corveda Games",
-  "publisher": "Corveda Games",
-  "tags": {
-    "Casual": 71,
-    "Puzzle": 46,
-    "Arcade": 42,
-    "Point & Click": 38,
-    "Sandbox": 36,
-    "Education": 29,
-    "2D": 28,
-    "Minimalist": 26,
-    "Psychedelic": 24,
-    "PvP": 22,
-    "Indie": 21,
-    "Strategy": 21,
-    "Procedural Generation": 20,
-    "Tutorial": 18,
-    "Multiplayer": 16,
-    "Singleplayer": 14
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 58.79999923706055,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1416770,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -33,49 +55,48 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, Arabic, Japanese, Korean, Simplified Chinese, Italian, German, Russian, Traditional Chinese, Spanish - Spain, Spanish - Latin America, Greek, Portuguese - Portugal, Portuguese - Brazil",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2021/01/22",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1416770/header.jpg?t=1612245538",
+  "consensus_genre": "Casual",
+  "developer": "Corveda Games",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 0,
-  "Completion": 58.79999923706055,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1416770/header.jpg?t=1612245538",
+  "initialprice": "499",
+  "languages": "English, French, Arabic, Japanese, Korean, Simplified Chinese, Italian, German, Russian, Traditional Chinese, Spanish - Spain, Spanish - Latin America, Greek, Portuguese - Portugal, Portuguese - Brazil",
+  "name": "Modulo",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "499",
+  "publisher": "Corveda Games",
+  "release_date": "2021/01/22",
+  "required_age": 0,
+  "tags": {
+    "2D": 28,
+    "Arcade": 42,
+    "Casual": 71,
+    "Education": 29,
+    "Indie": 21,
+    "Minimalist": 26,
+    "Multiplayer": 16,
+    "Point & Click": 38,
+    "Procedural Generation": 20,
+    "Psychedelic": 24,
+    "Puzzle": 46,
+    "PvP": 22,
+    "Sandbox": 36,
+    "Singleplayer": 14,
+    "Strategy": 21,
+    "Tutorial": 18
+  },
+  "type": "game"
 }

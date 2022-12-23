@@ -1,51 +1,52 @@
 {
-  "appid": 1949130,
-  "name": "Defensive Measures",
-  "developer": "Nomadic Entertainment",
-  "publisher": "Nomadic Entertainment",
-  "tags": {
-    "Early Access": 285,
-    "Tower Defense": 259,
-    "Strategy": 252,
-    "FPS": 250,
-    "Arena Shooter": 245,
-    "Indie": 241,
-    "Shoot 'Em Up": 235,
-    "Bullet Hell": 233,
-    "Wargame": 230,
-    "PvE": 224,
-    "Shooter": 218,
-    "RTS": 216,
-    "Grand Strategy": 212,
-    "Arcade": 209,
-    "Action-Adventure": 206,
-    "3D": 204,
-    "First-Person": 191,
-    "3D Vision": 179,
-    "Tanks": 174,
-    "Base-Building": 164
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1949130,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/6",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1949130/header.jpg?t=1656026104",
+  "consensus_genre": "Early Access",
+  "developer": "Nomadic Entertainment",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure",
@@ -54,23 +55,43 @@
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1949130/header.jpg?t=1656026104",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Defensive Measures",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "699",
+  "publisher": "Nomadic Entertainment",
+  "release_date": "2022/05/6",
+  "required_age": 0,
+  "tags": {
+    "3D": 204,
+    "3D Vision": 179,
+    "Action-Adventure": 206,
+    "Arcade": 209,
+    "Arena Shooter": 245,
+    "Base-Building": 164,
+    "Bullet Hell": 233,
+    "Early Access": 285,
+    "FPS": 250,
+    "First-Person": 191,
+    "Grand Strategy": 212,
+    "Indie": 241,
+    "PvE": 224,
+    "RTS": 216,
+    "Shoot 'Em Up": 235,
+    "Shooter": 218,
+    "Strategy": 252,
+    "Tanks": 174,
+    "Tower Defense": 259,
+    "Wargame": 230
+  },
+  "type": "game"
 }

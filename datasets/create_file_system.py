@@ -1,7 +1,15 @@
+from bisect import bisect_left
+from datetime import datetime, timedelta
 from sklearn.cluster import AgglomerativeClustering
+from os import getcwd, path, scandir
 from pathlib import Path
+from tqdm import tqdm
 import json
 import numpy as np
+import utils
+
+
+INTERPOLATE_STEAMSPY_DATES = True
 
 
 class Fold(object):
@@ -41,25 +49,13 @@ def add_item(f: Fold, it):
 def make_dirs(f: Fold, prefix: str):
     if len(f.children) != 0:
         for child in f.children:
-            make_dirs(child, prefix+f"{int(f.smallest)}-{int(f.largest-1)}/")
-    else:
-        fldr_nm = prefix+f"{int(f.smallest)}-{int(f.largest-1)}"
-        Path(fldr_nm).mkdir(parents=True, exist_ok=True)
-        for it in f.items:
-            with open(fldr_nm+"/"+str(it["appid"])+".json", "w") as f:
-                json.dump(it, f, indent=2)
-
-
-def make_dirs(f: Fold, prefix: str):
-    if len(f.children) != 0:
-        for child in f.children:
             make_dirs(child, prefix+f"{int(f.smallest)}-{int(f.largest)}/")
     else:
         fldr_nm = prefix+f"{int(f.smallest)}-{int(f.largest)}"
         Path(fldr_nm).mkdir(parents=True, exist_ok=True)
         for it in f.items:
             with open(fldr_nm+"/"+str(it["appid"])+".json", "w") as f:
-                json.dump(it, f, indent=2)
+                json.dump(it, f, indent=2, sort_keys=True)
 
 
 def make_json(f: Fold):
@@ -69,7 +65,74 @@ def make_json(f: Fold):
         return {"smallest": int(f.smallest), "largest": int(f.largest), "children": []}
 
 
+def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: dict) -> dict[str, int]:
+    """
+    Gather all Steamspy CCU histogram data for a given game, interpolating if
+    the appropriate flag is set
+
+    Args:
+        file_count: Starting index of the temp files in which the game's data is stored
+        file_end_point: Upper bound of the tmp filename
+        rest_of_app_data: Dict containing the data of the application as found in `data_set.json`
+
+    Returns:
+        Dict where keys are dates and values are CCU counts for that particular date
+    """
+    # Enumerate collected dates
+    STEAMSPY_DATA_PATH = path.join(getcwd(), "steamspy")
+    collected_dates = [f.name for f in scandir(STEAMSPY_DATA_PATH) if f.is_dir() and (f.name != "static_data")]
+    date_folder_paths = [f.path for f in scandir(STEAMSPY_DATA_PATH) if f.is_dir() and (f.name != "static_data")]
+
+    # Fetch existing data
+    date_to_ccu: dict[str, int] = {}
+    for date_folder in date_folder_paths:
+        file_path = path.join(date_folder, f"tmp_{file_count}-{file_end_point}.json")
+        with open(file_path, 'r') as temp_file:
+                data = json.load(temp_file)
+                for steamspy_data in data:
+                    if steamspy_data["app_id"] == rest_of_app_data["appid"]:
+                        date_to_ccu[steamspy_data["retrieval_date"]] = steamspy_data["ccu"]
+                        break
+
+    # Interpolate missing middle dates if desired 
+    if INTERPOLATE_STEAMSPY_DATES:
+        # Find earliest and latest start dates to interpolate values only within that range
+        dates = []
+        for date_folder in collected_dates:
+            date = datetime.strptime(date_folder, "%Y-%m-%d").date()
+            dates.append(date)
+        min_date, max_date = min(dates), max(dates)
+
+        num_days = ((max_date - min_date) + timedelta(days=1)).days
+        all_dates = [min_date + timedelta(days=x) for x in range(num_days)]
+        collected_dates_conv = sorted([datetime.strptime(date, "%Y-%m-%d").date() for date in collected_dates])
+        for current_date in all_dates:
+            # No interpolation needed if date already has data
+            current_date_str = str(current_date)
+            if current_date_str in date_to_ccu:
+                continue
+
+            # Find collected data for dates immediately before and after
+            insert_position     = bisect_left(collected_dates_conv, current_date)
+            first_before_date   = collected_dates_conv[insert_position - 1]
+            first_after_date    = collected_dates_conv[insert_position]
+            first_before_ccu    = date_to_ccu[str(first_before_date)]
+            first_after_ccu     = date_to_ccu[str(first_after_date)]
+
+            # Compute interpolation factor and interpolate
+            dist_to_before                  = (current_date - first_before_date).days
+            dist_to_after                   = (first_after_date - current_date).days
+            before_interp_factor            = dist_to_before / (dist_to_before + dist_to_after)
+            date_to_ccu[current_date_str]   = int(utils.linear_interp(first_before_ccu, first_after_ccu, before_interp_factor))
+
+    return date_to_ccu
+
+
 if __name__ == "__main__":
+    # Suppress scikit-learn warnings; TODO: Not this, this is horrible
+    from warnings import simplefilter
+    simplefilter(action='ignore', category=FutureWarning)
+
     parent = Fold(0, 2500000)
     a1 = Fold(0, 500000, parent)
     a2 = Fold(500000, 1000000, parent)
@@ -84,31 +147,38 @@ if __name__ == "__main__":
 
     with open("data_set.json") as fl:
         processed_data = json.load(fl)
-    with open("normalised_likes/tmp_0-999.json") as fl:
-        norm = json.load(fl)
-    with open("metareviews/tmp_0-999.json") as fl:
-        meta = json.load(fl)
-    
     i = 0
     j = 0
-    count = 0
+    count = 1000 # Allows us to avoid the lines for loading an initial batch
     total_like_change = []
     minim = 100
-    file_count = 0
-    for d in processed_data:
+    file_count = -1000 # Allows us to avoid the lines for loading an initial batch
+    for d in tqdm(processed_data, desc="Collecting data"):
+        # Fetch next 1000 games
         if count == 1000:
             count = 0
+            file_count += 1000
             i = 0
             j = 0
+            steamspy_end_point = min(file_count+999, len(processed_data) - 1)
             with open(f"normalised_likes/tmp_{int(file_count/10)}-{file_count+999}.json") as fl:
                 norm = json.load(fl)
             with open(f"metareviews/tmp_{file_count}-{file_count+999}.json") as fl:
                 meta = json.load(fl)
+            with open(f"steamspy/static_data/tmp_{file_count}-{steamspy_end_point}.json") as fl:
+                steamspy_static = json.load(fl)
 
         if d["appid"] > 0:
-            d["Meta Score"] = meta[j]["Meta Score"]
-            d["User Score"] = meta[j]["User Score"]
+            d["Meta Score"]     = meta[j]["Meta Score"]
+            d["User Score"]     = meta[j]["User Score"]
             d["Like Histogram"] = norm[i]["fixed_date"]
+
+            # Steam Spy data
+            d["Average Playtime - Forever"] = steamspy_static[j]["average_forever"]
+            d["Average Playtime - 2 Weeks"] = steamspy_static[j]["average_2weeks"]
+            d["Median Playtime - Forever"]  = steamspy_static[j]["median_forever"]
+            d["Median Playtime - 2 Weeks"]  = steamspy_static[j]["median_2weeks"]
+            d["CCU Histogram"]              = _get_steamspy_ccus(file_count, steamspy_end_point, d)
 
             acc_up = 0
             acc_down = 0
@@ -150,8 +220,8 @@ if __name__ == "__main__":
         i += 1
         j += 1
         count += 1
-        file_count += 1
 
+    print("Making system...")
     make_dirs(parent, "entries/")
     print("Made system")
 

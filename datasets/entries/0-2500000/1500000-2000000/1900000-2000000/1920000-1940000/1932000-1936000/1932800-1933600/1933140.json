@@ -1,29 +1,39 @@
 {
-  "appid": 1933140,
-  "name": "Jeu de Tarot",
-  "developer": "Net-assembly",
-  "publisher": "Net-assembly",
-  "tags": {
-    "Strategy": 170,
-    "Simulation": 160,
-    "Sports": 154,
-    "Board Game": 145,
-    "Card Game": 139,
-    "Turn-Based Tactics": 129,
-    "3D": 122,
-    "Stylized": 115,
-    "Family Friendly": 107,
-    "Retro": 97,
-    "Robots": 95,
-    "Artificial Intelligence": 83,
-    "PvE": 70,
-    "PvP": 56,
-    "Turn-Based Combat": 41,
-    "Multiplayer": 27,
-    "Singleplayer": 25,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 1,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1933140,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -31,38 +41,49 @@
     "Online PvP",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "299",
-  "initialprice": "1199",
-  "discount": "75",
   "ccu": 1,
-  "languages": "English, Not supported, French",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/3",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1933140/header.jpg?t=1651580209",
+  "consensus_genre": "Strategy",
+  "developer": "Net-assembly",
+  "discount": "75",
   "genre": [
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1933140/header.jpg?t=1651580209",
+  "initialprice": "1199",
+  "languages": "English, Not supported, French",
+  "name": "Jeu de Tarot",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "299",
+  "publisher": "Net-assembly",
+  "release_date": "2022/05/3",
+  "required_age": 0,
+  "tags": {
+    "3D": 122,
+    "Artificial Intelligence": 83,
+    "Board Game": 145,
+    "Card Game": 139,
+    "Family Friendly": 107,
+    "Indie": 21,
+    "Multiplayer": 27,
+    "PvE": 70,
+    "PvP": 56,
+    "Retro": 97,
+    "Robots": 95,
+    "Simulation": 160,
+    "Singleplayer": 25,
+    "Sports": 154,
+    "Strategy": 170,
+    "Stylized": 115,
+    "Turn-Based Combat": 41,
+    "Turn-Based Tactics": 129
+  },
+  "type": "game"
 }

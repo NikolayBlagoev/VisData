@@ -1,213 +1,234 @@
 {
-  "appid": 50,
-  "name": "Half-Life: Opposing Force",
-  "developer": "Gearbox Software",
-  "publisher": "Valve",
-  "tags": {
-    "FPS": 893,
-    "Action": 335,
-    "Classic": 262,
-    "Sci-fi": 260,
-    "Singleplayer": 237,
-    "Shooter": 229,
-    "First-Person": 195,
-    "Aliens": 184,
-    "1990's": 142,
-    "Adventure": 123,
-    "Atmospheric": 111,
-    "Military": 103,
-    "Story Rich": 84,
-    "Silent Protagonist": 76,
-    "Great Soundtrack": 60,
-    "Gore": 45,
-    "Puzzle": 42,
-    "Co-op": 36,
-    "Moddable": 35,
-    "Retro": 26
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 2303,
+  "CCU Histogram": {
+    "2022-12-08": 129,
+    "2022-12-09": 144,
+    "2022-12-10": 133,
+    "2022-12-11": 143,
+    "2022-12-12": 153,
+    "2022-12-13": 163,
+    "2022-12-14": 136,
+    "2022-12-15": 109,
+    "2022-12-16": 113,
+    "2022-12-17": 117,
+    "2022-12-18": 121,
+    "2022-12-19": 123,
+    "2022-12-20": 125,
+    "2022-12-21": 127,
+    "2022-12-22": 117
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 15,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 1,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 0,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 5
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 0,
+      "recommendations_up": 6
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 7
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 0,
+      "recommendations_up": 4
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 0,
+      "recommendations_up": 8
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 0,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 1,
+      "recommendations_up": 20
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 2,
+      "recommendations_up": 16
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 1,
+      "recommendations_up": 17
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 4,
+      "recommendations_up": 27
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 0,
+      "recommendations_up": 19
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 15
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 134,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 242,
+  "User Score": -1,
+  "appid": 50,
   "categories": [
     "Multi-player",
     "Single-player",
     "Valve Anti-Cheat enabled",
     "Remote Play Together"
   ],
-  "owners": "5,000,000 .. 10,000,000",
-  "positive": 14887,
-  "negative": 756,
-  "price": "499",
-  "initialprice": "499",
-  "discount": "0",
   "ccu": 106,
-  "languages": "English, French, German, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "1999/11/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/50/header.jpg?t=1579628243",
+  "consensus_genre": "Action",
+  "developer": "Gearbox Software",
+  "discount": "0",
   "genre": [
     "Action"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 2,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 5,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 3,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 4,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 7,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 5,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 6,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 7,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 4,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 8,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 15,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 20,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 16,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 17,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 27,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 19,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 15,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 242,
-  "Down 30 Days": 15,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/50/header.jpg?t=1579628243",
+  "initialprice": "499",
+  "languages": "English, French, German, Korean",
+  "name": "Half-Life: Opposing Force",
+  "negative": 756,
+  "owners": "5,000,000 .. 10,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 14887,
+  "price": "499",
+  "publisher": "Valve",
+  "release_date": "1999/11/1",
+  "required_age": 0,
+  "tags": {
+    "1990's": 142,
+    "Action": 335,
+    "Adventure": 123,
+    "Aliens": 184,
+    "Atmospheric": 111,
+    "Classic": 262,
+    "Co-op": 36,
+    "FPS": 893,
+    "First-Person": 195,
+    "Gore": 45,
+    "Great Soundtrack": 60,
+    "Military": 103,
+    "Moddable": 35,
+    "Puzzle": 42,
+    "Retro": 26,
+    "Sci-fi": 260,
+    "Shooter": 229,
+    "Silent Protagonist": 76,
+    "Singleplayer": 237,
+    "Story Rich": 84
+  },
+  "type": "game"
 }

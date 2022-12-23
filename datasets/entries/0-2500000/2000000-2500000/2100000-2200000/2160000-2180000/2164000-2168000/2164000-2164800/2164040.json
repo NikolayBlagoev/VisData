@@ -1,54 +1,75 @@
 {
-  "appid": 2164040,
-  "name": "\u00b2Pattern",
-  "developer": "Ismaine S.A.",
-  "publisher": "Ismaine S.A.",
-  "tags": {
-    "Casual": 55,
-    "Puzzle": 44,
-    "2D": 38,
-    "Minimalist": 32,
-    "Atmospheric": 29,
-    "Singleplayer": 23,
-    "Emotional": 21,
-    "Indie": 21
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 1,
+    "2022-12-11": 1,
+    "2022-12-12": 1,
+    "2022-12-13": 1,
+    "2022-12-14": 1,
+    "2022-12-15": 1,
+    "2022-12-16": 1,
+    "2022-12-17": 1,
+    "2022-12-18": 1,
+    "2022-12-19": 1,
+    "2022-12-20": 1,
+    "2022-12-21": 1,
+    "2022-12-22": 1
   },
-  "type": "game",
+  "Completion": 6.599999904632568,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 2164040,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/10/17",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2164040/header.jpg?t=1666213250",
+  "consensus_genre": "Casual",
+  "developer": "Ismaine S.A.",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 6.599999904632568,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2164040/header.jpg?t=1666213250",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "\u00b2Pattern",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Ismaine S.A.",
+  "release_date": "2022/10/17",
+  "required_age": 0,
+  "tags": {
+    "2D": 38,
+    "Atmospheric": 29,
+    "Casual": 55,
+    "Emotional": 21,
+    "Indie": 21,
+    "Minimalist": 32,
+    "Puzzle": 44,
+    "Singleplayer": 23
+  },
+  "type": "game"
 }

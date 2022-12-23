@@ -1,29 +1,69 @@
 {
-  "appid": 1145580,
-  "name": "Wolves Team",
-  "developer": "SFVR",
-  "publisher": "SFVR",
-  "tags": {
-    "FPS": 107,
-    "MOBA": 101,
-    "PvP": 98,
-    "Turn-Based Strategy": 95,
-    "Shooter": 92,
-    "Strategy": 84,
-    "VR": 82,
-    "Action": 80,
-    "Zombies": 76,
-    "Military": 74,
-    "Massively Multiplayer": 71,
-    "Co-op": 68,
-    "Online Co-Op": 64,
-    "Multiplayer": 53,
-    "Singleplayer": 51,
-    "Gore": 49,
-    "Violent": 47,
-    "Grand Strategy": 27
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 2,
+  "User Score": -1,
+  "appid": 1145580,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -32,69 +72,50 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 2,
-  "negative": 2,
-  "price": "2499",
-  "initialprice": "2499",
-  "discount": "0",
   "ccu": 0,
-  "languages": "Simplified Chinese, English, Japanese, Traditional Chinese, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2019/09/12",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1145580/header.jpg?t=1612333564",
+  "consensus_genre": "Strategy",
+  "developer": "SFVR",
+  "discount": "0",
   "genre": [
     "Action",
     "Massively Multiplayer",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 2,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1145580/header.jpg?t=1612333564",
+  "initialprice": "2499",
+  "languages": "Simplified Chinese, English, Japanese, Traditional Chinese, Korean",
+  "name": "Wolves Team",
+  "negative": 2,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 2,
+  "price": "2499",
+  "publisher": "SFVR",
+  "release_date": "2019/09/12",
+  "required_age": 0,
+  "tags": {
+    "Action": 80,
+    "Co-op": 68,
+    "FPS": 107,
+    "Gore": 49,
+    "Grand Strategy": 27,
+    "MOBA": 101,
+    "Massively Multiplayer": 71,
+    "Military": 74,
+    "Multiplayer": 53,
+    "Online Co-Op": 64,
+    "PvP": 98,
+    "Shooter": 92,
+    "Singleplayer": 51,
+    "Strategy": 84,
+    "Turn-Based Strategy": 95,
+    "VR": 82,
+    "Violent": 47,
+    "Zombies": 76
+  },
+  "type": "game"
 }

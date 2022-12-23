@@ -1,27 +1,54 @@
 {
-  "appid": 1965670,
-  "name": "It's high noon",
-  "developer": "Popera Studio",
-  "publisher": "Popera Studio",
-  "tags": {
-    "Adventure": 64,
-    "VR": 54,
-    "Shooter": 47,
-    "Casual": 41,
-    "FPS": 38,
-    "3D Platformer": 32,
-    "Arena Shooter": 30,
-    "360 Video": 28,
-    "3D": 26,
-    "First-Person": 24,
-    "Foreign": 22,
-    "Historical": 20,
-    "Quick-Time Events": 18,
-    "Combat": 16,
-    "Singleplayer": 14,
-    "Multiplayer": 13
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 1965670,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -30,52 +57,46 @@
     "Online Co-op",
     "PvP"
   ],
-  "owners": "50,000 .. 100,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/2",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1965670/header.jpg?t=1654064893",
+  "consensus_genre": "Adventure",
+  "developer": "Popera Studio",
+  "discount": "0",
   "genre": [
     "Adventure"
   ],
-  "consensus_genre": "Adventure",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1965670/header.jpg?t=1654064893",
+  "initialprice": "99",
+  "languages": "English, Simplified Chinese",
+  "name": "It's high noon",
+  "negative": 0,
+  "owners": "50,000 .. 100,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "99",
+  "publisher": "Popera Studio",
+  "release_date": "2022/05/2",
+  "required_age": 0,
+  "tags": {
+    "360 Video": 28,
+    "3D": 26,
+    "3D Platformer": 32,
+    "Adventure": 64,
+    "Arena Shooter": 30,
+    "Casual": 41,
+    "Combat": 16,
+    "FPS": 38,
+    "First-Person": 24,
+    "Foreign": 22,
+    "Historical": 20,
+    "Multiplayer": 13,
+    "Quick-Time Events": 18,
+    "Shooter": 47,
+    "Singleplayer": 14,
+    "VR": 54
+  },
+  "type": "game"
 }

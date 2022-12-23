@@ -1,118 +1,139 @@
 {
-  "appid": 1384880,
-  "name": "Frontier Quest",
-  "developer": "Stellar Advent Pty Ltd",
-  "publisher": "Stellar Advent Pty Ltd",
-  "tags": {
-    "2D": 192,
-    "Relaxing": 186,
-    "Cute": 183,
-    "Turn-Based Strategy": 180,
-    "RPG": 175,
-    "Puzzle": 169,
-    "Casual": 167,
-    "Side Scroller": 162,
-    "Family Friendly": 160,
-    "Exploration": 157,
-    "Story Rich": 155,
-    "Nonlinear": 154,
-    "Turn-Based Combat": 151,
-    "Conversation": 149,
-    "Cartoony": 144,
-    "Colorful": 140,
-    "Fantasy": 132,
-    "Stylized": 120,
-    "Magic": 103,
-    "Singleplayer": 93
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 3
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 9,
+  "User Score": -1,
+  "appid": 1384880,
   "categories": [
     "Single-player",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 9,
-  "negative": 1,
-  "price": "1199",
-  "initialprice": "1199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/01/28",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1384880/header.jpg?t=1663047525",
+  "consensus_genre": "RPG",
+  "developer": "Stellar Advent Pty Ltd",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "RPG"
   ],
-  "consensus_genre": "RPG",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 3,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 9,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1384880/header.jpg?t=1663047525",
+  "initialprice": "1199",
+  "languages": "English",
+  "name": "Frontier Quest",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 9,
+  "price": "1199",
+  "publisher": "Stellar Advent Pty Ltd",
+  "release_date": "2021/01/28",
+  "required_age": 0,
+  "tags": {
+    "2D": 192,
+    "Cartoony": 144,
+    "Casual": 167,
+    "Colorful": 140,
+    "Conversation": 149,
+    "Cute": 183,
+    "Exploration": 157,
+    "Family Friendly": 160,
+    "Fantasy": 132,
+    "Magic": 103,
+    "Nonlinear": 154,
+    "Puzzle": 169,
+    "RPG": 175,
+    "Relaxing": 186,
+    "Side Scroller": 162,
+    "Singleplayer": 93,
+    "Story Rich": 155,
+    "Stylized": 120,
+    "Turn-Based Combat": 151,
+    "Turn-Based Strategy": 180
+  },
+  "type": "game"
 }

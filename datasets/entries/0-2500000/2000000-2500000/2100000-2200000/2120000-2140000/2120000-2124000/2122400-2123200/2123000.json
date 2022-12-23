@@ -1,70 +1,91 @@
 {
-  "appid": 2123000,
-  "name": "Save and Conquer : 8 Years",
-  "developer": "Moglax Studios",
-  "publisher": "Moglax Studios",
-  "tags": {
-    "Tower Defense": 53,
-    "Action": 48,
-    "RTS": 46,
-    "Strategy": 45,
-    "Singleplayer": 44,
-    "Casual": 43,
-    "Pixel Graphics": 41,
-    "2D": 38,
-    "Wargame": 31,
-    "PvE": 30,
-    "2D Platformer": 21,
-    "Indie": 21,
-    "Real Time Tactics": 20,
-    "Top-Down": 18,
-    "Tactical": 17,
-    "War": 14,
-    "Combat": 12
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 1,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 2
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 3,
+  "User Score": -1,
+  "appid": 2123000,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 3,
-  "negative": 0,
-  "price": "99",
-  "initialprice": "99",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Korean",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2123000/header.jpg?t=1662021430",
+  "consensus_genre": "Action",
+  "developer": "Moglax Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie",
     "Strategy"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 2,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 3,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2123000/header.jpg?t=1662021430",
+  "initialprice": "99",
+  "languages": "English, Korean",
+  "name": "Save and Conquer : 8 Years",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 3,
+  "price": "99",
+  "publisher": "Moglax Studios",
+  "release_date": "2022/09/1",
+  "required_age": 0,
+  "tags": {
+    "2D": 38,
+    "2D Platformer": 21,
+    "Action": 48,
+    "Casual": 43,
+    "Combat": 12,
+    "Indie": 21,
+    "Pixel Graphics": 41,
+    "PvE": 30,
+    "RTS": 46,
+    "Real Time Tactics": 20,
+    "Singleplayer": 44,
+    "Strategy": 45,
+    "Tactical": 17,
+    "Top-Down": 18,
+    "Tower Defense": 53,
+    "War": 14,
+    "Wargame": 31
+  },
+  "type": "game"
 }

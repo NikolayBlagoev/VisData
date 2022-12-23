@@ -1,65 +1,86 @@
 {
-  "appid": 1902200,
-  "name": "Scorpion Overdrive",
-  "developer": "Outer Reef Studios",
-  "publisher": "Outer Reef Studios",
-  "tags": {
-    "Third-Person Shooter": 52,
-    "Early Access": 49,
-    "Strategy": 46,
-    "Tower Defense": 46,
-    "Action": 43,
-    "Sci-fi": 43,
-    "Singleplayer": 40,
-    "Real Time Tactics": 37,
-    "Atmospheric": 31,
-    "Shoot 'Em Up": 25,
-    "Indie": 21,
-    "Shooter": 21,
-    "3D": 19,
-    "Third Person": 17,
-    "Combat": 15,
-    "Controller": 13
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 1,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1902200,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "699",
-  "initialprice": "699",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/04/1",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1902200/header.jpg?t=1649016924",
+  "consensus_genre": "Early Access",
+  "developer": "Outer Reef Studios",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie",
     "Strategy",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 1,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1902200/header.jpg?t=1649016924",
+  "initialprice": "699",
+  "languages": "English",
+  "name": "Scorpion Overdrive",
+  "negative": 1,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "699",
+  "publisher": "Outer Reef Studios",
+  "release_date": "2022/04/1",
+  "required_age": 0,
+  "tags": {
+    "3D": 19,
+    "Action": 43,
+    "Atmospheric": 31,
+    "Combat": 15,
+    "Controller": 13,
+    "Early Access": 49,
+    "Indie": 21,
+    "Real Time Tactics": 37,
+    "Sci-fi": 43,
+    "Shoot 'Em Up": 25,
+    "Shooter": 21,
+    "Singleplayer": 40,
+    "Strategy": 46,
+    "Third Person": 17,
+    "Third-Person Shooter": 52,
+    "Tower Defense": 46
+  },
+  "type": "game"
 }

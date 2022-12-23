@@ -1,61 +1,82 @@
 {
-  "appid": 1769570,
-  "name": "Facility",
-  "developer": "Dark Cloud City",
-  "publisher": "Tyler Farley",
-  "tags": {
-    "Action": 70,
-    "Casual": 64,
-    "Puzzle": 41,
-    "Walking Simulator": 38,
-    "3D": 35,
-    "First-Person": 30,
-    "Stylized": 27,
-    "Demons": 25,
-    "Horror": 24,
-    "Indie": 21,
-    "Lore-Rich": 21,
-    "Artificial Intelligence": 18,
-    "Stealth": 17,
-    "Singleplayer": 15
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1769570,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/11/15",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1769570/header.jpg?t=1637008813",
+  "consensus_genre": "Action",
+  "developer": "Dark Cloud City",
+  "discount": "0",
   "genre": [
     "Action",
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1769570/header.jpg?t=1637008813",
+  "initialprice": "199",
+  "languages": "English",
+  "name": "Facility",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "Tyler Farley",
+  "release_date": "2021/11/15",
+  "required_age": 0,
+  "tags": {
+    "3D": 35,
+    "Action": 70,
+    "Artificial Intelligence": 18,
+    "Casual": 64,
+    "Demons": 25,
+    "First-Person": 30,
+    "Horror": 24,
+    "Indie": 21,
+    "Lore-Rich": 21,
+    "Puzzle": 41,
+    "Singleplayer": 15,
+    "Stealth": 17,
+    "Stylized": 27,
+    "Walking Simulator": 38
+  },
+  "type": "game"
 }

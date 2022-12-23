@@ -1,31 +1,184 @@
 {
-  "appid": 620,
-  "name": "Portal 2",
-  "developer": "Valve",
-  "publisher": "Valve",
-  "tags": {
-    "Platformer": 7210,
-    "Puzzle": 6868,
-    "Dark Humor": 6778,
-    "First-Person": 6737,
-    "Puzzle-Platformer": 6711,
-    "Story Rich": 6710,
-    "Funny": 6630,
-    "Female Protagonist": 6600,
-    "3D Platformer": 6574,
-    "Action-Adventure": 6494,
-    "Action": 6453,
-    "FPS": 6438,
-    "Co-op": 5192,
-    "Physics": 4838,
-    "Level Editor": 4694,
-    "Sci-fi": 4677,
-    "Science": 4604,
-    "Atmospheric": 4582,
-    "Comedy": 4582,
-    "Adventure": 4548
+  "Average Playtime - 2 Weeks": 92,
+  "Average Playtime - Forever": 948,
+  "CCU Histogram": {
+    "2022-12-08": 3081,
+    "2022-12-09": 2988,
+    "2022-12-10": 3111,
+    "2022-12-11": 3618,
+    "2022-12-12": 4125,
+    "2022-12-13": 4632,
+    "2022-12-14": 3768,
+    "2022-12-15": 2905,
+    "2022-12-16": 3041,
+    "2022-12-17": 3177,
+    "2022-12-18": 3314,
+    "2022-12-19": 3239,
+    "2022-12-20": 3164,
+    "2022-12-21": 3089,
+    "2022-12-22": 2858
   },
-  "type": "game",
+  "Completion": 41.0,
+  "Down 30 Days": 71,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 0,
+      "recommendations_up": 52
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 66
+    },
+    {
+      "date": 1667527200,
+      "recommendations_down": 1,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1667613600,
+      "recommendations_down": 1,
+      "recommendations_up": 75
+    },
+    {
+      "date": 1667700000,
+      "recommendations_down": 2,
+      "recommendations_up": 76
+    },
+    {
+      "date": 1667786400,
+      "recommendations_down": 1,
+      "recommendations_up": 53
+    },
+    {
+      "date": 1667872800,
+      "recommendations_down": 4,
+      "recommendations_up": 58
+    },
+    {
+      "date": 1667959200,
+      "recommendations_down": 1,
+      "recommendations_up": 47
+    },
+    {
+      "date": 1668045600,
+      "recommendations_down": 3,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668132000,
+      "recommendations_down": 1,
+      "recommendations_up": 64
+    },
+    {
+      "date": 1668218400,
+      "recommendations_down": 2,
+      "recommendations_up": 88
+    },
+    {
+      "date": 1668304800,
+      "recommendations_down": 2,
+      "recommendations_up": 88
+    },
+    {
+      "date": 1668391200,
+      "recommendations_down": 3,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1668477600,
+      "recommendations_down": 0,
+      "recommendations_up": 59
+    },
+    {
+      "date": 1668564000,
+      "recommendations_down": 2,
+      "recommendations_up": 41
+    },
+    {
+      "date": 1668650400,
+      "recommendations_down": 4,
+      "recommendations_up": 69
+    },
+    {
+      "date": 1668736800,
+      "recommendations_down": 1,
+      "recommendations_up": 55
+    },
+    {
+      "date": 1668823200,
+      "recommendations_down": 2,
+      "recommendations_up": 99
+    },
+    {
+      "date": 1668909600,
+      "recommendations_down": 1,
+      "recommendations_up": 68
+    },
+    {
+      "date": 1668996000,
+      "recommendations_down": 2,
+      "recommendations_up": 45
+    },
+    {
+      "date": 1669082400,
+      "recommendations_down": 5,
+      "recommendations_up": 188
+    },
+    {
+      "date": 1669168800,
+      "recommendations_down": 6,
+      "recommendations_up": 429
+    },
+    {
+      "date": 1669255200,
+      "recommendations_down": 3,
+      "recommendations_up": 349
+    },
+    {
+      "date": 1669341600,
+      "recommendations_down": 1,
+      "recommendations_up": 403
+    },
+    {
+      "date": 1669428000,
+      "recommendations_down": 5,
+      "recommendations_up": 481
+    },
+    {
+      "date": 1669514400,
+      "recommendations_down": 6,
+      "recommendations_up": 510
+    },
+    {
+      "date": 1669600800,
+      "recommendations_down": 3,
+      "recommendations_up": 378
+    },
+    {
+      "date": 1669687200,
+      "recommendations_down": 7,
+      "recommendations_up": 341
+    },
+    {
+      "date": 1669773600,
+      "recommendations_down": 1,
+      "recommendations_up": 102
+    }
+  ],
+  "Median Playtime - 2 Weeks": 132,
+  "Median Playtime - Forever": 543,
+  "Meta Score": "95",
+  "Rating": "ESRB E10+",
+  "Up 30 Days": 4497,
+  "User Score": -1,
+  "appid": 620,
   "categories": [
     "Multi-player",
     "Single-player",
@@ -48,183 +201,51 @@
     "Remote Play Together",
     "Steam Workshop"
   ],
-  "owners": "10,000,000 .. 20,000,000",
-  "positive": 305671,
-  "negative": 3770,
-  "price": "999",
-  "initialprice": "999",
-  "discount": "0",
   "ccu": 2466,
-  "languages": "English, French, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish",
-  "platforms": {
-    "windows": true,
-    "mac": true,
-    "linux": true
-  },
-  "release_date": "2011/04/18",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg?t=1665427328",
+  "consensus_genre": "Action",
+  "developer": "Valve",
+  "discount": "0",
   "genre": [
     "Action",
     "Adventure"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": "95",
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 68,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 52,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 66,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667527200,
-      "recommendations_up": 59,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667613600,
-      "recommendations_up": 75,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667700000,
-      "recommendations_up": 76,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667786400,
-      "recommendations_up": 53,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667872800,
-      "recommendations_up": 58,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1667959200,
-      "recommendations_up": 47,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668045600,
-      "recommendations_up": 41,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668132000,
-      "recommendations_up": 64,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668218400,
-      "recommendations_up": 88,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668304800,
-      "recommendations_up": 88,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668391200,
-      "recommendations_up": 45,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668477600,
-      "recommendations_up": 59,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668564000,
-      "recommendations_up": 41,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668650400,
-      "recommendations_up": 69,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1668736800,
-      "recommendations_up": 55,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668823200,
-      "recommendations_up": 99,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668909600,
-      "recommendations_up": 68,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668996000,
-      "recommendations_up": 45,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1669082400,
-      "recommendations_up": 188,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669168800,
-      "recommendations_up": 429,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669255200,
-      "recommendations_up": 349,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669341600,
-      "recommendations_up": 403,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1669428000,
-      "recommendations_up": 481,
-      "recommendations_down": 5
-    },
-    {
-      "date": 1669514400,
-      "recommendations_up": 510,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669600800,
-      "recommendations_up": 378,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669687200,
-      "recommendations_up": 341,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669773600,
-      "recommendations_up": 102,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 4497,
-  "Down 30 Days": 71,
-  "Completion": 41.0,
-  "Rating": "ESRB E10+"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg?t=1665427328",
+  "initialprice": "999",
+  "languages": "English, French, German, Spanish - Spain, Czech, Danish, Dutch, Finnish, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish",
+  "name": "Portal 2",
+  "negative": 3770,
+  "owners": "10,000,000 .. 20,000,000",
+  "platforms": {
+    "linux": true,
+    "mac": true,
+    "windows": true
+  },
+  "positive": 305671,
+  "price": "999",
+  "publisher": "Valve",
+  "release_date": "2011/04/18",
+  "required_age": 0,
+  "tags": {
+    "3D Platformer": 6574,
+    "Action": 6453,
+    "Action-Adventure": 6494,
+    "Adventure": 4548,
+    "Atmospheric": 4582,
+    "Co-op": 5192,
+    "Comedy": 4582,
+    "Dark Humor": 6778,
+    "FPS": 6438,
+    "Female Protagonist": 6600,
+    "First-Person": 6737,
+    "Funny": 6630,
+    "Level Editor": 4694,
+    "Physics": 4838,
+    "Platformer": 7210,
+    "Puzzle": 6868,
+    "Puzzle-Platformer": 6711,
+    "Sci-fi": 4677,
+    "Science": 4604,
+    "Story Rich": 6710
+  },
+  "type": "game"
 }

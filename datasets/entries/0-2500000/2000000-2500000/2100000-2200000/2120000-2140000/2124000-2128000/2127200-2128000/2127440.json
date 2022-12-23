@@ -1,78 +1,99 @@
 {
-  "appid": 2127440,
-  "name": "\u4e2d\u56fd\u5f0f\u5bcc\u8c6a",
-  "developer": "\u80e1\u8fa3\u6c64\u5de5\u4f5c\u5ba4",
-  "publisher": "\u80e1\u8fa3\u6c64\u5de5\u4f5c\u5ba4",
-  "tags": {
-    "Open World": 160,
-    "Third-Person Shooter": 154,
-    "Automobile Sim": 150,
-    "Female Protagonist": 145,
-    "Capitalism": 139,
-    "Simulation": 135,
-    "Walking Simulator": 129,
-    "3D Platformer": 121,
-    "Time Management": 96,
-    "Multiple Endings": 95,
-    "Shooter": 83,
-    "3D": 70,
-    "Casual": 61,
-    "Relaxing": 55,
-    "Otome": 52,
-    "Colorful": 26,
-    "Singleplayer": 25,
-    "Nudity": 23,
-    "Early Access": 21,
-    "Indie": 20
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 3,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667440800,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 2127440,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 0,
-  "negative": 3,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/09/9",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2127440/header.jpg?t=1662718862",
+  "consensus_genre": "Simulation",
+  "developer": "\u80e1\u8fa3\u6c64\u5de5\u4f5c\u5ba4",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Simulation",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667440800,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 3,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2127440/header.jpg?t=1662718862",
+  "initialprice": "199",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u4e2d\u56fd\u5f0f\u5bcc\u8c6a",
+  "negative": 3,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "199",
+  "publisher": "\u80e1\u8fa3\u6c64\u5de5\u4f5c\u5ba4",
+  "release_date": "2022/09/9",
+  "required_age": 0,
+  "tags": {
+    "3D": 70,
+    "3D Platformer": 121,
+    "Automobile Sim": 150,
+    "Capitalism": 139,
+    "Casual": 61,
+    "Colorful": 26,
+    "Early Access": 21,
+    "Female Protagonist": 145,
+    "Indie": 20,
+    "Multiple Endings": 95,
+    "Nudity": 23,
+    "Open World": 160,
+    "Otome": 52,
+    "Relaxing": 55,
+    "Shooter": 83,
+    "Simulation": 135,
+    "Singleplayer": 25,
+    "Third-Person Shooter": 154,
+    "Time Management": 96,
+    "Walking Simulator": 129
+  },
+  "type": "game"
 }

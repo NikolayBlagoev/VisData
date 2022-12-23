@@ -1,63 +1,84 @@
 {
-  "appid": 1362480,
-  "name": "\u6218\u5730\u7ec6\u80de\uff08Battlefield Cell\uff09",
-  "developer": "E-Cell",
-  "publisher": "E-Cell",
-  "tags": {
-    "Education": 123,
-    "Science": 117,
-    "RTS": 114,
-    "Creature Collector": 111,
-    "Outbreak Sim": 107,
-    "Rogue-lite": 99,
-    "Strategy": 94,
-    "2D": 86,
-    "Top-Down": 78,
-    "Cute": 73,
-    "Linear": 69,
-    "Simulation": 66,
-    "Hand-drawn": 60,
-    "Cartoon": 55,
-    "Singleplayer": 53,
-    "Indie": 47
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1362480,
   "categories": [
     "Single-player"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "199",
-  "initialprice": "199",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, Not supported, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/08/4",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1362480/header.jpg?t=1659617782",
+  "consensus_genre": "Strategy",
+  "developer": "E-Cell",
+  "discount": "0",
   "genre": [
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "consensus_genre": "Strategy",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1362480/header.jpg?t=1659617782",
+  "initialprice": "199",
+  "languages": "English, Not supported, Simplified Chinese",
+  "name": "\u6218\u5730\u7ec6\u80de\uff08Battlefield Cell\uff09",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "199",
+  "publisher": "E-Cell",
+  "release_date": "2022/08/4",
+  "required_age": 0,
+  "tags": {
+    "2D": 86,
+    "Cartoon": 55,
+    "Creature Collector": 111,
+    "Cute": 73,
+    "Education": 123,
+    "Hand-drawn": 60,
+    "Indie": 47,
+    "Linear": 69,
+    "Outbreak Sim": 107,
+    "RTS": 114,
+    "Rogue-lite": 99,
+    "Science": 117,
+    "Simulation": 66,
+    "Singleplayer": 53,
+    "Strategy": 94,
+    "Top-Down": 78
+  },
+  "type": "game"
 }

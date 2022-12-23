@@ -1,52 +1,53 @@
 {
-  "appid": 1975860,
-  "name": "Drift Type C",
-  "developer": "Jonworks Interactive",
-  "publisher": "Jonworks Interactive",
-  "tags": {
-    "Early Access": 556,
-    "Driving": 505,
-    "Physics": 499,
-    "Procedural Generation": 495,
-    "Singleplayer": 490,
-    "Racing": 487,
-    "PvE": 484,
-    "Simulation": 479,
-    "Stylized": 474,
-    "Offroad": 451,
-    "Level Editor": 440,
-    "Sandbox": 429,
-    "1990's": 417,
-    "Time Manipulation": 404,
-    "Cartoony": 390,
-    "Story Rich": 375,
-    "Parody ": 360,
-    "3D": 344,
-    "Controller": 326,
-    "Automobile Sim": 324
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 2,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    },
+    {
+      "date": 1667354400,
+      "recommendations_down": 1,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1975860,
   "categories": [
     "Single-player",
     "Includes level editor",
     "Full controller support"
   ],
-  "owners": "100,000 .. 200,000",
-  "positive": 0,
-  "negative": 1,
-  "price": "1999",
-  "initialprice": "1999",
-  "discount": "0",
   "ccu": 1,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/05/13",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1975860/header.jpg?t=1667842396",
+  "consensus_genre": "Early Access",
+  "developer": "Jonworks Interactive",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie",
@@ -54,23 +55,43 @@
     "Simulation",
     "Early Access"
   ],
-  "consensus_genre": "Early Access",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667354400,
-      "recommendations_up": 0,
-      "recommendations_down": 1
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 2,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1975860/header.jpg?t=1667842396",
+  "initialprice": "1999",
+  "languages": "English",
+  "name": "Drift Type C",
+  "negative": 1,
+  "owners": "100,000 .. 200,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 0,
+  "price": "1999",
+  "publisher": "Jonworks Interactive",
+  "release_date": "2022/05/13",
+  "required_age": 0,
+  "tags": {
+    "1990's": 417,
+    "3D": 344,
+    "Automobile Sim": 324,
+    "Cartoony": 390,
+    "Controller": 326,
+    "Driving": 505,
+    "Early Access": 556,
+    "Level Editor": 440,
+    "Offroad": 451,
+    "Parody ": 360,
+    "Physics": 499,
+    "Procedural Generation": 495,
+    "PvE": 484,
+    "Racing": 487,
+    "Sandbox": 429,
+    "Simulation": 479,
+    "Singleplayer": 490,
+    "Story Rich": 375,
+    "Stylized": 474,
+    "Time Manipulation": 404
+  },
+  "type": "game"
 }

@@ -1,61 +1,82 @@
 {
-  "appid": 1583070,
-  "name": "Landing Confirmed",
-  "developer": "SPokDev",
-  "publisher": "SPokDev",
-  "tags": {
-    "Casual": 68,
-    "Arcade": 43,
-    "2D Platformer": 39,
-    "Minimalist": 36,
-    "Singleplayer": 33,
-    "Flight": 28,
-    "Atmospheric": 25,
-    "2D": 24,
-    "Physics": 22,
-    "Indie": 21,
-    "Controller": 19,
-    "Procedural Generation": 17
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": 43.900001525878906,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 1
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 1,
+  "User Score": -1,
+  "appid": 1583070,
   "categories": [
     "Single-player",
     "Partial Controller Support",
     "Steam Achievements",
     "Steam Cloud"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2021/04/29",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1583070/header.jpg?t=1619710472",
+  "consensus_genre": "Casual",
+  "developer": "SPokDev",
+  "discount": "0",
   "genre": [
     "Casual",
     "Indie"
   ],
-  "consensus_genre": "Casual",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 1,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 1,
-  "Down 30 Days": 0,
-  "Completion": 43.900001525878906,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1583070/header.jpg?t=1619710472",
+  "initialprice": "299",
+  "languages": "English, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese",
+  "name": "Landing Confirmed",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "SPokDev",
+  "release_date": "2021/04/29",
+  "required_age": 0,
+  "tags": {
+    "2D": 24,
+    "2D Platformer": 39,
+    "Arcade": 43,
+    "Atmospheric": 25,
+    "Casual": 68,
+    "Controller": 19,
+    "Flight": 28,
+    "Indie": 21,
+    "Minimalist": 36,
+    "Physics": 22,
+    "Procedural Generation": 17,
+    "Singleplayer": 33
+  },
+  "type": "game"
 }

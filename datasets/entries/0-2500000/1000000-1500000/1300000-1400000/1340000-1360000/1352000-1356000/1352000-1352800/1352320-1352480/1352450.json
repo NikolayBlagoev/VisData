@@ -1,60 +1,81 @@
 {
-  "appid": 1352450,
-  "name": "Caterva",
-  "developer": "Xido Studio",
-  "publisher": "Xido Studio",
-  "tags": {
-    "Top-Down": 73,
-    "Action": 67,
-    "Indie": 63,
-    "Procedural Generation": 56,
-    "Singleplayer": 53,
-    "Rogue-like": 43,
-    "Dungeon Crawler": 39,
-    "Lemmings": 37,
-    "Robots": 35,
-    "Quick-Time Events": 33,
-    "Perma Death": 31,
-    "Controller": 29,
-    "Action Roguelike": 28
+  "Average Playtime - 2 Weeks": 0,
+  "Average Playtime - Forever": 0,
+  "CCU Histogram": {
+    "2022-12-08": 0,
+    "2022-12-09": 0,
+    "2022-12-10": 0,
+    "2022-12-11": 0,
+    "2022-12-12": 0,
+    "2022-12-13": 0,
+    "2022-12-14": 0,
+    "2022-12-15": 0,
+    "2022-12-16": 0,
+    "2022-12-17": 0,
+    "2022-12-18": 0,
+    "2022-12-19": 0,
+    "2022-12-20": 0,
+    "2022-12-21": 0,
+    "2022-12-22": 0
   },
-  "type": "game",
+  "Completion": -1,
+  "Down 30 Days": 0,
+  "Like Histogram": [
+    {
+      "date": 1667268000,
+      "recommendations_down": 0,
+      "recommendations_up": 0
+    }
+  ],
+  "Median Playtime - 2 Weeks": 0,
+  "Median Playtime - Forever": 0,
+  "Meta Score": -1,
+  "Rating": "?",
+  "Up 30 Days": 0,
+  "User Score": -1,
+  "appid": 1352450,
   "categories": [
     "Single-player",
     "Full controller support"
   ],
-  "owners": "0 .. 20,000",
-  "positive": 1,
-  "negative": 0,
-  "price": "299",
-  "initialprice": "299",
-  "discount": "0",
   "ccu": 0,
-  "languages": "English",
-  "platforms": {
-    "windows": true,
-    "mac": false,
-    "linux": false
-  },
-  "release_date": "2022/03/31",
-  "required_age": 0,
-  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1352450/header.jpg?t=1648728949",
+  "consensus_genre": "Action",
+  "developer": "Xido Studio",
+  "discount": "0",
   "genre": [
     "Action",
     "Indie"
   ],
-  "consensus_genre": "Action",
-  "Meta Score": -1,
-  "User Score": -1,
-  "Like Histogram": [
-    {
-      "date": 1667268000,
-      "recommendations_up": 0,
-      "recommendations_down": 0
-    }
-  ],
-  "Up 30 Days": 0,
-  "Down 30 Days": 0,
-  "Completion": -1,
-  "Rating": "?"
+  "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1352450/header.jpg?t=1648728949",
+  "initialprice": "299",
+  "languages": "English",
+  "name": "Caterva",
+  "negative": 0,
+  "owners": "0 .. 20,000",
+  "platforms": {
+    "linux": false,
+    "mac": false,
+    "windows": true
+  },
+  "positive": 1,
+  "price": "299",
+  "publisher": "Xido Studio",
+  "release_date": "2022/03/31",
+  "required_age": 0,
+  "tags": {
+    "Action": 67,
+    "Action Roguelike": 28,
+    "Controller": 29,
+    "Dungeon Crawler": 39,
+    "Indie": 63,
+    "Lemmings": 37,
+    "Perma Death": 31,
+    "Procedural Generation": 56,
+    "Quick-Time Events": 33,
+    "Robots": 35,
+    "Rogue-like": 43,
+    "Singleplayer": 53,
+    "Top-Down": 73
+  },
+  "type": "game"
 }
