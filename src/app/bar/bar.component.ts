@@ -44,9 +44,9 @@ export class BarComponent implements AfterViewInit {
   
   @Input() instanceId!: string;
   private svg;
-  @Input()  margin: number = 80;
-  @Input()  width: number = 600;
-  @Input()  height: number = 400;
+  @Input()  margin = 80;
+  @Input()  width = 600;
+  @Input()  height = 400;
   
   // Control width, height, margin
   public setValues(width, height, margin): void {
