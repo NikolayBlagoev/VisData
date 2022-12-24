@@ -4,6 +4,7 @@ import * as d3HexBin from 'd3-hexbin';
 import { TooltipComponent } from '../tooltip/tooltip.component';
 import { Point, availableNumerics, numericsFiles } from './binScatterData';
 import exampleData from "./example-data.json";
+import { clamp } from "./utils";
 
 @Component({
     selector: 'app-bin-scatter',
@@ -17,13 +18,14 @@ export class BinScatterComponent implements AfterViewInit {
     @Input() currentAppId   = 10;
 
     // Drawing parameters
-    @Input() binRadius      = 14; // Controls radius of each hexagon, i.e. bin granularity
+    @Input() binRadius          = 14; // Controls radius of each hexagon, i.e. bin granularity
 
     // Axis data selection
     availableNumerics: Array<string> = availableNumerics;
     currentXAxis = "Median Playtime - Forever";
     currentYAxis  = "Like Percentage";
 
+    // Operational parameters
     private plotData: Array<Point> = exampleData;
     private gameData?: Point;
     private hexBin;
@@ -45,10 +47,10 @@ export class BinScatterComponent implements AfterViewInit {
     private colorPreTransform;
     readonly colourPalette = d3.interpolatePuBu;
     readonly colourScaleWidth = 75;
-    readonly colourScaleHeight = 300;
+    readonly colourScaleHeight = 350;
     readonly colourScaleHorizontalOffset = 100;
     readonly colourScaleVerticalOffset = 0;
-    readonly colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
+    readonly colourScaleSlices = 350; // Must cleanly divide colourScaleHeight
         
 
     ngAfterViewInit(): void {
@@ -139,9 +141,14 @@ export class BinScatterComponent implements AfterViewInit {
     }
 
     private drawBins(): void {
+        // Account for radius of bins
         this.hexBin = d3HexBin.hexbin()
-            .x((d) => this.xScale(d.x))
-            .y((d) => this.yScale(d.y))
+            .x((d) => clamp(this.xScale(d.x),
+                            this.margin.left + (2 * this.binRadius),
+                            this.width + this.margin.left - this.binRadius))
+            .y((d) => clamp(this.yScale(d.y),
+                            this.margin.top + this.binRadius,
+                            this.height + this.margin.top - this.binRadius))
             .radius(this.binRadius);
 
         // Literal vomit
@@ -154,6 +161,7 @@ export class BinScatterComponent implements AfterViewInit {
 
         const tooltip = new TooltipComponent();
         const gameDatumHexagonIdx = this.findChosenGameIdx();
+        const gameDatumHexagonId  = "gameHexBin";
 
         this.svg
         .selectAll("hexagons")
@@ -162,21 +170,23 @@ export class BinScatterComponent implements AfterViewInit {
         .append("path")
             // Draw hexagons
             .attr("d", (d) => `M${d.x},${d.y}${this.hexBin.hexagon()}`)
-            .attr("transform", `translate(${this.margin.left + this.hexBin.radius()}, ${this.margin.top - this.hexBin.radius()})`) // God in heaven, please forgive me
             .attr("fill", (d) => this.densityScale(d.length))
             // Highlight current game bin
-            .attr("stroke", (d, i) => i == gameDatumHexagonIdx ? "#33aa22" : "")
-            .attr("stroke-width", (d, i) => i == gameDatumHexagonIdx ? "2" : "")
+            .attr("id", (d, i) => i == gameDatumHexagonIdx ? gameDatumHexagonId : null)
+            .classed("selected-game-bin", (d, i) => i == gameDatumHexagonIdx)
             // Tooltip registration
             .on("mouseover", (event, d) => {
-                d3.select(event.target).attr("fill", "#22bb33");
+                d3.select(event.target).classed("mouseover-bin", true);
                 tooltip.setText(d.length);
                 tooltip.setVisible();
             })
             .on("mouseout", (event, d) => {
-                d3.select(event.target).attr("fill", this.densityScale(d.length));
+                d3.select(event.target).classed("mouseover-bin", false);
                 tooltip.setHidden();
             });
+        
+        // Draw the bin that the game lies in *last* so that the highlight stroke is fully visible
+        this.svg.select(`#${gameDatumHexagonId}`).raise();
     }
 
     private drawColourScale(): void {
@@ -203,6 +213,11 @@ export class BinScatterComponent implements AfterViewInit {
             .attr("transform", (d, i) => {
                 const offset = i * sliceHeight;
                 return `translate(0, ${offset})`;
+            })
+            .style("stroke-width", 1)
+            .style("stroke", (d) => {
+                const density = densityToCoord.invert(d);
+                return this.densityScale(density);
             })
             .style("fill", (d) => {
                 const density = densityToCoord.invert(d);

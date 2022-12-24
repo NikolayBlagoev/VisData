@@ -27,7 +27,7 @@ RAW_ATTRS = [
     "Median Playtime - 2 Weeks", "Median Playtime - Forever",
     # Kaggle
     "positive", "negative", "owners", "price", "initialprice",
-    "required_age", "Completion",
+    "Completion",
     # Metacritic
     "Meta Score", "User Score"
 ]
@@ -42,9 +42,16 @@ OUTPUT_FILENAMES_MAP = {
     "Median Playtime - 2 Weeks": "median_playtime_2_weeks",
     "Median Playtime - Forever": "median_playtime_forever",
     "price": "price_current", "initialprice": "price_no_discount",
-    "required_age": "required_age"
 }
-ROOT_DIR = path.join(getcwd(), "entries")
+OUTLIER_CUTOFF_THRESHOLDS_MAP = {
+    # SteamSpy
+    "Average Playtime - 2 Weeks": 2000, "Average Playtime - Forever": 20000,
+    "Median Playtime - 2 Weeks": 2000, "Median Playtime - Forever": 20000,
+    "price": 200, "initialprice": 200
+}
+
+# Path to root of data tree
+ROOT_DIR = 'C:/Users/willy/Documents/University Work/Assignments/MSc/Data Visualisation/VisDataFiles/src/assets/entries'
 
 
 def _collect_raw_data() -> Tuple[dict[str, List], List[int]]:
@@ -100,6 +107,9 @@ def _process_and_store(attrs_to_vals: dict[str, List], app_ids: List[int]):
             # If completion percentage, truncate to two decimal places
             if label == "Completion":
                 value = round(value, 2)
+            # Skip if label has a threshold and value is above the threshold
+            if (label in OUTLIER_CUTOFF_THRESHOLDS_MAP) and (value > OUTLIER_CUTOFF_THRESHOLDS_MAP[label]):
+                continue
             filtered_data[label][app_id] = value
     
     for label in filtered_data:
