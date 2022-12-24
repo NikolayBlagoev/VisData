@@ -221,9 +221,9 @@
 
   <!-- Second row -->
   <div class="two-col-container game-card">
-    <mat-card class="first-col">
+    <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
-        <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Number of games for each genre</h2>
+        <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Games Per Genre</h2>
         <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
 <!--      <app-bar instanceId="genreCountBar" [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300></app-bar>-->
@@ -309,7 +309,10 @@
 <!--          </app-box>-->
         </div>
         <div class="col">
-          <app-pie instanceId="genreCompletionPie" class="vis-component" [height]=400 [horizontalMargin]=500 [legendHorizontalOffset]=300></app-pie>
+          <app-pie instanceId="genreCompletionPie" class="vis-component" [horizontalOffset]=180 [radius]=100
+                   [labelRadius]=110 [labelFontSize]=16
+                   [legendSquareSize]=20 [legendHorizontalOffset]=130 [legendTextVerticalOffset]=15>
+          </app-pie>
         </div>
       </div>
     </mat-card>

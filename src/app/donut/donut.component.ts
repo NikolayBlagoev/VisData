@@ -21,7 +21,7 @@ export class DonutComponent implements AfterViewInit {
   @Input() horizontalMargin = 20;
   @Input() verticalMargin   = 20;
   @Input() width            = 525;
-  @Input() height           = 300;
+  @Input() height           = 310;
 
   // Drawing parameters
   @Input() radius         = 150;
