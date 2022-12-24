@@ -1,5 +1,6 @@
 import { Component, AfterViewInit, Input, ViewEncapsulation } from '@angular/core';
 import * as d3 from 'd3';
+import { IdService } from '../id.service';
 import { DonutData } from './donutData';
 
 @Component({
@@ -11,7 +12,11 @@ import { DonutData } from './donutData';
 export class DonutComponent implements AfterViewInit {
   @Input() data: Array<DonutData> = [{"value": 80, "name": "completed"}, {"value": 20, "name": "not"}];
   @Input() displayText = "80%";
-  @Input() instanceId!: string;
+  @Input() pos_val =  80;
+  instanceId!: string;
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
 
   private svg;
   @Input() horizontalMargin = 20;
@@ -51,9 +56,19 @@ export class DonutComponent implements AfterViewInit {
                   .domain(this.data.map(elem => elem.name))
                   .range([this.positiveColor, this.negativeColor]);
     
-    const pie   = d3.pie();
+    const pie   = d3.pie().sort((d:any)=>{
+      // if()
+      return -1;
+    });
     const data  = pie(this.data.map(elem => elem.value));
-
+    // if(data[0].value != this.data[0].value){
+    //   let buff = data[1];
+    //   data[1] = data[0];
+    //   data[0] = buff;
+     
+    // }
+    // console.log(data);
+    // console.log(this.data);
     this.svg.append("g")
             .attr("transform", "translate(" + this.width / 2 + "," + this.height / 2 + ")")
             .selectAll('pieses')
@@ -64,7 +79,15 @@ export class DonutComponent implements AfterViewInit {
               .innerRadius(this.radius - this.ringThickness) // This is the size of the donut hole
               .outerRadius(this.radius)
             )
-            .attr('fill', (d) => color(d))
+            .attr('fill', (d) =>{
+              console.log(d);
+              
+              if(d.data == this.pos_val){
+                return this.positiveColor;
+              }else{
+                return this.negativeColor;
+              }
+            })
             .classed('donut-arc', true);
     
     this.svg.append("text")

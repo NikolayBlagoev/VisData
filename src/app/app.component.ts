@@ -5,8 +5,10 @@ import initialGame from "../assets/initial_game.json";
 import {BoxComponent} from "./box/box.component";
 import {BoxData} from "./box/boxData";
 import {GameEntry, KaggleGame} from "./data-types";
+import { DonutComponent } from './donut/donut.component';
 import {FetchService} from "./fetch.service";
 import {LineComponent} from "./line/line.component";
+import { PieComponent } from './pie/pie.component';
 import {RadarComponent} from "./radar/radar.component";
 import {TooltipComponent} from './tooltip/tooltip.component';
 
@@ -33,7 +35,7 @@ export class AppComponent implements OnInit {
 
   @ViewChild("categoricalDataRadar", {read: ViewContainerRef}) categoricalDataRadarContainer!: ViewContainerRef;
   @ViewChild("categoricalDataBox", {read: ViewContainerRef}) categoricalDataBoxContainer!: ViewContainerRef;
-
+  @ViewChild("gameCompletionDonut", {read: ViewContainerRef}) gameCompletionDonutContainer!: ViewContainerRef;
   @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
 
@@ -104,9 +106,23 @@ export class AppComponent implements OnInit {
       "Average Playtime": 0,
       "Owners": ownerMap[entry.owners]
     };
-
+    this.gameCompletionDonutContainer.clear();
+    const gameComplDonut = this.gameCompletionDonutContainer.createComponent(DonutComponent);
+    if(entry.Completion == -1){
+      gameComplDonut.instance.data =  [{"value": 0, "name": "completed"}, {"value": 100, "name": "not"}];
+      gameComplDonut.instance.displayText = "N/A";
+      gameComplDonut.instance.pos_val = entry.Completion;
+    }else{
+      
+      gameComplDonut.instance.data =  [{"value": entry.Completion, "name": "completed"}, {"value": 100-entry.Completion, "name": "not"}];
+      gameComplDonut.instance.displayText = entry.Completion.toFixed(1)+"%";
+      gameComplDonut.instance.pos_val = entry.Completion;
+    }
+   
     this.categoricalDataRadarContainer.clear();
     const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
+    
+
     categoricalDataRadarComp.instance.data = [[radarDataAll, radarDataThis], features];
     categoricalDataRadarComp.instance.height = 400;
     categoricalDataRadarComp.instance.centerHorizontalOffset = 225;

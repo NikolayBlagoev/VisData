@@ -40,7 +40,7 @@ export type KaggleGame = {
 }
 
 export type GameEntry = KaggleGame & {
-  Completion: Achievement[] | -1;
+  Completion: number;
   consensus_genre: string;
   "Down 30 Days": number;
   "Like Histogram": HistogramData[];

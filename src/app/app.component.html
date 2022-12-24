@@ -156,6 +156,7 @@
 <!--      </app-bar>-->
 
       <ng-template #steamReviewsPie>
+        
         <app-pie instanceId="steamReviewsPie"></app-pie>
       </ng-template>
     </mat-card>
@@ -164,7 +165,10 @@
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Completion</h2>
         <mat-icon (mouseenter)="onEnterGameCompletion()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
-      <app-donut instanceId="gameCompletionPie"></app-donut>
+      <div>
+        <div #gameCompletionDonut class="vis-component"></div>
+      </div>
+      <!-- <app-donut instanceId="gameCompletionPie"></app-donut> -->
     </mat-card>
   </div>
 
