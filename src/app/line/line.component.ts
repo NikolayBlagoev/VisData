@@ -84,7 +84,7 @@ export class LineComponent implements AfterViewInit {
       .domain([min_el, max_el]);
     this.svg.append("g")
       .attr("transform", `translate(0, ${this.height})`)
-      .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y %H:%M")).selectAll("text")
+      .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y")).selectAll("text")
       .attr("transform", "translate(-10, 0) rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()

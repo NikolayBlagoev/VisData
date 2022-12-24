@@ -187,6 +187,7 @@ export class AppComponent implements OnInit {
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
     likesOverTimeLineComp.instance.data = [entry["Like Histogram"], startingLikes];
+    likesOverTimeLineComp.instance.width = 1450;
   }
 
   onEnterGameReviews() {
