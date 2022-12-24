@@ -1,7 +1,6 @@
-import {Component, AfterViewInit, Input, ViewChild, ViewContainerRef} from '@angular/core';
+import {AfterViewInit, Component, Input, ViewChild, ViewContainerRef} from '@angular/core';
 
 import {PieComponent} from "../pie/pie.component";
-import InfiniteScroll from "infinite-scroll";
 
 @Component({
   selector: 'app-scroll-list',
@@ -17,12 +16,6 @@ export class ScrollListComponent implements AfterViewInit {
   ngAfterViewInit(): void {
 
     const list = document.querySelector("#" + this.instanceId + "ScrollList")!;
-
-    const infScroll = new InfiniteScroll(list, {
-      path: "api/v1/list?page={{#}}&sort=CCU"
-    });
-
-    infScroll.on("load", () => {return;});
 
     for (let i = 20; i > 0; i--) {
       const element = document.createElement("li");
