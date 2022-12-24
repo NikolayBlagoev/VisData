@@ -1,4 +1,4 @@
-import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
@@ -8,9 +8,10 @@ import {GameEntry, KaggleGame} from "./data-types";
 import { DonutComponent } from './donut/donut.component';
 import {FetchService} from "./fetch.service";
 import {LineComponent} from "./line/line.component";
-import { PieComponent } from './pie/pie.component';
 import {RadarComponent} from "./radar/radar.component";
 import {TooltipComponent} from './tooltip/tooltip.component';
+import * as ttText from './tooltip-texts';
+import { BinScatterComponent } from './bin-scatter/bin-scatter.component';
 
 @Component({
   selector: 'app-root',
@@ -19,9 +20,10 @@ import {TooltipComponent} from './tooltip/tooltip.component';
 })
 
 export class AppComponent implements OnInit {
-  title = 'VisData';
-  t = new TooltipComponent();
-  readonly optionsLength = 50;
+  readonly title          = 'VisData';
+  readonly t              = new TooltipComponent();
+  readonly ttText         = ttText;
+  readonly optionsLength  = 50;
 
   data: KaggleGame[] = [];
 
@@ -38,6 +40,9 @@ export class AppComponent implements OnInit {
   @ViewChild("gameCompletionDonut", {read: ViewContainerRef}) gameCompletionDonutContainer!: ViewContainerRef;
   @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
+
+  // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
+  @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent;
 
   constructor(private fetchService: FetchService) {}
 
@@ -69,18 +74,11 @@ export class AppComponent implements OnInit {
 
   supportToIconName(isSupported: boolean) { return isSupported ? "check" : "close"; }
 
-  extractGameName(game: KaggleGame) {
-    return game?.name;
-  }
+  extractGameName(game: KaggleGame) { return game?.name; }
 
   async onGameSelection(game: KaggleGame) {
     this.currentGame = game;
-    // console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
-    // this.filteredData = this.searchControl.valueChanges.pipe(
-    //   startWith(game.name),
-    //   map(value => this._filter(value))
-    // );
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
 
@@ -108,12 +106,11 @@ export class AppComponent implements OnInit {
     };
     this.gameCompletionDonutContainer.clear();
     const gameComplDonut = this.gameCompletionDonutContainer.createComponent(DonutComponent);
-    if(entry.Completion == -1){
+    if (entry.Completion == -1) {
       gameComplDonut.instance.data =  [{"value": 0, "name": "completed"}, {"value": 100, "name": "not"}];
       gameComplDonut.instance.displayText = "N/A";
       gameComplDonut.instance.pos_val = entry.Completion;
-    }else{
-      
+    } else {
       gameComplDonut.instance.data =  [{"value": entry.Completion, "name": "completed"}, {"value": 100-entry.Completion, "name": "not"}];
       gameComplDonut.instance.displayText = entry.Completion.toFixed(1)+"%";
       gameComplDonut.instance.pos_val = entry.Completion;
@@ -181,67 +178,16 @@ export class AppComponent implements OnInit {
     categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
     categoricalDataBoxComp.instance.height = 500;
     categoricalDataBoxComp.instance.width = 550;
+    categoricalDataBoxComp.instance.text_margin.left = 150;
+    categoricalDataBoxComp.instance.labelTextSize = 14;
 
     const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"]);
 
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
     likesOverTimeLineComp.instance.data = [entry["Like Histogram"], startingLikes];
-    likesOverTimeLineComp.instance.width = 1450;
-  }
 
-  onEnterGameReviews() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows positive reviews as percentage of total reviews for Steam user scores, Metacritic critic scores, and Metacritic user scores");
-  }
-
-  onEnterLikes30Days() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows ????");
-  }
-
-  onEnterGenreCount() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows the number of games made per genre (limited to genres above a certain threshold). Highlighted are the genres of the selected game\r\nNOTE: A game can be in multiple genres");
-  }
-
-  onEnterCCU30Days() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows peak active players for each day for the given time period");
-  }
-
-  onEnterGameCompletion() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows the heuristically determined percentage of total players who have completed the game");
-  }
-
-  onEnterNumericData() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows two selected pieces of numeric data plotted against each other. Used for finding correlations between quantities");
-  }
-
-  onEnterPriceBrackets() {
-    const t = new TooltipComponent();
-    t.setVisible();
-    t.tooltip.style("max-width","400px");
-    t.setText("Shows the price distribution of games on Steam");
-  }
-
-  onLeaveSectionInfo(){
-    const t = new TooltipComponent();
-    t.setHidden();
+    this.numericDataBinScatter.onSelectedGameChange(this.currentGame.appid);
   }
 
   private _filter(value: string): KaggleGame[] {

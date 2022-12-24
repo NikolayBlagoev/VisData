@@ -54,30 +54,21 @@ export class LineComponent implements AfterViewInit {
       histogramData = histogramData.slice(1);
     }
 
-    // let currentValue = initialLikes;
-
     // Map histogram to proper data
     const data: LineData[] = histogramData.map((el) => {
-      // currentValue = currentValue + el.recommendations_up - el.recommendations_down;
       const up = el.recommendations_up;
       const down = el.recommendations_down;
       const total = Math.max(1, up + down);
       const currentValue = (up / total) * 100;
-
       return {
         "date": new Date(el.date * 1000),
         "value": currentValue
       };
     });
 
-    // const yRange = [data.reduce((acc, e1) => acc < e1.value ? acc: e1.value, Number.MAX_SAFE_INTEGER),
-    //   data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
-
-    const yRange = [0, 100];
-
-    // data = data.map(d => d.date.toString());
-    const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
+    const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
+    const yRange = [0, 100];
 
     const x = d3.scaleTime()
       .range([0, this.width])

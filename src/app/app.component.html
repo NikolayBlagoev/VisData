@@ -30,19 +30,6 @@
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
 
-<!--  <div class="two-col-container">-->
-<!--    <div>-->
-<!--      <div #categoricalDataRadar></div>-->
-<!--    </div>-->
-<!--    <div>-->
-<!--      <div #categoricalDataBox></div>-->
-<!--    </div>-->
-<!--  </div>-->
-
-<!--  <div>-->
-<!--    <div #likesOverTimeLine></div>-->
-<!--  </div>-->
-
   <!-- ========== SINGLE GAME INFO ========== -->
   <!-- Header -->
   <mat-card class="game-card">
@@ -84,50 +71,37 @@
     </mat-card-header>
 
     <mat-card-content>
-
-      <h2>Categories:</h2>
+      <h2>Categories</h2>
       <div class="round-bordered">
         <ul class = "general-list" #categoryList>
           <li class = "general-item" *ngFor="let category of currentGame.categories">{{category}}</li>
         </ul>
       </div>
-      <h2>Tags:</h2>
-
+      <h2>Tags</h2>
       <div class="round-bordered">
         <ul  class = "general-list"  #tagList>
           <li class = "general-item" *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}</li>
         </ul >
       </div>
-      <h2>Languages:</h2>
+      <h2>Languages</h2>
       <div class="round-bordered">
         <ul class = "general-list"  #languageList>
           <li class = "general-item" *ngFor="let language of currentGame.languages.split(', ')">{{language}}</li>
         </ul>
       </div>
-
     </mat-card-content>
   </mat-card>
 
   <span style="margin-block-end: 5%;"></span>
+
   <!-- First row -->
-
-<!--  <div class="two-col-container">-->
-<!--    <div>-->
-<!--      <div #categoricalDataRadar></div>-->
-<!--    </div>-->
-<!--    <div>-->
-<!--      <div #categoricalDataBox></div>-->
-<!--    </div>-->
-
-<!--    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>-->
-
-<!--    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>-->
-<!--  </div>-->
-
   <mat-card class="game-card" style="position: static;">
     <div class="two-col-container vis-parent">
       <div class="col">
-        <h2 style="margin-inline-start: 5%;">Popularity Metrics</h2>
+        <div style="display: flex; flex-direction: row;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Popularity Metrics</h2>
+          <mat-icon (mouseenter)="ttText.onEnterPopularityMetrics()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
         <div>
           <div #categoricalDataRadar></div>
         </div>
@@ -148,7 +122,7 @@
 
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Reviews</h2>
-        <mat-icon (mouseenter)="onEnterGameReviews()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGameReviews()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
 
 <!--      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie"-->
@@ -163,7 +137,7 @@
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Completion</h2>
-        <mat-icon (mouseenter)="onEnterGameCompletion()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGameCompletion()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <div>
         <div #gameCompletionDonut class="vis-component"></div>
@@ -184,7 +158,7 @@
       <div>
         <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
           <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Likes in Past 30 Days</h2>
-          <mat-icon (mouseenter)="onEnterLikes30Days()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+          <mat-icon (mouseenter)="ttText.onEnterLikes30Days()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
         </div>
         <div>
           <div #likesOverTimeLine></div>
@@ -235,9 +209,9 @@
       <div>
         <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
           <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Numeric Data</h2>
-          <mat-icon (mouseenter)="onEnterNumericData()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+          <mat-icon (mouseenter)="ttText.onEnterNumericData()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
         </div>
-        <app-bin-scatter instanceId="numericDataBinScatter" [currentAppId]="currentGame.appid"></app-bin-scatter>
+        <app-bin-scatter></app-bin-scatter>
       </div>
     </mat-card>
   </div>
@@ -247,7 +221,7 @@
     <mat-card class="first-col">
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Number of games for each genre</h2>
-        <mat-icon (mouseenter)="onEnterGenreCount()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
 <!--      <app-bar instanceId="genreCountBar" [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300></app-bar>-->
     </mat-card>
@@ -255,7 +229,7 @@
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Price Brackets</h2>
-        <mat-icon (mouseenter)="onEnterPriceBrackets()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterPriceBrackets()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <app-pie instanceId="priceBracketsPie"></app-pie>
     </mat-card>

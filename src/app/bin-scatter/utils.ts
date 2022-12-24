@@ -3,5 +3,5 @@ export function clamp(num, min, max) {
             min         :
             num >= max  ?
             max         :
-            num
+            num;
   }

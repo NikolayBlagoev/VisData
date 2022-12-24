@@ -1,6 +1,7 @@
 import { Component, AfterViewInit, Input, ViewEncapsulation } from '@angular/core';
 import * as d3 from 'd3';
 import * as d3HexBin from 'd3-hexbin';
+import { IdService } from '../id.service';
 import { TooltipComponent } from '../tooltip/tooltip.component';
 import { Point, availableNumerics, numericsFiles } from './binScatterData';
 import exampleData from "./example-data.json";
@@ -14,8 +15,9 @@ import { clamp } from "./utils";
   })
 
 export class BinScatterComponent implements AfterViewInit {
-    @Input() instanceId!: string;
-    @Input() currentAppId   = 10;
+    currentAppId = 10;
+    instanceId!: string;
+    constructor (private idService: IdService) { this.instanceId = idService.generateId(); }
 
     // Drawing parameters
     @Input() binRadius          = 14; // Controls radius of each hexagon, i.e. bin granularity
@@ -26,7 +28,8 @@ export class BinScatterComponent implements AfterViewInit {
     currentYAxis  = "Like Percentage";
 
     // Operational parameters
-    private plotData: Array<Point> = exampleData;
+    readonly gameDatumHexagonId     = "gameHexBin";
+    private plotData: Array<Point>  = exampleData;
     private gameData?: Point;
     private hexBin;
     private svg;
@@ -67,6 +70,11 @@ export class BinScatterComponent implements AfterViewInit {
 
     onYChange(newYLabel: string) {
         this.currentYAxis = newYLabel;
+        this.constructGraph();
+    }
+
+    onSelectedGameChange(newAppId: number) {
+        this.currentAppId = newAppId;
         this.constructGraph();
     }
 
@@ -140,19 +148,27 @@ export class BinScatterComponent implements AfterViewInit {
             .call(d3.axisLeft(this.yScale));
     }
 
+    private binX(val: number): number {
+        return clamp(this.xScale(val),
+                     this.margin.left + (2 * this.binRadius),
+                     this.width + this.margin.left - this.binRadius);
+    }
+
+    private binY(val: number): number {
+        return clamp(this.yScale(val),
+                     this.margin.top + this.binRadius,
+                     this.height + this.margin.top - this.binRadius);
+    }
+
     private drawBins(): void {
         // Account for radius of bins
         this.hexBin = d3HexBin.hexbin()
-            .x((d) => clamp(this.xScale(d.x),
-                            this.margin.left + (2 * this.binRadius),
-                            this.width + this.margin.left - this.binRadius))
-            .y((d) => clamp(this.yScale(d.y),
-                            this.margin.top + this.binRadius,
-                            this.height + this.margin.top - this.binRadius))
+            .x((d) => this.binX(d.x))
+            .y((d) => this.binY(d.y))
             .radius(this.binRadius);
 
         // Literal vomit
-        const bins = this.hexBin(this.plotData) as Array<Array<any>>;
+        const bins = this.hexBin(this.plotData) as Array<Array<number>>;
         this.colorPreTransform = d3.scaleLog()
             .base(2)
             .domain([1, d3.max(bins, (d) => d.length)!])
@@ -160,8 +176,7 @@ export class BinScatterComponent implements AfterViewInit {
         this.densityScale = d3.scaleSequential((d) => (this.colourPalette(this.colorPreTransform(d))));
 
         const tooltip = new TooltipComponent();
-        const gameDatumHexagonIdx = this.findChosenGameIdx();
-        const gameDatumHexagonId  = "gameHexBin";
+        const gameDatumHexagonIdx = this.findChosenGameIdx(bins);
 
         this.svg
         .selectAll("hexagons")
@@ -172,7 +187,7 @@ export class BinScatterComponent implements AfterViewInit {
             .attr("d", (d) => `M${d.x},${d.y}${this.hexBin.hexagon()}`)
             .attr("fill", (d) => this.densityScale(d.length))
             // Highlight current game bin
-            .attr("id", (d, i) => i == gameDatumHexagonIdx ? gameDatumHexagonId : null)
+            .attr("id", (d, i) => i == gameDatumHexagonIdx ? this.gameDatumHexagonId : null)
             .classed("selected-game-bin", (d, i) => i == gameDatumHexagonIdx)
             // Tooltip registration
             .on("mouseover", (event, d) => {
@@ -186,7 +201,7 @@ export class BinScatterComponent implements AfterViewInit {
             });
         
         // Draw the bin that the game lies in *last* so that the highlight stroke is fully visible
-        this.svg.select(`#${gameDatumHexagonId}`).raise();
+        this.svg.select(`#${this.gameDatumHexagonId}`).raise();
     }
 
     private drawColourScale(): void {
@@ -244,19 +259,23 @@ export class BinScatterComponent implements AfterViewInit {
     /**
      * Compute the index of the hexagon bin containing the currently selected game's data
      * 
+     * @param bins Array containing paths made of (X, Y) pairs that encode each hexagonal bin
+     * plus special named 'x' and 'y' members that define the center of each hexagon
+     * 
      * @returns Index of the bin contained in the return value of the call to `hexBin`,
      * -1 if the game does not have a value in either of the two selected categories
      * (i.e. `this.gameData === undefined`)
      */
-    private findChosenGameIdx(): number {
+    private findChosenGameIdx(bins: Array<Array<number>>): number {
         if (this.gameData === undefined) { return -1; }
-        const gamePoint: Point = {x: this.xScale(this.gameData.x), y: this.yScale(this.gameData.y)};
+        const gamePoint: Point = {x: this.binX(this.gameData.x), y: this.binY(this.gameData.y)};
 
-        // Uses Manhattan distance
+        // Use Manhattan distance
         let closestHexagonIdx = 0;
         let closestDist = 1e10;
-        for (const [idx, center] of this.hexBin.centers().entries()) {
-            const currentDist = Math.abs(center.x - gamePoint.x) + Math.abs(center.y - gamePoint.y);
+        for (let idx = 0; idx < bins.length; idx++) {
+            const center = bins[idx];
+            const currentDist = Math.abs(center['x'] - gamePoint.x) + Math.abs(center['y'] - gamePoint.y);
             if (currentDist < closestDist) {
                 closestDist = currentDist;
                 closestHexagonIdx = idx;
