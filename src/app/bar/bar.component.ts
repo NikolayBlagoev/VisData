@@ -14,7 +14,6 @@ export class BarComponent implements AfterViewInit {
   @Input() data: BarData[] = [
     { "Name": "Action", "Value": 23759 },
     { "Name": "Adventure", "Value": 21431 },
-    { "Name": "Indie", "Value": 39681 },
     { "Name": "RPG", "Value": 9534 },
     { "Name": "Strategy", "Value": 10895 },
     { "Name": "Simulation", "Value": 10836 },
@@ -42,13 +41,14 @@ export class BarComponent implements AfterViewInit {
     { "Name": "Sexual Content", "Value": 54 },
     { "Name": "Movie", "Value": 1 }
   ];
-
+  @Input() bar_margin: number = 0;
   @Input() instanceId!: string;
+  @Input() to_sort = false;
   constructor(private idService: IdService) {
     this.instanceId = idService.generateId();
   }
   private svg;
-
+  @Input() highlighted = ["Indie", "Strategy"];
   // Drawing parameters
   @Input() horizontalMargin     = 40;
   @Input() verticalMargin       = 60;
@@ -71,7 +71,7 @@ export class BarComponent implements AfterViewInit {
     this.width = this.width - (this.horizontalMargin * 2);
     this.height = this.height - (this.verticalMargin * 2);
     this.createSvg();
-    this.drawBars(this.data, ["Indie", "Strategy"]);
+    this.drawBars(this.data, this.highlighted);
   }
 
   private createSvg(): void {
@@ -84,9 +84,11 @@ export class BarComponent implements AfterViewInit {
   }
 
   private drawBars(data: BarData[], highlighted: string[]): void {
-    data.sort((e1, e2) => e2.Value - e1.Value);
+    if(this.to_sort){
+      data.sort((e1, e2) => e2.Value - e1.Value);
+    }
     const max_el = this.max_val == -1 ? data.reduce((acc, e1) => acc = acc > e1.Value ? acc : e1.Value, -1000) : this.max_val;
-    data = data.filter((el) => el.Value > max_el / 200);
+    data = data.filter((el) => el.Value > max_el / 100);
 
     // Create the X-axis band scale
     const x = d3.scaleBand()
@@ -97,7 +99,7 @@ export class BarComponent implements AfterViewInit {
     // Draw the X-axis on the DOM
     this.svg.append("g")
       .attr("transform", "translate(0," + (this.height) + ")")
-      .call(d3.axisBottom(x).ticks(10))
+      .call(d3.axisBottom(x).ticks(data.length))
       .selectAll("text")
       .attr("transform", "translate(-10,0) rotate(-45)")
       .style("text-anchor", "end")
@@ -129,7 +131,8 @@ export class BarComponent implements AfterViewInit {
       .append("rect")
       .attr("x", d => x(d.Name))
       .attr("y", d => y(d.Value))
-      .attr("width", x.bandwidth())
+      .attr("transform", "translate("  + this.bar_margin/2+",0)")
+      .attr("width", x.bandwidth() - this.bar_margin)
       .attr("height", d => this.height - y(d.Value) - this.strokeWidth)
       .attr("stroke", this.strokeColor)
       .attr("stroke-width", this.strokeWidth)

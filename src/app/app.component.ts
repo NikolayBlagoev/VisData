@@ -42,6 +42,7 @@ export class AppComponent implements OnInit {
   @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("gameReviews", {read: ViewContainerRef}) gameReviewContainer!: ViewContainerRef;
+  @ViewChild("genreCount", {read: ViewContainerRef}) genreCountContainer!: ViewContainerRef;
 
   constructor(private fetchService: FetchService) {}
 
@@ -90,7 +91,7 @@ export class AppComponent implements OnInit {
 
     const features = ["Likes", "Recent Likes", "Playtime", "Average Playtime", "Owners"];
     const ownerMap = await this.fetchService.fetch("assets/aggregate/unique_owners.json");
-
+    const genreData = await this.fetchService.fetch("assets/aggregate/top_genres.json");
     const likeAvg = await this.fetchService.fetch("assets/aggregate/total_likes.json");
     // seems wrong \/
     const recentLikeAvg = await this.fetchService.fetch("assets/aggregate/30_days_likes.json");
@@ -123,6 +124,7 @@ export class AppComponent implements OnInit {
       gameReview.instance.data = review_data;
       gameReview.instance.max_val = 100;
       gameReview.instance.height = 300;
+      gameReview.instance.bar_margin = 70;
     }else{
       const gameRevieDonut = this.gameReviewContainer.createComponent(DonutComponent);
       gameRevieDonut.instance.data = [{"value": review_data[0].Value, "name": "completed"}, {"value": 100-review_data[0].Value, "name": "not"}];
@@ -200,6 +202,25 @@ export class AppComponent implements OnInit {
     boxDataThis.set("Likes", boxDataThis.get("Likes")! * 10);
     boxDataThis.set("Recent Likes", boxDataThis.get("Recent Likes")! * 10);
 
+
+
+    this.genreCountContainer.clear();
+    const genreComp = this.genreCountContainer.createComponent(BarComponent);
+    genreComp.instance.to_sort = true;
+    
+    
+  
+
+    const processedData: BarData[] = [];
+    for(const gnr in genreData){
+      processedData.push({"Name": gnr , "Value": genreData[gnr]});
+    }
+  
+    genreComp.instance.data = processedData;
+    genreComp.instance.horizontalMargin = 90;
+    genreComp.instance.height = 400;
+    genreComp.instance.highlighted = entry.genre;
+
     this.categoricalDataBoxContainer.clear();
     const categoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
     categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
@@ -222,6 +243,8 @@ export class AppComponent implements OnInit {
     ccuOverTimeLineComp.instance.data = [ccu_histogram, 0];
     ccuOverTimeLineComp.instance.width = 1450;
     ccuOverTimeLineComp.instance.dataLabel = "Players";
+
+    
   }
 
   onEnterGameReviews() {
