@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, Input} from '@angular/core';
+import {AfterViewInit, Component, Input, ViewEncapsulation} from '@angular/core';
 import * as d3 from 'd3';
 import {IdService} from "../id.service";
 import {TooltipComponent} from "../tooltip/tooltip.component";
@@ -7,29 +7,48 @@ import {BoxData} from './boxData';
 @Component({
     selector: 'app-box',
     templateUrl: './box.component.html',
-    styleUrls: ['./box.component.sass']
+    styleUrls: ['./box.component.sass'],
+    encapsulation: ViewEncapsulation.None
   })
 
 export class BoxComponent implements AfterViewInit {
 
+    instanceId!: string;
+
     @Input() data!: [BoxData[], Map<string, number>]; //= [ExampleData, new Map<string, number>()];
-    @Input() instanceId!: string;
+    @Input() width                      = 768;
+    @Input() height                     = 768;
+
+    // Drawing parameters
+    @Input() boxHeight          = 50;
+    @Input() labelTextSize      = 20;
+    @Input() scaleTextSize      = 12;
+    @Input() textVerticalOffset = 5;
+    @Input() leftTextOffset     = 25;
+    @Input() rightTextOffset    = 10;
+    @Input() borderWidth        = 1;
 
     private svg;
 
     // Set the dimensions and margins of the graph
-    private margin = {top: 10, right: 30, bottom: 30, left: 40};
-    private text_margin = {top: 0, right: 40, bottom: 0, left: 100};
-    private width = 768 - this.margin.left - this.margin.right;
-    private height = 768 - this.margin.top - this.margin.bottom;
+    @Input() margin          = {top: 25, right: 0, bottom: 25, left: 0};
+    @Input() text_margin     = {top: 0, right: 0, bottom: 0, left: 90};
+    private marginedWidth!: number;
+    private marginedHeight!: number;
+
 
     // X and Y scales
+    private x_scale_domains!: Array<[number, number]>;
+    private x_scale_range!: [number, number];
     private x_scales;
-    private x_scale_domains?: number[][];
-    private x_scale_range = [
-        0 + this.text_margin.left + this.text_margin.right,
-        this.width - this.text_margin.left - this.text_margin.right
-    ];
+// <<<<<<< HEAD
+//     private x_scale_domains?: number[][];
+//     private x_scale_range = [
+//         0 + this.text_margin.left + this.text_margin.right,
+//         this.width - this.text_margin.left - this.text_margin.right
+//     ];
+// =======
+// >>>>>>> operation-jupiter-merge
     private y_scale;
 
     constructor(private idService: IdService) {
@@ -45,24 +64,31 @@ export class BoxComponent implements AfterViewInit {
     }
 
     private createSvg(): void {
+        // Compute margined dimensions from DOM input
+        this.marginedWidth   = this.width - this.margin.left - this.margin.right;
+        this.marginedHeight  = this.height - this.margin.top - this.margin.bottom;
+
         this.svg = d3.select("figure#" + this.instanceId)
         .append("svg")
-        .attr("width", this.width)
-        .attr("height", this.height)
+        .attr("width", this.marginedWidth)
+        .attr("height", this.marginedHeight)
         .append("g")
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")").style("user-select","none");
     }
 
     private initScales(): void {
-      this.x_scale_domains = d3.map(this.data[0], datum => [datum.min, datum.max]);
+        // Compute X axis domain and range from DOM input
+        this.x_scale_domains    = d3.map(this.data[0], datum => [datum.min, datum.max]);
+        this.x_scale_range      = [0 + this.text_margin.left + this.text_margin.right,
+                                   this.marginedWidth - this.text_margin.left - this.text_margin.right];
 
-      this.x_scales = d3.map(this.x_scale_domains, domain => {
-        return d3.scaleLinear()
-          .domain(domain)
-          .range(this.x_scale_range);});
-      this.y_scale = d3.scaleBand()
+        this.x_scales = d3.map(this.x_scale_domains, domain => {
+            return d3.scaleLinear()
+                     .domain(domain)
+                     .range(this.x_scale_range);});
+        this.y_scale = d3.scaleBand()
         .domain(this.data[1].keys())
-        .range([0, this.height])
+        .range([0, this.marginedHeight])
         .paddingOuter(0.5);
     }
 
@@ -77,22 +103,19 @@ export class BoxComponent implements AfterViewInit {
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.max);})
             .attr("y1", (d) => {return this.y_scale(d.label);})
             .attr("y2", (d) => {return this.y_scale(d.label);})
-            .attr("stroke", "black")
-            .style("width", 40);
+            .classed("main-line", true);
 
       // Rectangle for the main box
-      const boxHeight = 50;
       this.svg
         .selectAll("boxes")
         .data(data)
         .enter()
         .append("rect")
             .attr("x", (d, idx) => {return this.x_scales[idx](d.lower_quartile);})
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
             .attr("width", (d, idx) => {return this.x_scales[idx](d.upper_quartile) - this.x_scales[idx](d.lower_quartile);})
-            .attr("stroke", "black")
-            .style("fill", "#69b3a2");
+            .classed("box", true);
 
       // Show the median
       this.svg
@@ -102,43 +125,39 @@ export class BoxComponent implements AfterViewInit {
         .append("line")
             .attr("x1", (d, idx) => {return this.x_scales[idx](d.median);})
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.median);})
-            .attr("y1", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("y2", (d) => {return this.y_scale(d.label)! + (boxHeight / 2);})
-            .attr("stroke", "black")
-            .style("width", 80);
+            .attr("y1", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("y2", (d) => {return this.y_scale(d.label)! + (this.boxHeight / 2);})
+            .classed("median-line", true);
 
-      // Left and right borders + text
-      // TODO: Change hardcoded values for offsets
-      const textVerticalOffset = 3;
-      const leftTextOffset = 20;
-      const rightTextOffset = 5;
-      const borderWidth = 1;
+        // Left and right borders + text
       const selection = this.svg
         .selectAll("borderVisuals")
         .data(data)
         .enter();
-      selection.append("rect") // Left border
-            .attr("x", this.x_scale_range[0] + borderWidth)
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
-            .attr("width", borderWidth)
-            .attr("stroke", "black")
-            .style("fill", "black");
+
+        selection.append("rect") // Left border
+            .attr("x", this.x_scale_range[0] + this.borderWidth)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
+            .attr("width", this.borderWidth)
+            .classed("border", true);
+
         selection.append("rect") // Right border
-            .attr("x", this.x_scale_range[1] - borderWidth)
-            .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
-            .attr("height", boxHeight)
-            .attr("width", borderWidth)
-            .attr("stroke", "black")
-            .style("fill", "black");
+            .attr("x", this.x_scale_range[1] - this.borderWidth)
+            .attr("y", (d) => {return this.y_scale(d.label)! - (this.boxHeight / 2);})
+            .attr("height", this.boxHeight)
+            .attr("width", this.borderWidth)
+            .classed("border", true);
         selection.append("text") // Min value
             .text((d) => {return d.min;})
-            .attr("x", this.x_scale_range[0] - leftTextOffset)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("x", this.x_scale_range[0] - this.leftTextOffset)
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.scaleTextSize);
         selection.append("text") // Max value
             .text((d) => {return d.max;})
-            .attr("x", this.x_scale_range[1] + rightTextOffset)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("x", this.x_scale_range[1] + this.rightTextOffset)
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.scaleTextSize);
 
       // Category labels
       this.svg
@@ -148,7 +167,8 @@ export class BoxComponent implements AfterViewInit {
         .append("text")
             .text((d) => {return d.label;})
             .attr("x", this.x_scale_range[0] - this.text_margin.left)
-            .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
+            .attr("y", (d) => {return this.y_scale(d.label)! + this.textVerticalOffset;})
+            .style("font-size", this.labelTextSize);
     }
 
     private drawPoints(data: Map<string, number>): void {
@@ -162,7 +182,7 @@ export class BoxComponent implements AfterViewInit {
             .attr("cx", this.x_scales[scaleIdx](value))
             .attr("cy", this.y_scale(label))
             .attr("r", 10)
-            .attr("fill", "#f568fcc8")
+            .classed("highlight-circle", true)
             .on("mouseover", () => {
                 tooltip.setText(value.toString());
                 tooltip.setVisible();
