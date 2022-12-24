@@ -2,9 +2,12 @@ import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
+import {BoxComponent} from "./box/box.component";
+import {BoxData} from "./box/boxData";
 import {GameEntry, KaggleGame} from "./data-types";
-import {EntryTreeService} from "./entry-tree.service";
+import {FetchService} from "./fetch.service";
 import {LineComponent} from "./line/line.component";
+import {RadarComponent} from "./radar/radar.component";
 
 @Component({
   selector: 'app-root',
@@ -27,10 +30,13 @@ export class AppComponent implements OnInit {
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
-  @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLine!: ViewContainerRef;
-  @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLine!: ViewContainerRef;
+  @ViewChild("categoricalDataRadar", {read: ViewContainerRef}) categoricalDataRadarContainer!: ViewContainerRef;
+  @ViewChild("categoricalDataBox", {read: ViewContainerRef}) categoricalDataBoxContainer!: ViewContainerRef;
 
-  constructor(private entryTree: EntryTreeService) {}
+  @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLineContainer!: ViewContainerRef;
+  @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
+
+  constructor(private fetchService: FetchService) {}
 
   async ngOnInit() {
     const start = Date.now();
@@ -49,6 +55,8 @@ export class AppComponent implements OnInit {
       startWith(""),
       map(value => this._filter(value))
     );
+
+    await this.onGameSelection(initialGame);
   }
 
   onGenreSelection(newGenreSelection: string) {
@@ -58,8 +66,6 @@ export class AppComponent implements OnInit {
 
   supportToIconName(isSupported: boolean) { return isSupported ? "check" : "cancel"; }
 
-  test() {console.log("test");}
-
   extractGameName(game: KaggleGame) {
     return game?.name;
   }
@@ -68,21 +74,96 @@ export class AppComponent implements OnInit {
     this.currentGame = game;
     // console.log(option.value.name);
     this.currentGenre = this.currentGame.genre[0];
-    this.filteredData = this.searchControl.valueChanges.pipe(
-      startWith(game.name),
-      map(value => this._filter(value))
-    );
+    // this.filteredData = this.searchControl.valueChanges.pipe(
+    //   startWith(game.name),
+    //   map(value => this._filter(value))
+    // );
 
-    const path = await this.entryTree.getEntryPath(this.currentGame.appid);
+    const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
 
-    const resp = await fetch(path);
-    const entry: GameEntry = JSON.parse(await resp.text());
+    const features = ["Likes", "Recent Likes", "Playtime", "Average Playtime", "Owners"];
+    const ownerMap = await this.fetchService.fetch("assets/aggregate/unique_owners.json");
 
-    const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"])
+    const likeAvg = await this.fetchService.fetch("assets/aggregate/total_likes.json");
+    // seems wrong \/
+    const recentLikeAvg = await this.fetchService.fetch("assets/aggregate/30_days_likes.json");
 
-    this.likesOverTimeLine.clear();
-    const lineComponent = this.likesOverTimeLine.createComponent(LineComponent);
-    lineComponent.instance.data = [entry["Like Histogram"], startingLikes];
+    const radarDataAll = {
+      "Likes": likeAvg["mean"] * 10,
+      "Recent Likes": recentLikeAvg["mean"] * 10,
+      "Playtime": 0,
+      "Average Playtime": 0,
+      "Owners": 0
+    };
+
+    const radarDataThis = {
+      "Likes": entry.positive / (entry.positive + entry.negative) * 10,
+      "Recent Likes": entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]) * 10,
+      "Playtime": 0,
+      "Average Playtime": 0,
+      "Owners": ownerMap[entry.owners]
+    };
+
+    this.categoricalDataRadarContainer.clear();
+    const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
+    categoricalDataRadarComp.instance.data = [[radarDataAll, radarDataThis], features];
+
+    const boxDataAll: BoxData[] = [
+      {
+        label: "Likes",
+        min: likeAvg["min"] * 100,
+        max: likeAvg["max"] * 100,
+        median: likeAvg["median"] * 100,
+        lower_quartile: likeAvg["25th"] * 100,
+        upper_quartile: likeAvg["75th"] * 100
+      },
+      {
+        label: "Recent Likes",
+        min: recentLikeAvg["min"] * 100,
+        max: recentLikeAvg["max"] * 100,
+        median: recentLikeAvg["median"] * 100,
+        lower_quartile: recentLikeAvg["25th"] * 100,
+        upper_quartile: recentLikeAvg["75th"] * 100
+      },
+      {
+        label: "Playtime",
+        min: 1,
+        max: 10,
+        median: 5,
+        lower_quartile: 2,
+        upper_quartile: 7
+      },
+      {
+        label: "Average Playtime",
+        min: 1,
+        max: 10,
+        median: 5,
+        lower_quartile: 2,
+        upper_quartile: 7
+      },
+      {
+        label: "Owners",
+        min: 0,
+        max: 10,
+        median: 5,
+        lower_quartile: 2,
+        upper_quartile: 7
+      }
+    ];
+
+    const boxDataThis: Map<string, number> = new Map(Object.entries(radarDataThis));
+    boxDataThis.set("Likes", boxDataThis.get("Likes")! * 10);
+    boxDataThis.set("Recent Likes", boxDataThis.get("Recent Likes")! * 10);
+
+    this.categoricalDataBoxContainer.clear();
+    const categoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
+    categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
+
+    const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"]);
+
+    this.likesOverTimeLineContainer.clear();
+    const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
+    likesOverTimeLineComp.instance.data = [entry["Like Histogram"], startingLikes];
   }
 
   private _filter(value: string): KaggleGame[] {

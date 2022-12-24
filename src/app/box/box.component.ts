@@ -1,7 +1,8 @@
-import { Component, Input, AfterViewInit } from '@angular/core';
+import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
-import {BoxData, ExampleData, ExampleLabels} from './boxData';
-import { TooltipComponent } from "../tooltip/tooltip.component";
+import {IdService} from "../id.service";
+import {TooltipComponent} from "../tooltip/tooltip.component";
+import {BoxData} from './boxData';
 
 @Component({
     selector: 'app-box',
@@ -11,7 +12,7 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
 
 export class BoxComponent implements AfterViewInit {
 
-    @Input() inputData: Array<BoxData> = ExampleData;
+    @Input() data!: [BoxData[], Map<string, number>]; //= [ExampleData, new Map<string, number>()];
     @Input() instanceId!: string;
 
     private svg;
@@ -24,20 +25,23 @@ export class BoxComponent implements AfterViewInit {
 
     // X and Y scales
     private x_scales;
-    private x_scale_domains = d3.map(this.inputData, datum => [datum.min, datum.max]);
+    private x_scale_domains?: number[][];
     private x_scale_range = [
         0 + this.text_margin.left + this.text_margin.right,
-        this.width - this.text_margin.left - this.text_margin.right];
+        this.width - this.text_margin.left - this.text_margin.right
+    ];
     private y_scale;
+
+    constructor(private idService: IdService) {
+      this.instanceId = idService.generateId();
+    }
 
     ngAfterViewInit(): void {
         this.createSvg();
         this.initScales();
 
-        // TODO: Remove hardcoded values
-        this.drawBoxes();
-        this.drawPoint('ur', 278);
-        this.drawPoint('my', 395);
+        this.drawBoxes(this.data[0]);
+        this.drawPoints(this.data[1]);
     }
 
     private createSvg(): void {
@@ -50,21 +54,23 @@ export class BoxComponent implements AfterViewInit {
     }
 
     private initScales(): void {
-        this.x_scales = d3.map(this.x_scale_domains, domain => {
-            return d3.scaleLinear()
-                     .domain(domain)
-                     .range(this.x_scale_range);});
-        this.y_scale = d3.scaleBand()
-        .domain(ExampleLabels)
+      this.x_scale_domains = d3.map(this.data[0], datum => [datum.min, datum.max]);
+
+      this.x_scales = d3.map(this.x_scale_domains, domain => {
+        return d3.scaleLinear()
+          .domain(domain)
+          .range(this.x_scale_range);});
+      this.y_scale = d3.scaleBand()
+        .domain(this.data[1].keys())
         .range([0, this.height])
         .paddingOuter(0.5);
     }
 
-    private drawBoxes(): void {
-        // Show the main horizontal line
-        this.svg
+    private drawBoxes(data: BoxData[]): void {
+      // Show the main horizontal line
+      this.svg
         .selectAll("horizontalLines")
-        .data(this.inputData)
+        .data(data)
         .enter()
         .append("line")
             .attr("x1", (d, idx) => {return this.x_scales[idx](d.min);})
@@ -74,11 +80,11 @@ export class BoxComponent implements AfterViewInit {
             .attr("stroke", "black")
             .style("width", 40);
 
-        // Rectangle for the main box
-        const boxHeight = 50;
-        this.svg
+      // Rectangle for the main box
+      const boxHeight = 50;
+      this.svg
         .selectAll("boxes")
-        .data(this.inputData)
+        .data(data)
         .enter()
         .append("rect")
             .attr("x", (d, idx) => {return this.x_scales[idx](d.lower_quartile);})
@@ -88,10 +94,10 @@ export class BoxComponent implements AfterViewInit {
             .attr("stroke", "black")
             .style("fill", "#69b3a2");
 
-        // Show the median
-        this.svg
-        .selectAll("medianLines")
-        .data(this.inputData)
+      // Show the median
+      this.svg
+      .selectAll("medianLines")
+      .data(data)
         .enter()
         .append("line")
             .attr("x1", (d, idx) => {return this.x_scales[idx](d.median);})
@@ -101,17 +107,17 @@ export class BoxComponent implements AfterViewInit {
             .attr("stroke", "black")
             .style("width", 80);
 
-        // Left and right borders + text
-        // TODO: Change hardcoded values for offsets
-        const textVerticalOffset = 3;
-        const leftTextOffset = 20;
-        const rightTextOffset = 5;
-        const borderWidth = 1;
-        const selection = this.svg
+      // Left and right borders + text
+      // TODO: Change hardcoded values for offsets
+      const textVerticalOffset = 3;
+      const leftTextOffset = 20;
+      const rightTextOffset = 5;
+      const borderWidth = 1;
+      const selection = this.svg
         .selectAll("borderVisuals")
-        .data(this.inputData)
+        .data(data)
         .enter();
-        selection.append("rect") // Left border
+      selection.append("rect") // Left border
             .attr("x", this.x_scale_range[0] + borderWidth)
             .attr("y", (d) => {return this.y_scale(d.label)! - (boxHeight / 2);})
             .attr("height", boxHeight)
@@ -134,10 +140,10 @@ export class BoxComponent implements AfterViewInit {
             .attr("x", this.x_scale_range[1] + rightTextOffset)
             .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
 
-        // Category labels
-        this.svg
+      // Category labels
+      this.svg
         .selectAll("categoryLabels")
-        .data(this.inputData)
+        .data(data)
         .enter()
         .append("text")
             .text((d) => {return d.label;})
@@ -145,8 +151,10 @@ export class BoxComponent implements AfterViewInit {
             .attr("y", (d) => {return this.y_scale(d.label)! + textVerticalOffset;});
     }
 
-    private drawPoint(label: string, value: number): void {
-        const scaleIdx = this.inputData.findIndex(element => element.label == label);
+    private drawPoints(data: Map<string, number>): void {
+      data.forEach((value, label) => {
+
+        const scaleIdx = this.data[0].findIndex(element => element.label == label);
         const tooltip = new TooltipComponent();
 
         this.svg
@@ -162,5 +170,6 @@ export class BoxComponent implements AfterViewInit {
             .on("mouseout", () => {
                 tooltip.setHidden();
             });
+      });
     }
-}  
+}

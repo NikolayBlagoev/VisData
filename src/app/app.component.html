@@ -30,6 +30,19 @@
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
 
+  <div class="two-col-container">
+    <div>
+      <div #categoricalDataRadar></div>
+    </div>
+    <div>
+      <div #categoricalDataBox></div>
+    </div>
+  </div>
+
+  <div>
+    <div #likesOverTimeLine></div>
+  </div>
+
   <!-- ========== SINGLE GAME INFO ========== -->
   <!-- Header -->
   <mat-card class="game-card">
@@ -76,11 +89,18 @@
   </mat-card>
 
   <!-- First row -->
-  <div class="two-col-container">
-    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>
+<!--  <div class="two-col-container">-->
+<!--    <div>-->
+<!--      <div #categoricalDataRadar></div>-->
+<!--    </div>-->
+<!--    <div>-->
+<!--      <div #categoricalDataBox></div>-->
+<!--    </div>-->
 
-    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>
-  </div>
+<!--    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>-->
+
+<!--    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>-->
+<!--  </div>-->
 
   <!-- Second row -->
   <div class="two-col-container">
@@ -94,9 +114,9 @@
   </div>
 
   <!-- Third row -->
-  <div>
-    <div #likesOverTimeLine></div>
-  </div>
+<!--  <div>-->
+<!--    <div #likesOverTimeLine></div>-->
+<!--  </div>-->
 
   <!-- Fourth row -->
   <div>
@@ -147,9 +167,9 @@
   </div>
 
   <div class="three-col-container">
-    <app-radar instanceId="genreCategoricalDataRadar" class="first-col"></app-radar>
+<!--    <app-radar instanceId="genreCategoricalDataRadar" class="first-col"></app-radar>-->
 
-    <app-box instanceId="genreCategoricalDataBox" class="second-col"></app-box>
+<!--    <app-box instanceId="genreCategoricalDataBox" class="second-col"></app-box>-->
 
     <app-pie instanceId="genreCompletionPie" class="third-col"></app-pie>
   </div>
