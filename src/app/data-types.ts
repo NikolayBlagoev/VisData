@@ -46,8 +46,10 @@ export type GameEntry = KaggleGame & {
   consensus_genre: string;
   "Down 30 Days": number;
   "Like Histogram": HistogramData[];
-  "Meta Score": string;
+  "Meta Score": string | -1;
   "CCU Histogram": any[];
   Rating: string;
+  "User Score": number;
   "Up 30 Days": number;
 }
+

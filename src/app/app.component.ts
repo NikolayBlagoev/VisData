@@ -2,6 +2,8 @@ import {Component, OnInit, ViewChild, ViewContainerRef} from '@angular/core';
 import {FormControl} from "@angular/forms";
 import {map, Observable, startWith} from "rxjs";
 import initialGame from "../assets/initial_game.json";
+import { BarComponent } from './bar/bar.component';
+import { BarData } from './bar/barData';
 import {BoxComponent} from "./box/box.component";
 import {BoxData} from "./box/boxData";
 import {GameEntry, KaggleGame} from "./data-types";
@@ -39,6 +41,7 @@ export class AppComponent implements OnInit {
   @ViewChild("gameCompletionDonut", {read: ViewContainerRef}) gameCompletionDonutContainer!: ViewContainerRef;
   @ViewChild("likesOverTimeLine", {read: ViewContainerRef}) likesOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
+  @ViewChild("gameReviews", {read: ViewContainerRef}) gameReviewContainer!: ViewContainerRef;
 
   constructor(private fetchService: FetchService) {}
 
@@ -107,6 +110,26 @@ export class AppComponent implements OnInit {
       "Average Playtime": 0,
       "Owners": ownerMap[entry.owners]
     };
+
+    this.gameReviewContainer.clear();
+    
+    const review_data: BarData[] = [];
+    review_data.push({"Name": "Steam", "Value": entry.positive / (entry.positive + entry.negative) * 100});
+    if(entry["Meta Score"]!=-1) review_data.push({"Name": "Meta Critic", "Value": parseInt(entry["Meta Score"])});
+    if(entry["User Score"]!=-1) review_data.push({"Name": "User Scores", "Value": entry["User Score"]*10});
+    
+    if (review_data.length > 1){
+      const gameReview = this.gameReviewContainer.createComponent(BarComponent);
+      gameReview.instance.data = review_data;
+      gameReview.instance.max_val = 100;
+      gameReview.instance.height = 300;
+    }else{
+      const gameRevieDonut = this.gameReviewContainer.createComponent(DonutComponent);
+      gameRevieDonut.instance.data = [{"value": review_data[0].Value, "name": "completed"}, {"value": 100-review_data[0].Value, "name": "not"}];
+      gameRevieDonut.instance.displayText = review_data[0].Value.toFixed(1)+"%";
+      gameRevieDonut.instance.pos_val = review_data[0].Value;
+      
+    }
     this.gameCompletionDonutContainer.clear();
     const gameComplDonut = this.gameCompletionDonutContainer.createComponent(DonutComponent);
     if(entry.Completion == -1){

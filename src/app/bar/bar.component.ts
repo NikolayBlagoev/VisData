@@ -1,5 +1,6 @@
 import { Component, AfterViewInit, Input } from '@angular/core';
 import * as d3 from 'd3';
+import { IdService } from '../id.service';
 import { TooltipComponent } from "../tooltip/tooltip.component";
 import { BarData } from './barData';
 
@@ -10,7 +11,7 @@ import { BarData } from './barData';
 })
 export class BarComponent implements AfterViewInit {
 
-  private data = [
+  @Input() data: BarData[] = [
     { "Name": "Action", "Value": 23759 },
     { "Name": "Adventure", "Value": 21431 },
     { "Name": "Indie", "Value": 39681 },
@@ -43,13 +44,17 @@ export class BarComponent implements AfterViewInit {
   ];
 
   @Input() instanceId!: string;
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
   private svg;
 
   // Drawing parameters
   @Input() horizontalMargin     = 40;
-  @Input() verticalMargin       = 40;
+  @Input() verticalMargin       = 60;
   @Input() width                = 600;
   @Input() height               = 400;
+  @Input() max_val              = -1;
   readonly barColor             = "#2196F3";
   readonly gameBarColor         = "#673AB7";
   readonly highlightedBarColor  = "#F44336";
@@ -75,12 +80,12 @@ export class BarComponent implements AfterViewInit {
       .attr("width", this.width + (this.horizontalMargin * 2))
       .attr("height", this.height + (this.verticalMargin * 2))
       .append("g")
-      .attr("transform", `translate(${this.horizontalMargin}, 0)`).style("user-select", "none");
+      .attr("transform", `translate(${this.horizontalMargin}, 30)`).style("user-select", "none");
   }
 
   private drawBars(data: BarData[], highlighted: string[]): void {
     data.sort((e1, e2) => e2.Value - e1.Value);
-    const max_el = data.reduce((acc, e1) => acc = acc > e1.Value ? acc : e1.Value, -1000);
+    const max_el = this.max_val == -1 ? data.reduce((acc, e1) => acc = acc > e1.Value ? acc : e1.Value, -1000) : this.max_val;
     data = data.filter((el) => el.Value > max_el / 200);
 
     // Create the X-axis band scale

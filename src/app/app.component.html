@@ -150,15 +150,17 @@
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Reviews</h2>
         <mat-icon (mouseenter)="onEnterGameReviews()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
-
+      <div>
+        <div #gameReviews class="vis-component"></div>
+      </div>
 <!--      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie"-->
 <!--               [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300>-->
 <!--      </app-bar>-->
-
+<!-- 
       <ng-template #steamReviewsPie>
         
         <app-pie instanceId="steamReviewsPie"></app-pie>
-      </ng-template>
+      </ng-template> -->
     </mat-card>
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
