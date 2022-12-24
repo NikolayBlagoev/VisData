@@ -194,7 +194,10 @@
   width: 80%;
   max-width: 80%;
   margin-block-end: 1%;">
-    <h1 style="text-align: center;">All Games</h1>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <h1 style="text-align: center; margin-inline-end: 0.5%;">All Steam Games</h1>
+      <mat-icon (mouseenter)="ttText.onEnterAllGamesTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
+    </div> 
   </div>
 
   <!-- Numeric data correlation -->
@@ -237,7 +240,17 @@
 
   <!-- ========== GENRE INFO ========== -->
   <mat-divider></mat-divider>
-  <h1 style="text-align: center;">Genre-specific</h1>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <h1 style="text-align: center; margin-inline-end: 0.5%;">Genre Information</h1>
+      <mat-icon (mouseenter)="ttText.onEnterGenreTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
+    </div> 
+  </div>
 
   <!-- Genre selector -->
   <div style="height: 20px"></div>
@@ -261,10 +274,10 @@
   margin-block-end: 1%;
   ">
     <mat-card>
-        <div>
-          <h2 style="margin-inline-start: 5%;">Genre Releases Timeline</h2>
-<!--          <app-line instanceId="gameReleaseLine"></app-line>-->
-        </div>
+      <div style="display: flex; flex-direction: row;">
+        <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Release Timeline</h2>
+        <mat-icon (mouseenter)="ttText.onEnterGenreReleaseTimeline()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+      </div>
     </mat-card>
   </div>
 
@@ -277,9 +290,11 @@
   margin-block-end: 1%;
   ">
     <mat-card>
+      <div style="display: flex; flex-direction: row;">
+        <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Popularity Metrics and Price Brackets</h2>
+        <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+      </div>
       <div mat-card class="three-col-container vis-parent">
-        <h2 style="margin-inline-start: 15%;">Genre Data</h2>
-
         <div class="col">
 <!--          <app-radar instanceId="genreCategoricalDataRadar" class="vis-component"-->
 <!--                      [centerVerticalOffset]=150 [centerHorizontalOffset]=200 [width]=400 [height]=300 [margin]=0-->
@@ -293,7 +308,6 @@
 <!--                    [scaleTextSize]=11 [labelTextSize]=18>-->
 <!--          </app-box>-->
         </div>
-
         <div class="col">
           <app-pie instanceId="genreCompletionPie" class="vis-component" [height]=400 [horizontalMargin]=500 [legendHorizontalOffset]=300></app-pie>
         </div>
@@ -311,7 +325,10 @@
   ">
     <mat-card>
       <div>
-        <h2 style="margin-inline-start: 5%;">Genre CCU Timeline</h2>
+        <div style="display: flex; flex-direction: row;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">CCU Timeline</h2>
+          <mat-icon (mouseenter)="ttText.onEnterCcuTimeline()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
 <!--        <app-line instanceId="genreCcuLine"></app-line>-->
       </div>
     </mat-card>

@@ -54,8 +54,7 @@ export function onEnterNumericData() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "650px");
-    t.setText("Shows two pieces of numeric data plotted against each other for all Steam games. " + 
-              "The bin containing the currently selected game is highlighted. " + 
+    t.setText("Shows two pieces of numeric data plotted against each other for all Steam games. " +
               "The 'Owners' metric maps a range of values for owners as follows:\r\n" +
                ownerScaleText);
 }
@@ -68,14 +67,43 @@ export function onEnterPriceBrackets() {
 }
 
 export function onEnterPopularityMetrics(){
+    // TODO: Specify which colour is the game and which colour
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "650px");
     t.setText("Shows information about likes, playtime, and number of owners. " +
-              "The radar chart on the left has axes normalised to the range [1,10] and shows values for the selected game and the Steam-wide average. " +
+              "The radar chart on the left has axes normalised to the range [1,10] and shows values for the selected game (blue) and the Steam-wide average (purple). " +
               "The box plot on the right displays raw values and highlights the selected game. " +
               "The 'Owners' metric maps a range of values for owners as follows:\r\n" +
                ownerScaleText);
+}
+
+export function onEnterAllGamesTitle(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width", "400px");
+    t.setText("Aggreggate information about all Steam games. Each visualisation highlights where the selected game lies within the data.");
+}
+
+export function onEnterGenreTitle(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width", "400px");
+    t.setText("Aggreggate information about the genres that the selected game falls under. Each visualisation highlights where the selected game lies within the data.");
+}
+
+export function onEnterGenreReleaseTimeline(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width", "400px");
+    t.setText("Number of released games released for this genre over time. The selected game is highlighted");
+}
+
+export function onEnterCcuTimeline(){
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width", "400px");
+    t.setText("Peak concurrent users (CCU) over time. The genre-wide average is plotted in blue while the selected game is plotted in purple");
 }
 
 export function onLeaveSectionInfo() {
