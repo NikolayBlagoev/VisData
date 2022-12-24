@@ -1,8 +1,9 @@
 import {AfterViewInit, Component, Input} from '@angular/core';
 import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
-import { PieData } from './pieData';
-import { TooltipComponent } from "../tooltip/tooltip.component";
+import {IdService} from "../id.service";
+import {TooltipComponent} from "../tooltip/tooltip.component";
+import {PieData} from './pieData';
 
 @Component({
   selector: 'app-pie',
@@ -12,25 +13,38 @@ import { TooltipComponent } from "../tooltip/tooltip.component";
 
 export class PieComponent implements AfterViewInit {
 
-  @Input() data: PieData[] | undefined;
-  @Input() instanceId!: string;
+  @Input() data!: PieData[];
+  instanceId: string;
 
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
 
   ngAfterViewInit(): void {
     if (this.data == undefined) {
       this.data = [
-        {name: "Alex", ratio: 4534},
-        {name: "Shelly", ratio: 7985},
-        {name: "Clark", ratio: 500},
-        {name: "Matt", ratio: 4321},
-        {name: "Jolene", ratio: 500}
+        {name: "Alex", ratio: Math.random()},
+        {name: "Shelly", ratio: Math.random()},
+        {name: "Clark", ratio: Math.random()},
+        {name: "Matt", ratio: Math.random()},
+        {name: "Jolene", ratio: Math.random()}
       ];
     }
+    this.drawPie();
+  }
 
+  @Input() width  = 500;
+  @Input() height = 500;
+
+  // Margining parameters
+  @Input() horizontalMargin       = 600;
+  @Input() verticalMargin         = 300;
+  @Input() legendHorizontalOffset = 250;
+  @Input() legendVerticalOffset   = 20;
+
+  drawPie(): void {
     let sum = 0;
-    for (const datum of this.data) {
-      sum += datum.ratio;
-    }
+    for (const datum of this.data) { sum += datum.ratio; }
 
     this.data.map((x) => {
       let newRatio = x.ratio / sum;
@@ -46,7 +60,7 @@ export class PieComponent implements AfterViewInit {
     const svg = d3.select("svg." + this.instanceId);
 
     const arcGroup = svg.append("g")
-      .attr("transform", "translate(150,200)");
+      .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
 
     const pie = d3.pie<PieData>()
       .sort(null)
@@ -59,7 +73,6 @@ export class PieComponent implements AfterViewInit {
     const arcs = arcGroup.selectAll("arc")
       .data(pie(this.data))
       .enter()
-
       .append("g")
       .attr("class", "arc");
 
@@ -82,8 +95,7 @@ export class PieComponent implements AfterViewInit {
 
     const tooltip = new TooltipComponent();
 
-    arcs
-      .on("mouseenter", function (event, d) {
+    arcs.on("mouseenter", function (event, d) {
         tooltip.setVisible();
         tooltip.setText(d.data.name);
 
@@ -102,12 +114,11 @@ export class PieComponent implements AfterViewInit {
       });
 
     const legendGroup = svg.append("g")
-      .attr("transform", "translate(200,20)");
+      .attr("transform", `translate(${this.legendHorizontalOffset}, ${this.legendVerticalOffset})`);
 
     legendGroup.selectAll("labelSquare")
       .data(this.data)
       .enter()
-
       .append("rect")
       .attr("y", (d, i) => i * 15)
       .attr("width", 10)
@@ -117,7 +128,6 @@ export class PieComponent implements AfterViewInit {
     legendGroup.selectAll("labelName")
       .data(this.data)
       .enter()
-
       .append("text")
       .attr("x", 15)
       .attr("y", (d, i) => i * 15 + 9.5)

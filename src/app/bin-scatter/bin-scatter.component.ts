@@ -13,8 +13,8 @@ import exampleData from "./example-data.json";
 
 export class BinScatterComponent implements AfterViewInit {
     @Input() instanceId!: string;
-    @Input() totalWidth     = 1300;
-    @Input() totalHeight    = 450;
+    @Input() totalWidth     = 1225;
+    @Input() totalHeight    = 400;
     @Input() currentAppId   = 10;
     @Input() binRadius      = 3; // Controls radius of each hexagon, i.e. bin granularity
 
@@ -29,9 +29,9 @@ export class BinScatterComponent implements AfterViewInit {
     private svg;
 
     // Set the dimensions and margins of the graph
-    private margin = {top: 50, right: 350, bottom: 100, left: 50};
-    private width = this.totalWidth - this.margin.left - this.margin.right;
-    private height = this.totalHeight - this.margin.top - this.margin.bottom;
+    private margin  = {top: 20, right: 350, bottom: 50, left: 20};
+    private width!: number;
+    private height!: number;
 
     // Scale objects for access by several methods
     private xScale;
@@ -39,15 +39,17 @@ export class BinScatterComponent implements AfterViewInit {
     private densityScale;
 
     // Parameters for the colour-to-density scale
-    private colourPalette = d3.interpolateReds;
-    private colourScaleWidth = 75;
-    private colourScaleHeight = 300;
-    private colourScaleHorizontalOffset = 125;
-    private colourScaleVerticalOffset = 50;
-    private colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
+    readonly colourPalette = d3.interpolatePuBu;
+    readonly colourScaleWidth = 75;
+    readonly colourScaleHeight = 250;
+    readonly colourScaleHorizontalOffset = 100;
+    readonly colourScaleVerticalOffset = 20;
+    readonly colourScaleSlices = 100; // Must cleanly divide colourScaleHeight
         
 
     ngAfterViewInit(): void {
+        this.width   = this.totalWidth - this.margin.left - this.margin.right;
+        this.height  = this.totalHeight - this.margin.top - this.margin.bottom;
         this.createSvg();
         this.constructGraph();
     }

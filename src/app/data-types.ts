@@ -1,3 +1,20 @@
+export type GamePlatforms = {
+  linux: boolean;
+  mac: boolean;
+  windows: boolean;
+}
+
+export type HistogramData = {
+  date: number,
+  recommendations_up: number,
+  recommendations_down: number
+}
+
+export type Achievement = {
+  name: string;
+  percent: number;
+}
+
 export type KaggleGame = {
   appid: number;
   categories: string[];
@@ -22,8 +39,12 @@ export type KaggleGame = {
   type: string;
 }
 
-export type GamePlatforms = {
-  linux: boolean;
-  mac: boolean;
-  windows: boolean;
+export type GameEntry = KaggleGame & {
+  Completion: number;
+  consensus_genre: string;
+  "Down 30 Days": number;
+  "Like Histogram": HistogramData[];
+  "Meta Score": string;
+  Rating: string;
+  "Up 30 Days": number;
 }
