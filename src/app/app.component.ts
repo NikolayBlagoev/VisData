@@ -8,6 +8,7 @@ import {GameEntry, KaggleGame} from "./data-types";
 import { DonutComponent } from './donut/donut.component';
 import {FetchService} from "./fetch.service";
 import {LineComponent} from "./line/line.component";
+import { LineData } from './line/lineData';
 import { PieComponent } from './pie/pie.component';
 import {RadarComponent} from "./radar/radar.component";
 import {TooltipComponent} from './tooltip/tooltip.component';
@@ -186,8 +187,18 @@ export class AppComponent implements OnInit {
 
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
-    likesOverTimeLineComp.instance.data = [entry["Like Histogram"], startingLikes];
+    likesOverTimeLineComp.instance.data = [likesOverTimeLineComp.instance.fix_data(entry["Like Histogram"]), startingLikes];
     likesOverTimeLineComp.instance.width = 1450;
+    // console.log(entry);
+    const ccu_histogram: LineData[] = []
+    for(let el in entry["CCU Histogram"]){
+      ccu_histogram.push({"date": new Date(el), "value": entry["CCU Histogram"][el]})
+    }
+    this.ccuOverTimeLineContainer.clear();
+    const ccuOverTimeLineComp = this.ccuOverTimeLineContainer.createComponent(LineComponent);
+    ccuOverTimeLineComp.instance.data = [ccu_histogram, 0];
+    ccuOverTimeLineComp.instance.width = 1450;
+    ccuOverTimeLineComp.instance.dataLabel = "Players";
   }
 
   onEnterGameReviews() {

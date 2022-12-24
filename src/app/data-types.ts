@@ -1,3 +1,5 @@
+import { LineData } from "./line/lineData";
+
 export type GamePlatforms = {
   linux: boolean;
   mac: boolean;
@@ -45,6 +47,7 @@ export type GameEntry = KaggleGame & {
   "Down 30 Days": number;
   "Like Histogram": HistogramData[];
   "Meta Score": string;
+  "CCU Histogram": any[];
   Rating: string;
   "Up 30 Days": number;
 }

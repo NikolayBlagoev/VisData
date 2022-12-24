@@ -193,6 +193,25 @@
     </mat-card>
   </div>
 
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Daily Peak Concurrent Players</h2>
+          <mat-icon (mouseenter)="onEnterCCU30Days()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
+        <div>
+          <div #ccuOverTimeLine></div>
+        </div>
+      </div>
+    </mat-card>
+  </div>
   <!-- Fourth row -->
 <!--  <div style="position: relative;-->
 <!--  margin-inline-start: auto;-->
