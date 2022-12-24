@@ -12,8 +12,8 @@ export class LineComponent implements AfterViewInit {
 
   @Input() instanceId!: string;
   private svg;
-  @Input() height: number  = 500;
-  @Input() width: number = 900;
+  @Input() height  = 500;
+  @Input() width = 900;
   private margin = 120;
   private h = 500;
   private w = 900;

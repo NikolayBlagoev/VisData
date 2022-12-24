@@ -91,7 +91,7 @@ export class BoxComponent implements AfterViewInit {
             .attr("x2", (d, idx) => {return this.x_scales[idx](d.max);})
             .attr("y1", (d) => {return this.y_scale(d.label);})
             .attr("y2", (d) => {return this.y_scale(d.label);})
-            .classed("main-line", true)
+            .classed("main-line", true);
 
         // Rectangle for the main box
         this.svg

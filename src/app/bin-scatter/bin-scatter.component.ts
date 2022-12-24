@@ -39,7 +39,7 @@ export class BinScatterComponent implements AfterViewInit {
     private densityScale;
 
     // Parameters for the colour-to-density scale
-    private colourPalette = d3.interpolateReds;
+    private colourPalette = d3.interpolatePuBu;
     private colourScaleWidth = 75;
     private colourScaleHeight = 300;
     private colourScaleHorizontalOffset = 125;

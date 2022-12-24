@@ -46,7 +46,8 @@ export class BarComponent implements AfterViewInit {
   private svg;
 
   // Drawing parameters
-  @Input() margin               = 80;
+  @Input() horizontalMargin     = 40;
+  @Input() verticalMargin       = 40;
   @Input() width                = 600;
   @Input() height               = 400;
   readonly barColor             = "#2196F3";
@@ -60,8 +61,8 @@ export class BarComponent implements AfterViewInit {
   }
 
   ngAfterViewInit(): void {
-    this.width = this.width - (this.margin * 2);
-    this.height = this.height - (this.margin * 2);
+    this.width = this.width - (this.horizontalMargin * 2);
+    this.height = this.height - (this.verticalMargin * 2);
     this.createSvg();
     this.drawBars(this.data, ["Indie", "Strategy"]);
   }
@@ -69,11 +70,11 @@ export class BarComponent implements AfterViewInit {
   private createSvg(): void {
     this.svg = d3.select("figure#" + this.instanceId)
       .append("svg")
-      .attr("width", this.width + (this.margin * 2))
-      .attr("height", this.height + (this.margin * 2))
-      .attr("transform", `translate(${-this.margin / 2}, 0)`).style("user-select", "none")
+      .attr("width", this.width + (this.horizontalMargin * 2))
+      .attr("height", this.height + (this.verticalMargin * 2))
+      .attr("transform", `translate(${-this.horizontalMargin / 2}, 0)`).style("user-select", "none")
       .append("g")
-      .attr("transform", `translate(${this.margin}, 0)`).style("user-select", "none");
+      .attr("transform", `translate(${this.horizontalMargin}, 0)`).style("user-select", "none");
   }
 
   private drawBars(data: BarData[], highlighted: string[]): void {

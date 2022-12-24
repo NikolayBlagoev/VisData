@@ -91,7 +91,7 @@ export class AppComponent implements OnInit {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
-    t.setText("Shows the number of games made per genre (limited to genres above certain threshold). Highlighted are the genres of the selected game NOTE: A game can be in multiple genres");
+    t.setText("Shows the number of games made per genre (limited to genres above a certain threshold). Highlighted are the genres of the selected game\r\nNOTE: A game can be in multiple genres");
   }
 
   onEnterCCU30Days(){
@@ -105,7 +105,7 @@ export class AppComponent implements OnInit {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
-    t.setText("Shows expected percentage of total players who have completed the game");
+    t.setText("Shows the heuristically determined percentage of total players who have completed the game");
   }
 
   onLeaveGameReviews(){

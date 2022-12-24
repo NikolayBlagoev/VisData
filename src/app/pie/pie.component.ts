@@ -15,14 +15,14 @@ export class PieComponent implements AfterViewInit {
   @Input() data: PieData[] | undefined;
   @Input() instanceId!: string;
 
-  @Input() width: number  = 350;
-  @Input() height: number = 350;
+  @Input() width  = 350;
+  @Input() height = 350;
 
   // Margining parameters
-  @Input() horizontalMargin: number       = 400;
-  @Input() verticalMargin: number         = 400;
-  @Input() legendHorizontalOffset: number = 250;
-  @Input() legendVerticalOffset: number   = 20;
+  @Input() horizontalMargin       = 400;
+  @Input() verticalMargin         = 400;
+  @Input() legendHorizontalOffset = 250;
+  @Input() legendVerticalOffset   = 20;
 
 
   ngAfterViewInit(): void {

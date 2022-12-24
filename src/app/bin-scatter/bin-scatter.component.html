@@ -2,7 +2,7 @@
 <div class="two-col-container vis-parent">
     <div class="first-col">
         <div style="margin: auto; width: 50%; text-align: center;">
-            <mat-form-field appearance="fill" color="primary">
+            <mat-form-field appearance="fill" color="accent">
             <mat-label>X Axis</mat-label>
             <mat-select [(value)]="currentXAxis" (selectionChange)="onXChange($event.value)" placeholder="Mode">
                 <mat-option *ngFor="let numericData of availableNumerics" [value]="numericData">{{numericData}}</mat-option>
@@ -13,7 +13,7 @@
     </div>
     <div class="second-col">
       <div style="margin: auto; width: 50%; text-align: center;">
-        <mat-form-field appearance="fill" color="primary">
+        <mat-form-field appearance="fill" color="accent">
         <mat-label>Y Axis</mat-label>
         <mat-select [(value)]="currentYAxis" (selectionChange)="onYChange($event.value)" placeholder="Mode">
             <mat-option *ngFor="let numericData of availableNumerics" [value]="numericData">{{numericData}}</mat-option>

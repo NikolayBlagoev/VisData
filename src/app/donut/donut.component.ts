@@ -10,19 +10,19 @@ import { DonutData } from './donutData';
 })
 export class DonutComponent implements AfterViewInit {
   @Input() data: Array<DonutData> = [{"value": 80, "name": "completed"}, {"value": 20, "name": "not"}];
-  @Input() displayText: string = "80%";
+  @Input() displayText = "80%";
   @Input() instanceId!: string;
 
   private svg;
-  @Input() horizontalMargin: number = 20;
-  @Input() verticalMargin: number   = 20;
-  @Input() width: number            = 300;
-  @Input() height: number           = 300;
+  @Input() horizontalMargin = 20;
+  @Input() verticalMargin   = 20;
+  @Input() width            = 525;
+  @Input() height           = 300;
 
   // Drawing parameters
-  @Input() radius: number         = 150;
-  @Input() fontSize: number       = 72;
-  @Input() ringThickness: number  = 25;
+  @Input() radius         = 150;
+  @Input() fontSize       = 72;
+  @Input() ringThickness  = 30;
 
   readonly positiveColor = "#2196F3";
   readonly negativeColor = "#9C27B0";
@@ -51,7 +51,7 @@ export class DonutComponent implements AfterViewInit {
                   .domain(this.data.map(elem => elem.name))
                   .range([this.positiveColor, this.negativeColor]);
     
-    const pie   = d3.pie()
+    const pie   = d3.pie();
     const data  = pie(this.data.map(elem => elem.value));
 
     this.svg.append("g")
@@ -65,15 +65,13 @@ export class DonutComponent implements AfterViewInit {
               .outerRadius(this.radius)
             )
             .attr('fill', (d) => color(d))
-            .style("stroke-width", "0px")
-            .style("opacity", 0.7);
+            .classed('donut-arc', true);
     
     this.svg.append("text")
             .attr("x", this.width/2)
             .attr("y", this.height/2)
-            .attr("text-anchor", "middle")
-            .attr("dominant-baseline", "central") 
             .attr("font-size", this.fontSize + "px")
-            .text(this.displayText);           
+            .text(this.displayText)
+            .classed("donut-text", true);           
   }
 }
