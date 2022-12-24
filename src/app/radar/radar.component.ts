@@ -76,7 +76,7 @@ export class RadarComponent implements AfterViewInit {
         const y = Math.sin(angle) * rscale(value);
         return {"x": this.centerHorizontalOffset + x, "y": this.centerVerticalOffset - y,
                 "name": name, "val": attr_value};
-      };
+    };
     const shape_maker = (d) => {
         const coordinates: any = [];
         for (let i = 0; i <= features.length; i++){
@@ -137,7 +137,12 @@ export class RadarComponent implements AfterViewInit {
         .attr("d",line)
         .attr("fill", fillColor)
         .classed("interior-fill", true);
+    });
 
+    data.forEach((d,i) => {
+      const coordinates = shape_maker(d);
+      
+      const pointColor  = this.pointColors[i % this.pointColors.length];
       this.svg.selectAll("dot")
         .data(coordinates).enter()
         .append("circle")
@@ -154,7 +159,7 @@ export class RadarComponent implements AfterViewInit {
 
 
         });
-    });
+    })
   }
 
 }
