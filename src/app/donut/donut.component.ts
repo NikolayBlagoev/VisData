@@ -21,7 +21,7 @@ export class DonutComponent implements AfterViewInit {
 
   // Drawing parameters
   @Input() radius         = 150;
-  @Input() fontSize       = 72;
+  @Input() fontSize       = 80;
   @Input() ringThickness  = 30;
 
   readonly positiveColor = "#2196F3";

@@ -73,46 +73,60 @@ export class AppComponent implements OnInit {
     );
   }
   
-  onEnterGameReviews(){
+  onEnterGameReviews() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
     t.setText("Shows positive reviews as percentage of total reviews for Steam user scores, Metacritic critic scores, and Metacritic user scores");
   }
 
-  onEnterLikes30Days(){
+  onEnterLikes30Days() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
     t.setText("Shows ????");
   }
 
-  onEnterGenreCount(){
+  onEnterGenreCount() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
     t.setText("Shows the number of games made per genre (limited to genres above a certain threshold). Highlighted are the genres of the selected game\r\nNOTE: A game can be in multiple genres");
   }
 
-  onEnterCCU30Days(){
+  onEnterCCU30Days() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
     t.setText("Shows peak active players for each day for the given time period");
   }
 
-  onEnterGameCompletion(){
+  onEnterGameCompletion() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width","400px");
     t.setText("Shows the heuristically determined percentage of total players who have completed the game");
   }
 
-  onLeaveGameReviews(){
+  onEnterNumericData() {
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows two selected pieces of numeric data plotted against each other. Used for finding correlations between quantities");
+  }
+
+  onEnterPriceBrackets() {
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width","400px");
+    t.setText("Shows the price distribution of games on Steam");
+  }
+
+  onLeaveSectionInfo(){
     const t = new TooltipComponent();
     t.setHidden();
-
   }
+
   private _filter(value: string): KaggleGame[] {
     // noinspection SuspiciousTypeOfGuard
     if (typeof value !== "string") {

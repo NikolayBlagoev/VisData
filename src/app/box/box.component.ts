@@ -118,7 +118,6 @@ export class BoxComponent implements AfterViewInit {
             .classed("median-line", true);
 
         // Left and right borders + text
-        // TODO: Change hardcoded values for offsets
         const selection = this.svg
         .selectAll("borderVisuals")
         .data(this.inputData)

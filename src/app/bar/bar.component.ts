@@ -53,6 +53,8 @@ export class BarComponent implements AfterViewInit {
   readonly barColor             = "#2196F3";
   readonly gameBarColor         = "#673AB7";
   readonly highlightedBarColor  = "#F44336";
+  readonly strokeColor          = "#303030";
+  readonly strokeWidth          = 2;
 
 
   public make_with_data(data: BarData[], highlighted: string[]) {
@@ -72,7 +74,6 @@ export class BarComponent implements AfterViewInit {
       .append("svg")
       .attr("width", this.width + (this.horizontalMargin * 2))
       .attr("height", this.height + (this.verticalMargin * 2))
-      .attr("transform", `translate(${-this.horizontalMargin / 2}, 0)`).style("user-select", "none")
       .append("g")
       .attr("transform", `translate(${this.horizontalMargin}, 0)`).style("user-select", "none");
   }
@@ -124,23 +125,22 @@ export class BarComponent implements AfterViewInit {
       .attr("x", d => x(d.Name))
       .attr("y", d => y(d.Value))
       .attr("width", x.bandwidth())
-      .attr("height", d => this.height - y(d.Value))
+      .attr("height", d => this.height - y(d.Value) - this.strokeWidth)
+      .attr("stroke", this.strokeColor)
+      .attr("stroke-width", this.strokeWidth)
       .attr("fill", function (d) {
         if (highlighted.includes(d.Name)) { return gameBarColor; }
         else { return barColor; }
-      }).on("mouseover", (e, d) => {
+      })
+      .on("mouseover", (e, d) => {
         tooltip.setText(`Value: ${d.Value}`)
                .setVisible();
         d3.select(e.target).attr("fill", highlightedBarColor);
       })
       .on("mouseout", (e, d) => {
         tooltip.setHidden();
-
-        if (highlighted.includes(d.Name)) {
-          d3.select(e.target).attr("fill", gameBarColor);
-        } else {
-          d3.select(e.target).attr("fill", barColor);
-        }
+        if (highlighted.includes(d.Name)) { d3.select(e.target).attr("fill", gameBarColor); }
+        else { d3.select(e.target).attr("fill", barColor); }
       });
   }
 }
