@@ -15,7 +15,7 @@ export class LineComponent implements AfterViewInit {
 
   instanceId!: string;
   @Input() data!: [LineData[], number];
-  @Input() max_render: number = -1;
+  @Input() max_render = -1;
   private svg;
 
   constructor(private idService: IdService) {
@@ -54,8 +54,6 @@ export class LineComponent implements AfterViewInit {
       in_data = in_data.slice(1);
     }
 
-    // let currentValue = initialLikes;
-
     // Map histogram to proper data
     const data: LineData[] = in_data.map((el) => {
       // currentValue = currentValue + el.recommendations_up - el.recommendations_down;
@@ -63,7 +61,6 @@ export class LineComponent implements AfterViewInit {
       const down = el.recommendations_down;
       const total = Math.max(1, up + down);
       const currentValue = (up / total) * 100;
-
       return {
         "date": new Date(el.date * 1000),
         "value": currentValue
@@ -78,17 +75,17 @@ export class LineComponent implements AfterViewInit {
     }else{
       yRange = [0,
         data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
-  
+
     }
     // const yRange = [data.reduce((acc, e1) => acc < e1.value ? acc: e1.value, Number.MAX_SAFE_INTEGER),
     //   data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
 
-   
+
 
     // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
     const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
-    
+
     const x = d3.scaleTime()
       .range([0, this.width])
       .domain([min_el, max_el]);

@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, Input} from '@angular/core';
+import {AfterViewInit, Component, Input, ViewEncapsulation} from '@angular/core';
 import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
 import {IdService} from "../id.service";
@@ -8,17 +8,14 @@ import {PieData} from './pieData';
 @Component({
   selector: 'app-pie',
   templateUrl: './pie.component.html',
-  styleUrls: ['./pie.component.sass']
+  styleUrls: ['./pie.component.sass'],
+  encapsulation: ViewEncapsulation.None
 })
 
 export class PieComponent implements AfterViewInit {
-
   @Input() data!: PieData[];
   instanceId: string;
-
-  constructor(private idService: IdService) {
-    this.instanceId = idService.generateId();
-  }
+  constructor(private idService: IdService) { this.instanceId = idService.generateId(); }
 
   ngAfterViewInit(): void {
     if (this.data == undefined) {
@@ -33,14 +30,23 @@ export class PieComponent implements AfterViewInit {
     this.drawPie();
   }
 
-  @Input() width  = 500;
-  @Input() height = 500;
+  @Input() width  = 600;
+  @Input() height = 400;
 
   // Margining parameters
-  @Input() horizontalMargin       = 600;
-  @Input() verticalMargin         = 300;
+  @Input() horizontalOffset       = 250;
+  @Input() verticalOffset         = 200;
   @Input() legendHorizontalOffset = 250;
-  @Input() legendVerticalOffset   = 20;
+  @Input() legendVerticalOffset   = 0;
+
+  // Drawing parameters
+  @Input() radius: number                 = 140;
+  @Input() labelRadius: number            = 160;
+  @Input() labelFontSize: number          = 20;
+  @Input() legendSquareSize: number       = 25;
+  @Input() legendFontSize: number         = 16;
+  @Input() legendTextHorizontalOffset: number = 30;
+  @Input() legendTextVerticalOffset: number   = 20;
 
   drawPie(): void {
     let sum = 0;
@@ -55,12 +61,12 @@ export class PieComponent implements AfterViewInit {
 
     const color = d3.scaleOrdinal()
       .domain((d3.extent(this.data, (d) => d.name) as unknown) as string)
-      .range(d3.schemeCategory10);
+      .range(d3.schemePuOr[10]);
 
     const svg = d3.select("svg." + this.instanceId);
 
     const arcGroup = svg.append("g")
-      .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
+      .attr("transform", `translate(${this.horizontalOffset}, ${this.verticalOffset})`);
 
     const pie = d3.pie<PieData>()
       .sort(null)
@@ -68,29 +74,34 @@ export class PieComponent implements AfterViewInit {
 
     const path = d3.arc<PieArcDatum<PieData>>()
       .innerRadius(0)
-      .outerRadius(85);
+      .outerRadius(this.radius);
 
     const arcs = arcGroup.selectAll("arc")
       .data(pie(this.data))
       .enter()
       .append("g")
-      .attr("class", "arc");
 
     arcs.append("path")
       .attr("fill", (d) => color(d.data.name) as string)
-      .attr("d", path);
+      .attr("d", path)
+      .classed("pie-slice", true);
 
+    const labelRadius = this.labelRadius
     arcs.append("text")
-      .text((d) => d.data.ratio)
+      .text((d) => `${d.data.ratio}%`)
+      .attr("font-size", `${this.labelFontSize}px`)
+      .attr("font-weight", 600)
       .attr("transform", function (d) {
-        const translation = path.centroid(d);
-        if (d.data.ratio < 5) {
-          translation[0] *= 2.3;
-          translation[1] *= 2.3;
-        }
-        translation[0] -= this.getBBox().width / 2;
-        translation[1] += 5;
-        return `translate(${translation})`;
+        // Pythagorean theorem for hypotenuse
+        const c = path.centroid(d);
+        const x = c[0];
+        const y = c[1];
+        const h = Math.sqrt((x * x) + (y * y));
+        return `translate(${(x / h) * labelRadius}, ${(y / h) * labelRadius})`; 
+      })
+      .attr("text-anchor", function(d) {
+        // Are we past the center?
+        return (d.endAngle + d.startAngle) / 2 > Math.PI ? "end" : "start";
       });
 
     const tooltip = new TooltipComponent();
@@ -114,23 +125,25 @@ export class PieComponent implements AfterViewInit {
       });
 
     const legendGroup = svg.append("g")
-      .attr("transform", `translate(${this.legendHorizontalOffset}, ${this.legendVerticalOffset})`);
+      .attr("transform", `translate(${this.horizontalOffset + this.legendHorizontalOffset}, ${this.legendVerticalOffset})`);
 
     legendGroup.selectAll("labelSquare")
       .data(this.data)
       .enter()
       .append("rect")
-      .attr("y", (d, i) => i * 15)
-      .attr("width", 10)
-      .attr("height", 10)
-      .attr("fill", (d) => color(d.name) as string);
+      .attr("y", (d, i) => i * this.legendSquareSize)
+      .attr("width", this.legendSquareSize)
+      .attr("height", this.legendSquareSize)
+      .attr("fill", (d) => color(d.name) as string)
+      .classed("pie-legend-square", true);
 
     legendGroup.selectAll("labelName")
       .data(this.data)
       .enter()
       .append("text")
-      .attr("x", 15)
-      .attr("y", (d, i) => i * 15 + 9.5)
+      .attr("x", this.legendTextHorizontalOffset)
+      .attr("y", (d, i) => i * this.legendSquareSize + this.legendTextVerticalOffset)
+      .attr("font-size", `${this.legendFontSize}px`)
       .text((d) => d.name);
   }
 }

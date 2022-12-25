@@ -30,19 +30,6 @@
   <!-- Clearance below nav bar -->
   <div style="height: 90px"></div>
 
-<!--  <div class="two-col-container">-->
-<!--    <div>-->
-<!--      <div #categoricalDataRadar></div>-->
-<!--    </div>-->
-<!--    <div>-->
-<!--      <div #categoricalDataBox></div>-->
-<!--    </div>-->
-<!--  </div>-->
-
-<!--  <div>-->
-<!--    <div #likesOverTimeLine></div>-->
-<!--  </div>-->
-
   <!-- ========== SINGLE GAME INFO ========== -->
   <!-- Header -->
   <mat-card class="game-card">
@@ -84,50 +71,37 @@
     </mat-card-header>
 
     <mat-card-content>
-
-      <h2>Categories:</h2>
+      <h2>Categories</h2>
       <div class="round-bordered">
         <ul class = "general-list" #categoryList>
           <li class = "general-item" *ngFor="let category of currentGame.categories">{{category}}</li>
         </ul>
       </div>
-      <h2>Tags:</h2>
-
+      <h2>Tags</h2>
       <div class="round-bordered">
         <ul  class = "general-list"  #tagList>
           <li class = "general-item" *ngFor="let tag of currentGame.tags | keyvalue">{{tag.key}}</li>
         </ul >
       </div>
-      <h2>Languages:</h2>
+      <h2>Languages</h2>
       <div class="round-bordered">
         <ul class = "general-list"  #languageList>
           <li class = "general-item" *ngFor="let language of currentGame.languages.split(', ')">{{language}}</li>
         </ul>
       </div>
-
     </mat-card-content>
   </mat-card>
 
   <span style="margin-block-end: 5%;"></span>
+
   <!-- First row -->
-
-<!--  <div class="two-col-container">-->
-<!--    <div>-->
-<!--      <div #categoricalDataRadar></div>-->
-<!--    </div>-->
-<!--    <div>-->
-<!--      <div #categoricalDataBox></div>-->
-<!--    </div>-->
-
-<!--    <app-radar instanceId="categoricalDataRadar" class="first-col"></app-radar>-->
-
-<!--    <app-box instanceId="categoricalDataBox" class="second-col"></app-box>-->
-<!--  </div>-->
-
   <mat-card class="game-card" style="position: static;">
     <div class="two-col-container vis-parent">
       <div class="col">
-        <h2 style="margin-inline-start: 5%;">Popularity Metrics</h2>
+        <div style="display: flex; flex-direction: row;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Popularity Metrics</h2>
+          <mat-icon (mouseenter)="ttText.onEnterPopularityMetrics()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
         <div>
           <div #categoricalDataRadar></div>
         </div>
@@ -148,7 +122,7 @@
 
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Reviews</h2>
-        <mat-icon (mouseenter)="onEnterGameReviews()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGameReviews()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <div>
         <div #gameReviews class="vis-component"></div>
@@ -156,16 +130,16 @@
 <!--      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie"-->
 <!--               [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300>-->
 <!--      </app-bar>-->
-<!-- 
+<!--
       <ng-template #steamReviewsPie>
-        
+
         <app-pie instanceId="steamReviewsPie"></app-pie>
       </ng-template> -->
     </mat-card>
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Completion</h2>
-        <mat-icon (mouseenter)="onEnterGameCompletion()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGameCompletion()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <div>
         <div #gameCompletionDonut class="vis-component"></div>
@@ -186,7 +160,7 @@
       <div>
         <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
           <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Likes in Past 30 Days</h2>
-          <mat-icon (mouseenter)="onEnterLikes30Days()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+          <mat-icon (mouseenter)="ttText.onEnterLikes30Days()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
         </div>
         <div>
           <div #likesOverTimeLine></div>
@@ -206,7 +180,7 @@
       <div>
         <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
           <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Daily Peak Concurrent Players</h2>
-          <mat-icon (mouseenter)="onEnterCCU30Days()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+          <mat-icon (mouseenter)="ttText.onEnterCCU30Days()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
         </div>
         <div>
           <div #ccuOverTimeLine></div>
@@ -241,7 +215,10 @@
   width: 80%;
   max-width: 80%;
   margin-block-end: 1%;">
-    <h1 style="text-align: center;">All Games</h1>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <h1 style="text-align: center; margin-inline-end: 0.5%;">All Steam Games</h1>
+      <mat-icon (mouseenter)="ttText.onEnterAllGamesTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
+    </div>
   </div>
 
   <!-- Numeric data correlation -->
@@ -256,19 +233,19 @@
       <div>
         <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
           <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Numeric Data</h2>
-          <mat-icon (mouseenter)="onEnterNumericData()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+          <mat-icon (mouseenter)="ttText.onEnterNumericData()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
         </div>
-        <app-bin-scatter instanceId="numericDataBinScatter" [currentAppId]="currentGame.appid"></app-bin-scatter>
+        <app-bin-scatter></app-bin-scatter>
       </div>
     </mat-card>
   </div>
 
   <!-- Second row -->
   <div class="two-col-container game-card">
-    <mat-card class="first-col">
+    <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
-        <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Number of games for each genre</h2>
-        <mat-icon (mouseenter)="onEnterGenreCount()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Games Per Genre</h2>
+        <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <div>
         <div #genreCount class="vis-component"></div>
@@ -279,7 +256,7 @@
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Price Brackets</h2>
-        <mat-icon (mouseenter)="onEnterPriceBrackets()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterPriceBrackets()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
       <app-pie instanceId="priceBracketsPie"></app-pie>
     </mat-card>
@@ -287,7 +264,17 @@
 
   <!-- ========== GENRE INFO ========== -->
   <mat-divider></mat-divider>
-  <h1 style="text-align: center;">Genre-specific</h1>
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <h1 style="text-align: center; margin-inline-end: 0.5%;">Genre Information</h1>
+      <mat-icon (mouseenter)="ttText.onEnterGenreTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
+    </div>
+  </div>
 
   <!-- Genre selector -->
   <div style="height: 20px"></div>
@@ -311,10 +298,10 @@
   margin-block-end: 1%;
   ">
     <mat-card>
-        <div>
-          <h2 style="margin-inline-start: 5%;">Genre Releases Timeline</h2>
-<!--          <app-line instanceId="gameReleaseLine"></app-line>-->
-        </div>
+      <div style="display: flex; flex-direction: row;">
+        <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Release Timeline</h2>
+        <mat-icon (mouseenter)="ttText.onEnterGenreReleaseTimeline()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+      </div>
     </mat-card>
   </div>
 
@@ -327,9 +314,11 @@
   margin-block-end: 1%;
   ">
     <mat-card>
+      <div style="display: flex; flex-direction: row;">
+        <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Popularity Metrics and Price Brackets</h2>
+        <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+      </div>
       <div mat-card class="three-col-container vis-parent">
-        <h2 style="margin-inline-start: 15%;">Genre Data</h2>
-
         <div class="col">
 <!--          <app-radar instanceId="genreCategoricalDataRadar" class="vis-component"-->
 <!--                      [centerVerticalOffset]=150 [centerHorizontalOffset]=200 [width]=400 [height]=300 [margin]=0-->
@@ -343,9 +332,11 @@
 <!--                    [scaleTextSize]=11 [labelTextSize]=18>-->
 <!--          </app-box>-->
         </div>
-
         <div class="col">
-          <app-pie instanceId="genreCompletionPie" class="vis-component" [height]=400 [horizontalMargin]=500 [legendHorizontalOffset]=300></app-pie>
+          <app-pie instanceId="genreCompletionPie" class="vis-component" [horizontalOffset]=180 [radius]=100
+                   [labelRadius]=110 [labelFontSize]=16
+                   [legendSquareSize]=20 [legendHorizontalOffset]=130 [legendTextVerticalOffset]=15>
+          </app-pie>
         </div>
       </div>
     </mat-card>
@@ -361,7 +352,10 @@
   ">
     <mat-card>
       <div>
-        <h2 style="margin-inline-start: 5%;">Genre CCU Timeline</h2>
+        <div style="display: flex; flex-direction: row;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">CCU Timeline</h2>
+          <mat-icon (mouseenter)="ttText.onEnterCcuTimeline()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
 <!--        <app-line instanceId="genreCcuLine"></app-line>-->
       </div>
     </mat-card>

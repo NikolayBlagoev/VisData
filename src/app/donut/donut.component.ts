@@ -13,16 +13,15 @@ export class DonutComponent implements AfterViewInit {
   @Input() data: Array<DonutData> = [{"value": 80, "name": "completed"}, {"value": 20, "name": "not"}];
   @Input() displayText = "80%";
   @Input() pos_val =  80;
+
   instanceId!: string;
-  constructor(private idService: IdService) {
-    this.instanceId = idService.generateId();
-  }
+  constructor(private idService: IdService) { this.instanceId = idService.generateId(); }
 
   private svg;
   @Input() horizontalMargin = 20;
   @Input() verticalMargin   = 20;
   @Input() width            = 525;
-  @Input() height           = 300;
+  @Input() height           = 310;
 
   // Drawing parameters
   @Input() radius         = 150;
@@ -51,27 +50,15 @@ export class DonutComponent implements AfterViewInit {
   }
   
   private drawDonut(): void {
-    // CAN BE USED TO MAKE THE COLOURS DIFFERENT!!
     const color = d3.scaleOrdinal()
                   .domain(this.data.map(elem => elem.name))
                   .range([this.positiveColor, this.negativeColor]);
-    
-    const pie   = d3.pie().sort((d:any)=>{
-      // if()
-      return -1;
-    });
+    const pie   = d3.pie();
     const data  = pie(this.data.map(elem => elem.value));
-    // if(data[0].value != this.data[0].value){
-    //   let buff = data[1];
-    //   data[1] = data[0];
-    //   data[0] = buff;
-     
-    // }
-    // console.log(data);
-    // console.log(this.data);
+
     this.svg.append("g")
-            .attr("transform", "translate(" + this.width / 2 + "," + this.height / 2 + ")")
-            .selectAll('pieses')
+            .attr("transform", `translate(${this.width / 2}, ${this.height / 2})`)
+            .selectAll('pieces')
             .data(data)
             .enter()
             .append('path')
@@ -79,21 +66,13 @@ export class DonutComponent implements AfterViewInit {
               .innerRadius(this.radius - this.ringThickness) // This is the size of the donut hole
               .outerRadius(this.radius)
             )
-            .attr('fill', (d) =>{
-              console.log(d);
-              
-              if(d.data == this.pos_val){
-                return this.positiveColor;
-              }else{
-                return this.negativeColor;
-              }
-            })
+            .attr('fill', (d) => color(d))
             .classed('donut-arc', true);
     
     this.svg.append("text")
             .attr("x", this.width/2)
             .attr("y", this.height/2)
-            .attr("font-size", this.fontSize + "px")
+            .attr("font-size", this.fontSize)
             .text(this.displayText)
             .classed("donut-text", true);           
   }
