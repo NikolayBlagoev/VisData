@@ -42,7 +42,7 @@ export class GradingService {
       case PopMetric.PlaytimeRecent:
         return [this.playtimeDistribution!["avg_2_weeks"], 0.1];
       case PopMetric.Owners:
-        return [this.ownersDistribution!, 0.15];
+        return [this.ownersDistribution!, 0.1];
     }
   }
 
