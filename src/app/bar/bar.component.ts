@@ -41,7 +41,7 @@ export class BarComponent implements AfterViewInit {
     { "Name": "Sexual Content", "Value": 54 },
     { "Name": "Movie", "Value": 1 }
   ];
-  @Input() bar_margin: number = 0;
+  @Input() bar_margin = 0;
   @Input() instanceId!: string;
   @Input() to_sort = false;
   constructor(private idService: IdService) {

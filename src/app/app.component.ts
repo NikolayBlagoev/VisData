@@ -7,9 +7,10 @@ import {BarData} from './bar/barData';
 import {BinScatterComponent} from './bin-scatter/bin-scatter.component';
 import {BoxComponent} from "./box/box.component";
 import {BoxData} from "./box/boxData";
-import {GameEntry, KaggleGame} from "./data-types";
+import {GameEntry, KaggleGame, PopMetric} from "./data-types";
 import {DonutComponent} from './donut/donut.component';
 import {FetchService} from "./fetch.service";
+import {GradingService} from "./grading.service";
 import {LineComponent} from "./line/line.component";
 import {LineData} from './line/lineData';
 import {RadarComponent} from "./radar/radar.component";
@@ -49,7 +50,8 @@ export class AppComponent implements OnInit {
   // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
   @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent;
 
-  constructor(private fetchService: FetchService) {}
+  constructor(private fetchService: FetchService,
+              private gradingService: GradingService) {}
 
   async ngOnInit() {
     const start = Date.now();
@@ -87,28 +89,95 @@ export class AppComponent implements OnInit {
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
 
-    const features = ["Likes", "Recent Likes", "Playtime", "Average Playtime", "Owners"];
-    const ownerMap = await this.fetchService.fetch("assets/aggregate/unique_owners.json");
+    const features = ["Likes", "Recent Likes", "Playtime", "Recent Playtime", "Owners"];
     const genreData = await this.fetchService.fetch("assets/aggregate/top_genres.json");
     const likeAvg = await this.fetchService.fetch("assets/aggregate/total_likes.json");
     // seems wrong \/
     const recentLikeAvg = await this.fetchService.fetch("assets/aggregate/30_days_likes.json");
+    const playtimeAvg = await this.fetchService.fetch("assets/aggregate/steamspy_static.json");
+    const ownerMap: Record<string, number> = await this.fetchService.fetch("assets/aggregate/unique_owners.json");
+    const ownerAvg = await this.fetchService.fetch("assets/aggregate/owners_aggregate.json");
 
     const radarDataAll = {
       "Likes": likeAvg["mean"] * 10,
       "Recent Likes": recentLikeAvg["mean"] * 10,
-      "Playtime": 0,
-      "Average Playtime": 0,
-      "Owners": 0
+      "Playtime": this.gradingService.attributeToGrade("mean", PopMetric.Playtime),
+      "Recent Playtime": this.gradingService.attributeToGrade("mean", PopMetric.PlaytimeRecent),
+      "Owners": this.gradingService.attributeToGrade("mean", PopMetric.Owners)
     };
 
     const radarDataThis = {
       "Likes": entry.positive / (entry.positive + entry.negative) * 10,
       "Recent Likes": entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]) * 10,
-      "Playtime": 0,
-      "Average Playtime": 0,
+      "Playtime": this.gradingService.numberToGrade(entry["Average Playtime - Forever"], PopMetric.Playtime),
+      "Recent Playtime": this.gradingService.numberToGrade(entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent),
       "Owners": ownerMap[entry.owners]
     };
+
+    this.categoricalDataRadarContainer.clear();
+    const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
+
+    categoricalDataRadarComp.instance.data = [[radarDataAll, radarDataThis], features];
+    categoricalDataRadarComp.instance.height = 400;
+    categoricalDataRadarComp.instance.centerHorizontalOffset = 225;
+    categoricalDataRadarComp.instance.centerVerticalOffset = 200;
+    categoricalDataRadarComp.instance.maxRadius = 150;
+
+    const boxDataAll: BoxData[] = [
+      {
+        label: "Likes",
+        min: likeAvg["min"] * 100,
+        max: likeAvg["max"] * 100,
+        median: likeAvg["median"] * 100,
+        lower_quartile: likeAvg["25th"] * 100,
+        upper_quartile: likeAvg["75th"] * 100
+      },
+      {
+        label: "Recent Likes",
+        min: recentLikeAvg["min"] * 100,
+        max: recentLikeAvg["max"] * 100,
+        median: recentLikeAvg["median"] * 100,
+        lower_quartile: recentLikeAvg["25th"] * 100,
+        upper_quartile: recentLikeAvg["75th"] * 100
+      },
+      {
+        label: "Playtime",
+        min: this.gradingService.attributeToGrade("min", PopMetric.Playtime),
+        max: this.gradingService.attributeToGrade("max", PopMetric.Playtime),
+        median: this.gradingService.attributeToGrade("median", PopMetric.Playtime),
+        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.Playtime),
+        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.Playtime)
+      },
+      {
+        label: "Recent Playtime",
+        min: this.gradingService.attributeToGrade("min", PopMetric.PlaytimeRecent),
+        max: this.gradingService.attributeToGrade("max", PopMetric.PlaytimeRecent),
+        median: this.gradingService.attributeToGrade("median", PopMetric.PlaytimeRecent),
+        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.PlaytimeRecent),
+        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.PlaytimeRecent)
+      },
+      {
+        label: "Owners",
+        min: this.gradingService.attributeToGrade("min", PopMetric.Owners),
+        max: this.gradingService.attributeToGrade("max", PopMetric.Owners),
+        median: this.gradingService.attributeToGrade("median", PopMetric.Owners),
+        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.Owners),
+        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.Owners)
+      }
+    ];
+
+    const boxDataThis: Map<string, number> = new Map(Object.entries(radarDataThis));
+    boxDataThis.set("Likes", boxDataThis.get("Likes")! * 10);
+    boxDataThis.set("Recent Likes", boxDataThis.get("Recent Likes")! * 10);
+
+    this.categoricalDataBoxContainer.clear();
+    const categoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
+    categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
+    categoricalDataBoxComp.instance.height = 500;
+    categoricalDataBoxComp.instance.width = 550;
+    categoricalDataBoxComp.instance.text_margin.left = 150;
+    categoricalDataBoxComp.instance.labelTextSize = 14;
+
 
     this.gameReviewContainer.clear();
 
@@ -142,70 +211,10 @@ export class AppComponent implements OnInit {
       gameComplDonut.instance.pos_val = entry.Completion;
     }
 
-    this.categoricalDataRadarContainer.clear();
-    const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
-
-
-    categoricalDataRadarComp.instance.data = [[radarDataAll, radarDataThis], features];
-    categoricalDataRadarComp.instance.height = 400;
-    categoricalDataRadarComp.instance.centerHorizontalOffset = 225;
-    categoricalDataRadarComp.instance.centerVerticalOffset = 200;
-    categoricalDataRadarComp.instance.maxRadius = 150;
-
-    const boxDataAll: BoxData[] = [
-      {
-        label: "Likes",
-        min: likeAvg["min"] * 100,
-        max: likeAvg["max"] * 100,
-        median: likeAvg["median"] * 100,
-        lower_quartile: likeAvg["25th"] * 100,
-        upper_quartile: likeAvg["75th"] * 100
-      },
-      {
-        label: "Recent Likes",
-        min: recentLikeAvg["min"] * 100,
-        max: recentLikeAvg["max"] * 100,
-        median: recentLikeAvg["median"] * 100,
-        lower_quartile: recentLikeAvg["25th"] * 100,
-        upper_quartile: recentLikeAvg["75th"] * 100
-      },
-      {
-        label: "Playtime",
-        min: 1,
-        max: 10,
-        median: 5,
-        lower_quartile: 2,
-        upper_quartile: 7
-      },
-      {
-        label: "Average Playtime",
-        min: 1,
-        max: 10,
-        median: 5,
-        lower_quartile: 2,
-        upper_quartile: 7
-      },
-      {
-        label: "Owners",
-        min: 0,
-        max: 10,
-        median: 5,
-        lower_quartile: 2,
-        upper_quartile: 7
-      }
-    ];
-
-    const boxDataThis: Map<string, number> = new Map(Object.entries(radarDataThis));
-    boxDataThis.set("Likes", boxDataThis.get("Likes")! * 10);
-    boxDataThis.set("Recent Likes", boxDataThis.get("Recent Likes")! * 10);
-
-
 
     this.genreCountContainer.clear();
     const genreComp = this.genreCountContainer.createComponent(BarComponent);
     genreComp.instance.to_sort = true;
-
-
 
 
     const processedData: BarData[] = [];
@@ -218,14 +227,6 @@ export class AppComponent implements OnInit {
     genreComp.instance.height = 400;
     genreComp.instance.highlighted = entry.genre;
 
-    this.categoricalDataBoxContainer.clear();
-    const categoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
-    categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
-    categoricalDataBoxComp.instance.height = 500;
-    categoricalDataBoxComp.instance.width = 550;
-    categoricalDataBoxComp.instance.text_margin.left = 150;
-    categoricalDataBoxComp.instance.labelTextSize = 14;
-
     const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"]);
 
     this.likesOverTimeLineContainer.clear();
@@ -234,9 +235,9 @@ export class AppComponent implements OnInit {
     likesOverTimeLineComp.instance.data = [likesOverTimeLineComp.instance.fix_data(entry["Like Histogram"]), startingLikes];
     likesOverTimeLineComp.instance.width = 1450;
     // console.log(entry);
-    const ccu_histogram: LineData[] = []
-    for(const el in entry["CCU Histogram"]){
-      ccu_histogram.push({"date": new Date(el), "value": entry["CCU Histogram"][el]})
+    const ccu_histogram: LineData[] = [];
+    for (const el in entry["CCU Histogram"]){
+      ccu_histogram.push({"date": new Date(el), "value": entry["CCU Histogram"][el]});
     }
     this.ccuOverTimeLineContainer.clear();
     const ccuOverTimeLineComp = this.ccuOverTimeLineContainer.createComponent(LineComponent);

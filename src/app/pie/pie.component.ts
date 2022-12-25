@@ -40,13 +40,13 @@ export class PieComponent implements AfterViewInit {
   @Input() legendVerticalOffset   = 0;
 
   // Drawing parameters
-  @Input() radius: number                 = 140;
-  @Input() labelRadius: number            = 160;
-  @Input() labelFontSize: number          = 20;
-  @Input() legendSquareSize: number       = 25;
-  @Input() legendFontSize: number         = 16;
-  @Input() legendTextHorizontalOffset: number = 30;
-  @Input() legendTextVerticalOffset: number   = 20;
+  @Input() radius                 = 140;
+  @Input() labelRadius            = 160;
+  @Input() labelFontSize          = 20;
+  @Input() legendSquareSize       = 25;
+  @Input() legendFontSize         = 16;
+  @Input() legendTextHorizontalOffset = 30;
+  @Input() legendTextVerticalOffset   = 20;
 
   drawPie(): void {
     let sum = 0;
@@ -79,14 +79,14 @@ export class PieComponent implements AfterViewInit {
     const arcs = arcGroup.selectAll("arc")
       .data(pie(this.data))
       .enter()
-      .append("g")
+      .append("g");
 
     arcs.append("path")
       .attr("fill", (d) => color(d.data.name) as string)
       .attr("d", path)
       .classed("pie-slice", true);
 
-    const labelRadius = this.labelRadius
+    const labelRadius = this.labelRadius;
     arcs.append("text")
       .text((d) => `${d.data.ratio}%`)
       .attr("font-size", `${this.labelFontSize}px`)
