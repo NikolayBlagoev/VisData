@@ -7,13 +7,18 @@ import {FetchService} from "./fetch.service";
 })
 export class GradingService {
 
-  private ownerMap?: Record<string, number>;
+  private likeDistribution?: Distribution;
+  private likeRecentDistribution?: Distribution;
   private playtimeDistribution?: Record<string, Distribution>;
   private ownersDistribution?: Distribution;
 
   constructor(private fetchService: FetchService) {
-    this.fetchService.fetch("assets/aggregate/unique_owners.json").then(res => {
-      this.ownerMap = res;
+    this.fetchService.fetch("assets/aggregate/total_likes.json").then(res => {
+      this.likeDistribution = res;
+    });
+
+    this.fetchService.fetch("assets/aggregate/30_days_likes.json").then(res => {
+      this.likeRecentDistribution = res;
     });
 
     this.fetchService.fetch("assets/aggregate/steamspy_static.json").then(res => {
@@ -25,59 +30,31 @@ export class GradingService {
     });
   }
 
-  // ownersToGrade(amount: number, ownerMap?: Record<string, number>): number {
-  //   if (!ownerMap)
-  //     ownerMap = this.ownerMap;
-  //
-  //   return this.numberToGrade(amount, ownerMap!);
-  // }
-
-  private getDistribution(metric: PopMetric): Distribution | undefined {
+  private getDistribution(metric: PopMetric): [Distribution, number] {
     switch (metric) {
 
       case PopMetric.Likes:
-        return;
+        return [this.likeDistribution!, 2];
       case PopMetric.LikesRecent:
-        return;
-
+        return [this.likeRecentDistribution!, 2];
       case PopMetric.Playtime:
-        return this.playtimeDistribution!["avg_forever"];
+        return [this.playtimeDistribution!["avg_forever"], 0.1];
       case PopMetric.PlaytimeRecent:
-        return this.playtimeDistribution!["avg_2_weeks"];
+        return [this.playtimeDistribution!["avg_2_weeks"], 0.1];
       case PopMetric.Owners:
-        return this.ownersDistribution!;
-
-      default:
-        return;
+        return [this.ownersDistribution!, 0.15];
     }
   }
 
-  numberToGrade(amount: number, metric: PopMetric, distribution?: Distribution): number {
-    if (!distribution) {
-      distribution = this.getDistribution(metric)!;
-    }
+  numberToGrade(amount: number, metric: PopMetric): number {
+    const [distribution, exp] = this.getDistribution(metric)!;
 
-    return 10 * ((amount - distribution.min) / (distribution.max - distribution.min)) ** 0.25;
+    return 10 * ((amount - distribution.min) / (distribution.max - distribution.min)) ** exp;
   }
 
-  attributeToGrade(attr: string, metric: PopMetric, distribution?: Distribution): number {
-    if (!distribution) {
-      distribution = this.getDistribution(metric)!;
-    }
+  attributeToGrade(attr: string, metric: PopMetric): number {
+    const [distribution] = this.getDistribution(metric)!;
 
     return this.numberToGrade(distribution[attr], metric);
   }
-
-  // numberToGrade(amount: number, gradeMap: Record<string, number>) {
-  //   for (const [key, value] of Object.entries(gradeMap)) {
-  //     const [min, max] = key.split(" .. ");
-  //     const minInt = parseInt(min.replaceAll(",", ""));
-  //     const maxInt = parseInt(max.replaceAll(",", ""));
-  //
-  //     if (amount >= minInt && amount < maxInt) {
-  //       return value;
-  //     }
-  //   }
-  //   return 0;
-  // }
 }

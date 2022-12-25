@@ -91,88 +91,55 @@ export class AppComponent implements OnInit {
 
     const features = ["Likes", "Recent Likes", "Playtime", "Recent Playtime", "Owners"];
     const genreData = await this.fetchService.fetch("assets/aggregate/top_genres.json");
-    const likeAvg = await this.fetchService.fetch("assets/aggregate/total_likes.json");
-    // seems wrong \/
-    const recentLikeAvg = await this.fetchService.fetch("assets/aggregate/30_days_likes.json");
-    const playtimeAvg = await this.fetchService.fetch("assets/aggregate/steamspy_static.json");
-    const ownerMap: Record<string, number> = await this.fetchService.fetch("assets/aggregate/unique_owners.json");
-    const ownerAvg = await this.fetchService.fetch("assets/aggregate/owners_aggregate.json");
 
     const radarDataAll = {
-      "Likes": likeAvg["mean"] * 10,
-      "Recent Likes": recentLikeAvg["mean"] * 10,
+      "Likes": this.gradingService.attributeToGrade("mean", PopMetric.Likes),
+      "Recent Likes": this.gradingService.attributeToGrade("mean", PopMetric.LikesRecent),
       "Playtime": this.gradingService.attributeToGrade("mean", PopMetric.Playtime),
       "Recent Playtime": this.gradingService.attributeToGrade("mean", PopMetric.PlaytimeRecent),
       "Owners": this.gradingService.attributeToGrade("mean", PopMetric.Owners)
     };
 
     const radarDataThis = {
-      "Likes": entry.positive / (entry.positive + entry.negative) * 10,
-      "Recent Likes": entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]) * 10,
+      "Likes": this.gradingService.numberToGrade(entry.positive / (entry.positive + entry.negative), PopMetric.Likes),
+      "Recent Likes": this.gradingService.numberToGrade(entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]), PopMetric.LikesRecent),
       "Playtime": this.gradingService.numberToGrade(entry["Average Playtime - Forever"], PopMetric.Playtime),
       "Recent Playtime": this.gradingService.numberToGrade(entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent),
-      "Owners": ownerMap[entry.owners]
+      "Owners": this.gradingService.numberToGrade(parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")), PopMetric.Owners)
     };
 
     this.categoricalDataRadarContainer.clear();
     const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
 
-    categoricalDataRadarComp.instance.data = [[radarDataAll, radarDataThis], features];
+    categoricalDataRadarComp.instance.data = [[radarDataThis, radarDataAll], features];
     categoricalDataRadarComp.instance.height = 400;
     categoricalDataRadarComp.instance.centerHorizontalOffset = 225;
     categoricalDataRadarComp.instance.centerVerticalOffset = 200;
     categoricalDataRadarComp.instance.maxRadius = 150;
 
-    const boxDataAll: BoxData[] = [
-      {
-        label: "Likes",
-        min: likeAvg["min"] * 100,
-        max: likeAvg["max"] * 100,
-        median: likeAvg["median"] * 100,
-        lower_quartile: likeAvg["25th"] * 100,
-        upper_quartile: likeAvg["75th"] * 100
-      },
-      {
-        label: "Recent Likes",
-        min: recentLikeAvg["min"] * 100,
-        max: recentLikeAvg["max"] * 100,
-        median: recentLikeAvg["median"] * 100,
-        lower_quartile: recentLikeAvg["25th"] * 100,
-        upper_quartile: recentLikeAvg["75th"] * 100
-      },
-      {
-        label: "Playtime",
-        min: this.gradingService.attributeToGrade("min", PopMetric.Playtime),
-        max: this.gradingService.attributeToGrade("max", PopMetric.Playtime),
-        median: this.gradingService.attributeToGrade("median", PopMetric.Playtime),
-        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.Playtime),
-        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.Playtime)
-      },
-      {
-        label: "Recent Playtime",
-        min: this.gradingService.attributeToGrade("min", PopMetric.PlaytimeRecent),
-        max: this.gradingService.attributeToGrade("max", PopMetric.PlaytimeRecent),
-        median: this.gradingService.attributeToGrade("median", PopMetric.PlaytimeRecent),
-        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.PlaytimeRecent),
-        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.PlaytimeRecent)
-      },
-      {
-        label: "Owners",
-        min: this.gradingService.attributeToGrade("min", PopMetric.Owners),
-        max: this.gradingService.attributeToGrade("max", PopMetric.Owners),
-        median: this.gradingService.attributeToGrade("median", PopMetric.Owners),
-        lower_quartile: this.gradingService.attributeToGrade("25th", PopMetric.Owners),
-        upper_quartile: this.gradingService.attributeToGrade("75th", PopMetric.Owners)
-      }
-    ];
+    const gen = (name: string, metric: PopMetric) => {
+      return {
+        label: name,
+        min: this.gradingService.attributeToGrade("min", metric),
+        max: this.gradingService.attributeToGrade("max", metric),
+        median: this.gradingService.attributeToGrade("median", metric),
+        lower_quartile: this.gradingService.attributeToGrade("25th", metric),
+        upper_quartile: this.gradingService.attributeToGrade("75th", metric)
+      };
+    };
 
-    const boxDataThis: Map<string, number> = new Map(Object.entries(radarDataThis));
-    boxDataThis.set("Likes", boxDataThis.get("Likes")! * 10);
-    boxDataThis.set("Recent Likes", boxDataThis.get("Recent Likes")! * 10);
+    const boxDataAll: BoxData[] = [
+      gen("Likes", PopMetric.Likes),
+      gen("Recent Likes", PopMetric.LikesRecent),
+      gen("Playtime", PopMetric.Playtime),
+      gen("Recent Playtime", PopMetric.PlaytimeRecent),
+      gen("Owners", PopMetric.Owners)
+
+    ];
 
     this.categoricalDataBoxContainer.clear();
     const categoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
-    categoricalDataBoxComp.instance.data = [boxDataAll, boxDataThis];
+    categoricalDataBoxComp.instance.data = [boxDataAll, new Map(Object.entries(radarDataThis))];
     categoricalDataBoxComp.instance.height = 500;
     categoricalDataBoxComp.instance.width = 550;
     categoricalDataBoxComp.instance.text_margin.left = 150;
