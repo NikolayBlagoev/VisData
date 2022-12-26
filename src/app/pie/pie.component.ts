@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
 import {IdService} from "../id.service";
 import {TooltipComponent} from "../tooltip/tooltip.component";
-import {PieData, stubData} from './pieData';
+import {PieData} from './pieData';
 
 @Component({
   selector: 'app-pie',
@@ -14,7 +14,8 @@ import {PieData, stubData} from './pieData';
 
 export class PieComponent implements AfterViewInit {
 
-  @Input() data: PieData[] = stubData;
+  @Input() data!: PieData[];
+  @Input() highlighted!: number;
   instanceId: string;
 
   constructor(private idService: IdService) {
@@ -42,6 +43,8 @@ export class PieComponent implements AfterViewInit {
   @Input() legendFontSize         = 16;
   @Input() legendTextHorizontalOffset = 30;
   @Input() legendTextVerticalOffset   = 20;
+
+  readonly highlightColor = "#F44336";
 
   drawPie(): void {
     let sum = 0;
@@ -79,7 +82,10 @@ export class PieComponent implements AfterViewInit {
       .append("g");
 
     arcs.append("path")
-      .attr("fill", (d) => color(d.data.name) as string)
+      .attr("fill", (d, i) => {
+        if (i == this.highlighted) return this.highlightColor;
+        return color(d.data.name) as string;
+      })
       .attr("d", path)
       .classed("pie-slice", true);
 

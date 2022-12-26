@@ -225,7 +225,24 @@ export class AppComponent implements OnInit {
       .reduce((prev, cur) => {return prev + cur;});
 
     pieData = pieData.slice(0, -5);
-    pieData.push({name: "2000-", amount: sumSmall});
+    pieData.push({name: "2000-x", amount: sumSmall});
+
+    let index;
+    if (entry.price == "free")
+      index = 0;
+    else {
+      const curPrice = parseInt(entry.price);
+
+      pieData.forEach((datum, i) => {
+        if (datum.name == "free")
+          return;
+
+        const [from, to] = datum.name.split("-").map(x => parseInt(x));
+        if (curPrice >= from && (curPrice <= to || Number.isNaN(to))) {
+          index = i;
+        }
+      });
+    }
 
     pieData.map(value => {
       const name = value.name;
@@ -234,7 +251,7 @@ export class AppComponent implements OnInit {
       value.name = name
         .split("-")
         .map(number => {
-          if (number == "") return "...";
+          if (number == "x") return "...";
 
           let num = parseInt(number);
           if (num[-1] == 9) {
@@ -251,6 +268,7 @@ export class AppComponent implements OnInit {
     this.pricePieContainer.clear();
     const pricePieComp = this.pricePieContainer.createComponent(PieComponent);
     pricePieComp.instance.data = pieData;
+    pricePieComp.instance.highlighted = index;
   }
 
   private _filter(value: string): KaggleGame[] {
