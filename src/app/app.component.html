@@ -258,7 +258,9 @@
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Price Brackets</h2>
         <mat-icon (mouseenter)="ttText.onEnterPriceBrackets()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
-      <app-pie instanceId="priceBracketsPie"></app-pie>
+      <div>
+        <div #pricePie></div>
+      </div>
     </mat-card>
   </div>
 

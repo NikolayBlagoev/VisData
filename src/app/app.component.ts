@@ -13,6 +13,8 @@ import {FetchService} from "./fetch.service";
 import {GradingService} from "./grading.service";
 import {LineComponent} from "./line/line.component";
 import {LineData} from './line/lineData';
+import {PieComponent} from "./pie/pie.component";
+import {PieData} from "./pie/pieData";
 import {RadarComponent} from "./radar/radar.component";
 import * as ttText from './tooltip-texts';
 import {TooltipComponent} from './tooltip/tooltip.component';
@@ -46,6 +48,7 @@ export class AppComponent implements OnInit {
   @ViewChild("ccuOverTimeLine", {read: ViewContainerRef}) ccuOverTimeLineContainer!: ViewContainerRef;
   @ViewChild("gameReviews", {read: ViewContainerRef}) gameReviewContainer!: ViewContainerRef;
   @ViewChild("genreCount", {read: ViewContainerRef}) genreCountContainer!: ViewContainerRef;
+  @ViewChild("pricePie", {read: ViewContainerRef}) pricePieContainer!: ViewContainerRef;
 
   // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
   @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent;
@@ -91,6 +94,7 @@ export class AppComponent implements OnInit {
 
     const features = ["Likes", "Recent Likes", "Playtime", "Recent Playtime", "Owners"];
     const genreData = await this.fetchService.fetch("assets/aggregate/top_genres.json");
+    const priceData: Record<string, number> = await this.fetchService.fetch("assets/aggregate/price_counts.json");
 
     const radarDataAll = {
       "Likes": this.gradingService.attributeToGrade("mean", PopMetric.Likes),
@@ -178,7 +182,6 @@ export class AppComponent implements OnInit {
       gameComplDonut.instance.pos_val = entry.Completion;
     }
 
-
     this.genreCountContainer.clear();
     const genreComp = this.genreCountContainer.createComponent(BarComponent);
     genreComp.instance.to_sort = true;
@@ -213,6 +216,41 @@ export class AppComponent implements OnInit {
     ccuOverTimeLineComp.instance.dataLabel = "Players";
 
     this.numericDataBinScatter.onSelectedGameChange(this.currentGame.appid);
+
+    let pieData: PieData[] = Object.entries(priceData)
+      .map(([key, value]) => {return {name: key, amount: value};});
+
+    const sumSmall = pieData.slice(-4)
+      .map(x => x.amount)
+      .reduce((prev, cur) => {return prev + cur;});
+
+    pieData = pieData.slice(0, -5);
+    pieData.push({name: "2000-", amount: sumSmall});
+
+    pieData.map(value => {
+      const name = value.name;
+      if (name == "free") return;
+
+      value.name = name
+        .split("-")
+        .map(number => {
+          if (number == "") return "...";
+
+          let num = parseInt(number);
+          if (num[-1] == 9) {
+            num++;
+          }
+          return (num / 100).toFixed();
+        })
+        .join("-")
+        + "$";
+
+      return value;
+    });
+
+    this.pricePieContainer.clear();
+    const pricePieComp = this.pricePieContainer.createComponent(PieComponent);
+    pricePieComp.instance.data = pieData;
   }
 
   private _filter(value: string): KaggleGame[] {

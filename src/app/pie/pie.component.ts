@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
 import {IdService} from "../id.service";
 import {TooltipComponent} from "../tooltip/tooltip.component";
-import {PieData} from './pieData';
+import {PieData, stubData} from './pieData';
 
 @Component({
   selector: 'app-pie',
@@ -13,20 +13,15 @@ import {PieData} from './pieData';
 })
 
 export class PieComponent implements AfterViewInit {
-  @Input() data!: PieData[];
+
+  @Input() data: PieData[] = stubData;
   instanceId: string;
-  constructor(private idService: IdService) { this.instanceId = idService.generateId(); }
+
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
+  }
 
   ngAfterViewInit(): void {
-    if (this.data == undefined) {
-      this.data = [
-        {name: "Alex", ratio: Math.random()},
-        {name: "Shelly", ratio: Math.random()},
-        {name: "Clark", ratio: Math.random()},
-        {name: "Matt", ratio: Math.random()},
-        {name: "Jolene", ratio: Math.random()}
-      ];
-    }
     this.drawPie();
   }
 
@@ -50,12 +45,14 @@ export class PieComponent implements AfterViewInit {
 
   drawPie(): void {
     let sum = 0;
-    for (const datum of this.data) { sum += datum.ratio; }
+    for (const datum of this.data) {
+      sum += datum.amount;
+    }
 
     this.data.map((x) => {
-      let newRatio = x.ratio / sum;
-      newRatio = parseFloat((newRatio * 100).toFixed(1));
-      x.ratio = newRatio;
+      let ratio = x.amount / sum;
+      ratio = parseFloat((ratio * 100).toFixed(1));
+      x.amount = ratio;
       return x;
     });
 
@@ -70,7 +67,7 @@ export class PieComponent implements AfterViewInit {
 
     const pie = d3.pie<PieData>()
       .sort(null)
-      .value((d) => d.ratio);
+      .value((d) => d.amount);
 
     const path = d3.arc<PieArcDatum<PieData>>()
       .innerRadius(0)
@@ -88,7 +85,7 @@ export class PieComponent implements AfterViewInit {
 
     const labelRadius = this.labelRadius;
     arcs.append("text")
-      .text((d) => `${d.data.ratio}%`)
+      .text((d) => `${d.data.amount}%`)
       .attr("font-size", `${this.labelFontSize}px`)
       .attr("font-weight", 600)
       .attr("transform", function (d) {
@@ -97,7 +94,7 @@ export class PieComponent implements AfterViewInit {
         const x = c[0];
         const y = c[1];
         const h = Math.sqrt((x * x) + (y * y));
-        return `translate(${(x / h) * labelRadius}, ${(y / h) * labelRadius})`; 
+        return `translate(${(x / h) * labelRadius}, ${(y / h) * labelRadius})`;
       })
       .attr("text-anchor", function(d) {
         // Are we past the center?
