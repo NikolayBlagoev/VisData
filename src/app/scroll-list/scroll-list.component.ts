@@ -38,11 +38,11 @@ export class ScrollListComponent implements AfterViewInit {
     if (distToBottom < 400) {
       const pieRef = this.containerRef.createComponent(PieComponent);
       pieRef.instance.data = [
-        {name: "Alex", ratio: Math.random()},
-        {name: "Shelly", ratio: Math.random()},
-        {name: "Clark", ratio: Math.random()},
-        {name: "Matt", ratio: Math.random()},
-        {name: "Jolene", ratio: Math.random()}
+        {name: "Alex", amount: Math.random()},
+        {name: "Shelly", amount: Math.random()},
+        {name: "Clark", amount: Math.random()},
+        {name: "Matt", amount: Math.random()},
+        {name: "Jolene", amount: Math.random()}
       ];
     }
   }

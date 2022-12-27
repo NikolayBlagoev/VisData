@@ -14,7 +14,8 @@ import {LineData} from "./lineData";
 export class LineComponent implements AfterViewInit {
 
   instanceId!: string;
-  @Input() data!: [HistogramData[], number];
+  @Input() data!: [LineData[], number];
+  @Input() max_render = -1;
   private svg;
 
   constructor(private idService: IdService) {
@@ -48,14 +49,14 @@ export class LineComponent implements AfterViewInit {
       .style("user-select", "none")
       .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
   }
-
-  private drawLine(histogramData: HistogramData[], initialLikes: number) {
-    if (histogramData[0].recommendations_up + histogramData[0].recommendations_down == 0) {
-      histogramData = histogramData.slice(1);
+  public fix_data(in_data: HistogramData[]){
+    if (in_data[0].recommendations_up + in_data[0].recommendations_down == 0) {
+      in_data = in_data.slice(1);
     }
 
     // Map histogram to proper data
-    const data: LineData[] = histogramData.map((el) => {
+    const data: LineData[] = in_data.map((el) => {
+      // currentValue = currentValue + el.recommendations_up - el.recommendations_down;
       const up = el.recommendations_up;
       const down = el.recommendations_down;
       const total = Math.max(1, up + down);
@@ -65,10 +66,25 @@ export class LineComponent implements AfterViewInit {
         "value": currentValue
       };
     });
+    return data;
+  }
+  private drawLine(data: LineData[], initialLikes: number) {
+    let yRange = [0];
+    if(this.max_render!=-1){
+      yRange = [0, this.max_render];
+    }else{
+      yRange = [0,
+        data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
 
-    const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
+    }
+    // const yRange = [data.reduce((acc, e1) => acc < e1.value ? acc: e1.value, Number.MAX_SAFE_INTEGER),
+    //   data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
+
+
+
+    // data = data.map(d => d.date.toString());
     const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
-    const yRange = [0, 100];
+    const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
 
     const x = d3.scaleTime()
       .range([0, this.width])

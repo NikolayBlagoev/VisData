@@ -124,15 +124,17 @@
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Reviews</h2>
         <mat-icon (mouseenter)="ttText.onEnterGameReviews()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
-
+      <div>
+        <div #gameReviews class="vis-component"></div>
+      </div>
 <!--      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie"-->
 <!--               [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300>-->
 <!--      </app-bar>-->
-
+<!--
       <ng-template #steamReviewsPie>
-        
+
         <app-pie instanceId="steamReviewsPie"></app-pie>
-      </ng-template>
+      </ng-template> -->
     </mat-card>
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
@@ -167,6 +169,25 @@
     </mat-card>
   </div>
 
+  <div style="position: relative;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  width: 80%;
+  max-width: 80%;
+  margin-block-end: 1%;
+">
+    <mat-card>
+      <div>
+        <div style="display: flex; flex-direction: row; margin-block-end: 0%;">
+          <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Daily Peak Concurrent Players</h2>
+          <mat-icon (mouseenter)="ttText.onEnterCCU30Days()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        </div>
+        <div>
+          <div #ccuOverTimeLine></div>
+        </div>
+      </div>
+    </mat-card>
+  </div>
   <!-- Fourth row -->
 <!--  <div style="position: relative;-->
 <!--  margin-inline-start: auto;-->
@@ -197,7 +218,7 @@
     <div style="display: flex; align-items: center; justify-content: center;">
       <h1 style="text-align: center; margin-inline-end: 0.5%;">All Steam Games</h1>
       <mat-icon (mouseenter)="ttText.onEnterAllGamesTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
-    </div> 
+    </div>
   </div>
 
   <!-- Numeric data correlation -->
@@ -226,6 +247,9 @@
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Games Per Genre</h2>
         <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
+      <div>
+        <div #genreCount class="vis-component"></div>
+      </div>
 <!--      <app-bar instanceId="genreCountBar" [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300></app-bar>-->
     </mat-card>
 
@@ -234,7 +258,9 @@
         <h2 style="margin-inline-start: 10%; margin-inline-end: 1%; margin-block-end: 3%;">Price Brackets</h2>
         <mat-icon (mouseenter)="ttText.onEnterPriceBrackets()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
-      <app-pie instanceId="priceBracketsPie"></app-pie>
+      <div>
+        <div #pricePie></div>
+      </div>
     </mat-card>
   </div>
 
@@ -249,7 +275,7 @@
     <div style="display: flex; align-items: center; justify-content: center;">
       <h1 style="text-align: center; margin-inline-end: 0.5%;">Genre Information</h1>
       <mat-icon (mouseenter)="ttText.onEnterGenreTitle()" (mouseleave)="ttText.onLeaveSectionInfo()">help_outline</mat-icon>
-    </div> 
+    </div>
   </div>
 
   <!-- Genre selector -->
@@ -296,6 +322,7 @@
       </div>
       <div mat-card class="three-col-container vis-parent">
         <div class="col">
+          <div #genreCategoricalDataRadar></div>
 <!--          <app-radar instanceId="genreCategoricalDataRadar" class="vis-component"-->
 <!--                      [centerVerticalOffset]=150 [centerHorizontalOffset]=200 [width]=400 [height]=300 [margin]=0-->
 <!--                      [maxRadius]=120 [labelTextSize]=13 [attrDotRadius]=4>-->
@@ -303,16 +330,18 @@
         </div>
 
         <div class="col">
+          <div #genreCategoricalDataBox></div>
 <!--          <app-box  instanceId="genreCategoricalDataBox" class="vis-component" [width]=500 [height]=400 [boxHeight]=35-->
 <!--                    [margin]="{top: 40, right: 40, bottom: 40, left: 0}"-->
 <!--                    [scaleTextSize]=11 [labelTextSize]=18>-->
 <!--          </app-box>-->
         </div>
         <div class="col">
-          <app-pie instanceId="genreCompletionPie" class="vis-component" [horizontalOffset]=180 [radius]=100
-                   [labelRadius]=110 [labelFontSize]=16
-                   [legendSquareSize]=20 [legendHorizontalOffset]=130 [legendTextVerticalOffset]=15>
-          </app-pie>
+          <div #completionPie></div>
+<!--          <app-pie instanceId="genreCompletionPie" class="vis-component" [horizontalOffset]=180 [radius]=100-->
+<!--                   [labelRadius]=110 [labelFontSize]=16-->
+<!--                   [legendSquareSize]=20 [legendHorizontalOffset]=130 [legendTextVerticalOffset]=15>-->
+<!--          </app-pie>-->
         </div>
       </div>
     </mat-card>
