@@ -1,294 +1,113 @@
-import {AfterViewInit, Component, Input} from '@angular/core';
+import {AfterViewInit, Component, Input, ViewEncapsulation} from '@angular/core';
 import * as d3 from 'd3';
+import {HistogramData} from "../data-types";
+import {IdService} from "../id.service";
 import {TooltipComponent} from '../tooltip/tooltip.component';
-import {LineData, LineDataIn} from './lineData';
+import {LineData} from "./lineData";
 
 @Component({
   selector: 'app-line',
   templateUrl: './line.component.html',
-  styleUrls: ['./line.component.sass']
+  styleUrls: ['./line.component.sass'],
+  encapsulation: ViewEncapsulation.None
 })
 export class LineComponent implements AfterViewInit {
 
-  @Input() instanceId!: string;
+  instanceId!: string;
+  @Input() data!: [HistogramData[], number];
   private svg;
-  private margin = 120;
-  private h = 500;
-  private w = 900;
 
-    // Control width, height, margin
-  public setValues(width, height, margin): void {
-    this.margin = margin;
-    this.w = width - (this.margin * 2);
-    this.h = height - (this.margin * 2);
+  constructor(private idService: IdService) {
+    this.instanceId = idService.generateId();
   }
 
-  ngAfterViewInit(): void {
-    this.createSvg();
-    this.drawLine(this.dset, 1500);
+  @Input() horizontalMargin = 100;
+  @Input() verticalMargin   = 75;
+  @Input() height           = 500;
+  @Input() width            = 1200;
 
+  // Drawing parameters
+  @Input() dataLabel              = "Likes";
+  @Input() circleRadius           = 7;
+  readonly circleColor            = "#2196F3";
+  readonly highlightedCircleColor = "#9C27B0";
+
+  ngAfterViewInit(): void {
+    this.width  = this.width - (this.horizontalMargin * 2);
+    this.height = this.height - (this.verticalMargin * 2);
+    this.createSvg();
+    this.drawLine(this.data[0], this.data[1]);
   }
 
   private createSvg(): void {
-    this.svg = d3.select("figure#" + this.instanceId + "Line")
+    this.svg = d3.select(`figure#${this.instanceId}Line`)
       .append("svg")
-      .attr("width", this.w + (this.margin * 2))
-      .attr("height", this.h + (this.margin * 2))
+      .attr("width", this.width + (this.horizontalMargin * 2))
+      .attr("height", this.height + (this.verticalMargin * 2))
       .append("g")
-      .style("user-select", "none").attr("transform",
-        "translate(" + this.margin + "," + this.margin + ")");
+      .style("user-select", "none")
+      .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
   }
 
-  private drawLine(data_in: LineDataIn[], initial_likes: number): void {
-    const data: LineData[] = data_in.map((el) => {
-      initial_likes = initial_likes + el.recommendations_up - el.recommendations_down;
+  private drawLine(histogramData: HistogramData[], initialLikes: number) {
+    if (histogramData[0].recommendations_up + histogramData[0].recommendations_down == 0) {
+      histogramData = histogramData.slice(1);
+    }
+
+    // Map histogram to proper data
+    const data: LineData[] = histogramData.map((el) => {
+      const up = el.recommendations_up;
+      const down = el.recommendations_down;
+      const total = Math.max(1, up + down);
+      const currentValue = (up / total) * 100;
       return {
         "date": new Date(el.date * 1000),
-        "value": initial_likes
+        "value": currentValue
       };
     });
-    // data = data.map(d => d.date.toString());
-    const max_el = data.reduce((acc, e1) => acc = acc > e1.date ? acc : e1.date, new Date(0));
-    const min_el = data.reduce((acc, e1) => acc = acc < e1.date ? acc : e1.date, new Date());
+
+    const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
+    const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
+    const yRange = [0, 100];
 
     const x = d3.scaleTime()
-      .range([0, this.w])
+      .range([0, this.width])
       .domain([min_el, max_el]);
     this.svg.append("g")
-      .attr("transform", "translate(0," + (this.h - 10) + ")")
-      .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y %H:%M")).selectAll("text")
-      .attr("transform", "translate(-10,0)rotate(-45)")
+      .attr("transform", `translate(0, ${this.height})`)
+      .call(d3.axisBottom(x).ticks(15, "%d/%m/%Y")).selectAll("text")
+      .attr("transform", "translate(-10, 0) rotate(-45)")
       .style("text-anchor", "end");
     const y = d3.scaleLinear()
-      .domain([0, data.reduce((acc, e1) => acc = acc > e1.value ? acc : e1.value, 0)])
-      .range([this.h, 0]);
+      .domain(yRange)
+      .range([this.height, 0]);
     this.svg.append("g")
       .call(d3.axisLeft(y));
 
+    const tooltip = new TooltipComponent();
+
     this.svg.append("path")
       .datum(data)
-      .attr("fill", "none")
-      .attr("stroke", "green")
-      .attr("stroke-width", 1.5)
       .attr("d", d3.line<any>()
-      .x(function(d) { return x(d.date); })
-      .y(function(d) { return y(d.value); })
-      );
+        .x(function(d) { return x(d.date); })
+        .y(function(d) { return y(d.value); }))
+      .classed("line-segment", true);
     this.svg.selectAll("dot")
         .data(data).enter()
         .append("circle")
         .attr("cx", function (d) { return x(d.date); } )
         .attr("cy", function (d) { return y(d.value); } )
-        .attr("r", 3)
-        .style("fill", "green");
-
-    const focus = this.svg
-        .append('g')
-        .append('circle')
-        .style("fill", "none")
-        .attr("stroke", "black")
-        .attr('r', 8.5)
-        .style("opacity", 0);
-
-    const focusText = this.svg
-      .append('g').style("position", "absolute")
-      .style("z-index", "10")
-      .style("padding", "15px")
-      .style("background", "rgba(0,0,0,0.6)")
-      .style("border-radius", "5px")
-      .style("color", "#fff")
-      .append('text')
-      .style("opacity", 0)
-      .attr("text-anchor", "left")
-      .attr("alignment-baseline", "middle");
-
-    const tooltip = new TooltipComponent();
-
-    this.svg
-      .append('rect')
-      .style("fill", "none")
-      .style("pointer-events", "all")
-      .attr('width', this.w)
-      .attr('height', this.h)
-      .on('mousemove', (e) => {
-        // recover coordinate we need
-        const x0 = x.invert(e.layerX - 1.5 * this.margin);
-
-        const bisect = d3.bisector((d: any) => {
-          if (d == undefined) {
-            return 0;
-          }
-          return d.date;
-        }).left;
-
-        const i = bisect(data, x0);
-        const selectedData = data[i];
-        focus.style("opacity", 1);
-        focusText.style("opacity", 1);
-        focus.attr("cx", x(selectedData.date))
-          .attr("cy", y(selectedData.value));
-        focusText.html("Likes: " + selectedData.value).attr("x", x(selectedData.date) + 15)
-          .attr("y", y(selectedData.value) - 30);
-
-      })
-      .on('mouseout', () => {
-        tooltip.setHidden();
-        focusText.style("opacity", 0);
-        focus.style("opacity", 0);
-      });
+        .attr("r", this.circleRadius)
+        .attr("fill", this.circleColor)
+        .classed("line-dots", true)
+        .on("mouseover", (e, d) => {
+          tooltip.setText(`${this.dataLabel}: ${d.value}`)
+                 .setVisible();
+          d3.select(e.target).attr("fill", this.highlightedCircleColor);
+        })
+        .on("mouseout", (e, _) => {
+          tooltip.setHidden();
+          d3.select(e.target).attr("fill", this.circleColor);
+        });
   }
-
-  private dset = [
-    {
-      "date": 1667260800,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667347200,
-      "recommendations_up": 21,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667433600,
-      "recommendations_up": 27,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1667520000,
-      "recommendations_up": 19,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667606400,
-      "recommendations_up": 23,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1667692800,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1667779200,
-      "recommendations_up": 24,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667865600,
-      "recommendations_up": 20,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1667952000,
-      "recommendations_up": 18,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668038400,
-      "recommendations_up": 20,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668124800,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668211200,
-      "recommendations_up": 32,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668297600,
-      "recommendations_up": 29,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668384000,
-      "recommendations_up": 34,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668470400,
-      "recommendations_up": 27,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668556800,
-      "recommendations_up": 30,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668643200,
-      "recommendations_up": 21,
-      "recommendations_down": 1
-    },
-    {
-      "date": 1668729600,
-      "recommendations_up": 28,
-      "recommendations_down": 0
-    },
-    {
-      "date": 1668816000,
-      "recommendations_up": 32,
-      "recommendations_down": 2
-    },
-    {
-      "date": 1668902400,
-      "recommendations_up": 27,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1668988800,
-      "recommendations_up": 28,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669075200,
-      "recommendations_up": 462,
-      "recommendations_down": 8
-    },
-    {
-      "date": 1669161600,
-      "recommendations_up": 903,
-      "recommendations_down": 10
-    },
-    {
-      "date": 1669248000,
-      "recommendations_up": 569,
-      "recommendations_down": 7
-    },
-    {
-      "date": 1669334400,
-      "recommendations_up": 405,
-      "recommendations_down": 4
-    },
-    {
-      "date": 1669420800,
-      "recommendations_up": 415,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669507200,
-      "recommendations_up": 371,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669593600,
-      "recommendations_up": 279,
-      "recommendations_down": 6
-    },
-    {
-      "date": 1669680000,
-      "recommendations_up": 210,
-      "recommendations_down": 3
-    },
-    {
-      "date": 1669766400,
-      "recommendations_up": 22,
-      "recommendations_down": 1
-    }
-  ];
-
 }
