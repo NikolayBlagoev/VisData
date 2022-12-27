@@ -1,3 +1,4 @@
+import numpy as np
 from bisect import bisect_left
 from datetime import datetime, timedelta
 from sklearn.cluster import AgglomerativeClustering
@@ -20,49 +21,6 @@ class Fold(object):
         self.children: list[Fold] = []
         self.items = []
         pass
-
-
-def split(f: Fold):
-    intervals = (f.largest - f.smallest) / 5
-    s = f.smallest
-    for i in range(5):
-        newf = Fold(s, s+intervals, f)
-        f.children.append(newf)
-        for it in f.items:
-            if it["appid"] >= newf.smallest and it["appid"] < newf.largest:
-                newf.items.append(it)
-        s += intervals
-    f.items = []
-
-
-def add_item(f: Fold, it):
-    if len(f.children) != 0:
-        for child in f.children:
-            if it["appid"] >= child.smallest and it["appid"] < child.largest:
-                add_item(child, it)
-                return
-    f.items.append(it)
-    if (len(f.items) > 25):
-        split(f)
-
-
-def make_dirs(f: Fold, prefix: str):
-    if len(f.children) != 0:
-        for child in f.children:
-            make_dirs(child, prefix+f"{int(f.smallest)}-{int(f.largest)}/")
-    else:
-        fldr_nm = prefix+f"{int(f.smallest)}-{int(f.largest)}"
-        Path(fldr_nm).mkdir(parents=True, exist_ok=True)
-        for it in f.items:
-            with open(fldr_nm+"/"+str(it["appid"])+".json", "w") as f:
-                json.dump(it, f, indent=2, sort_keys=True)
-
-
-def make_json(f: Fold):
-    if len(f.children) != 0:
-        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": [make_json(ch) for ch in f.children]}
-    else:
-        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": []}
 
 
 def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: dict) -> dict[str, int]:
@@ -126,6 +84,63 @@ def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: d
             date_to_ccu[current_date_str]   = int(utils.linear_interp(first_before_ccu, first_after_ccu, before_interp_factor))
 
     return date_to_ccu
+
+def split(f: Fold):
+    intervals = (f.largest - f.smallest) / 5
+    s = f.smallest
+    for i in range(5):
+        newf = Fold(s, s+intervals, f)
+        f.children.append(newf)
+        for it in f.items:
+            if it["appid"] >= newf.smallest and it["appid"] < newf.largest:
+                newf.items.append(it)
+        s += intervals
+    f.items = []
+
+
+def add_item(f: Fold, it):
+    if len(f.children) != 0:
+        for child in f.children:
+            if it["appid"] >= child.smallest and it["appid"] < child.largest:
+                add_item(child, it)
+                return
+    f.items.append(it)
+    if (len(f.items) > 25):
+        split(f)
+
+
+def make_dirs(f: Fold, prefix: str):
+    if len(f.children) != 0:
+        for child in f.children:
+            make_dirs(child, prefix+f"{int(f.smallest)}-{int(f.largest)}/")
+    else:
+        fldr_nm = prefix+f"{int(f.smallest)}-{int(f.largest)}"
+        Path(fldr_nm).mkdir(parents=True, exist_ok=True)
+        for it in f.items:
+            with open(fldr_nm+"/"+str(it["appid"])+".json", "w") as f:
+                json.dump(it, f, indent=2, sort_keys=True)
+
+
+def make_json(f: Fold):
+    if len(f.children) != 0:
+        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": [make_json(ch) for ch in f.children]}
+    else:
+        return {"smallest": int(f.smallest), "largest": int(f.largest), "children": []}
+
+dt = dict()
+def likes_30_days_genre(game):
+    rating = 0
+    if d["Up 30 Days"] != 0:
+        rating = d["Up 30 Days"]/(d["Up 30 Days"]+d["Down 30 Days"])
+        
+    for genre in game["genre"]:
+        if not dt.get(genre):
+            dt[genre] = [rating]
+        else:
+            dt[genre].append(rating)
+
+
+
 
 
 if __name__ == "__main__":
@@ -224,6 +239,16 @@ if __name__ == "__main__":
     print("Making system...")
     make_dirs(parent, "entries/")
     print("Made system")
-
+    new_dt = dict()
+    for k,v in dt.items():
+        arr = np.array(v)
+        arr.sort()
+        new_dt[k]={"mean": str(arr.mean()), "std": str(arr.std()), "max": str(arr.max()), "min": str(arr.min()), "median": str(np.median(arr)),
+            "10th": str(np.percentile(arr,10)),
+            "20th": str(np.percentile(arr,20)), "25th": str(np.percentile(arr,25)), "30th": str(np.percentile(arr,30)), 
+            "40th": str(np.percentile(arr,40)), "50th": str(np.percentile(arr,50)),
+            "60th": str(np.percentile(arr,60)), "70th": str(np.percentile(arr,70)), "75th": str(np.percentile(arr,75)),
+            "80th": str(np.percentile(arr,80)), "90th": str(np.percentile(arr,90)), "99th": str(np.percentile(arr,99))}
+            
     with open("like_intermediate.json", "w") as f:
         json.dump(total_like_change, f, indent=2)
