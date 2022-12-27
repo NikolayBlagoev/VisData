@@ -1,28 +1,18 @@
-# VisData
+# Code
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+### Components
+Each component represents a part of the website, including the associated ts and css.
+Every type of graph is a component, as well as the tooltip and the body of the site.
+The graphs are further explained in [visualisation elements](#visualisation-elements).
 
-## Development server
+### Services
+There are several services which each have a unique purpose, separate from other code.
+- entry-tree: finds a game entry in the file tree
+- fetch: retrieves and parses a file from the file server
+- grading: calculates the grade of an amount, for a metric (e.g. likes) of all games
+- id: generates a unique letter only id
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Data generation
+# Data generation
 
 All data related processing scripts are located in the datasets folder.
 
@@ -33,12 +23,16 @@ All data related processing scripts are located in the datasets folder.
 - net_scrape_metacritic.py - Collects metacritic, user scores, and game ratings (by the ESRB system) from Metacritic
 
 
-## Visualisation elements
+# Visualisation elements
 
 All visualisation elements are written in TypeScripts with the D3 library. They can be found as folders in src/app/
 
-- donut - Contains files related to the visualisation of a donut chart (pie chart with hole in the middle). Takes data in the form of two element array, where one element is the positive (ex. completion) value and the other is max - positive. The text for positive is displayed in the middle of the donut.
+- Pie - Displays elements which are parts of a whole. The values are shown outside the pie to avoid visual cluttering.
+  Takes data in the form of a tuple array, where each entry is a slice. The first value in the tuple is the name of the element, the second value is the amount.
+  The given values are converted to the ratio of the sum.
 
-- bar - Generates a bar plot, where each bin is the key and the height is the value. Data is in the form of {Name: string, Value: number}
+- Donut - Contains files related to the visualisation of a donut chart (pie chart with hole in the middle). Takes data in the form of two element array, where one element is the positive (ex. completion) value and the other is max - positive. The text for positive is displayed in the middle of the donut.
 
-- radar - Contains files related to the Radar (or spider/stand) chart. Creates an arbitrary many sides (one for reach feature). Takes data in the form of two field array, where second field is a string list of all the features, and the first one is an array of all the elements to be visualised. 
+- Bar - Generates a bar plot, where each bin is the key and the height is the value. Data is in the form of {Name: string, Value: number}
+
+- Radar - Contains files related to the Radar (or spider/stand) chart. Creates an arbitrary many sides (one for reach feature). Takes data in the form of two field array, where second field is a string list of all the features, and the first one is an array of all the elements to be visualised. 

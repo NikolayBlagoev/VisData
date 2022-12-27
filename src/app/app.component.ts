@@ -321,7 +321,7 @@ export class AppComponent implements OnInit {
     genreCategoricalDataRadarComp.instance.height = 300;
     genreCategoricalDataRadarComp.instance.margin = 0;
     genreCategoricalDataRadarComp.instance.maxRadius = 120;
-    genreCategoricalDataRadarComp.instance.labelTextSize = 130;
+    genreCategoricalDataRadarComp.instance.labelTextSize = 13;
     genreCategoricalDataRadarComp.instance.attrDotRadius = 4;
 
     const gen = (name: string, metric: PopMetric) => {
@@ -353,7 +353,7 @@ export class AppComponent implements OnInit {
     genreCategoricalDataBoxComp.instance.boxHeight = 35;
     genreCategoricalDataBoxComp.instance.margin = {top: 40, right: 40, bottom: 40, left: 0};
     genreCategoricalDataBoxComp.instance.scaleTextSize = 11;
-    genreCategoricalDataBoxComp.instance.labelTextSize = 18;
+    genreCategoricalDataBoxComp.instance.labelTextSize = 13;
 
 
 
