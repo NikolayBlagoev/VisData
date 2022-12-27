@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 import {PieArcDatum} from 'd3';
 import {IdService} from "../id.service";
 import {TooltipComponent} from "../tooltip/tooltip.component";
-import {PieData} from './pieData';
+import {PieData, stubData} from './pieData';
 
 @Component({
   selector: 'app-pie',
@@ -14,7 +14,7 @@ import {PieData} from './pieData';
 
 export class PieComponent implements AfterViewInit {
 
-  @Input() data!: PieData[];
+  @Input() data: PieData[] = stubData;
   @Input() highlighted!: number;
   instanceId: string;
 
