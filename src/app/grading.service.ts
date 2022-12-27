@@ -13,7 +13,9 @@ export class GradingService {
   private ownersDistribution?: Distribution;
 
   private likeGenreDistribution?: Record<string, Distribution>;
+  private likeRecentGenreDistribution?: Record<string, Distribution>;
   private playtimeGenreDistribution?: Record<string, Record<string, Distribution>>;
+  private ownersGenreDistribution?: Record<string, Distribution>;
 
   constructor(private fetchService: FetchService) {
     this.fetchService.fetch("assets/aggregate/total_likes.json").then(res => {
@@ -36,8 +38,16 @@ export class GradingService {
       this.likeGenreDistribution = res;
     });
 
+    this.fetchService.fetch("assets/aggregate/like_genre_30_days.json").then(res => {
+      this.likeRecentGenreDistribution = res;
+    });
+
     this.fetchService.fetch("assets/aggregate/steamspy_static_per_genre.json").then(res => {
       this.playtimeGenreDistribution = res;
+    });
+
+    this.fetchService.fetch("assets/aggregate/owners_per_genre.json").then(res => {
+      this.ownersGenreDistribution = res;
     });
   }
 
@@ -63,13 +73,13 @@ export class GradingService {
         case PopMetric.Likes:
           return [this.likeGenreDistribution![genre], 2];
         case PopMetric.LikesRecent:
-          throw Error("No data yet");
+          return [this.likeRecentGenreDistribution![genre], 2];
         case PopMetric.Playtime:
           return [this.playtimeGenreDistribution![genre]["avg_forever"], 0.1];
         case PopMetric.PlaytimeRecent:
           return [this.playtimeGenreDistribution![genre]["avg_2_weeks"], 0.1];
         case PopMetric.Owners:
-          throw Error("No data yet");
+          return [this.ownersGenreDistribution![genre], 0.1];
       }
     }
   }

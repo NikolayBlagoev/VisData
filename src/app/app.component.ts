@@ -26,6 +26,7 @@ import {TooltipComponent} from './tooltip/tooltip.component';
 })
 
 export class AppComponent implements OnInit {
+
   readonly title          = 'VisData';
   readonly t              = new TooltipComponent();
   readonly ttText         = ttText;
@@ -335,8 +336,8 @@ export class AppComponent implements OnInit {
 
     ];
 
-    this.categoricalDataBoxContainer.clear();
-    const genreCategoricalDataBoxComp = this.categoricalDataBoxContainer.createComponent(BoxComponent);
+    this.genreCategoricalDataBoxContainer.clear();
+    const genreCategoricalDataBoxComp = this.genreCategoricalDataBoxContainer.createComponent(BoxComponent);
 
     genreCategoricalDataBoxComp.instance.data = [boxDataGenre, new Map(Object.entries(radarDataThis))];
     genreCategoricalDataBoxComp.instance.height = 400;
@@ -346,8 +347,10 @@ export class AppComponent implements OnInit {
     genreCategoricalDataBoxComp.instance.scaleTextSize = 11;
     genreCategoricalDataBoxComp.instance.labelTextSize = 18;
 
-    this.pricePieContainer.clear();
-    const completionPieComp = this.pricePieContainer.createComponent(PieComponent);
+
+
+    this.completionPieContainer.clear();
+    const completionPieComp = this.completionPieContainer.createComponent(PieComponent);
     // completionPieComp.instance.data = ;
     completionPieComp.instance.horizontalOffset = 180;
     completionPieComp.instance.radius = 100;
