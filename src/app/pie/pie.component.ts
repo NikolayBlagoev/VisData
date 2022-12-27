@@ -40,11 +40,11 @@ export class PieComponent implements AfterViewInit {
   @Input() legendVerticalOffset   = 0;
 
   // Drawing parameters
-  @Input() radius: number                 = 140;
-  @Input() labelRadius: number            = 160;
-  @Input() labelFontSize: number          = 20;
-  @Input() legendSquareSize: number       = 25;
-  @Input() legendFontSize: number         = 16;
+  @Input() radius: number                     = 140;
+  @Input() labelRadius: number                = 160;
+  @Input() labelFontSize: number              = 20;
+  @Input() legendSquareSize: number           = 25;
+  @Input() legendFontSize: number             = 16;
   @Input() legendTextHorizontalOffset: number = 30;
   @Input() legendTextVerticalOffset: number   = 20;
 

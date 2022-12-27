@@ -171,7 +171,6 @@ def get_std_median_like_count_last_30_days(raw):
         except ZeroDivisionError:
             rating = 0
         dt["root"].append(rating)
-    # print(dt.keys())
     new_dt = dict()
     for k,v in dt.items():
         arr = np.array(v)
@@ -187,7 +186,6 @@ def get_std_median_like_count_last_30_days(raw):
 
 
 def get_ownership_counts(raw):
-    dt = {"0-20,000": 0, "20,000-50,000": 0,"100-499": 0 ,"500-999": 0,  "1000-1999": 0, "2000-2999": 0,"3000-4999": 0, "5000-5999": 0, "6000-9999": 0, "10000+": 0}
     arr = []
     
     for game in raw:
@@ -202,6 +200,37 @@ def get_ownership_counts(raw):
 
     with open("owners_aggregate.json","w") as f:
         json.dump(new_dt,f, indent=2)
+
+
+def get_release_count_per_genre_by_year(raw):
+    all_genres = utils.compute_genre_set(raw)
+
+    # Compute game releases per genre for each year
+    genre_to_release = {genre: dict() for genre in all_genres}
+    min_year = 10000
+    max_year = 0
+    for game in raw:
+        # No release date present, skip
+        if not game["release_date"]:
+            continue
+
+        release_year = utils.try_parsing_date(game["release_date"], ["%Y/%m/%d", "%Y/%m"]).year
+        min_year = min(min_year, release_year)
+        max_year = max(max_year, release_year)
+
+        for genre in game["genre"]:
+            if release_year not in genre_to_release[genre]:
+                genre_to_release[genre][release_year] = 0
+            genre_to_release[genre][release_year] += 1
+
+    # Fill in zeroes for missing years based on computed release year bounds
+    for genre in all_genres:
+        for year in range(min_year, max_year + 1):
+            if year not in genre_to_release[genre]:
+                genre_to_release[genre][year] = 0
+
+    with open("release_count_year_genres.json","w") as file:
+        json.dump(genre_to_release, file, indent=2, sort_keys=True)
 
 
 # ========== STEAMSPY DATA ==========
@@ -384,6 +413,7 @@ if __name__ == "__main__":
         get_std_median_like_count_30_days_per_genre(raw)
         get_std_median_likes_last_30_days(raw)
         get_ownership_counts(raw)
+        get_release_count_per_genre_by_year(raw)
 
     # SteamSpy data
     get_stats_steamspy_static()
