@@ -1,38 +1,57 @@
-# Code
+# VisData
+## Overview
+This repository contains the source code for the InfoVis project submission belonging to Group 12 for the course IN4089 Data Visualisation. Group 12 is composed of the following members:
+* Nikolay Blagoev (4998901)
+* Tobias van den Hurk (4938836)
+* William Narchi (5046122)
 
-### Components
-Each component represents a part of the website, including the associated ts and css.
-Every type of graph is a component, as well as the tooltip and the body of the site.
-The graphs are further explained in [visualisation elements](#visualisation-elements).
+The application is built on the Angular framework and makes use of the D3 library for generating visuals.
 
-### Services
-There are several services which each have a unique purpose, separate from other code.
-- entry-tree: finds a game entry in the file tree
-- fetch: retrieves and parses a file from the file server
-- grading: calculates the grade of an amount, for a metric (e.g. likes) of all games
-- id: generates a unique letter only id
+## How to Run
+### Application
+Node.js must be installed in order to run this project. The current codebase was tested on v19.1.0
 
-# Data generation
+In order to run this project, first clone the [repository containing the core data structure](https://github.com/tsvdh/VisDataFiles) and follow the instructions provided. After successfully running the aforementioned file server, run the following commands
+```shell
+npm install
+npm start
+```
+This will create a web server (on port 4200 by default) that serves the application
 
-All data related processing scripts are located in the datasets folder.
+### Data Collection and Preprocessing
+All of the data collection and preprocessing scripts are written in Python. The current codebase was tested on 3.10.6
 
-- aggregate.py - Contains code related to aggregating data from data_set.json or likes_intermediate.json
-- create_file_system.py - Creates a unique file for each game, which contains all the information on it and puts it in the indexed tree
-- fetch_apis_steam.py - Collects achievement and recent likes from steam API
-- like_normaliser.py - Keeps recent likes only for the month of November (since some game's recent likes may be in previous months as they have not had any activity recently)
-- net_scrape_metacritic.py - Collects metacritic, user scores, and game ratings (by the ESRB system) from Metacritic
+Create a virtual environment (optional), install the packages in `requirements.txt`, navigate to `datasets` then run the desired script
+```shell
+pip install -r requirements.txt
+cd datasets
+python ${NAME_OF_SCRIPT}
+```
+
+## Directory Structure
+- `data` - Aggregate data used to visualise averages and trends <!-- TODO: remove if this directory is removed during wrap-up  -->
+- `datasets` - Python scripts for data collection and preprocessing; Raw/mildly processed data for operation by the scripts
+- `src` - Source code for the core Angular application
 
 
-# Visualisation elements
+## Stub Information
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
-All visualisation elements are written in TypeScripts with the D3 library. They can be found as folders in src/app/
+### Development server
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-- Pie - Displays elements which are parts of a whole. The values are shown outside the pie to avoid visual cluttering.
-  Takes data in the form of a tuple array, where each entry is a slice. The first value in the tuple is the name of the element, the second value is the amount.
-  The given values are converted to the ratio of the sum.
+### Code scaffolding
 
-- Donut - Contains files related to the visualisation of a donut chart (pie chart with hole in the middle). Takes data in the form of two element array, where one element is the positive (ex. completion) value and the other is max - positive. The text for positive is displayed in the middle of the donut.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Bar - Generates a bar plot, where each bin is the key and the height is the value. Data is in the form of {Name: string, Value: number}
+### Build
 
-- Radar - Contains files related to the Radar (or spider/stand) chart. Creates an arbitrary many sides (one for reach feature). Takes data in the form of two field array, where second field is a string list of all the features, and the first one is an array of all the elements to be visualised. 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+### Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+### Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.

@@ -67,7 +67,6 @@ export function onEnterPriceBrackets() {
 }
 
 export function onEnterPopularityMetrics(){
-    // TODO: Specify which colour is the game and which colour
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "650px");

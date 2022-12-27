@@ -23,7 +23,6 @@ def linear_interp(lhs, rhs, left_walk: float):
     Returns:
         Interpolated value between lhs and rhs
     """
-    left_frac = clamp(left_walk, 0, 1)
     return (lhs * (1 - left_walk)) + (rhs * left_walk)
 
 
