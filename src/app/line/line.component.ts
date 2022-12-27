@@ -31,7 +31,7 @@ export class LineComponent implements AfterViewInit {
   @Input() dataLabel              = "Likes";
   @Input() circleRadius           = 7;
   readonly circleColor            = "#2196F3";
-  readonly highlightedCircleColor = "#9C27B0";
+  readonly highlightedCircleColor = "rgba(0,0,0,0.5)";
 
   ngAfterViewInit(): void {
     this.width  = this.width - (this.horizontalMargin * 2);
@@ -132,7 +132,7 @@ export class LineComponent implements AfterViewInit {
           .attr("fill", data.colour)
           .classed("line-dots", true)
           .on("mouseover", (e, d) => {
-            tooltip.setText(`${this.dataLabel}: ${d.value}`)
+            tooltip.setText(`${data.label}: ${d.value}`)
                   .setVisible();
             d3.select(e.target).attr("fill", this.highlightedCircleColor);
           })

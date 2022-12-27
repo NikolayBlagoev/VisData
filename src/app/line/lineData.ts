@@ -4,7 +4,8 @@ export type LineData = {
 }
 export type LineContainer = {
     data: LineData[],
-    colour: string
+    colour: string,
+    label: string
 }
 export const dset = [
     {

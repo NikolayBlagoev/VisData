@@ -224,9 +224,11 @@ export class AppComponent implements OnInit {
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
     const d1: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_up }});
     const d2: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down}});
+    d1.shift();
+    d2.shift();
     likesOverTimeLineComp.instance.data = 
-    [[{"data":d1,"colour":"#2196F3" },
-    {"data":d2,"colour":"#9C27B0" }], startingLikes];
+    [[{"data":d1,"colour":"#2196F3", "label": "Likes"},
+    {"data":d2,"colour":"#9C27B0", "label": "Dislikes"}], startingLikes];
     likesOverTimeLineComp.instance.width = 1200;
     // console.log(entry);
     const ccu_histogram: LineData[] = [];
@@ -235,7 +237,7 @@ export class AppComponent implements OnInit {
     }
     this.ccuOverTimeLineContainer.clear();
     const ccuOverTimeLineComp = this.ccuOverTimeLineContainer.createComponent(LineComponent);
-    ccuOverTimeLineComp.instance.data = [[{"data": ccu_histogram, "colour": "#2196F3"}], 0];
+    ccuOverTimeLineComp.instance.data = [[{"data": ccu_histogram, "colour": "#2196F3", "label": "Players"}], 0];
     ccuOverTimeLineComp.instance.width = 1200;
     ccuOverTimeLineComp.instance.dataLabel = "Players";
 
