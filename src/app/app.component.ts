@@ -218,12 +218,15 @@ export class AppComponent implements OnInit {
     genreComp.instance.height = 400;
     genreComp.instance.highlighted = entry.genre;
 
-    const startingLikes = (entry.positive - entry["Up 30 Days"]) - (entry.negative - entry["Down 30 Days"]);
-
+    const startingLikes = (entry.positive - entry["Up 30 Days"]);
+    const startingDislikes = (entry.negative - entry["Down 30 Days"]);
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
-
-    likesOverTimeLineComp.instance.data = [likesOverTimeLineComp.instance.fix_data(entry["Like Histogram"]), startingLikes];
+    const d1: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_up }});
+    const d2: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down}});
+    likesOverTimeLineComp.instance.data = 
+    [[{"data":d1,"colour":"#2196F3" },
+    {"data":d2,"colour":"#9C27B0" }], startingLikes];
     likesOverTimeLineComp.instance.width = 1200;
     // console.log(entry);
     const ccu_histogram: LineData[] = [];
@@ -232,7 +235,7 @@ export class AppComponent implements OnInit {
     }
     this.ccuOverTimeLineContainer.clear();
     const ccuOverTimeLineComp = this.ccuOverTimeLineContainer.createComponent(LineComponent);
-    ccuOverTimeLineComp.instance.data = [ccu_histogram, 0];
+    ccuOverTimeLineComp.instance.data = [[{"data": ccu_histogram, "colour": "#2196F3"}], 0];
     ccuOverTimeLineComp.instance.width = 1200;
     ccuOverTimeLineComp.instance.dataLabel = "Players";
 

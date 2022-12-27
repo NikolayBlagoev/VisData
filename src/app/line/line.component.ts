@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 import {HistogramData} from "../data-types";
 import {IdService} from "../id.service";
 import {TooltipComponent} from '../tooltip/tooltip.component';
-import {LineData} from "./lineData";
+import {LineContainer, LineData} from "./lineData";
 
 @Component({
   selector: 'app-line',
@@ -14,7 +14,7 @@ import {LineData} from "./lineData";
 export class LineComponent implements AfterViewInit {
 
   instanceId!: string;
-  @Input() data!: [LineData[], number];
+  @Input() data!: [LineContainer[], number];
   @Input() max_render = -1;
   private svg;
 
@@ -37,6 +37,7 @@ export class LineComponent implements AfterViewInit {
     this.width  = this.width - (this.horizontalMargin * 2);
     this.height = this.height - (this.verticalMargin * 2);
     this.createSvg();
+    
     this.drawLine(this.data[0], this.data[1]);
   }
 
@@ -66,25 +67,37 @@ export class LineComponent implements AfterViewInit {
         "value": currentValue
       };
     });
-    return data;
+    return {"data": data};
   }
-  private drawLine(data: LineData[], initialLikes: number) {
+  private drawLine(inp: LineContainer[], initialLikes: number) {
+    
     let yRange = [0];
+    let y_max = Number.MIN_SAFE_INTEGER;
     if(this.max_render!=-1){
       yRange = [0, this.max_render];
     }else{
-      yRange = [0,
-        data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
+      inp.forEach(el =>{
+        const res = el.data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER);
+        y_max = y_max > res ? y_max : res;
+      });
+      // for(const data in inp.data){
+      //   yRange = [0,
+      //     data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
+      // }
+      yRange = [0,y_max];
 
     }
+    
     // const yRange = [data.reduce((acc, e1) => acc < e1.value ? acc: e1.value, Number.MAX_SAFE_INTEGER),
     //   data.reduce((acc, e1) => acc > e1.value ? acc : e1.value, Number.MIN_SAFE_INTEGER)];
 
 
 
     // data = data.map(d => d.date.toString());
-    const max_el = data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
-    const min_el = data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
+
+    const max_el = inp[0].data.reduce((acc, e1) => acc > e1.date ? acc : e1.date, new Date(0));
+    
+    const min_el = inp[0].data.reduce((acc, e1) => acc < e1.date ? acc : e1.date, new Date());
 
     const x = d3.scaleTime()
       .range([0, this.width])
@@ -101,29 +114,35 @@ export class LineComponent implements AfterViewInit {
       .call(d3.axisLeft(y));
 
     const tooltip = new TooltipComponent();
-
-    this.svg.append("path")
-      .datum(data)
-      .attr("d", d3.line<any>()
-        .x(function(d) { return x(d.date); })
-        .y(function(d) { return y(d.value); }))
-      .classed("line-segment", true);
-    this.svg.selectAll("dot")
-        .data(data).enter()
-        .append("circle")
-        .attr("cx", function (d) { return x(d.date); } )
-        .attr("cy", function (d) { return y(d.value); } )
-        .attr("r", this.circleRadius)
-        .attr("fill", this.circleColor)
-        .classed("line-dots", true)
-        .on("mouseover", (e, d) => {
-          tooltip.setText(`${this.dataLabel}: ${d.value}`)
-                 .setVisible();
-          d3.select(e.target).attr("fill", this.highlightedCircleColor);
-        })
-        .on("mouseout", (e, _) => {
-          tooltip.setHidden();
-          d3.select(e.target).attr("fill", this.circleColor);
+    let i = 0
+    inp.forEach(data =>{
+      this.svg.append("path")
+        .datum(data.data)
+        .attr("d", d3.line<any>()
+          .x(function(d) { return x(d.date); })
+          .y(function(d) { return y(d.value); }))
+        .classed("line-segment", true)
+        .attr("fill", data.colour);
+      this.svg.selectAll("dot")
+          .data(data.data).enter()
+          .append("circle")
+          .attr("cx", function (d) { return x(d.date); } )
+          .attr("cy", function (d) { return y(d.value); } )
+          .attr("r", this.circleRadius)
+          .attr("fill", data.colour)
+          .classed("line-dots", true)
+          .on("mouseover", (e, d) => {
+            tooltip.setText(`${this.dataLabel}: ${d.value}`)
+                  .setVisible();
+            d3.select(e.target).attr("fill", this.highlightedCircleColor);
+          })
+          .on("mouseout", (e, _) => {
+            tooltip.setHidden();
+            d3.select(e.target).attr("fill", data.colour);
+          });
         });
+      i+=1;
+      
+    
   }
 }
