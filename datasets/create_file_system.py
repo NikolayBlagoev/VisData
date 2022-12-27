@@ -1,5 +1,5 @@
 import json
-
+import numpy as np
 from pathlib import Path
 class Fold(object):
     def __init__(self, smallest, largest, parent = None) -> None:
@@ -61,6 +61,19 @@ def make_json(f: Fold):
     else:
         return {"smallest": int(f.smallest), "largest": int(f.largest), "children": [] }
 
+dt = dict()
+def likes_30_days_genre(game):
+    rating = 0
+    if d["Up 30 Days"] != 0:
+        rating = d["Up 30 Days"]/(d["Up 30 Days"]+d["Down 30 Days"])
+        
+    for genre in game["genre"]:
+        if not dt.get(genre):
+            dt[genre] = [rating]
+        else:
+            dt[genre].append(rating)
+    # print(dt.keys())
+   
 parent = Fold(0,2500000)
 a1 = Fold(0,500000, parent)
 a2 = Fold(500000,1000000, parent)
@@ -115,13 +128,28 @@ for d in processed_data:
     i += 1
     count += 1
     j += 1
+    likes_30_days_genre(d)
     # if d["appid"] < minim:
     #     minim = d["appid"]
 
 # print(minim)
 # exit()
-make_dirs(parent,"entries/")
-print("Made system")
 
-with open("like_intermediate.json","w") as f:
-    json.dump(total_like_change,f, indent=2)
+new_dt = dict()
+for k,v in dt.items():
+    arr = np.array(v)
+    arr.sort()
+    new_dt[k]={"mean": str(arr.mean()), "std": str(arr.std()), "max": str(arr.max()), "min": str(arr.min()), "median": str(np.median(arr)),
+        "10th": str(np.percentile(arr,10)),
+        "20th": str(np.percentile(arr,20)), "25th": str(np.percentile(arr,25)), "30th": str(np.percentile(arr,30)), 
+        "40th": str(np.percentile(arr,40)), "50th": str(np.percentile(arr,50)),
+        "60th": str(np.percentile(arr,60)), "70th": str(np.percentile(arr,70)), "75th": str(np.percentile(arr,75)),
+        "80th": str(np.percentile(arr,80)), "90th": str(np.percentile(arr,90)), "99th": str(np.percentile(arr,99))}
+        
+with open("like_genre_30_days.json","w") as f:
+    json.dump(new_dt,f, indent=2)
+# make_dirs(parent,"entries/")
+# print("Made system")
+
+# with open("like_intermediate.json","w") as f:
+#     json.dump(total_like_change,f, indent=2)

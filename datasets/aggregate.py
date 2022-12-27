@@ -191,6 +191,34 @@ def get_ownership_counts(raw):
     # print(np.unique(np.array(arr)))
     # print(len(np.unique(np.array(arr))))
 
+def get_owners_per_genre(raw):
+    dt = dict()
+    # dt_owner_groups = {"0-20,000": 0, "20,000-50,000": 0,"100-499": 0 ,"500-999": 0,  "1000-1999": 0, "2000-2999": 0,"3000-4999": 0, "5000-5999": 0, "6000-9999": 0, "10000+": 0}
+    arr = []
+    for game in raw:
+        
+        owners = int(game["owners"].split("..")[0].strip().replace(",",""))
+        
+        for genre in game["genre"]:
+            if not dt.get(genre):
+                dt[genre] = [owners]
+            else:
+                dt[genre].append(owners)
+    # print(dt.keys())
+    new_dt = dict()
+    for k,v in dt.items():
+        arr = np.array(v)
+        arr.sort()
+        new_dt[k]={"mean": str(arr.mean()), "std": str(arr.std()), "max": str(arr.max()), "min": str(arr.min()), "median": str(np.median(arr)),
+        "10th": str(np.percentile(arr,10)),
+        "20th": str(np.percentile(arr,20)), "25th": str(np.percentile(arr,25)), "30th": str(np.percentile(arr,30)), 
+        "40th": str(np.percentile(arr,40)), "50th": str(np.percentile(arr,50)),
+        "60th": str(np.percentile(arr,60)), "70th": str(np.percentile(arr,70)), "75th": str(np.percentile(arr,75)),
+        "80th": str(np.percentile(arr,80)), "90th": str(np.percentile(arr,90)), "99th": str(np.percentile(arr,99))}
+        
+    with open("owners_per_genre.json","w") as f:
+        json.dump(new_dt,f, indent=2)
+
 with open("data_set.json") as fl:
     raw = json.load(fl)
-    get_ownership_counts(raw)
+    get_owners_per_genre(raw)
