@@ -88,6 +88,26 @@ export class AppComponent implements OnInit {
 
   extractGameName(game: KaggleGame) { return game?.name; }
 
+  generateRadarDataThisGame(entry: GameEntry) {
+    return  {
+      "Likes": this.gradingService.numberToGrade(
+        entry.positive / (entry.positive + entry.negative), PopMetric.Likes
+      ),
+      "Recent Likes": this.gradingService.numberToGrade(
+        entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]), PopMetric.LikesRecent
+      ),
+      "Playtime": this.gradingService.numberToGrade(
+        entry["Average Playtime - Forever"], PopMetric.Playtime
+      ),
+      "Recent Playtime": this.gradingService.numberToGrade(
+        entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent
+      ),
+      "Owners": this.gradingService.numberToGrade(
+        parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")), PopMetric.Owners
+      )
+    };
+  }
+
   async onGameSelection(game: KaggleGame) {
     this.currentGame = game;
     this.currentGenre = this.currentGame.genre[0];
@@ -105,13 +125,7 @@ export class AppComponent implements OnInit {
       "Owners": this.gradingService.attributeToGrade("mean", PopMetric.Owners)
     };
 
-    const radarDataThis = {
-      "Likes": this.gradingService.numberToGrade(entry.positive / (entry.positive + entry.negative), PopMetric.Likes),
-      "Recent Likes": this.gradingService.numberToGrade(entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]), PopMetric.LikesRecent),
-      "Playtime": this.gradingService.numberToGrade(entry["Average Playtime - Forever"], PopMetric.Playtime),
-      "Recent Playtime": this.gradingService.numberToGrade(entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent),
-      "Owners": this.gradingService.numberToGrade(parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")), PopMetric.Owners)
-    };
+    const radarDataThis = this.generateRadarDataThisGame(entry);
 
     this.categoricalDataRadarContainer.clear();
     const categoricalDataRadarComp = this.categoricalDataRadarContainer.createComponent(RadarComponent);
@@ -295,13 +309,7 @@ export class AppComponent implements OnInit {
       "Owners": this.gradingService.attributeToGrade("mean", PopMetric.Owners, this.currentGenre)
     };
 
-    const radarDataThis = {
-      "Likes": this.gradingService.numberToGrade(entry.positive / (entry.positive + entry.negative), PopMetric.Likes),
-      "Recent Likes": this.gradingService.numberToGrade(entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]), PopMetric.LikesRecent),
-      "Playtime": this.gradingService.numberToGrade(entry["Average Playtime - Forever"], PopMetric.Playtime),
-      "Recent Playtime": this.gradingService.numberToGrade(entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent),
-      "Owners": this.gradingService.numberToGrade(parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")), PopMetric.Owners)
-    };
+    const radarDataThis = this.generateRadarDataThisGame(entry);
 
     this.genreCategoricalDataRadarContainer.clear();
     const genreCategoricalDataRadarComp = this.genreCategoricalDataRadarContainer.createComponent(RadarComponent);
