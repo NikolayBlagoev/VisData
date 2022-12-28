@@ -39,8 +39,6 @@ export class AppComponent implements OnInit {
 
   popFeatures = ["Likes", "Recent Likes", "Playtime", "Recent Playtime", "Owners"];
 
-  hasMetaDummy = true; // TODO: This is only for testing; Replace when collected data processing is finalised
-
   searchControl = new FormControl();
   filteredData = new Observable<KaggleGame[]>();
 
@@ -88,23 +86,36 @@ export class AppComponent implements OnInit {
 
   extractGameName(game: KaggleGame) { return game?.name; }
 
+  private formatOwnersAmount(amount: number) {
+    let ownersThis;
+    if (amount < 1000) {
+      ownersThis = amount;
+    } else if (amount < 1000000) {
+      ownersThis = Math.round(amount / 1000) + "k";
+    } else {
+      ownersThis = Math.round(amount / 1000000) + "M";
+    }
+    return ownersThis;
+  }
+
+  calculateDataThisGame(entry: GameEntry) {
+    return {
+      "Likes": entry.positive / (entry.positive + entry.negative),
+      "Recent Likes":entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]),
+      "Playtime": entry["Average Playtime - Forever"],
+      "Recent Playtime": entry["Average Playtime - 2 Weeks"],
+      "Owners": parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")),
+    };
+  }
+
   generateRadarDataThisGame(entry: GameEntry) {
-    return  {
-      "Likes": this.gradingService.numberToGrade(
-        entry.positive / (entry.positive + entry.negative), PopMetric.Likes
-      ),
-      "Recent Likes": this.gradingService.numberToGrade(
-        entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]), PopMetric.LikesRecent
-      ),
-      "Playtime": this.gradingService.numberToGrade(
-        entry["Average Playtime - Forever"], PopMetric.Playtime
-      ),
-      "Recent Playtime": this.gradingService.numberToGrade(
-        entry["Average Playtime - 2 Weeks"], PopMetric.PlaytimeRecent
-      ),
-      "Owners": this.gradingService.numberToGrade(
-        parseInt(entry.owners.split(" .. ")[0].replaceAll(",", "")), PopMetric.Owners
-      )
+    const dataThis = this.calculateDataThisGame(entry);
+    return {
+      "Likes": this.gradingService.numberToGrade(dataThis.Likes, PopMetric.Likes),
+      "Recent Likes": this.gradingService.numberToGrade(dataThis["Recent Likes"], PopMetric.LikesRecent),
+      "Playtime": this.gradingService.numberToGrade(dataThis.Playtime, PopMetric.Playtime),
+      "Recent Playtime": this.gradingService.numberToGrade(dataThis["Recent Playtime"], PopMetric.PlaytimeRecent),
+      "Owners": this.gradingService.numberToGrade(dataThis.Owners, PopMetric.Owners)
     };
   }
 
@@ -113,6 +124,28 @@ export class AppComponent implements OnInit {
     this.currentGenre = this.currentGame.genre[0];
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
+
+    const dataThis = this.calculateDataThisGame(entry);
+
+    document.getElementById("likesAllComparison")!.textContent
+      = `Likes: ${Math.round(dataThis.Likes * 100)}% /
+        ${Math.round(this.gradingService.attributeUngraded("mean", PopMetric.Likes) * 100)}%`;
+
+    document.getElementById("recentLikesAllComparison")!.textContent
+      = `Recent Likes: ${Math.round(dataThis["Recent Likes"] * 100)}% /
+        ${Math.round(this.gradingService.attributeUngraded("mean", PopMetric.LikesRecent) * 100)}%`;
+
+    document.getElementById("playtimeAllComparison")!.textContent
+      = `Playtime: ${(dataThis.Playtime / 60).toFixed(1)}h /
+        ${(this.gradingService.attributeUngraded("mean", PopMetric.Playtime) / 60).toFixed(1)}h`;
+
+    document.getElementById("recentPlaytimeAllComparison")!.textContent
+      = `Recent Playtime: ${(dataThis["Recent Playtime"] / 60).toFixed(1)}h /
+        ${(this.gradingService.attributeUngraded("mean", PopMetric.PlaytimeRecent) / 60).toFixed(1)}h`;
+
+    document.getElementById("ownersAllComparison")!.textContent
+      = `Owners: ~${this.formatOwnersAmount(dataThis.Owners)} /
+        ${this.formatOwnersAmount(this.gradingService.attributeUngraded("mean", PopMetric.Owners))}`;
 
     const genreData = await this.fetchService.fetch("assets/aggregate/top_genres.json");
     const priceData: Record<string, number> = await this.fetchService.fetch("assets/aggregate/price_counts.json");
@@ -222,11 +255,11 @@ export class AppComponent implements OnInit {
     const startingDislikes = (entry.negative - entry["Down 30 Days"]);
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp = this.likesOverTimeLineContainer.createComponent(LineComponent);
-    const d1: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_up }});
-    const d2: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down}});
+    const d1: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_up };});
+    const d2: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down};});
     d1.shift();
     d2.shift();
-    likesOverTimeLineComp.instance.data = 
+    likesOverTimeLineComp.instance.data =
     [[{"data":d1,"colour":"#2196F3", "label": "Likes"},
     {"data":d2,"colour":"#9C27B0", "label": "Dislikes"}], startingLikes];
     likesOverTimeLineComp.instance.width = 1200;
@@ -305,6 +338,28 @@ export class AppComponent implements OnInit {
     this.currentGenre = newGenreSelection;
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
+
+    const dataThis = this.calculateDataThisGame(entry);
+
+    document.getElementById("likesGenreComparison")!.textContent
+      = `Likes: ${Math.round(dataThis.Likes * 100)}% /
+        ${Math.round(this.gradingService.attributeUngraded("mean", PopMetric.Likes, this.currentGenre) * 100)}%`;
+
+    document.getElementById("recentLikesGenreComparison")!.textContent
+      = `Recent Likes: ${Math.round(dataThis["Recent Likes"] * 100)}% /
+        ${Math.round(this.gradingService.attributeUngraded("mean", PopMetric.LikesRecent, this.currentGenre) * 100)}%`;
+
+    document.getElementById("playtimeGenreComparison")!.textContent
+      = `Playtime: ${(dataThis.Playtime / 60).toFixed(1)}h /
+        ${(this.gradingService.attributeUngraded("mean", PopMetric.Playtime, this.currentGenre) / 60).toFixed(1)}h`;
+
+    document.getElementById("recentPlaytimeGenreComparison")!.textContent
+      = `Recent Playtime: ${(dataThis["Recent Playtime"] / 60).toFixed(1)}h /
+        ${(this.gradingService.attributeUngraded("mean", PopMetric.PlaytimeRecent, this.currentGenre) / 60).toFixed(1)}h`;
+
+    document.getElementById("ownersGenreComparison")!.textContent
+      = `Owners: ~${this.formatOwnersAmount(dataThis.Owners)} /
+        ${this.formatOwnersAmount(this.gradingService.attributeUngraded("mean", PopMetric.Owners, this.currentGenre))}`;
 
     const radarDataGenre = {
       "Likes": this.gradingService.attributeToGrade("mean", PopMetric.Likes, this.currentGenre),

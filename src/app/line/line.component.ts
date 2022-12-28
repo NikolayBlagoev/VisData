@@ -114,7 +114,7 @@ export class LineComponent implements AfterViewInit {
       .call(d3.axisLeft(y));
 
     const tooltip = new TooltipComponent();
-    let i = 0
+    let i = 0;
     inp.forEach(data =>{
       this.svg.append("path")
         .datum(data.data)
