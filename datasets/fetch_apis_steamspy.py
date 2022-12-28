@@ -35,7 +35,7 @@ if __name__ == "__main__":
             resp = requests.get(f"https://steamspy.com/api.php?request=appdetails&appid={app_id}")
             entry["app_id"] = app_id
             entry["ccu"] = resp.json()["ccu"]
-            entry["retrieval_date"] = str(date.today())
+            entry["retrieval_date"] = TODAY_STR
             data.append(entry)
 
         with open(f"{TARGET_DIR}/{TODAY_STR}/tmp_{start}-{end - 1}.json", "w") as output_file:

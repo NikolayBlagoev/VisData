@@ -1,4 +1,6 @@
+from datetime import datetime
 from os import DirEntry
+from typing import Iterable
 
 
 def clamp(num, min_value, max_value):
@@ -21,7 +23,6 @@ def linear_interp(lhs, rhs, left_walk: float):
     Returns:
         Interpolated value between lhs and rhs
     """
-    left_frac = clamp(left_walk, 0, 1)
     return (lhs * (1 - left_walk)) + (rhs * left_walk)
 
 
@@ -40,3 +41,23 @@ def compute_genre_set(steam_data: dict) -> set[str]:
         for genre in game["genre"]:
             genre_set.add(genre)
     return genre_set
+
+
+def try_parsing_date(text: str, formats: Iterable[str] = ['%Y/%m/%d']):
+    """
+    Attempt to parse a given date string using the given formats
+    (https://stackoverflow.com/a/23581184/14247568)
+
+    Args:
+        text: String to parse
+        formats: Iterable of all formats to try
+
+    Returns:
+        Parsed date as date part of datetime
+    """
+    for fmt in formats:
+        try:
+            return datetime.strptime(text, fmt).date()
+        except ValueError:
+            pass
+    raise ValueError(f'No valid date format found ({text})')

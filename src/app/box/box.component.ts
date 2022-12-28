@@ -41,14 +41,6 @@ export class BoxComponent implements AfterViewInit {
     private x_scale_domains!: Array<[number, number]>;
     private x_scale_range!: [number, number];
     private x_scales;
-// <<<<<<< HEAD
-//     private x_scale_domains?: number[][];
-//     private x_scale_range = [
-//         0 + this.text_margin.left + this.text_margin.right,
-//         this.width - this.text_margin.left - this.text_margin.right
-//     ];
-// =======
-// >>>>>>> operation-jupiter-merge
     private y_scale;
 
     constructor(private idService: IdService) {
