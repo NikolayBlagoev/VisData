@@ -33,7 +33,14 @@ export function onEnterLikes30Days() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "400px");
-    t.setText("Shows ????");
+    t.setText("Shows likes (blue line) and dislikes (purple line) each day for the month of November");
+}
+
+export function onEnterLikeGenre() {
+    const t = new TooltipComponent();
+    t.setVisible();
+    t.tooltip.style("max-width", "400px");
+    t.setText("Shows like percentage of the game for each day (blue line) against median like percentage of the genre (purple line). NOTE: games with 0 likes and dislikes in a day are excluded");
 }
 
 export function onEnterGenreCount() {
