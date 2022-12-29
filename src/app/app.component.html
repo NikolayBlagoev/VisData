@@ -96,12 +96,25 @@
 
   <!-- First row -->
   <mat-card class="game-card" style="position: static;">
+    <div style="display: flex; flex-direction: row;">
+      <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Popularity Metrics</h2>
+      <mat-icon (mouseenter)="ttText.onEnterPopularityMetrics()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+    </div>
+    <div class="three-col-container round-bordered" style="margin-left: 10%; padding-left: 20px;">
+      <div class="col">
+        <p id="likesAllComparison"></p>
+        <p id="recentLikesAllComparison"></p>
+      </div>
+      <div class="col">
+        <p id="playtimeAllComparison"></p>
+        <p id="recentPlaytimeAllComparison"></p>
+      </div>
+      <div class="col">
+        <p id="ownersAllComparison"></p>
+      </div>
+    </div>
     <div class="two-col-container vis-parent">
       <div class="col">
-        <div style="display: flex; flex-direction: row;">
-          <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Popularity Metrics</h2>
-          <mat-icon (mouseenter)="ttText.onEnterPopularityMetrics()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
-        </div>
         <div>
           <div #categoricalDataRadar></div>
         </div>
@@ -318,7 +331,20 @@
     <mat-card>
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Popularity Metrics and Price Brackets</h2>
-        <mat-icon (mouseenter)="ttText.onEnterGenreCount()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+        <mat-icon (mouseenter)="ttText.onEnterGenrePopularityMetrics()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
+      </div>
+      <div class="three-col-container round-bordered" style="margin-left: 10%; padding-left: 20px;">
+        <div class="col">
+          <p id="likesGenreComparison"></p>
+          <p id="recentLikesGenreComparison"></p>
+        </div>
+        <div class="col">
+          <p id="playtimeGenreComparison"></p>
+          <p id="recentPlaytimeGenreComparison"></p>
+        </div>
+        <div class="col">
+          <p id="ownersGenreComparison"></p>
+        </div>
       </div>
       <div mat-card class="three-col-container vis-parent">
         <div class="col">

@@ -99,4 +99,8 @@ export class GradingService {
 
     return this.calcGrade(distribution[attr], distribution, exp);
   }
+
+  attributeUngraded(attr: string, metric: PopMetric, genre?: string): number {
+    return this.getDistribution(metric, genre)[0][attr];
+  }
 }

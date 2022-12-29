@@ -53,7 +53,7 @@ export class DonutComponent implements AfterViewInit {
     const color = d3.scaleOrdinal()
                   .domain(this.data.map(elem => elem.name))
                   .range([this.positiveColor, this.negativeColor]);
-    const pie   = d3.pie();
+    const pie   = d3.pie().sort((d:any) => -1);
     const data  = pie(this.data.map(elem => elem.value));
 
     this.svg.append("g")
