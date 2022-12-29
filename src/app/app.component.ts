@@ -122,7 +122,7 @@ export class AppComponent implements OnInit {
   async onGameSelection(game: KaggleGame) {
     this.currentGame = game;
     this.currentGenre = this.currentGame.genre[0];
-
+    
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
 
     const dataThis = this.calculateDataThisGame(entry);
@@ -338,7 +338,7 @@ export class AppComponent implements OnInit {
     this.currentGenre = newGenreSelection;
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
-
+    const completion_data = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
     const dataThis = this.calculateDataThisGame(entry);
 
     document.getElementById("likesGenreComparison")!.textContent
@@ -418,15 +418,19 @@ export class AppComponent implements OnInit {
 
 
     this.completionPieContainer.clear();
-    const completionPieComp = this.completionPieContainer.createComponent(PieComponent);
-    // completionPieComp.instance.data = ;
-    completionPieComp.instance.horizontalOffset = 180;
+    const completionPieComp = this.completionPieContainer.createComponent(DonutComponent);
+    const compl = parseFloat (completion_data[this.currentGenre]["median"])
+    completionPieComp.instance.data = [{"value": compl, "name": "completed"}, {"value": 100 - compl, "name": "not"}];
+    completionPieComp.instance.displayText = compl.toFixed(1) + "%";
+    // completionPieComp.instance.horizontalOffset = 180;
     completionPieComp.instance.radius = 100;
-    completionPieComp.instance.labelRadius = 110;
-    completionPieComp.instance.labelFontSize = 16;
-    completionPieComp.instance.legendSquareSize = 20;
-    completionPieComp.instance.legendHorizontalOffset = 130;
-    completionPieComp.instance.legendTextVerticalOffset = 15;
+    completionPieComp.instance.width = 250;
+    completionPieComp.instance.fontSize=40;
+    // completionPieComp.instance.labelRadius = 110;
+    // completionPieComp.instance.labelFontSize = 16;
+    // completionPieComp.instance.legendSquareSize = 20;
+    // completionPieComp.instance.legendHorizontalOffset = 130;
+    // completionPieComp.instance.legendTextVerticalOffset = 15;
     // completionPieComp.instance.highlighted = index;
   }
 

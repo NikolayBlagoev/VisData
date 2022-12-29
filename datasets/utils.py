@@ -7,7 +7,7 @@ def clamp(num, min_value, max_value):
    return max(min(num, max_value), min_value)
 
 
-def fetch_tmp_start_idx_as_int(elem: DirEntry[str]) -> int:
+def fetch_tmp_start_idx_as_int(elem) -> int:
     return int(elem.name[4:elem.name.find('-')])
 
 
@@ -26,7 +26,7 @@ def linear_interp(lhs, rhs, left_walk: float):
     return (lhs * (1 - left_walk)) + (rhs * left_walk)
 
 
-def compute_genre_set(steam_data: dict) -> set[str]:
+def compute_genre_set(steam_data: dict):
     """
     Compute set of all genres in the Steam dataset
 

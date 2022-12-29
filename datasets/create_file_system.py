@@ -23,7 +23,7 @@ class Fold(object):
         pass
 
 
-def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: dict) -> dict[str, int]:
+def _get_steamspy_ccus(file_count: int, file_end_point: int, rest_of_app_data: dict):
     """
     Gather all Steamspy CCU histogram data for a given game, interpolating if
     the appropriate flag is set
@@ -139,6 +139,14 @@ def likes_30_days_genre(game):
         else:
             dt[genre].append(rating)
 
+def completion_genre(game, completion):
+    
+        
+    for genre in game["genre"]:
+        if not dt.get(genre):
+            dt[genre] = [completion]
+        else:
+            dt[genre].append(completion)
 
 
 
@@ -175,13 +183,13 @@ if __name__ == "__main__":
             file_count += 1000
             i = 0
             j = 0
-            steamspy_end_point = min(file_count+999, len(processed_data) - 1)
+            # steamspy_end_point = min(file_count+999, len(processed_data) - 1)
             with open(f"normalised_likes/tmp_{int(file_count/10)}-{file_count+999}.json") as fl:
                 norm = json.load(fl)
             with open(f"metareviews/tmp_{file_count}-{file_count+999}.json") as fl:
                 meta = json.load(fl)
-            with open(f"steamspy/static_data/tmp_{file_count}-{steamspy_end_point}.json") as fl:
-                steamspy_static = json.load(fl)
+            # with open(f"steamspy/static_data/tmp_{file_count}-{steamspy_end_point}.json") as fl:
+            #     steamspy_static = json.load(fl)
 
         if d["appid"] > 0:
             d["Meta Score"]     = meta[j]["Meta Score"]
@@ -189,11 +197,11 @@ if __name__ == "__main__":
             d["Like Histogram"] = norm[i]["fixed_date"]
 
             # Steam Spy data
-            d["Average Playtime - Forever"] = steamspy_static[j]["average_forever"]
-            d["Average Playtime - 2 Weeks"] = steamspy_static[j]["average_2weeks"]
-            d["Median Playtime - Forever"]  = steamspy_static[j]["median_forever"]
-            d["Median Playtime - 2 Weeks"]  = steamspy_static[j]["median_2weeks"]
-            d["CCU Histogram"]              = _get_steamspy_ccus(file_count, steamspy_end_point, d)
+            # d["Average Playtime - Forever"] = steamspy_static[j]["average_forever"]
+            # d["Average Playtime - 2 Weeks"] = steamspy_static[j]["average_2weeks"]
+            # d["Median Playtime - Forever"]  = steamspy_static[j]["median_forever"]
+            # d["Median Playtime - 2 Weeks"]  = steamspy_static[j]["median_2weeks"]
+            # d["CCU Histogram"]              = _get_steamspy_ccus(file_count, steamspy_end_point, d)
 
             acc_up = 0
             acc_down = 0
@@ -224,6 +232,7 @@ if __name__ == "__main__":
                         counter += 1
 
                     d["Completion"] = np.median(each_completed_cop)
+                    completion_genre(d,d["Completion"])
             else:
                 d["Completion"] = -1
 
@@ -236,9 +245,9 @@ if __name__ == "__main__":
         j += 1
         count += 1
 
-    print("Making system...")
-    make_dirs(parent, "entries/")
-    print("Made system")
+    # print("Making system...")
+    # make_dirs(parent, "entries/")
+    # print("Made system")
     new_dt = dict()
     for k,v in dt.items():
         arr = np.array(v)
@@ -249,6 +258,6 @@ if __name__ == "__main__":
             "40th": str(np.percentile(arr,40)), "50th": str(np.percentile(arr,50)),
             "60th": str(np.percentile(arr,60)), "70th": str(np.percentile(arr,70)), "75th": str(np.percentile(arr,75)),
             "80th": str(np.percentile(arr,80)), "90th": str(np.percentile(arr,90)), "99th": str(np.percentile(arr,99))}
-            
-    with open("like_intermediate.json", "w") as f:
-        json.dump(total_like_change, f, indent=2)
+    
+    with open("completion_genre.json", "w") as f:
+        json.dump(new_dt, f, indent=2)
