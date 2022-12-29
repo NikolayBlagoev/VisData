@@ -1,4 +1,4 @@
-import { TooltipComponent } from "./tooltip/tooltip.component";
+import {TooltipComponent} from "./tooltip/tooltip.component";
 
 const ownerScaleText = `0..20,000 ➜ 0
 20,000..50,000              ➜ 0.5
@@ -14,6 +14,13 @@ const ownerScaleText = `0..20,000 ➜ 0
 50,000,000..100,000,000     ➜ 9
 100,000,000..200,000,000    ➜ 9.5
 200,000,000..500,000,000    ➜ 10`;
+
+const exponentialExplanation = "The values in both charts are grades for the raw values calculated with an exponential function." +
+  "All values are normalised to the range [0, 1], then raised to a power, then multiplied by 10.\n " +
+  "The powers are:\n" +
+  "Likes: 2\n" +
+  "Playtime: 0.1\n" +
+  "Owners: 0.1\n";
 
 export function onEnterGameReviews() {
     const t = new TooltipComponent();
@@ -71,24 +78,22 @@ export function onEnterPopularityMetrics(){
     t.setVisible();
     t.tooltip.style("max-width", "650px");
     t.setText("Shows information about likes, playtime, and number of owners. " +
-              "The radar chart on the left has axes normalised to the range [1,10] and shows values for the selected game (blue) and the Steam-wide average (purple). " +
-              "The box plot on the right displays raw values and highlights the selected game. " +
-              "The 'Owners' metric maps a range of values for owners as follows:\r\n" +
-               ownerScaleText);
+              "Values for the selected game are purple and for the Steam-wide average are blue. \n" +
+              exponentialExplanation);
 }
 
 export function onEnterAllGamesTitle(){
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "400px");
-    t.setText("Aggreggate information about all Steam games. Each visualisation highlights where the selected game lies within the data.");
+    t.setText("Aggregate information about all Steam games. Each visualisation highlights where the selected game lies within the data.");
 }
 
 export function onEnterGenreTitle(){
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "400px");
-    t.setText("Aggreggate information about the genres that the selected game falls under. Each visualisation highlights where the selected game lies within the data.");
+    t.setText("Aggregate information about the genres that the selected game falls under. Each visualisation highlights where the selected game lies within the data.");
 }
 
 export function onEnterGenreReleaseTimeline(){
@@ -103,6 +108,15 @@ export function onEnterCcuTimeline(){
     t.setVisible();
     t.tooltip.style("max-width", "400px");
     t.setText("Peak concurrent users (CCU) over time. The genre-wide average is plotted in blue while the selected game is plotted in purple");
+}
+
+export function onEnterGenrePopularityMetrics() {
+  const t = new TooltipComponent();
+  t.setVisible();
+  t.tooltip.style("max-width", "650px");
+  t.setText("Shows information about likes, playtime, and number of owners. " +
+    "Values for the selected game are purple and for the selected genre average are blue. \n" +
+    exponentialExplanation);
 }
 
 export function onLeaveSectionInfo() {
