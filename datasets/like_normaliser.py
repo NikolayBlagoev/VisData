@@ -165,8 +165,10 @@ for file_counter in range(56):
         entry["fixed_date"] = []
 
         j = 0
-        for i in range(len(entry["histogram"])):
-            dt = datetime.fromtimestamp(entry["histogram"][i]["date"]).replace(tzinfo=timezone.utc)
+        for i in range(len(example)):
+            dt = datetime.now().replace(tzinfo=timezone.utc)
+            if len(entry["histogram"])>i:
+              dt = datetime.fromtimestamp(entry["histogram"][i]["date"]).replace(tzinfo=timezone.utc)
             while j< len(example):
                 if (dt-example[j]["date"]).total_seconds() < 23*60*60:
                     entry["histogram"][i]["date"] = int((example[j]["date"]-datetime(1970,1,1).replace(tzinfo=timezone.utc)).total_seconds())
@@ -180,8 +182,12 @@ for file_counter in range(56):
                         "recommendations_down": 0
                     })
                     j+=1
+        
+        if(len(entry["fixed_date"])<30 or len(entry["fixed_date"])>31):
+          print(entry["histogram"])
+          print(entry["pid"])
+          exit()
         del entry["histogram"]
-            
         # print(entry["fixed_date"])
         # exit()
     with open(f"normalised_likes/tmp_{file_counter*100}-{(file_counter+1)*1000 - 1}.json", "w") as output_file:

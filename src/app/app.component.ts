@@ -53,7 +53,7 @@ export class AppComponent implements OnInit {
   @ViewChild("genreCategoricalDataRadar", {read: ViewContainerRef}) genreCategoricalDataRadarContainer!: ViewContainerRef;
   @ViewChild("genreCategoricalDataBox", {read: ViewContainerRef}) genreCategoricalDataBoxContainer!: ViewContainerRef;
   @ViewChild("completionPie", {read: ViewContainerRef}) completionPieContainer!: ViewContainerRef;
-
+  @ViewChild("genreLikes", {read: ViewContainerRef}) genreLikes!: ViewContainerRef;
   // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
   @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent;
 
@@ -262,7 +262,7 @@ export class AppComponent implements OnInit {
     likesOverTimeLineComp.instance.data =
     [[{"data":d1,"colour":"#2196F3", "label": "Likes"},
     {"data":d2,"colour":"#9C27B0", "label": "Dislikes"}], startingLikes];
-    likesOverTimeLineComp.instance.width = 1200;
+    likesOverTimeLineComp.instance.width = 1400;
     // console.log(entry);
     const ccu_histogram: LineData[] = [];
     for (const el in entry["CCU Histogram"]) {
@@ -271,7 +271,7 @@ export class AppComponent implements OnInit {
     this.ccuOverTimeLineContainer.clear();
     const ccuOverTimeLineComp = this.ccuOverTimeLineContainer.createComponent(LineComponent);
     ccuOverTimeLineComp.instance.data = [[{"data": ccu_histogram, "colour": "#2196F3", "label": "Players"}], 0];
-    ccuOverTimeLineComp.instance.width = 1200;
+    ccuOverTimeLineComp.instance.width = 1400;
     ccuOverTimeLineComp.instance.dataLabel = "Players";
 
     this.numericDataBinScatter.onSelectedGameChange(this.currentGame.appid);
@@ -339,6 +339,7 @@ export class AppComponent implements OnInit {
 
     const entry: GameEntry = await this.fetchService.fetchFromTree(this.currentGame.appid);
     const completion_data = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
+    const like_genre = await this.fetchService.fetch("assets/aggregate/like_30_day_genre.json");
     const dataThis = this.calculateDataThisGame(entry);
 
     document.getElementById("likesGenreComparison")!.textContent
@@ -432,6 +433,18 @@ export class AppComponent implements OnInit {
     // completionPieComp.instance.legendHorizontalOffset = 130;
     // completionPieComp.instance.legendTextVerticalOffset = 15;
     // completionPieComp.instance.highlighted = index;
+
+
+    this.genreLikes.clear();
+    const likesOverTimeLineComp = this.genreLikes.createComponent(LineComponent);
+    const d1: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down + el.recommendations_up == 0 ? 0 : el.recommendations_up/(el.recommendations_down + el.recommendations_up) };});
+    const d2: LineData[] = like_genre[this.currentGenre].map(el => {return {"date": new Date(el["date"] * 1000), "value": el["val"]};});
+    d1.shift();
+    d2.shift();
+    likesOverTimeLineComp.instance.data =
+    [[{"data":d1,"colour":"#2196F3", "label": "Game Likes"},
+    {"data":d2,"colour":"#9C27B0", "label": "Genre Median Likes"}], 0];
+    likesOverTimeLineComp.instance.width = 1400;
   }
 
   private _filter(value: string): KaggleGame[] {

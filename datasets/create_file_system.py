@@ -140,13 +140,30 @@ def likes_30_days_genre(game):
             dt[genre].append(rating)
 
 def completion_genre(game, completion):
-    
-        
     for genre in game["genre"]:
         if not dt.get(genre):
             dt[genre] = [completion]
         else:
             dt[genre].append(completion)
+
+def like_genre_histogram(game):
+    for genre in game["genre"]:
+        if not dt.get(genre):
+            dt[genre] = d["Like Histogram"]
+            for i in range(len(d["Like Histogram"])):
+                dt[genre][i]["Like percentage"] = []
+                if d["Like Histogram"][i]["recommendations_down"] == 0:
+                    continue
+                dt[genre][i]["Like percentage"].append(
+                    d["Like Histogram"][i]["recommendations_up"]/( d["Like Histogram"][i]["recommendations_down"]+d["Like Histogram"][i]["recommendations_up"]))
+
+        else:
+            
+            for i in range(len(d["Like Histogram"])):
+                if d["Like Histogram"][i]["recommendations_down"] == 0:
+                    continue
+                dt[genre][i]["Like percentage"].append(
+                    d["Like Histogram"][i]["recommendations_up"]/( d["Like Histogram"][i]["recommendations_down"]+d["Like Histogram"][i]["recommendations_up"]))
 
 
 
@@ -190,7 +207,10 @@ if __name__ == "__main__":
                 meta = json.load(fl)
             # with open(f"steamspy/static_data/tmp_{file_count}-{steamspy_end_point}.json") as fl:
             #     steamspy_static = json.load(fl)
-
+        if len(norm[i]["fixed_date"]) < 30:
+            print(len(norm[i]["fixed_date"]))
+            print(d["appid"])
+        
         if d["appid"] > 0:
             d["Meta Score"]     = meta[j]["Meta Score"]
             d["User Score"]     = meta[j]["User Score"]
@@ -219,20 +239,21 @@ if __name__ == "__main__":
                 if len(each_completed) < 2:
                     d["Completion"] = -1
                 else:
-                    each_completed_cop = np.array(each_completed)
+                    # each_completed_cop = np.array(each_completed)
 
-                    each_completed_cop = each_completed_cop.reshape(-1, 1)
-                    model = AgglomerativeClustering(
-                        linkage="ward", affinity="euclidean")
-                    model.fit(each_completed_cop)
-                    counter = 0
-                    each_completed_cop = []
-                    while counter < len(model.labels_) and model.labels_[counter] == model.labels_[0]:
-                        each_completed_cop.append(each_completed[counter])
-                        counter += 1
+                    # each_completed_cop = each_completed_cop.reshape(-1, 1)
+                    # model = AgglomerativeClustering(
+                    #     linkage="ward", affinity="euclidean")
+                    # model.fit(each_completed_cop)
+                    # counter = 0
+                    # each_completed_cop = []
+                    # while counter < len(model.labels_) and model.labels_[counter] == model.labels_[0]:
+                    #     each_completed_cop.append(each_completed[counter])
+                    #     counter += 1
 
-                    d["Completion"] = np.median(each_completed_cop)
-                    completion_genre(d,d["Completion"])
+                    # d["Completion"] = np.median(each_completed_cop)
+                    d["Completion"] = -1
+                    
             else:
                 d["Completion"] = -1
 
@@ -244,20 +265,21 @@ if __name__ == "__main__":
         i += 1
         j += 1
         count += 1
-
+        like_genre_histogram(d)
+    # exit()
     # print("Making system...")
     # make_dirs(parent, "entries/")
     # print("Made system")
     new_dt = dict()
     for k,v in dt.items():
-        arr = np.array(v)
-        arr.sort()
-        new_dt[k]={"mean": str(arr.mean()), "std": str(arr.std()), "max": str(arr.max()), "min": str(arr.min()), "median": str(np.median(arr)),
-            "10th": str(np.percentile(arr,10)),
-            "20th": str(np.percentile(arr,20)), "25th": str(np.percentile(arr,25)), "30th": str(np.percentile(arr,30)), 
-            "40th": str(np.percentile(arr,40)), "50th": str(np.percentile(arr,50)),
-            "60th": str(np.percentile(arr,60)), "70th": str(np.percentile(arr,70)), "75th": str(np.percentile(arr,75)),
-            "80th": str(np.percentile(arr,80)), "90th": str(np.percentile(arr,90)), "99th": str(np.percentile(arr,99))}
-    
-    with open("completion_genre.json", "w") as f:
+        new_dt[k] = []
+        for day in v:
+            arr = np.array(day["Like percentage"])
+            arr.sort()
+            out = str(np.median(arr))
+            if out == "nan":
+                out = "0.0"
+            new_dt[k].append({"date": day["date"], "val": out })
+     
+    with open("like_30_day_genre.json", "w") as f:
         json.dump(new_dt, f, indent=2)
