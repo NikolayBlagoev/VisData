@@ -11,14 +11,10 @@ import {TooltipComponent} from '../tooltip/tooltip.component';
   encapsulation: ViewEncapsulation.None
 })
 export class RadarComponent implements AfterViewInit {
-
-  // private dset = [{"Likes": 3, "Likes_recent": 3,"Playtime": 2, "AVGPlaytime": 10, "Owners": 2},
-  // {"Likes": 7, "Likes_recent": 7, "Playtime": 8, "AVGPlaytime": 6, "Owners": 10}];
-  // private features = ["Likes", "Likes_recent","Playtime", "AVGPlaytime", "Owners"];
-
   instanceId!: string;
   @Input() data!: [[any, any], string[]];
 
+  private svg;
   @Input() margin     = 80;
   @Input() width      = 1200;
   @Input() height     = 600;
@@ -34,11 +30,8 @@ export class RadarComponent implements AfterViewInit {
   readonly fillColors                  = ["#9C27B0", "#2196F3", "#009688", "FF9800"];
   readonly pointColors                 = ["#4A148C", "#0D47A1", "#004D40", "E65100"];
 
-  private svg;
 
-  constructor(private idService: IdService) {
-    this.instanceId = idService.generateId();
-  }
+  constructor(private idService: IdService) { this.instanceId = idService.generateId(); }
 
   ngAfterViewInit(): void {
     // Account for margin
@@ -64,10 +57,10 @@ export class RadarComponent implements AfterViewInit {
    * @param data Array of n elements, with each element having a field for each feature,
    * each having a value between 0 and 10
    * (e.g. data = [{"likes": 4, "dislikes": 2}, {"likes": 5, "dislikes": 6}])
-   * @param features Array of the name of the features
+   * @param featureNames Array of the names of the features
    * (e.g. features = ["likes", "dislikes"])
    */
-  private drawRadar(data: any[], features: any[]): void{
+  private drawRadar(data: any[], featureNames: any[]): void {
     const rscale = d3.scaleLinear()
       .domain([0, 10])
       .range([0, this.maxRadius]);
@@ -77,12 +70,12 @@ export class RadarComponent implements AfterViewInit {
         return {"x": this.centerHorizontalOffset + x, "y": this.centerVerticalOffset - y,
                 "name": name, "val": attr_value};
     };
-    const shape_maker = (d) => {
+    const shapeMaker = (d) => {
         const coordinates: any = [];
-        for (let i = 0; i <= features.length; i++){
-          const iMod = i % features.length; // Allows for first point to be added again to circularly connect path for styling
-          const angle = (Math.PI / 2) + (2 * Math.PI * iMod / features.length);
-          coordinates.push(angler(angle,d[features[iMod]], features[iMod], d[features[iMod]]));
+        for (let i = 0; i <= featureNames.length; i++){
+          const iMod = i % featureNames.length; // Allows for first point to be added again to circularly connect path for styling
+          const angle = (Math.PI / 2) + (2 * Math.PI * iMod / featureNames.length);
+          coordinates.push(angler(angle,d[featureNames[iMod]], featureNames[iMod], d[featureNames[iMod]]));
         }
         return coordinates;
       };
@@ -91,9 +84,9 @@ export class RadarComponent implements AfterViewInit {
                    .y(d => d.y);
     [1, 2.5, 5, 7.5, 10].forEach(t => {
         const coordinates: any = [];
-        for (let i = 0; i < features.length; i++) {
-          const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-          coordinates.push(angler(angle,t, features[i],0));
+        for (let i = 0; i < featureNames.length; i++) {
+          const angle = (Math.PI / 2) + (2 * Math.PI * i / featureNames.length);
+          coordinates.push(angler(angle,t, featureNames[i],0));
         }
         coordinates.push(coordinates[0]);
         this.svg.append("path")
@@ -104,11 +97,11 @@ export class RadarComponent implements AfterViewInit {
       });
 
 
-      for (let i = 0; i < features.length; i++) {
-        const ft_name = features[i];
-        const angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-        const line_coordinate = angler(angle, 10, features[i],0);
-        const label_coordinate = angler(angle, 10.5, features[i],0);
+      for (let i = 0; i < featureNames.length; i++) {
+        const ft_name = featureNames[i];
+        const angle = (Math.PI / 2) + (2 * Math.PI * i / featureNames.length);
+        const line_coordinate = angler(angle, 10, featureNames[i],0);
+        const label_coordinate = angler(angle, 10.5, featureNames[i],0);
 
         this.svg.append("line")
         .attr("x1", this.centerHorizontalOffset)
@@ -120,7 +113,7 @@ export class RadarComponent implements AfterViewInit {
         this.svg.append("text")
         .attr("x", label_coordinate.x)
         .attr("y", label_coordinate.y)
-        .attr("text-anchor", i > (features.length/2)? "left" : "end")
+        .attr("text-anchor", i > (featureNames.length/2)? "left" : "end")
         .style("font-size", this.labelTextSize)
         .text(ft_name);
     }
@@ -128,9 +121,8 @@ export class RadarComponent implements AfterViewInit {
     const tooltip = new TooltipComponent();
 
     data.forEach((d, i) => {
-      const coordinates = shape_maker(d);
+      const coordinates = shapeMaker(d);
       const fillColor   = this.fillColors[i % this.fillColors.length];
-      const pointColor  = this.pointColors[i % this.pointColors.length];
 
       this.svg.append("path")
         .datum(coordinates)
@@ -140,7 +132,7 @@ export class RadarComponent implements AfterViewInit {
     });
 
     data.forEach((d,i) => {
-      const coordinates = shape_maker(d);
+      const coordinates = shapeMaker(d);
       
       const pointColor  = this.pointColors[i % this.pointColors.length];
       this.svg.selectAll("dot")
@@ -151,14 +143,10 @@ export class RadarComponent implements AfterViewInit {
         .attr("r", this.attrDotRadius)
         .attr("fill", pointColor)
         .classed("data-point", true)
-        .on("mouseover", (_,d) => {
+        .on("mouseover", (_: any, d) => {
           tooltip.setText(`${d.name}: ${d.val}`).setVisible();
         })
-        .on("mouseout",  (_) =>{
-          tooltip.setHidden();
-
-
-        });
+        .on("mouseout",  (_: any) => { tooltip.setHidden(); });
     });
   }
 

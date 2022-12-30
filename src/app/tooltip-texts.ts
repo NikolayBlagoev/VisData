@@ -108,7 +108,7 @@ export function onEnterGenreReleaseTimeline(){
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "400px");
-    t.setText("Number of released games released for this genre over time. The selected game is highlighted");
+    t.setText("Number of released games released for this genre over time");
 }
 
 export function onEnterCcuTimeline(){

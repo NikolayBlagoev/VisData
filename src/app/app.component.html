@@ -10,7 +10,7 @@
       <mat-label style="user-select: none;">Game name</mat-label>
       <input matInput type="search" [formControl]="searchControl" [matAutocomplete]="auto">
       <mat-autocomplete #auto="matAutocomplete" panelWidth="500px"
-                        [displayWith]="extractGameName"
+                        [displayWith]="utils.extractGameName"
                         (optionSelected)="onGameSelection($event.option.value)">
         <mat-option *ngFor="let game of filteredData | async" [value]="game">
           <span>{{game.name}}</span>
@@ -34,9 +34,6 @@
   <!-- Header -->
   <mat-card class="game-card">
     <mat-card-header>
-      <!-- WHY IS THIS IN REVERSE?!?!?!??!? IT REFUSES TO DISPLAY THEM IN THE RIGHT ORDER? -->
-
-
       <img mat-card-xxl-image [attr.src]="currentGame.header_image" class="game-card-image" alt="Cover photo" />
       <div style="display: flex; width: 100%;">
         <div class="header-card">
@@ -54,15 +51,15 @@
             <mat-list>
               <mat-list-item>
                 <b>Windows: </b>
-                <mat-icon #winSupport>{{supportToIconName(currentGame.platforms.windows)}}</mat-icon>
+                <mat-icon #winSupport>{{utils.supportToIconName(currentGame.platforms.windows)}}</mat-icon>
               </mat-list-item>
               <mat-list-item>
                 <b>Linux: </b>
-                <mat-icon #linuxSupport>{{supportToIconName(currentGame.platforms.linux)}}</mat-icon>
+                <mat-icon #linuxSupport>{{utils.supportToIconName(currentGame.platforms.linux)}}</mat-icon>
               </mat-list-item>
               <mat-list-item>
                 <b>Mac: </b>
-                <mat-icon #macSupport>{{supportToIconName(currentGame.platforms.mac)}}</mat-icon>
+                <mat-icon #macSupport>{{utils.supportToIconName(currentGame.platforms.mac)}}</mat-icon>
               </mat-list-item>
             </mat-list>
           </div>
@@ -130,9 +127,7 @@
 
   <!-- Second row -->
   <div class="two-col-container game-card">
-    <!-- TODO: Replace testing dummy with check of existence of Metacritic data once processing is complete -->
     <mat-card class="col">
-
       <div style="display: flex; flex-direction: row;">
         <h2 style="margin-inline-start: 5%; margin-inline-end: 1%;">Game Reviews</h2>
         <mat-icon (mouseenter)="ttText.onEnterGameReviews()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
@@ -140,14 +135,6 @@
       <div>
         <div #gameReviews class="vis-component"></div>
       </div>
-<!--      <app-bar instanceId="scoresBar"  *ngIf="hasMetaDummy; else steamReviewsPie"-->
-<!--               [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300>-->
-<!--      </app-bar>-->
-<!--
-      <ng-template #steamReviewsPie>
-
-        <app-pie instanceId="steamReviewsPie"></app-pie>
-      </ng-template> -->
     </mat-card>
     <mat-card class="col">
       <div style="display: flex; flex-direction: row;">
@@ -157,7 +144,6 @@
       <div>
         <div #gameCompletionDonut class="vis-component"></div>
       </div>
-      <!-- <app-donut instanceId="gameCompletionPie"></app-donut> -->
     </mat-card>
   </div>
 
@@ -201,24 +187,6 @@
       </div>
     </mat-card>
   </div>
-  <!-- Fourth row -->
-<!--  <div style="position: relative;-->
-<!--  margin-inline-start: auto;-->
-<!--  margin-inline-end: auto;-->
-<!--  width: 80%;-->
-<!--  max-width: 80%;-->
-<!--  margin-block-end: 1%;-->
-<!--">-->
-<!--    <mat-card>-->
-<!--      <div>-->
-<!--        <div style="display: flex; flex-direction: row; margin-block-end: 0%;">-->
-<!--          <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Daily CCU</h2>-->
-<!--          <mat-icon (mouseenter)="onEnterCCU30Days()" (mouseleave)="onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>-->
-<!--        </div>-->
-<!--        <app-line instanceId="ccuOverTimeLine"></app-line>-->
-<!--      </div>-->
-<!--    </mat-card>-->
-<!--  </div>-->
 
   <!-- ========== MULTIPLE GAME INFO ========== -->
   <mat-divider></mat-divider>
@@ -263,7 +231,6 @@
       <div>
         <div #genreCount class="vis-component"></div>
       </div>
-<!--      <app-bar instanceId="genreCountBar" [horizontalMargin]=40 [verticalMargin]=40 [width]=550 [height]=300></app-bar>-->
     </mat-card>
 
     <mat-card class="col">
@@ -317,6 +284,7 @@
         <h2 style="margin-inline-start: 5%; margin-inline-end: 0.5%; margin-block-end: 0%;">Release Timeline</h2>
         <mat-icon (mouseenter)="ttText.onEnterGenreReleaseTimeline()" (mouseleave)="ttText.onLeaveSectionInfo()" style="margin-top: 22px;">help_outline</mat-icon>
       </div>
+      <div #genreReleaseTimeline></div>
     </mat-card>
   </div>
 
@@ -349,25 +317,13 @@
       <div mat-card class="three-col-container vis-parent">
         <div class="col">
           <div #genreCategoricalDataRadar></div>
-<!--          <app-radar instanceId="genreCategoricalDataRadar" class="vis-component"-->
-<!--                      [centerVerticalOffset]=150 [centerHorizontalOffset]=200 [width]=400 [height]=300 [margin]=0-->
-<!--                      [maxRadius]=120 [labelTextSize]=13 [attrDotRadius]=4>-->
-<!--          </app-radar>-->
         </div>
 
         <div class="col">
           <div #genreCategoricalDataBox></div>
-<!--          <app-box  instanceId="genreCategoricalDataBox" class="vis-component" [width]=500 [height]=400 [boxHeight]=35-->
-<!--                    [margin]="{top: 40, right: 40, bottom: 40, left: 0}"-->
-<!--                    [scaleTextSize]=11 [labelTextSize]=18>-->
-<!--          </app-box>-->
         </div>
         <div class="col">
-          <div #completionPie></div>
-<!--          <app-pie instanceId="genreCompletionPie" class="vis-component" [horizontalOffset]=180 [radius]=100-->
-<!--                   [labelRadius]=110 [labelFontSize]=16-->
-<!--                   [legendSquareSize]=20 [legendHorizontalOffset]=130 [legendTextVerticalOffset]=15>-->
-<!--          </app-pie>-->
+          <div #genreCompletionDonut></div>
         </div>
       </div>
     </mat-card>

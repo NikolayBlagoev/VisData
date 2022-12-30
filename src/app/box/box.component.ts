@@ -12,7 +12,7 @@ import {BoxData} from './boxData';
   })
 
 export class BoxComponent implements AfterViewInit {
-
+    private svg;
     instanceId!: string;
 
     @Input() data!: [BoxData[], Map<string, number>]; //= [ExampleData, new Map<string, number>()];
@@ -27,8 +27,6 @@ export class BoxComponent implements AfterViewInit {
     @Input() leftTextOffset     = 25;
     @Input() rightTextOffset    = 10;
     @Input() borderWidth        = 1;
-
-    private svg;
 
     // Set the dimensions and margins of the graph
     @Input() margin          = {top: 25, right: 0, bottom: 25, left: 0};
@@ -165,7 +163,6 @@ export class BoxComponent implements AfterViewInit {
 
     private drawPoints(data: Map<string, number>): void {
       data.forEach((value, label) => {
-
         const scaleIdx = this.data[0].findIndex(element => element.label == label);
         const tooltip = new TooltipComponent();
 

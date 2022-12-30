@@ -12,7 +12,7 @@ import { DonutData } from './donutData';
 export class DonutComponent implements AfterViewInit {
   @Input() data: Array<DonutData> = [{"value": 80, "name": "completed"}, {"value": 20, "name": "not"}];
   @Input() displayText = "80%";
-  @Input() pos_val =  80;
+  @Input() positiveValue =  80;
 
   instanceId!: string;
   constructor(private idService: IdService) { this.instanceId = idService.generateId(); }

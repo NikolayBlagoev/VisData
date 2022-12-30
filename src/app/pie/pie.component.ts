@@ -13,7 +13,6 @@ import {PieData, stubData} from './pieData';
 })
 
 export class PieComponent implements AfterViewInit {
-
   @Input() data: PieData[] = stubData;
   @Input() highlighted!: number;
   instanceId: string;
@@ -44,7 +43,7 @@ export class PieComponent implements AfterViewInit {
   @Input() legendTextHorizontalOffset = 30;
   @Input() legendTextVerticalOffset   = 20;
 
-  readonly highlightColor = "#F44336";
+  readonly highlightColor = "#9C27B0";
 
   drawPie(): void {
     let sum = 0;
@@ -61,7 +60,7 @@ export class PieComponent implements AfterViewInit {
 
     const color = d3.scaleOrdinal()
       .domain((d3.extent(this.data, (d) => d.name) as unknown) as string)
-      .range(d3.schemePuOr[10]);
+      .range(d3.schemeBlues[6]); // Abuse the discrete scheme segmentation to get mostly purple shades for visual consistency (God, please forgive me)
 
     const svg = d3.select("svg." + this.instanceId);
 

@@ -56,8 +56,8 @@ export class BarComponent implements AfterViewInit {
   @Input() height               = 400;
   @Input() max_val              = -1;
   readonly barColor             = "#2196F3";
-  readonly gameBarColor         = "#673AB7";
-  readonly highlightedBarColor  = "#F44336";
+  readonly gameBarColor         = "#9C27B0";
+  readonly highlightedBarColor  = "#FF9800";
   readonly strokeColor          = "#303030";
   readonly strokeWidth          = 2;
 

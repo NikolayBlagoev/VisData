@@ -63,6 +63,14 @@ export enum PopMetric {
   Owners
 }
 
+export type PopMetricData = {
+  "Likes": number,
+  "Recent Likes": number
+  "Playtime": number
+  "Recent Playtime": number
+  "Owners": number
+}
+
 export type Distribution = {
   "mean": number,
   "std": number,
