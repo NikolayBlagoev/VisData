@@ -1,6 +1,7 @@
 import { Component, AfterViewInit, Input, ViewEncapsulation } from '@angular/core';
 import * as d3 from 'd3';
 import * as d3HexBin from 'd3-hexbin';
+import { FetchService } from '../fetch.service';
 import { IdService } from '../id.service';
 import { TooltipComponent } from '../tooltip/tooltip.component';
 import { Point, availableNumerics, numericsFiles } from './binScatterData';
@@ -17,7 +18,7 @@ import { clamp } from "./utils";
 export class BinScatterComponent implements AfterViewInit {
     currentAppId = 10;
     instanceId!: string;
-    constructor (private idService: IdService) { this.instanceId = idService.generateId(); }
+    constructor (private idService: IdService, private fetchService: FetchService) { this.instanceId = idService.generateId(); }
 
     // Drawing parameters
     @Input() binRadius          = 14; // Controls radius of each hexagon, i.e. bin granularity
@@ -54,7 +55,7 @@ export class BinScatterComponent implements AfterViewInit {
     readonly colourScaleHorizontalOffset = 100;
     readonly colourScaleVerticalOffset = 0;
     readonly colourScaleSlices = 350; // Must cleanly divide colourScaleHeight
-        
+
 
     ngAfterViewInit(): void {
         this.width   = this.totalWidth - this.margin.left - this.margin.right;
@@ -83,19 +84,15 @@ export class BinScatterComponent implements AfterViewInit {
         const xPath = `assets/numerics/${this.labelToFileName(this.currentXAxis)}`;
         const yPath = `assets/numerics/${this.labelToFileName(this.currentYAxis)}`;
 
-        // Load, process and assign data
-        const xRes                          = await fetch(xPath);
-        const xValue                        = await xRes.text();
-        const xData: Record<string, number> = JSON.parse(xValue);
-        const yRes                          = await fetch(yPath);
-        const yValue                        = await yRes.text();
-        const yData: Record<string, number> = JSON.parse(yValue);
+        // Load, process, and assign data
+        const xData: Record<string, number> = await this.fetchService.fetch(xPath);
+        const yData: Record<string, number> = await this.fetchService.fetch(yPath);
         this.plotData = this.zipToPoints(xData, yData);
-
         this.gameData = this.currentAppId in xData && this.currentAppId in yData    ?
                         {x: xData[this.currentAppId], y: yData[this.currentAppId]}  :
                         undefined;
 
+        // Clear previous graph and draw based on new data
         this.svg.selectAll("*").remove();
         this.drawVisuals();
     }
