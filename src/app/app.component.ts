@@ -30,7 +30,7 @@ export class AppComponent implements OnInit {
   readonly title          = 'VisData';
   readonly t              = new TooltipComponent();
   readonly ttText         = ttText;
-  readonly utils          = utils
+  readonly utils          = utils;
   readonly optionsLength  = 50;
 
   // Commonly used colours
@@ -107,7 +107,7 @@ export class AppComponent implements OnInit {
       lower_quartile: this.gradingService.attributeToGrade("25th", metric, genre),
       upper_quartile: this.gradingService.attributeToGrade("75th", metric, genre)
     };
-  };
+  }
   /* ========== UTILITIES END ========== */
 
   /* ========== GAME SECTION BEGIN ========== */
@@ -328,7 +328,7 @@ export class AppComponent implements OnInit {
     const gameReleaseYear                     = entry.release_date.slice(0, 4);
     const gameReleaseDateWrapper              = [new Date(`${gameReleaseYear}T00:00`)];
     const releaseFrequencies: Array<LineData> = [];
-    for (const year in genreReleases) { releaseFrequencies.push({"date": new Date(`${year}T00:00`), value: genreReleases[year]})}
+    for (const year in genreReleases) { releaseFrequencies.push({"date": new Date(`${year}T00:00`), value: genreReleases[year]});}
 
     this.genreReleaseTimelineContainer.clear();
     const genreReleaseTimeline          = this.genreReleaseTimelineContainer.createComponent(LineComponent);
@@ -404,7 +404,7 @@ export class AppComponent implements OnInit {
 
   private async drawGenreCompletionDonut(entry: GameEntry) {
     const completionData  = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
-    const compl           = parseFloat(completionData[this.currentGenre]["median"])
+    const compl           = parseFloat(completionData[this.currentGenre]["median"]);
 
     this.genreCompletionDonutContainer.clear();
     const genreCompletionDonutComp = this.genreCompletionDonutContainer.createComponent(DonutComponent);
@@ -477,7 +477,7 @@ export class AppComponent implements OnInit {
 
     this.drawGameSection(entry);
     this.drawAllGamesSection(entry);
-    this.drawGenreSection(entry)
+    this.drawGenreSection(entry);
   }
 
   async onGenreSelection(newGenreSelection: string) {

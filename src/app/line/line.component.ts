@@ -101,9 +101,13 @@ export class LineComponent implements AfterViewInit {
                   .setVisible();
             d3.select(e.target).attr("fill", this.selectedCircleColor);
           })
-          .on("mouseout", (e, _) => {
+          .on("mouseout", (e, d) => {
             tooltip.setHidden();
-            d3.select(e.target).attr("fill", container.colour);
+
+            let oldColour;
+            if (this.inHighlights(d.date, containerIdx)) { oldColour = this.highlightedCircleColor; }
+            else { oldColour = container.colour }
+            d3.select(e.target).attr("fill", oldColour);
           });
         });
   }
