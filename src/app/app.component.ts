@@ -98,14 +98,14 @@ export class AppComponent implements OnInit {
     };
   }
 
-  private generateGrades(name: string, metric: PopMetric) : BoxData {
+  private generateGrades(name: string, metric: PopMetric, genre?: string) : BoxData {
     return {
       label: name,
-      min: this.gradingService.attributeToGrade("min", metric),
-      max: this.gradingService.attributeToGrade("max", metric),
-      median: this.gradingService.attributeToGrade("median", metric),
-      lower_quartile: this.gradingService.attributeToGrade("25th", metric),
-      upper_quartile: this.gradingService.attributeToGrade("75th", metric)
+      min: this.gradingService.attributeToGrade("min", metric, genre),
+      max: this.gradingService.attributeToGrade("max", metric, genre),
+      median: this.gradingService.attributeToGrade("median", metric, genre),
+      lower_quartile: this.gradingService.attributeToGrade("25th", metric, genre),
+      upper_quartile: this.gradingService.attributeToGrade("75th", metric, genre)
     };
   };
   /* ========== UTILITIES END ========== */
@@ -385,11 +385,11 @@ export class AppComponent implements OnInit {
   private drawGenreBoxChart(radarDataThis: PopMetricData) {
     // Load genre data
     const boxDataGenre: BoxData[] = [
-      this.generateGrades("Likes", PopMetric.Likes),
-      this.generateGrades("Recent Likes", PopMetric.LikesRecent),
-      this.generateGrades("Playtime", PopMetric.Playtime),
-      this.generateGrades("Recent Playtime", PopMetric.PlaytimeRecent),
-      this.generateGrades("Owners", PopMetric.Owners)];
+      this.generateGrades("Likes", PopMetric.Likes, this.currentGenre),
+      this.generateGrades("Recent Likes", PopMetric.LikesRecent, this.currentGenre),
+      this.generateGrades("Playtime", PopMetric.Playtime, this.currentGenre),
+      this.generateGrades("Recent Playtime", PopMetric.PlaytimeRecent, this.currentGenre),
+      this.generateGrades("Owners", PopMetric.Owners, this.currentGenre)];
 
     this.genreCategoricalDataBoxContainer.clear();
     const genreCategoricalDataBoxComp                   = this.genreCategoricalDataBoxContainer.createComponent(BoxComponent);
@@ -404,7 +404,7 @@ export class AppComponent implements OnInit {
 
   private async drawGenreCompletionDonut(entry: GameEntry) {
     const completionData  = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
-    const compl           = parseFloat (completionData[this.currentGenre]["median"])
+    const compl           = parseFloat(completionData[this.currentGenre]["median"])
 
     this.genreCompletionDonutContainer.clear();
     const genreCompletionDonutComp = this.genreCompletionDonutContainer.createComponent(DonutComponent);

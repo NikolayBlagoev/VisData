@@ -92,7 +92,7 @@ export class LineComponent implements AfterViewInit {
           .attr("cy", function (d) { return yScale(d.value); } )
           .attr("r", this.circleRadius)
           .attr("fill", (d) => {
-            if (container.highlight !== undefined && this.inHighlights(d.date, containerIdx)) { return this.highlightedCircleColor; }
+            if (this.inHighlights(d.date, containerIdx)) { return this.highlightedCircleColor; }
             else { return container.colour; }
           })
           .classed("line-dots", true)
