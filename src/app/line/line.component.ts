@@ -1,6 +1,5 @@
 import {AfterViewInit, Component, Input, ViewEncapsulation} from '@angular/core';
 import * as d3 from 'd3';
-import {HistogramData} from "../data-types";
 import {IdService} from "../id.service";
 import {TooltipComponent} from '../tooltip/tooltip.component';
 import {LineContainer, LineData} from "./lineData";
@@ -25,7 +24,8 @@ export class LineComponent implements AfterViewInit {
 
   // Drawing parameters
   @Input() circleRadius           = 7;
-  readonly highlightedCircleColor = "#FF9800";
+  readonly highlightedCircleColor = "#9C27B0";
+  readonly selectedCircleColor    = "#FF9800";
 
   constructor(private idService: IdService) { this.instanceId = idService.generateId(); }
 
@@ -45,23 +45,6 @@ export class LineComponent implements AfterViewInit {
       .append("g")
       .style("user-select", "none")
       .attr("transform", `translate(${this.horizontalMargin / 2}, ${this.verticalMargin / 2})`);
-  }
-
-  public fix_data(in_data: HistogramData[]){
-    if (in_data[0].recommendations_up + in_data[0].recommendations_down == 0) { in_data = in_data.slice(1); }
-
-    // Map histogram to proper data
-    const data: LineData[] = in_data.map((el) => {
-      const up = el.recommendations_up;
-      const down = el.recommendations_down;
-      const total = Math.max(1, up + down);
-      const currentValue = (up / total) * 100;
-      return {
-        "date": new Date(el.date * 1000),
-        "value": currentValue
-      };
-    });
-    return {"data": data};
   }
 
   private drawLine(inp: LineContainer[]) {
@@ -94,31 +77,48 @@ export class LineComponent implements AfterViewInit {
       .call(d3.axisLeft(yScale));
 
     const tooltip = new TooltipComponent();
-    inp.forEach(data => {
+    inp.forEach((container, containerIdx) => {
       this.svg.append("path")
-        .datum(data.data)
+        .datum(container.data)
         .attr("d", d3.line<any>()
                      .x(function(d) { return xScale(d.date); })
                      .y(function(d) { return yScale(d.value); }))
-        .attr("stroke", data.colour)
+        .attr("stroke", container.colour)
         .classed("line-segment", true);
       this.svg.selectAll("dot")
-          .data(data.data).enter()
+          .data(container.data).enter()
           .append("circle")
           .attr("cx", function (d) { return xScale(d.date); } )
           .attr("cy", function (d) { return yScale(d.value); } )
           .attr("r", this.circleRadius)
-          .attr("fill", data.colour)
+          .attr("fill", (d) => {
+            if (container.highlight !== undefined && this.inHighlights(d.date, containerIdx)) { return this.highlightedCircleColor; }
+            else { return container.colour; }
+          })
           .classed("line-dots", true)
           .on("mouseover", (e, d) => {
-            tooltip.setText(`${data.label}: ${d.value}`)
+            tooltip.setText(`${container.label}: ${d.value}`)
                   .setVisible();
-            d3.select(e.target).attr("fill", this.highlightedCircleColor);
+            d3.select(e.target).attr("fill", this.selectedCircleColor);
           })
           .on("mouseout", (e, _) => {
             tooltip.setHidden();
-            d3.select(e.target).attr("fill", data.colour);
+            d3.select(e.target).attr("fill", container.colour);
           });
         });
+  }
+
+  /**
+   * Check if the given date should be highlighted on a specific line
+   * @param date Date to check for presence
+   * @param containerIdx Index of the container in `this.data` to check for presence
+   */
+  private inHighlights(date: Date, containerIdx: number): boolean {
+    if (this.data[containerIdx].highlight === undefined) { return false; }
+    
+    for (const currentDate of this.data[containerIdx].highlight!) {
+      if (currentDate.getTime() == date.getTime()) { return true; }
+    }
+    return false;
   }
 }

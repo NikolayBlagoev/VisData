@@ -181,7 +181,7 @@ export class AppComponent implements OnInit {
       const gameReviewBar = this.gameReviewContainer.createComponent(BarComponent);
       gameReviewBar.instance.data       = reviewData;
       gameReviewBar.instance.max_val    = 100;
-      gameReviewBar.instance.height     = 300;
+      gameReviewBar.instance.height     = 310;
       gameReviewBar.instance.bar_margin = 70;
     } else {
       const gameReviewDonut = this.gameReviewContainer.createComponent(DonutComponent);
@@ -261,7 +261,6 @@ export class AppComponent implements OnInit {
     genreComp.instance.to_sort          = true;
     genreComp.instance.data             = processedData;
     genreComp.instance.horizontalMargin = 90;
-    genreComp.instance.height           = 400;
     genreComp.instance.highlighted      = entry.genre;
   }
   
@@ -307,9 +306,11 @@ export class AppComponent implements OnInit {
     });
 
     this.pricePieContainer.clear();
-    const pricePieComp                = this.pricePieContainer.createComponent(PieComponent);
-    pricePieComp.instance.data        = pieData;
-    pricePieComp.instance.highlighted = index;
+    const pricePieComp                            = this.pricePieContainer.createComponent(PieComponent);
+    pricePieComp.instance.data                    = pieData;
+    pricePieComp.instance.highlighted             = index;
+    pricePieComp.instance.height                  = 432;
+    pricePieComp.instance.legendHorizontalOffset  = 235;
   }
 
   private drawAllGamesSection(entry: GameEntry) {
@@ -324,12 +325,18 @@ export class AppComponent implements OnInit {
     // https://stackoverflow.com/a/47994011/14247568
     const allReleases                         = await this.fetchService.fetch("assets/aggregate/release_count_year_genres.json");
     const genreReleases                       = allReleases[this.currentGenre];
+    const gameReleaseYear                     = entry.release_date.slice(0, 4);
+    const gameReleaseDateWrapper              = [new Date(`${gameReleaseYear}T00:00`)];
     const releaseFrequencies: Array<LineData> = [];
     for (const year in genreReleases) { releaseFrequencies.push({"date": new Date(`${year}T00:00`), value: genreReleases[year]})}
 
     this.genreReleaseTimelineContainer.clear();
     const genreReleaseTimeline          = this.genreReleaseTimelineContainer.createComponent(LineComponent);
-    genreReleaseTimeline.instance.data  = [{"data": releaseFrequencies, "colour": this.MATERIAL_BLUE_500, "label": "Genre Releases"}];
+    genreReleaseTimeline.instance.data  = [{
+      "data": releaseFrequencies,
+      "colour": this.MATERIAL_BLUE_500,
+      "label": "Genre Releases",
+      "highlight": gameReleaseDateWrapper}];
     genreReleaseTimeline.instance.width = 1400;
   }
   
@@ -470,10 +477,7 @@ export class AppComponent implements OnInit {
 
     this.drawGameSection(entry);
     this.drawAllGamesSection(entry);
-
-    // Also invoke the genre selection callback because this is not called when the selection box
-    // has its value changed externally (such as by a game change)
-    this.onGenreSelection(this.currentGenre);
+    this.drawGenreSection(entry)
   }
 
   async onGenreSelection(newGenreSelection: string) {
