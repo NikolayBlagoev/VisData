@@ -40,7 +40,7 @@ export function onEnterLikeGenre() {
     const t = new TooltipComponent();
     t.setVisible();
     t.tooltip.style("max-width", "400px");
-    t.setText("Shows like percentage of the game for each day (blue line) against median like percentage of the genre (purple line). NOTE: games with 0 likes and dislikes in a day are excluded");
+    t.setText("Shows like percentage of the game for each day (blue line) against median like percentage of the genre (purple line).\r\nNOTE: games with 0 likes and dislikes in a day are excluded");
 }
 
 export function onEnterGenreCount() {
@@ -69,6 +69,7 @@ export function onEnterNumericData() {
     t.setVisible();
     t.tooltip.style("max-width", "650px");
     t.setText("Shows two pieces of numeric data plotted against each other for all Steam games. " +
+              "The cluster that the currently selected game falls into is highlighted. " +
               "The 'Owners' metric maps a range of values for owners as follows:\r\n" +
                ownerScaleText);
 }

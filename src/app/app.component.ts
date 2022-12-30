@@ -26,22 +26,20 @@ import {TooltipComponent} from './tooltip/tooltip.component';
 })
 
 export class AppComponent implements OnInit {
-
   readonly title          = 'VisData';
   readonly t              = new TooltipComponent();
   readonly ttText         = ttText;
   readonly optionsLength  = 50;
 
-  data: KaggleGame[] = [];
-
+  // Data loading, filtering, and storage
   currentGame: KaggleGame = initialGame;
   currentGenre: string = initialGame.genre[0];
-
   popFeatures = ["Likes", "Recent Likes", "Playtime", "Recent Playtime", "Owners"];
-
-  searchControl = new FormControl();
+  data: KaggleGame[] = [];
   filteredData = new Observable<KaggleGame[]>();
-
+  searchControl = new FormControl();
+  
+  // Component containers for component generation, data population and drawing
   @ViewChild("categoricalDataRadar", {read: ViewContainerRef}) categoricalDataRadarContainer!: ViewContainerRef;
   @ViewChild("categoricalDataBox", {read: ViewContainerRef}) categoricalDataBoxContainer!: ViewContainerRef;
   @ViewChild("gameCompletionDonut", {read: ViewContainerRef}) gameCompletionDonutContainer!: ViewContainerRef;
@@ -52,10 +50,10 @@ export class AppComponent implements OnInit {
   @ViewChild("pricePie", {read: ViewContainerRef}) pricePieContainer!: ViewContainerRef;
   @ViewChild("genreCategoricalDataRadar", {read: ViewContainerRef}) genreCategoricalDataRadarContainer!: ViewContainerRef;
   @ViewChild("genreCategoricalDataBox", {read: ViewContainerRef}) genreCategoricalDataBoxContainer!: ViewContainerRef;
+  @ViewChild("genreCcuTimeline", {read: ViewContainerRef}) genreCcuTimelineContainer!: ViewContainerRef;
   @ViewChild("completionPie", {read: ViewContainerRef}) completionPieContainer!: ViewContainerRef;
   @ViewChild("genreLikes", {read: ViewContainerRef}) genreLikes!: ViewContainerRef;
-  // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
-  @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent;
+  @ViewChild(BinScatterComponent) numericDataBinScatter!: BinScatterComponent; // Scatter plot handles its own data, so it doesn't need to be reloaded like the other components
 
   constructor(private fetchService: FetchService,
               private gradingService: GradingService) {}
@@ -88,17 +86,13 @@ export class AppComponent implements OnInit {
 
   private formatOwnersAmount(amount: number) {
     let ownersThis;
-    if (amount < 1000) {
-      ownersThis = amount;
-    } else if (amount < 1000000) {
-      ownersThis = Math.round(amount / 1000) + "k";
-    } else {
-      ownersThis = Math.round(amount / 1000000) + "M";
-    }
+    if (amount < 1000) { ownersThis = amount; }
+    else if (amount < 1000000) { ownersThis = Math.round(amount / 1000) + "k"; }
+    else { ownersThis = Math.round(amount / 1000000) + "M"; }
     return ownersThis;
   }
 
-  calculateDataThisGame(entry: GameEntry) {
+  private calculateDataThisGame(entry: GameEntry) {
     return {
       "Likes": entry.positive / (entry.positive + entry.negative),
       "Recent Likes":entry["Up 30 Days"] / (entry["Up 30 Days"] + entry["Down 30 Days"]),
@@ -108,7 +102,7 @@ export class AppComponent implements OnInit {
     };
   }
 
-  generateRadarDataThisGame(entry: GameEntry) {
+  private generateRadarDataThisGame(entry: GameEntry) {
     const dataThis = this.calculateDataThisGame(entry);
     return {
       "Likes": this.gradingService.numberToGrade(dataThis.Likes, PopMetric.Likes),
@@ -263,7 +257,6 @@ export class AppComponent implements OnInit {
     [[{"data":d1,"colour":"#2196F3", "label": "Likes"},
     {"data":d2,"colour":"#9C27B0", "label": "Dislikes"}], startingLikes];
     likesOverTimeLineComp.instance.width = 1400;
-    // console.log(entry);
     const ccu_histogram: LineData[] = [];
     for (const el in entry["CCU Histogram"]) {
       ccu_histogram.push({"date": new Date(el), "value": entry["CCU Histogram"][el]});
@@ -332,6 +325,10 @@ export class AppComponent implements OnInit {
     const pricePieComp = this.pricePieContainer.createComponent(PieComponent);
     pricePieComp.instance.data = pieData;
     pricePieComp.instance.highlighted = index;
+
+    // Also invoke the genre selection callback because this is not called when the selection box
+    // has its value changed externally (such as by a game change)
+    this.onGenreSelection(this.currentGenre);
   }
 
   async onGenreSelection(newGenreSelection: string) {
@@ -423,17 +420,9 @@ export class AppComponent implements OnInit {
     const compl = parseFloat (completion_data[this.currentGenre]["median"])
     completionPieComp.instance.data = [{"value": compl, "name": "completed"}, {"value": 100 - compl, "name": "not"}];
     completionPieComp.instance.displayText = compl.toFixed(1) + "%";
-    // completionPieComp.instance.horizontalOffset = 180;
     completionPieComp.instance.radius = 100;
     completionPieComp.instance.width = 250;
     completionPieComp.instance.fontSize=40;
-    // completionPieComp.instance.labelRadius = 110;
-    // completionPieComp.instance.labelFontSize = 16;
-    // completionPieComp.instance.legendSquareSize = 20;
-    // completionPieComp.instance.legendHorizontalOffset = 130;
-    // completionPieComp.instance.legendTextVerticalOffset = 15;
-    // completionPieComp.instance.highlighted = index;
-
 
     this.genreLikes.clear();
     const likesOverTimeLineComp = this.genreLikes.createComponent(LineComponent);
@@ -445,6 +434,25 @@ export class AppComponent implements OnInit {
     [[{"data":d1,"colour":"#2196F3", "label": "Game Likes"},
     {"data":d2,"colour":"#9C27B0", "label": "Genre Median Likes"}], 0];
     likesOverTimeLineComp.instance.width = 1400;
+
+    // Genre CCU timeline data generation
+    const genreCcuData                    = await this.fetchService.fetch("assets/aggregate/steamspy_daily_ccu_per_genre.json");
+    const gameCcuLineData: Array<LineData>  = [];
+    const genreCcuLineData: Array<LineData> = [];
+    for (const el in entry["CCU Histogram"]) {
+      gameCcuLineData.push({"date": new Date(el), "value": entry["CCU Histogram"][el]});
+      genreCcuLineData.push({"date": new Date(el), "value": genreCcuData[this.currentGenre][el]["mean"]});
+    }
+
+    // Genre CCU timeline drawing
+    this.genreCcuTimelineContainer.clear();
+    const genreCcuTimeline              = this.genreCcuTimelineContainer.createComponent(LineComponent);
+    genreCcuTimeline.instance.data      = [
+      [{"data": genreCcuLineData, "colour": "#2196F3", "label": "Genre"},
+       {"data": gameCcuLineData,  "colour": "#9C27B0", "label": "Game"}],
+      0];
+    genreCcuTimeline.instance.dataLabel = "Concurrent Users";
+    genreCcuTimeline.instance.width = 1400;
   }
 
   private _filter(value: string): KaggleGame[] {
@@ -455,13 +463,9 @@ export class AppComponent implements OnInit {
     }
 
     let result: KaggleGame[];
-
-    if (value === "") {
-      result = this.data.slice(0, this.optionsLength);
-    }
+    if (value === "") { result = this.data.slice(0, this.optionsLength); }
     else {
       const filterValue = value.toLowerCase();
-
       result = this.data
         .filter(game => game.name.toLowerCase().includes(filterValue))
         .slice(0, this.optionsLength);
