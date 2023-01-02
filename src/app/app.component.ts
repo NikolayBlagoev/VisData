@@ -17,8 +17,8 @@ import {PieComponent} from "./pie/pie.component";
 import {PieData} from "./pie/pieData";
 import {RadarComponent} from "./radar/radar.component";
 import * as ttText from './tooltip-texts';
-import * as utils from './utils';
 import {TooltipComponent} from './tooltip/tooltip.component';
+import * as utils from './utils';
 
 @Component({
   selector: 'app-root',
@@ -30,8 +30,9 @@ export class AppComponent implements OnInit {
   readonly title          = 'VisData';
   readonly t              = new TooltipComponent();
   readonly ttText         = ttText;
-  readonly utils          = utils
+  readonly utils          = utils;
   readonly optionsLength  = 50;
+  readonly lineGraphWidth = 1200;
 
   // Commonly used colours
   readonly MATERIAL_BLUE_500    = "#2196F3";
@@ -44,7 +45,7 @@ export class AppComponent implements OnInit {
   data: KaggleGame[]      = [];
   filteredData            = new Observable<KaggleGame[]>();
   searchControl           = new FormControl();
-  
+
   // Component containers for component generation, data population and drawing
   @ViewChild("categoricalDataRadar", {read: ViewContainerRef}) categoricalDataRadarContainer!: ViewContainerRef;
   @ViewChild("categoricalDataBox", {read: ViewContainerRef}) categoricalDataBoxContainer!: ViewContainerRef;
@@ -107,7 +108,7 @@ export class AppComponent implements OnInit {
       lower_quartile: this.gradingService.attributeToGrade("25th", metric, genre),
       upper_quartile: this.gradingService.attributeToGrade("75th", metric, genre)
     };
-  };
+  }
   /* ========== UTILITIES END ========== */
 
   /* ========== GAME SECTION BEGIN ========== */
@@ -174,7 +175,7 @@ export class AppComponent implements OnInit {
     reviewData.push({"Name": "Steam", "Value": entry.positive / (entry.positive + entry.negative) * 100});
     if (entry["Meta Score"] != -1) reviewData.push({"Name": "Metacritic", "Value": parseInt(entry["Meta Score"])});
     if (entry["User Score"] != -1) reviewData.push({"Name": "Metacritic User", "Value": entry["User Score"] * 10});
-    
+
     // Decide whether to draw multiple review bar chart or Steam review donut chart; Draw
     this.gameReviewContainer.clear();
     if (reviewData.length > 1) {
@@ -216,13 +217,13 @@ export class AppComponent implements OnInit {
     const d2: LineData[] = entry["Like Histogram"].map(el => {return {"date": new Date(el.date * 1000), "value": el.recommendations_down};});
     d1.shift();
     d2.shift();
-    
+
     this.likesOverTimeLineContainer.clear();
     const likesOverTimeLineComp           = this.likesOverTimeLineContainer.createComponent(LineComponent);
     likesOverTimeLineComp.instance.data   = [
       {"data": d1, "colour": this.MATERIAL_BLUE_500, "label": "Likes"},
       {"data": d2, "colour": this.MATERIAL_PURPLE_500, "label": "Dislikes"}];
-    likesOverTimeLineComp.instance.width  = 1400;
+    likesOverTimeLineComp.instance.width  = this.lineGraphWidth;
   }
 
   private drawGameCcuOverTime(entry: GameEntry) {
@@ -232,7 +233,7 @@ export class AppComponent implements OnInit {
     this.ccuOverTimeLineContainer.clear();
     const ccuOverTimeLineComp           = this.ccuOverTimeLineContainer.createComponent(LineComponent);
     ccuOverTimeLineComp.instance.data   = [{"data": ccu_histogram, "colour": this.MATERIAL_BLUE_500, "label": "Players"}];
-    ccuOverTimeLineComp.instance.width  = 1400;
+    ccuOverTimeLineComp.instance.width  = this.lineGraphWidth;
   }
 
   private drawGameSection(entry: GameEntry) {
@@ -263,7 +264,7 @@ export class AppComponent implements OnInit {
     genreComp.instance.horizontalMargin = 90;
     genreComp.instance.highlighted      = entry.genre;
   }
-  
+
   private async drawPriceDistributionPie(entry: GameEntry) {
     const priceData: Record<string, number> = await this.fetchService.fetch("assets/aggregate/price_counts.json");
     let pieData: PieData[] = Object.entries(priceData)
@@ -328,7 +329,7 @@ export class AppComponent implements OnInit {
     const gameReleaseYear                     = entry.release_date.slice(0, 4);
     const gameReleaseDateWrapper              = [new Date(`${gameReleaseYear}T00:00`)];
     const releaseFrequencies: Array<LineData> = [];
-    for (const year in genreReleases) { releaseFrequencies.push({"date": new Date(`${year}T00:00`), value: genreReleases[year]})}
+    for (const year in genreReleases) { releaseFrequencies.push({"date": new Date(`${year}T00:00`), value: genreReleases[year]});}
 
     this.genreReleaseTimelineContainer.clear();
     const genreReleaseTimeline          = this.genreReleaseTimelineContainer.createComponent(LineComponent);
@@ -337,11 +338,12 @@ export class AppComponent implements OnInit {
       "colour": this.MATERIAL_BLUE_500,
       "label": "Genre Releases",
       "highlight": gameReleaseDateWrapper}];
-    genreReleaseTimeline.instance.width = 1400;
+    genreReleaseTimeline.instance.width = this.lineGraphWidth;
   }
-  
-  private drawGenrePopularityText(entry: GameEntry) {
+
+  private async drawGenrePopularityText(entry: GameEntry) {
     const dataThis = this.utils.calculateDataThisGame(entry);
+    const completionData  = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
 
     document.getElementById("likesGenreComparison")!.textContent
       = `Likes: ${Math.round(dataThis.Likes * 100)}% /
@@ -358,6 +360,9 @@ export class AppComponent implements OnInit {
     document.getElementById("ownersGenreComparison")!.textContent
       = `Owners: ~${this.utils.formatOwnersAmount(dataThis.Owners)} /
         ${this.utils.formatOwnersAmount(this.gradingService.attributeUngraded("mean", PopMetric.Owners, this.currentGenre))}`;
+    document.getElementById("completionGenreComparison")!.textContent
+      = `Completion: ${Math.round(entry.Completion * 10) / 10}% /
+        ${Math.round(completionData[this.currentGenre]["mean"] * 10) / 10}%`;
   }
 
   private drawGenreRadarChart(radarDataThis: PopMetricData) {
@@ -404,7 +409,7 @@ export class AppComponent implements OnInit {
 
   private async drawGenreCompletionDonut(entry: GameEntry) {
     const completionData  = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
-    const compl           = parseFloat(completionData[this.currentGenre]["median"])
+    const compl           = parseFloat(completionData[this.currentGenre]["mean"]);
 
     this.genreCompletionDonutContainer.clear();
     const genreCompletionDonutComp = this.genreCompletionDonutContainer.createComponent(DonutComponent);
@@ -434,7 +439,7 @@ export class AppComponent implements OnInit {
     likesOverTimeLineComp.instance.data   = [
       {"data":d1,"colour":this.MATERIAL_BLUE_500, "label": "Game Likes"},
       {"data":d2,"colour":this.MATERIAL_PURPLE_500, "label": "Genre Median Likes"}];
-    likesOverTimeLineComp.instance.width  = 1400;
+    likesOverTimeLineComp.instance.width  = this.lineGraphWidth;
   }
 
   private async drawGenreCcuTimeline(entry: GameEntry) {
@@ -452,7 +457,7 @@ export class AppComponent implements OnInit {
     genreCcuTimeline.instance.data      = [
       {"data": genreCcuLineData, "colour": this.MATERIAL_BLUE_500, "label": "Genre"},
       {"data": gameCcuLineData,  "colour": this.MATERIAL_PURPLE_500, "label": "Game"}];
-    genreCcuTimeline.instance.width = 1400;
+    genreCcuTimeline.instance.width = this.lineGraphWidth;
   }
 
   private drawGenreSection(entry: GameEntry) {
@@ -477,7 +482,7 @@ export class AppComponent implements OnInit {
 
     this.drawGameSection(entry);
     this.drawAllGamesSection(entry);
-    this.drawGenreSection(entry)
+    this.drawGenreSection(entry);
   }
 
   async onGenreSelection(newGenreSelection: string) {
