@@ -106,7 +106,7 @@ export class LineComponent implements AfterViewInit {
 
             let oldColour;
             if (this.inHighlights(d.date, containerIdx)) { oldColour = this.highlightedCircleColor; }
-            else { oldColour = container.colour }
+            else { oldColour = container.colour; }
             d3.select(e.target).attr("fill", oldColour);
           });
         });

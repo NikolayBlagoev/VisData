@@ -403,8 +403,9 @@ export class AppComponent implements OnInit {
     genreCategoricalDataBoxComp.instance.width          = 500;
     genreCategoricalDataBoxComp.instance.boxHeight      = 35;
     genreCategoricalDataBoxComp.instance.margin         = {top: 40, right: 40, bottom: 40, left: 0};
-    genreCategoricalDataBoxComp.instance.scaleTextSize  = 11;
-    genreCategoricalDataBoxComp.instance.labelTextSize  = 13;
+    genreCategoricalDataBoxComp.instance.text_margin    = {top: 0, right: 0, bottom: 0, left: 120}
+    genreCategoricalDataBoxComp.instance.scaleTextSize  = 10;
+    genreCategoricalDataBoxComp.instance.labelTextSize  = 12;
   }
 
   private async drawGenreCompletionDonut(entry: GameEntry) {
