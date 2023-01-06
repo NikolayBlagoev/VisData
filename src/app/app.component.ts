@@ -409,11 +409,7 @@ export class AppComponent implements OnInit {
 
   private async drawGenreCompletionDonut(entry: GameEntry) {
     const completionData  = await this.fetchService.fetch("assets/aggregate/completion_genre.json");
-<<<<<<< HEAD
-    const compl           = parseFloat(completionData[this.currentGenre]["median"]);
-=======
     const compl           = parseFloat(completionData[this.currentGenre]["mean"]);
->>>>>>> 3c7e847c8af082315c96968630b37e58df624b0a
 
     this.genreCompletionDonutContainer.clear();
     const genreCompletionDonutComp = this.genreCompletionDonutContainer.createComponent(DonutComponent);
