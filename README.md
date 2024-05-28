@@ -1,9 +1,9 @@
 # VisData
 ## Overview
 This repository contains the source code for the InfoVis project submission belonging to Group 12 for the course IN4089 Data Visualisation. Group 12 is composed of the following members:
-* Nikolay Blagoev (4998901)
-* Tobias van den Hurk (4938836)
-* William Narchi (5046122)
+* Nikolay Blagoev
+* Tobias van den Hurk
+* William Narchi
 
 The application is built on the Angular framework and makes use of the D3 library for generating visuals.
 
